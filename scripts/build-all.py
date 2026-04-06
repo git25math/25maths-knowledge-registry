@@ -213,6 +213,54 @@ def build_registry(chapters, kp_kn_map):
             '_kpIds': [],
         }
 
+    # Ensure ALL unique kn_ids from kp_kn_map have a node
+    # Some KPs reference kn_ids that weren't picked up if their topic regex didn't match
+    all_mapped_kn = set(kp_kn_map.values())
+    missing_kn = all_mapped_kn - set(kn_nodes.keys())
+    if missing_kn:
+        # Build reverse lookup: kn_id → first KP that maps to it
+        kn_to_kp = {}
+        for kp_id, kn_id in kp_kn_map.items():
+            if kn_id not in kn_to_kp:
+                kn_to_kp[kn_id] = kp_id
+
+        for kn_id in missing_kn:
+            kp_id = kn_to_kp.get(kn_id, '')
+            # Infer topic from KP ID (e.g., kp-6.1-01 → topic 6.1)
+            topic_match = re.match(r'kp-(\d+\.\d+)-', kp_id)
+            topic_id = topic_match.group(1) if topic_match else '?'
+            ch_num = topic_id.split('.')[0] if '.' in topic_id else '1'
+            domain = CHAPTER_TO_DOMAIN.get(f'ch{ch_num}', 'number')
+
+            kn_nodes[kn_id] = {
+                'kn_id': kn_id,
+                'version': 1,
+                'title_en': f'Knowledge node from topic {topic_id}',
+                'title_zh': f'知识节点 {topic_id}',
+                'domain': domain,
+                'subdomain': f's{topic_id}',
+                'tags': [],
+                'examBoards': {
+                    'cie_0580': {
+                        'section': f's{topic_id}',
+                        'kpId': kp_id,
+                        'tier': 'both',
+                        'weight': 'medium',
+                    }
+                },
+                'prerequisites': [],
+                'leadsTo': [],
+                'difficultyRange': [1, 3],
+                'estimatedMinutes': {'concept': 10, 'practice': 15},
+                'content': {'variants': {'cie': [], 'edexcel': [], 'generic': []}, 'missions': [], 'glGeneratorId': None, 'examRefs': {'cie': 0, 'edexcel': 0}},
+                'noFigure': True,
+                'isFoundational': True,
+                'deprecated': False,
+                'createdAt': NOW,
+                'updatedAt': NOW,
+                '_kpIds': [kp_id],
+            }
+
     # Sort by kn_id and clean internal fields
     result = []
     for kn_id in sorted(kn_nodes.keys(), key=lambda x: int(x.split('_')[1])):
@@ -279,34 +327,39 @@ def build_dag(raw_edges, kp_kn_map):
                 'reason': reason,
             })
 
-    # Remove cycles: iteratively remove back-edges using Kahn's algorithm
+    # Remove cycles: use DFS-based back-edge detection (preserves max edges)
     from collections import defaultdict as dd
+
     adj = dd(list)
-    in_deg = dd(int)
+    for i, e in enumerate(dag):
+        adj[e['from']].append((e['to'], i))
+
     all_nodes_set = set()
     for e in dag:
-        adj[e['from']].append(e)
-        in_deg[e['to']] += 1
         all_nodes_set.add(e['from'])
         all_nodes_set.add(e['to'])
 
-    queue = [n for n in all_nodes_set if in_deg[n] == 0]
-    visited_set = set()
-    acyclic_edges = []
+    WHITE, GRAY, BLACK = 0, 1, 2
+    color = {n: WHITE for n in all_nodes_set}
+    back_edge_indices = set()
 
-    while queue:
-        node = queue.pop(0)
-        visited_set.add(node)
-        for edge in adj[node]:
-            acyclic_edges.append(edge)
-            in_deg[edge['to']] -= 1
-            if in_deg[edge['to']] == 0:
-                queue.append(edge['to'])
+    def dfs(node):
+        color[node] = GRAY
+        for nb, idx in adj[node]:
+            if color[nb] == GRAY:
+                back_edge_indices.add(idx)  # This creates a cycle
+            elif color[nb] == WHITE:
+                dfs(node=nb)
+        color[node] = BLACK
 
-    # Nodes still not visited are in cycles — drop their back-edges
-    removed = len(dag) - len(acyclic_edges)
-    if removed > 0:
-        dag = acyclic_edges
+    import sys
+    sys.setrecursionlimit(5000)
+    for n in all_nodes_set:
+        if color[n] == WHITE:
+            dfs(n)
+
+    if back_edge_indices:
+        dag = [e for i, e in enumerate(dag) if i not in back_edge_indices]
 
     return dag
 

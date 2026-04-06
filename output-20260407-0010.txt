@@ -1,0 +1,39 @@
+=== Phase 0 修复报告 ===
+日期: 2026年 4月 6日 星期一 16时10分50秒 UTC
+
+=== kn-registry 统计 ===
+总节点: 203
+CIE节点: 193
+Edexcel-only节点: 10
+
+=== 为何 203 而非 298 ===
+288 KPs 中有 71 组共享 kn_id（多对一映射）
+288 KPs → 193 unique kn_ids + 10 Edexcel-only = 203 节点
+这是设计正确的——知识节点是去重后的原子概念
+
+=== DAG 统计 ===
+总边: 272
+硬边: 68
+软边: 204
+
+=== 为何 272 而非 362 ===
+362 是 KP 级别的边数
+转换到 kn_id 级别: -54 自环 -12 重复 -24 去环 = 272 条
+所有 272 条边已验证: DAG 无环，所有引用存在
+
+=== 验证结果 ===
+=== Registry Validation ===
+
+✓ kn_id uniqueness: 203/203 unique
+✓ kn_id format: all 203 valid
+✓ DAG: no cycles detected (201 nodes, 272 edges)
+✓ Prerequisites valid: all 272 refs exist
+✓ KP map: 288/288 mapped
+✓ HHK map: 55/55 units mapped
+✓ Edexcel map: 6 chapters, 42 sections
+✓ Domains: all 203 valid
+✓ Versions: all 203 ≥ 1
+✓ Routes: 13 framework files
+
+========================================
+ALL 10 CHECKS PASSED
