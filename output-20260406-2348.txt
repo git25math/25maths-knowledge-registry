@@ -1,0 +1,122 @@
+=== Phase 0 准备 — KP导出 + Edexcel缺口分析 ===
+日期: 2026-04-06
+
+=== 1. Play KP Registry ===
+
+源文件: 25maths-games-legends/src/data/curriculum/kp-registry.ts
+总计: 288 个 KP (9 章 68 topic)
+kn_id 覆盖: 288/288 (100%) — 零缺口
+
+Per-chapter breakdown:
+  ch1 Number:                    65 KPs
+  ch2 Algebra and graphs:       71 KPs
+  ch3 Coordinate geometry:      16 KPs
+  ch4 Geometry:                 37 KPs
+  ch5 Mensuration:              22 KPs
+  ch6 Trigonometry:             19 KPs
+  ch7 Transformations/vectors:  18 KPs
+  ch8 Probability:              14 KPs
+  ch9 Statistics:               26 KPs
+
+KP 接口字段: id, title, titleZh, type(T1-T8), tier(both/ext/core), 
+             duration, prereqs, topicId, chapterId, kn_id
+
+=== 2. KP Graph (DAG) ===
+
+源文件: 25maths-games-legends/src/data/curriculum/kp-graph.ts
+总边数: 362
+  硬边 (strict prereqs): 72
+  软边 (sequential/cross): 290
+    - 同 topic 内序列: 197
+    - 跨 topic 依赖:   93
+
+根节点 (无前置, 13个):
+  kp-1.1-01  Types of number
+  kp-1.2-01  Sets
+  kp-1.3-01  Powers and roots
+  kp-1.4-01  Fractions/decimals/percentages
+  kp-1.5-01  Ordering
+  kp-1.6-01  Four operations
+  kp-1.9-01  Estimation
+  kp-1.14-01 Using a calculator
+  kp-1.15-01 Time
+  kp-4.1-01  Geometrical terms
+  kp-4.2-01  Geometrical constructions
+  kp-4.5-01  Symmetry
+  kp-9.2-01  Interpreting statistical data
+
+=== 3. Edexcel Syllabus ===
+
+源文件: 25maths-edx4ma1-json/syllabus-edx.json + knowledge-edx.json
+章节: 6 章, 39 sections
+知识点: 49 个
+
+Edexcel 章节结构:
+  Numbers: 11 sections
+  Equations/Formulae/Identities: 8 sections
+  Sequences/Functions/Graphs: 4 sections
+  Geometry/Trigonometry: 11 sections
+  Vectors/Transformations: 2 sections
+  Statistics/Probability: 3 sections
+
+=== 4. Edexcel-Only 概念 (CIE 无对应, 需新建 kn_id) ===
+
+1. [edx-3.1] Sum of first n terms of arithmetic series
+   → CIE 有 nth term 但无 series sum 公式
+
+2. [edx-3.4] Calculus kinematics (displacement/velocity/acceleration)
+   → CIE 有微分但无运动学应用
+
+3. [edx-4.4] Imperial unit conversions (metric/imperial)
+   → CIE 纯公制
+
+4. [edx-4.10] Plans and elevations (3D→2D)
+   → CIE 0580 无此内容
+
+5. [edx-4.10] Frustum volume
+   → CIE 无锥台体积
+
+6. [edx-5.2] Negative scale factor enlargements
+   → CIE 无负缩放因子
+
+7. [edx-6.1] Box plots (box-and-whisker)
+   → CIE 0580 完全无此图
+
+8. [edx-4.7] Geometrical reasoning (standalone)
+   → CIE 嵌入在角/圆定理章节中
+
+9. [edx-2.3] Change subject where subject appears twice
+   → CIE 有变形但非独立专题
+
+10. [edx-1.10] Applying number (unified practical ops)
+    → CIE 分散在 rates/time/money 各处
+
+=== 5. CIE-Only 概念 (Edexcel 无对应) ===
+
+1. Partial Variation / Joint Variation (CIE 2.8, 4 KPs)
+2. Area Under a Curve (CIE 2.9)
+3. Exact Trigonometric Values (CIE 6.3, 2 KPs)
+4. Exponential growth and decay (CIE 1.17)
+5. Variation Graphs & Identifying Type (CIE 2.8, 8 KPs vs EDX 1)
+
+=== 6. 汇总 ===
+
+| 指标                    | 数值          |
+|------------------------|--------------|
+| Play KP 总数            | 288          |
+| kn_id 覆盖率            | 100% (0 缺口) |
+| DAG 总边数              | 362          |
+| 硬边                    | 72           |
+| 软边                    | 290          |
+| 根节点                  | 13           |
+| Edexcel sections        | 39           |
+| Edexcel knowledge points| 49           |
+| Edexcel-only 新概念     | 10 (7 genuinely new, 3 organizational) |
+| CIE-only 概念          | 5            |
+
+=== 7. kn_id 分配建议 ===
+
+现有: kn_0001 — kn_0288 (Play KPs)
+新增 Edexcel-only: kn_0289 — kn_0298 (10个)
+预留 CIE-only 补充: kn_0299 — kn_0303 (5个)
+预留未来 (AQA/IB): kn_0304 — kn_0400
