@@ -1,0 +1,832 @@
+[
+  {
+    "from": "kn_0343",
+    "to": "kn_0344",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0381",
+    "to": "kn_0380",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0075",
+    "to": "kn_0077",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0075",
+    "to": "kn_0073",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0033",
+    "to": "kn_0311",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0020",
+    "to": "kn_0030",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0349",
+    "to": "kn_0350",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0349",
+    "to": "kn_0329",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0352",
+    "to": "kn_0351",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0014",
+    "to": "kn_0015",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0355",
+    "to": "kn_0356",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0012",
+    "to": "kn_0013",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0044",
+    "to": "kn_0043",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0001",
+    "to": "kn_0002",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0073",
+    "to": "kn_0077",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0311",
+    "to": "kn_0032",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0030",
+    "to": "kn_0027",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0350",
+    "to": "kn_0292",
+    "type": "soft",
+    "reason": "3D shapes needed for plans/elevations"
+  },
+  {
+    "from": "kn_0351",
+    "to": "kn_0357",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0015",
+    "to": "kn_0346",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0015",
+    "to": "kn_0019",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0002",
+    "to": "kn_0007",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0002",
+    "to": "kn_0009",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0032",
+    "to": "kn_0034",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0027",
+    "to": "kn_0031",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0009",
+    "to": "kn_0004",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0034",
+    "to": "kn_0083",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0034",
+    "to": "kn_0329",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0034",
+    "to": "kn_0162",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0034",
+    "to": "kn_0164",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0034",
+    "to": "kn_0298",
+    "type": "soft",
+    "reason": "decimal arithmetic needed for applied number"
+  },
+  {
+    "from": "kn_0031",
+    "to": "kn_0052",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0031",
+    "to": "kn_0062",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0031",
+    "to": "kn_0097",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0031",
+    "to": "kn_0140",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0031",
+    "to": "kn_0142",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0031",
+    "to": "kn_0359",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0031",
+    "to": "kn_0326",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0031",
+    "to": "kn_0155",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0031",
+    "to": "kn_0382",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0004",
+    "to": "kn_0011",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0083",
+    "to": "kn_0084",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0083",
+    "to": "kn_0085",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0083",
+    "to": "kn_0086",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0083",
+    "to": "kn_0110",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0083",
+    "to": "kn_0107",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0083",
+    "to": "kn_0099",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0083",
+    "to": "kn_0113",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0083",
+    "to": "kn_0137",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0083",
+    "to": "kn_0322",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0329",
+    "to": "kn_0330",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0329",
+    "to": "kn_0361",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0329",
+    "to": "kn_0365",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0329",
+    "to": "kn_0367",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0162",
+    "to": "kn_0164",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0162",
+    "to": "kn_0382",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0162",
+    "to": "kn_0168",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0052",
+    "to": "kn_0054",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0062",
+    "to": "kn_0064",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0140",
+    "to": "kn_0141",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0140",
+    "to": "kn_0347",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0359",
+    "to": "kn_0360",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0155",
+    "to": "kn_0156",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0155",
+    "to": "kn_0158",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0155",
+    "to": "kn_0160",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0011",
+    "to": "kn_0003",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0084",
+    "to": "kn_0303",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0086",
+    "to": "kn_0085",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0086",
+    "to": "kn_0094",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0086",
+    "to": "kn_0092",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0086",
+    "to": "kn_0106",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0086",
+    "to": "kn_0110",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0113",
+    "to": "kn_0115",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0137",
+    "to": "kn_0124",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0137",
+    "to": "kn_0141",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0137",
+    "to": "kn_0138",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0137",
+    "to": "kn_0372",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0137",
+    "to": "kn_0322",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0137",
+    "to": "kn_0168",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0164",
+    "to": "kn_0163",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0064",
+    "to": "kn_0069",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0158",
+    "to": "kn_0156",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0160",
+    "to": "kn_0161",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0003",
+    "to": "kn_0007",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0085",
+    "to": "kn_0087",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0085",
+    "to": "kn_0089",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0085",
+    "to": "kn_0090",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0085",
+    "to": "kn_0091",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0085",
+    "to": "kn_0095",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0085",
+    "to": "kn_0108",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0115",
+    "to": "kn_0114",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0115",
+    "to": "kn_0289",
+    "type": "soft",
+    "reason": "nth term linear needed for series sum"
+  },
+  {
+    "from": "kn_0168",
+    "to": "kn_0169",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0163",
+    "to": "kn_0165",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0156",
+    "to": "kn_0157",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0007",
+    "to": "kn_0005",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0087",
+    "to": "kn_0094",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0114",
+    "to": "kn_0116",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0165",
+    "to": "kn_0166",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0005",
+    "to": "kn_0008",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0094",
+    "to": "kn_0093",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0094",
+    "to": "kn_0096",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0094",
+    "to": "kn_0097",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0094",
+    "to": "kn_0089",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0116",
+    "to": "kn_0117",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0166",
+    "to": "kn_0167",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0089",
+    "to": "kn_0093",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0089",
+    "to": "kn_0097",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0089",
+    "to": "kn_0090",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0167",
+    "to": "kn_0385",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0090",
+    "to": "kn_0091",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0090",
+    "to": "kn_0093",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0090",
+    "to": "kn_0096",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0090",
+    "to": "kn_0097",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0090",
+    "to": "kn_0108",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0091",
+    "to": "kn_0108",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0091",
+    "to": "kn_0093",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0093",
+    "to": "kn_0092",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0093",
+    "to": "kn_0096",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0093",
+    "to": "kn_0307",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0093",
+    "to": "kn_0098",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0092",
+    "to": "kn_0096",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0096",
+    "to": "kn_0019",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0019",
+    "to": "kn_0101",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0019",
+    "to": "kn_0095",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0019",
+    "to": "kn_0016",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0019",
+    "to": "kn_0346",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0019",
+    "to": "kn_0138",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0019",
+    "to": "kn_0313",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0095",
+    "to": "kn_0097",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0095",
+    "to": "kn_0103",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0095",
+    "to": "kn_0134",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0095",
+    "to": "kn_0324",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0095",
+    "to": "kn_0297",
+    "type": "hard",
+    "reason": "rearrange formulae needed for subject-twice"
+  },
+  {
+    "from": "kn_0016",
+    "to": "kn_0099",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0016",
+    "to": "kn_0018",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0138",
+    "to": "kn_0139",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0097",
+    "to": "kn_0111",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0097",
+    "to": "kn_0307",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0103",
+    "to": "kn_0106",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0103",
+    "to": "kn_0105",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0103",
+    "to": "kn_0110",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0103",
+    "to": "kn_0104",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0324",
+    "to": "kn_0325",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0018",
+    "to": "kn_0036",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0018",
+    "to": "kn_0070",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0018",
+    "to": "kn_0346",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0018",
+    "to": "kn_0099",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0307",
+    "to": "kn_0111",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0307",
+    "to": "kn_0098",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0104",
+    "to": "kn_0110",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0104",
+    "to": "kn_0106",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0036",
+    "to": "kn_0037",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0346",
+    "to": "kn_0366",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0099",
+    "to": "kn_0101",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0099",
+    "to": "kn_0100",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0098",
+    "to": "kn_0309",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0106",
+    "to": "kn_0105",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0101",
+    "to": "kn_0100",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0105",
+    "to": "kn_0110",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0100",
+    "to": "kn_0107",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0100",
+    "to": "kn_0347",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0110",
+    "to": "kn_0107",
+    "type": "hard"
+  },
+  {
+    "from": "kn_0347",
+    "to": "kn_0348",
+    "type": "soft"
+  },
+  {
+    "from": "kn_0347",
+    "to": "kn_0290",
+    "type": "hard",
+    "reason": "differentiation needed for kinematics"
+  }
+]

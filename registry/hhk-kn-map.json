@@ -1,0 +1,419 @@
+{
+  "Y7.1": {
+    "title": "Multiplication of Fractions",
+    "cieSections": [
+      "s1.4"
+    ],
+    "year": 7
+  },
+  "Y7.2": {
+    "title": "Division of Fractions",
+    "cieSections": [
+      "s1.4"
+    ],
+    "year": 7
+  },
+  "Y7.3": {
+    "title": "Negative Numbers",
+    "cieSections": [
+      "s1.1",
+      "s1.6"
+    ],
+    "year": 7
+  },
+  "Y7.4": {
+    "title": "Position and Direction",
+    "cieSections": [
+      "s3.1",
+      "s4.3"
+    ],
+    "year": 7
+  },
+  "Y7.5": {
+    "title": "Ratio and Proportion",
+    "cieSections": [
+      "s1.11",
+      "s1.12"
+    ],
+    "year": 7
+  },
+  "Y7.6": {
+    "title": "Percentage",
+    "cieSections": [
+      "s1.13"
+    ],
+    "year": 7
+  },
+  "Y7.7": {
+    "title": "Circle",
+    "cieSections": [
+      "s5.3"
+    ],
+    "year": 7
+  },
+  "Y7.8": {
+    "title": "Cylinders and Cones",
+    "cieSections": [
+      "s5.4",
+      "s5.5"
+    ],
+    "year": 7
+  },
+  "Y7.9": {
+    "title": "Linear Sequences",
+    "cieSections": [
+      "s2.7"
+    ],
+    "year": 7
+  },
+  "Y7.10": {
+    "title": "Probability",
+    "cieSections": [
+      "s8.3"
+    ],
+    "year": 7
+  },
+  "Y7.11": {
+    "title": "Constructions",
+    "cieSections": [
+      "s4.1"
+    ],
+    "year": 7
+  },
+  "Y8.1": {
+    "title": "Review of Numbers",
+    "cieSections": [
+      "s1.1",
+      "s1.3",
+      "s1.6"
+    ],
+    "year": 8
+  },
+  "Y8.2": {
+    "title": "Rational/Factors/Primes",
+    "cieSections": [
+      "s1.1",
+      "s1.6"
+    ],
+    "year": 8
+  },
+  "Y8.3": {
+    "title": "Algebraic Formula",
+    "cieSections": [
+      "s2.1",
+      "s2.4"
+    ],
+    "year": 8
+  },
+  "Y8.4": {
+    "title": "Inequalities",
+    "cieSections": [
+      "s2.6"
+    ],
+    "year": 8
+  },
+  "Y8.5": {
+    "title": "Pythagoras",
+    "cieSections": [
+      "s6.1"
+    ],
+    "year": 8
+  },
+  "Y8.6": {
+    "title": "Intersecting/Parallel Lines",
+    "cieSections": [
+      "s4.6"
+    ],
+    "year": 8
+  },
+  "Y8.7": {
+    "title": "Further Algebra",
+    "cieSections": [
+      "s2.1",
+      "s2.2",
+      "s2.3"
+    ],
+    "year": 8
+  },
+  "Y8.8": {
+    "title": "Coordinates/Linear Graphs",
+    "cieSections": [
+      "s3.1",
+      "s3.2"
+    ],
+    "year": 8
+  },
+  "Y8.9": {
+    "title": "Further Statistics",
+    "cieSections": [
+      "s9.1",
+      "s9.2",
+      "s9.3"
+    ],
+    "year": 8
+  },
+  "Y9.1": {
+    "title": "Irrational Numbers",
+    "cieSections": [
+      "s1.3",
+      "s1.7"
+    ],
+    "year": 9
+  },
+  "Y9.2": {
+    "title": "Working with Expressions",
+    "cieSections": [
+      "s2.1",
+      "s2.2"
+    ],
+    "year": 9
+  },
+  "Y9.3": {
+    "title": "Algebraic Functions",
+    "cieSections": [
+      "s2.13"
+    ],
+    "year": 9
+  },
+  "Y9.4": {
+    "title": "Mastery of Angles",
+    "cieSections": [
+      "s4.6",
+      "s4.7"
+    ],
+    "year": 9
+  },
+  "Y9.5": {
+    "title": "Pythagoras Theorem",
+    "cieSections": [
+      "s6.1"
+    ],
+    "year": 9
+  },
+  "Y9.6": {
+    "title": "2D Shape",
+    "cieSections": [
+      "s5.2",
+      "s5.3"
+    ],
+    "year": 9
+  },
+  "Y9.7": {
+    "title": "Percentages",
+    "cieSections": [
+      "s1.13"
+    ],
+    "year": 9
+  },
+  "Y9.8": {
+    "title": "Statistical Sampling",
+    "cieSections": [
+      "s9.1"
+    ],
+    "year": 9
+  },
+  "Y9.9": {
+    "title": "Graphical Statistical Data",
+    "cieSections": [
+      "s9.3",
+      "s9.4",
+      "s9.5"
+    ],
+    "year": 9
+  },
+  "Y9.10": {
+    "title": "Algebraic Fractions",
+    "cieSections": [
+      "s2.3"
+    ],
+    "year": 9
+  },
+  "Y9.11": {
+    "title": "Constructions",
+    "cieSections": [
+      "s4.1",
+      "s4.2"
+    ],
+    "year": 9
+  },
+  "Y9.12": {
+    "title": "Congruence/Similarity",
+    "cieSections": [
+      "s4.4"
+    ],
+    "year": 9
+  },
+  "Y10.1": {
+    "title": "Real Numbers",
+    "cieSections": [
+      "s1.7",
+      "s1.8"
+    ],
+    "year": 10
+  },
+  "Y10.2": {
+    "title": "Algebraic Fractions",
+    "cieSections": [
+      "s2.3"
+    ],
+    "year": 10
+  },
+  "Y10.3": {
+    "title": "Quadratic Equations",
+    "cieSections": [
+      "s2.10"
+    ],
+    "year": 10
+  },
+  "Y10.4": {
+    "title": "Simultaneous Equations",
+    "cieSections": [
+      "s2.9"
+    ],
+    "year": 10
+  },
+  "Y10.5": {
+    "title": "Functions",
+    "cieSections": [
+      "s2.13"
+    ],
+    "year": 10
+  },
+  "Y10.6": {
+    "title": "Further Trigonometry",
+    "cieSections": [
+      "s6.2",
+      "s6.3",
+      "s6.4"
+    ],
+    "year": 10
+  },
+  "Y10.7": {
+    "title": "Circles",
+    "cieSections": [
+      "s4.7",
+      "s5.3"
+    ],
+    "year": 10
+  },
+  "Y10.8": {
+    "title": "Constructions",
+    "cieSections": [
+      "s4.1",
+      "s4.2"
+    ],
+    "year": 10
+  },
+  "Y10.9": {
+    "title": "Congruence/Similarity",
+    "cieSections": [
+      "s4.4"
+    ],
+    "year": 10
+  },
+  "Y10.10": {
+    "title": "Transformations",
+    "cieSections": [
+      "s7.1"
+    ],
+    "year": 10
+  },
+  "Y10.11": {
+    "title": "Probability",
+    "cieSections": [
+      "s8.3",
+      "s8.4"
+    ],
+    "year": 10
+  },
+  "Y10.12": {
+    "title": "3D Geometry",
+    "cieSections": [
+      "s5.4",
+      "s6.5"
+    ],
+    "year": 10
+  },
+  "Y11.1": {
+    "title": "Estimation/Bounds",
+    "cieSections": [
+      "s1.9",
+      "s1.10"
+    ],
+    "year": 11
+  },
+  "Y11.2": {
+    "title": "Sets/Venn Diagrams",
+    "cieSections": [
+      "s1.2",
+      "s8.1"
+    ],
+    "year": 11
+  },
+  "Y11.3": {
+    "title": "Simultaneous Equations",
+    "cieSections": [
+      "s2.9"
+    ],
+    "year": 11
+  },
+  "Y11.4": {
+    "title": "Quadratic Sequences",
+    "cieSections": [
+      "s2.7"
+    ],
+    "year": 11
+  },
+  "Y11.5": {
+    "title": "Functions",
+    "cieSections": [
+      "s2.13"
+    ],
+    "year": 11
+  },
+  "Y11.6": {
+    "title": "Differentiation",
+    "cieSections": [
+      "s2.12"
+    ],
+    "year": 11
+  },
+  "Y11.7": {
+    "title": "Further Trig",
+    "cieSections": [
+      "s6.2",
+      "s6.4"
+    ],
+    "year": 11
+  },
+  "Y11.8": {
+    "title": "Trig Graphs",
+    "cieSections": [
+      "s3.5"
+    ],
+    "year": 11
+  },
+  "Y11.9": {
+    "title": "Regions/Inequalities",
+    "cieSections": [
+      "s2.6"
+    ],
+    "year": 11
+  },
+  "Y11.10": {
+    "title": "Vectors",
+    "cieSections": [
+      "s7.2"
+    ],
+    "year": 11
+  },
+  "Y11.11": {
+    "title": "Statistics/Probability",
+    "cieSections": [
+      "s8.3",
+      "s9.2",
+      "s9.4"
+    ],
+    "year": 11
+  }
+}

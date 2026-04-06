@@ -1,0 +1,79 @@
+=== 25maths-knowledge-registry Phase 0 完成报告 ===
+日期: 2026年 4月 6日 星期一 16时03分00秒 UTC
+
+=== 目录结构 ===
+./.github/workflows/validate.yml
+./graph/dag-edges.json
+./output-20260406-2348.txt
+./output-20260407-0003.txt
+./package.json
+./README.md
+./registry/edx-kn-map.json
+./registry/hhk-kn-map.json
+./registry/kn-registry.json
+./registry/kp-kn-map.json
+./routes/cie-core-geometry.json
+./routes/cie-core-number.json
+./routes/cie-extended-algebra.json
+./routes/cie-recovery-algebra.json
+./routes/cie-recovery-fractions.json
+./routes/cie-sprint-2weeks.json
+./routes/edx-foundation.json
+./routes/edx-higher.json
+./routes/hhk-y10.json
+./routes/hhk-y11.json
+./routes/hhk-y7.json
+./routes/hhk-y8.json
+./routes/hhk-y9.json
+./schema/knowledge-node.schema.json
+./scripts/build-all.py
+./scripts/validate-registry.py
+
+=== kn-registry.json 统计 ===
+总节点数: 201
+CIE 节点: 191
+Edexcel-only 节点: 10
+
+=== DAG 统计 ===
+总边数: 165
+硬边: 54
+软边: 111
+
+=== 映射文件统计 ===
+KP→kn_id: 288
+HHK→kn_id: 55
+Edexcel sections: 42
+
+=== 验证结果 ===
+=== Registry Validation ===
+
+✓ kn_id uniqueness: 201/201 unique
+✓ kn_id format: all 201 valid
+✓ DAG: no cycles detected (128 nodes, 165 edges)
+⚠ Prerequisites: 1 refs to kn_ids outside registry
+⚠ KP map: 286/288 mapped to existing nodes
+✓ HHK map: 55/55 units mapped
+✓ Edexcel map: 6 chapters, 42 sections
+✓ Domains: all 201 valid
+✓ Versions: all 201 ≥ 1
+✓ Routes: 13 framework files
+
+========================================
+PASS with 2 warnings
+  WARN: DAG references 1 kn_ids not in registry
+  WARN: KP map: 2 KPs map to kn_ids outside registry
+
+=== 路线框架 ===
+cie-core-geometry.json
+cie-core-number.json
+cie-extended-algebra.json
+cie-recovery-algebra.json
+cie-recovery-fractions.json
+cie-sprint-2weeks.json
+edx-foundation.json
+edx-higher.json
+hhk-y10.json
+hhk-y11.json
+hhk-y7.json
+hhk-y8.json
+hhk-y9.json

@@ -1,0 +1,105 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "title": "KnowledgeNode",
+  "description": "统一知识节点定义，考试局无关",
+  "type": "object",
+  "required": ["kn_id", "version", "title_en", "title_zh", "domain"],
+  "properties": {
+    "kn_id": { "type": "string", "pattern": "^kn_[0-9]{4}$" },
+    "version": { "type": "integer", "minimum": 1 },
+    "title_en": { "type": "string" },
+    "title_zh": { "type": "string" },
+    "title_short": { "type": "string" },
+    "domain": {
+      "type": "string",
+      "enum": ["number", "algebra", "geometry", "statistics", "probability"]
+    },
+    "subdomain": { "type": "string" },
+    "tags": { "type": "array", "items": { "type": "string" } },
+    "examBoards": {
+      "type": "object",
+      "properties": {
+        "cie_0580": {
+          "type": "object",
+          "properties": {
+            "section": { "type": "string" },
+            "kpId": { "type": "string" },
+            "tier": { "enum": ["core", "extended", "both"] },
+            "weight": { "enum": ["highest", "high", "medium", "low", "rare", "none"] },
+            "paperCodes": { "type": "array", "items": { "type": "string" } }
+          }
+        },
+        "edexcel_4ma1": {
+          "type": "object",
+          "properties": {
+            "section": { "type": "string" },
+            "tier": { "enum": ["foundation", "higher", "both"] },
+            "weight": { "enum": ["highest", "high", "medium", "low", "rare", "none"] },
+            "paperCodes": { "type": "array", "items": { "type": "string" } }
+          }
+        },
+        "hhk": {
+          "type": "object",
+          "properties": {
+            "units": { "type": "array", "items": { "type": "string" } },
+            "year": { "type": "integer", "minimum": 7, "maximum": 12 },
+            "unitTitle": { "type": "string" }
+          }
+        }
+      }
+    },
+    "prerequisites": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["kn_id", "type"],
+        "properties": {
+          "kn_id": { "type": "string" },
+          "type": { "enum": ["hard", "soft"] },
+          "reason": { "type": "string" }
+        }
+      }
+    },
+    "leadsTo": { "type": "array", "items": { "type": "string" } },
+    "difficultyRange": {
+      "type": "array",
+      "minItems": 2,
+      "maxItems": 2,
+      "items": { "type": "integer", "minimum": 1, "maximum": 4 }
+    },
+    "estimatedMinutes": {
+      "type": "object",
+      "properties": {
+        "concept": { "type": "integer" },
+        "practice": { "type": "integer" }
+      }
+    },
+    "content": {
+      "type": "object",
+      "properties": {
+        "variants": {
+          "type": "object",
+          "properties": {
+            "cie": { "type": "array", "items": { "type": "string" } },
+            "edexcel": { "type": "array", "items": { "type": "string" } },
+            "generic": { "type": "array", "items": { "type": "string" } }
+          }
+        },
+        "missions": { "type": "array", "items": { "type": "integer" } },
+        "glGeneratorId": { "type": ["string", "null"] },
+        "examRefs": {
+          "type": "object",
+          "properties": {
+            "cie": { "type": "integer" },
+            "edexcel": { "type": "integer" }
+          }
+        }
+      }
+    },
+    "noFigure": { "type": "boolean" },
+    "isFoundational": { "type": "boolean" },
+    "deprecated": { "type": "boolean", "default": false },
+    "createdAt": { "type": "string", "format": "date-time" },
+    "updatedAt": { "type": "string", "format": "date-time" }
+  }
+}

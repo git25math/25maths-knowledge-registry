@@ -1,0 +1,9057 @@
+[
+  {
+    "kn_id": "kn_0001",
+    "version": 1,
+    "title_en": "Types of number",
+    "title_zh": "数的类型",
+    "domain": "number",
+    "subdomain": "s1.1",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.1",
+        "kpId": "kp-1.1-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0002",
+    "version": 1,
+    "title_en": "Types of number",
+    "title_zh": "数的类型",
+    "domain": "number",
+    "subdomain": "s1.1",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.1",
+        "kpId": "kp-1.1-02",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0003",
+    "version": 1,
+    "title_en": "Types of number",
+    "title_zh": "数的类型",
+    "domain": "number",
+    "subdomain": "s1.1",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.1",
+        "kpId": "kp-1.1-06",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0004",
+    "version": 1,
+    "title_en": "Types of number",
+    "title_zh": "数的类型",
+    "domain": "number",
+    "subdomain": "s1.1",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.1",
+        "kpId": "kp-1.1-04",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0005",
+    "version": 1,
+    "title_en": "Types of number",
+    "title_zh": "数的类型",
+    "domain": "number",
+    "subdomain": "s1.1",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.1",
+        "kpId": "kp-1.1-08",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0007",
+    "version": 1,
+    "title_en": "Types of number",
+    "title_zh": "数的类型",
+    "domain": "number",
+    "subdomain": "s1.1",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.1",
+        "kpId": "kp-1.1-07",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0008",
+    "version": 1,
+    "title_en": "Types of number",
+    "title_zh": "数的类型",
+    "domain": "number",
+    "subdomain": "s1.1",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.1",
+        "kpId": "kp-1.1-09",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0009",
+    "version": 1,
+    "title_en": "Types of number",
+    "title_zh": "数的类型",
+    "domain": "number",
+    "subdomain": "s1.1",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.1",
+        "kpId": "kp-1.1-03",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0011",
+    "version": 1,
+    "title_en": "Types of number",
+    "title_zh": "数的类型",
+    "domain": "number",
+    "subdomain": "s1.1",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.1",
+        "kpId": "kp-1.1-05",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0012",
+    "version": 1,
+    "title_en": "Sets",
+    "title_zh": "集合与韦恩图",
+    "domain": "number",
+    "subdomain": "s1.2",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.2",
+        "kpId": "kp-1.2-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0013",
+    "version": 1,
+    "title_en": "Sets",
+    "title_zh": "集合与韦恩图",
+    "domain": "number",
+    "subdomain": "s1.2",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.2",
+        "kpId": "kp-1.2-03",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0014",
+    "version": 1,
+    "title_en": "Powers and roots",
+    "title_zh": "幂与根",
+    "domain": "number",
+    "subdomain": "s1.3",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.3",
+        "kpId": "kp-1.3-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0015",
+    "version": 1,
+    "title_en": "Powers and roots",
+    "title_zh": "幂与根",
+    "domain": "number",
+    "subdomain": "s1.3",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.3",
+        "kpId": "kp-1.3-02",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0016",
+    "version": 1,
+    "title_en": "Indices I",
+    "title_zh": "指数法则I",
+    "domain": "number",
+    "subdomain": "s1.7",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.7",
+        "kpId": "kp-1.7-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0018",
+    "version": 1,
+    "title_en": "Indices I",
+    "title_zh": "指数法则I",
+    "domain": "number",
+    "subdomain": "s1.7",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.7",
+        "kpId": "kp-1.7-02",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0019",
+    "version": 1,
+    "title_en": "Powers and roots",
+    "title_zh": "幂与根",
+    "domain": "number",
+    "subdomain": "s1.3",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.3",
+        "kpId": "kp-1.3-03",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0020",
+    "version": 1,
+    "title_en": "Fractions, decimals, percentages",
+    "title_zh": "分数、小数、百分数",
+    "domain": "number",
+    "subdomain": "s1.4",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.4",
+        "kpId": "kp-1.4-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0027",
+    "version": 1,
+    "title_en": "Fractions, decimals, percentages",
+    "title_zh": "分数、小数、百分数",
+    "domain": "number",
+    "subdomain": "s1.4",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.4",
+        "kpId": "kp-1.4-03",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0030",
+    "version": 1,
+    "title_en": "Fractions, decimals, percentages",
+    "title_zh": "分数、小数、百分数",
+    "domain": "number",
+    "subdomain": "s1.4",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.4",
+        "kpId": "kp-1.4-02",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0031",
+    "version": 1,
+    "title_en": "Fractions, decimals, percentages",
+    "title_zh": "分数、小数、百分数",
+    "domain": "number",
+    "subdomain": "s1.4",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.4",
+        "kpId": "kp-1.4-04",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0032",
+    "version": 1,
+    "title_en": "The four operations",
+    "title_zh": "四则运算",
+    "domain": "number",
+    "subdomain": "s1.6",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.6",
+        "kpId": "kp-1.6-03",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0033",
+    "version": 1,
+    "title_en": "The four operations",
+    "title_zh": "四则运算",
+    "domain": "number",
+    "subdomain": "s1.6",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.6",
+        "kpId": "kp-1.6-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0034",
+    "version": 1,
+    "title_en": "The four operations",
+    "title_zh": "四则运算",
+    "domain": "number",
+    "subdomain": "s1.6",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.6",
+        "kpId": "kp-1.6-04",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0036",
+    "version": 1,
+    "title_en": "Standard form",
+    "title_zh": "标准式",
+    "domain": "number",
+    "subdomain": "s1.8",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.8",
+        "kpId": "kp-1.8-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0037",
+    "version": 1,
+    "title_en": "Standard form",
+    "title_zh": "标准式",
+    "domain": "number",
+    "subdomain": "s1.8",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.8",
+        "kpId": "kp-1.8-02",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0042",
+    "version": 1,
+    "title_en": "Estimation",
+    "title_zh": "估算",
+    "domain": "number",
+    "subdomain": "s1.9",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.9",
+        "kpId": "kp-1.9-03",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0043",
+    "version": 1,
+    "title_en": "Estimation",
+    "title_zh": "估算",
+    "domain": "number",
+    "subdomain": "s1.9",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.9",
+        "kpId": "kp-1.9-02",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0044",
+    "version": 1,
+    "title_en": "Estimation",
+    "title_zh": "估算",
+    "domain": "number",
+    "subdomain": "s1.9",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.9",
+        "kpId": "kp-1.9-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0045",
+    "version": 1,
+    "title_en": "Estimation",
+    "title_zh": "估算",
+    "domain": "number",
+    "subdomain": "s1.9",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.9",
+        "kpId": "kp-1.9-04",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0046",
+    "version": 1,
+    "title_en": "Limits of accuracy",
+    "title_zh": "精度范围",
+    "domain": "number",
+    "subdomain": "s1.10",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.10",
+        "kpId": "kp-1.10-01",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0047",
+    "version": 1,
+    "title_en": "Limits of accuracy",
+    "title_zh": "精度范围",
+    "domain": "number",
+    "subdomain": "s1.10",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.10",
+        "kpId": "kp-1.10-03",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0048",
+    "version": 1,
+    "title_en": "Limits of accuracy",
+    "title_zh": "精度范围",
+    "domain": "number",
+    "subdomain": "s1.10",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.10",
+        "kpId": "kp-1.10-04",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0050",
+    "version": 1,
+    "title_en": "Limits of accuracy",
+    "title_zh": "精度范围",
+    "domain": "number",
+    "subdomain": "s1.10",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.10",
+        "kpId": "kp-1.10-02",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0051",
+    "version": 1,
+    "title_en": "Limits of accuracy",
+    "title_zh": "精度范围",
+    "domain": "number",
+    "subdomain": "s1.10",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.10",
+        "kpId": "kp-1.10-05",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0052",
+    "version": 1,
+    "title_en": "Ratio and proportion",
+    "title_zh": "比与比例",
+    "domain": "number",
+    "subdomain": "s1.11",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.11",
+        "kpId": "kp-1.11-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0053",
+    "version": 1,
+    "title_en": "Ratio and proportion",
+    "title_zh": "比与比例",
+    "domain": "number",
+    "subdomain": "s1.11",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.11",
+        "kpId": "kp-1.11-04",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0054",
+    "version": 1,
+    "title_en": "Ratio and proportion",
+    "title_zh": "比与比例",
+    "domain": "number",
+    "subdomain": "s1.11",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.11",
+        "kpId": "kp-1.11-02",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0055",
+    "version": 1,
+    "title_en": "Ratio and proportion",
+    "title_zh": "比与比例",
+    "domain": "number",
+    "subdomain": "s1.11",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.11",
+        "kpId": "kp-1.11-03",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0056",
+    "version": 1,
+    "title_en": "Rates",
+    "title_zh": "速率",
+    "domain": "number",
+    "subdomain": "s1.12",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.12",
+        "kpId": "kp-1.12-02",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0057",
+    "version": 1,
+    "title_en": "Rates",
+    "title_zh": "速率",
+    "domain": "number",
+    "subdomain": "s1.12",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.12",
+        "kpId": "kp-1.12-03",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0058",
+    "version": 1,
+    "title_en": "Rates",
+    "title_zh": "速率",
+    "domain": "number",
+    "subdomain": "s1.12",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.12",
+        "kpId": "kp-1.12-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0062",
+    "version": 1,
+    "title_en": "Percentages",
+    "title_zh": "百分数应用",
+    "domain": "number",
+    "subdomain": "s1.13",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.13",
+        "kpId": "kp-1.13-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0064",
+    "version": 1,
+    "title_en": "Percentages",
+    "title_zh": "百分数应用",
+    "domain": "number",
+    "subdomain": "s1.13",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.13",
+        "kpId": "kp-1.13-02",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0067",
+    "version": 1,
+    "title_en": "Percentages",
+    "title_zh": "百分数应用",
+    "domain": "number",
+    "subdomain": "s1.13",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.13",
+        "kpId": "kp-1.13-04",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0068",
+    "version": 1,
+    "title_en": "Money",
+    "title_zh": "货币",
+    "domain": "number",
+    "subdomain": "s1.16",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.16",
+        "kpId": "kp-1.16-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0069",
+    "version": 1,
+    "title_en": "Percentages",
+    "title_zh": "百分数应用",
+    "domain": "number",
+    "subdomain": "s1.13",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.13",
+        "kpId": "kp-1.13-03",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0070",
+    "version": 1,
+    "title_en": "Exponential growth and decay",
+    "title_zh": "指数增长与衰减",
+    "domain": "number",
+    "subdomain": "s1.17",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.17",
+        "kpId": "kp-1.17-01",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0073",
+    "version": 1,
+    "title_en": "Time",
+    "title_zh": "时间",
+    "domain": "number",
+    "subdomain": "s1.15",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.15",
+        "kpId": "kp-1.15-02",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0075",
+    "version": 1,
+    "title_en": "Time",
+    "title_zh": "时间",
+    "domain": "number",
+    "subdomain": "s1.15",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.15",
+        "kpId": "kp-1.15-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0077",
+    "version": 1,
+    "title_en": "Time",
+    "title_zh": "时间",
+    "domain": "number",
+    "subdomain": "s1.15",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.15",
+        "kpId": "kp-1.15-03",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0078",
+    "version": 1,
+    "title_en": "Money",
+    "title_zh": "货币",
+    "domain": "number",
+    "subdomain": "s1.16",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.16",
+        "kpId": "kp-1.16-03",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0083",
+    "version": 1,
+    "title_en": "Introduction to algebra",
+    "title_zh": "代数入门",
+    "domain": "algebra",
+    "subdomain": "s2.1",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.1",
+        "kpId": "kp-2.1-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0084",
+    "version": 1,
+    "title_en": "Introduction to algebra",
+    "title_zh": "代数入门",
+    "domain": "algebra",
+    "subdomain": "s2.1",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.1",
+        "kpId": "kp-2.1-02",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0085",
+    "version": 1,
+    "title_en": "Algebraic manipulation",
+    "title_zh": "代数运算",
+    "domain": "algebra",
+    "subdomain": "s2.2",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.2",
+        "kpId": "kp-2.2-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0086",
+    "version": 1,
+    "title_en": "Algebraic manipulation",
+    "title_zh": "代数运算",
+    "domain": "algebra",
+    "subdomain": "s2.2",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.2",
+        "kpId": "kp-2.2-02",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0087",
+    "version": 1,
+    "title_en": "Algebraic manipulation",
+    "title_zh": "代数运算",
+    "domain": "algebra",
+    "subdomain": "s2.2",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.2",
+        "kpId": "kp-2.2-04",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0089",
+    "version": 1,
+    "title_en": "Algebraic manipulation",
+    "title_zh": "代数运算",
+    "domain": "algebra",
+    "subdomain": "s2.2",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.2",
+        "kpId": "kp-2.2-06",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0090",
+    "version": 1,
+    "title_en": "Algebraic manipulation",
+    "title_zh": "代数运算",
+    "domain": "algebra",
+    "subdomain": "s2.2",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.2",
+        "kpId": "kp-2.2-07",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0091",
+    "version": 1,
+    "title_en": "Algebraic manipulation",
+    "title_zh": "代数运算",
+    "domain": "algebra",
+    "subdomain": "s2.2",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.2",
+        "kpId": "kp-2.2-08",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0092",
+    "version": 1,
+    "title_en": "Algebraic manipulation",
+    "title_zh": "代数运算",
+    "domain": "algebra",
+    "subdomain": "s2.2",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.2",
+        "kpId": "kp-2.2-10",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0093",
+    "version": 1,
+    "title_en": "Algebraic manipulation",
+    "title_zh": "代数运算",
+    "domain": "algebra",
+    "subdomain": "s2.2",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.2",
+        "kpId": "kp-2.2-09",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0094",
+    "version": 1,
+    "title_en": "Algebraic manipulation",
+    "title_zh": "代数运算",
+    "domain": "algebra",
+    "subdomain": "s2.2",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.2",
+        "kpId": "kp-2.2-05",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0095",
+    "version": 1,
+    "title_en": "Algebraic manipulation",
+    "title_zh": "代数运算",
+    "domain": "algebra",
+    "subdomain": "s2.2",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.2",
+        "kpId": "kp-2.2-13",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0096",
+    "version": 1,
+    "title_en": "Algebraic manipulation",
+    "title_zh": "代数运算",
+    "domain": "algebra",
+    "subdomain": "s2.2",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.2",
+        "kpId": "kp-2.2-11",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0097",
+    "version": 1,
+    "title_en": "Algebraic fractions",
+    "title_zh": "代数分式",
+    "domain": "algebra",
+    "subdomain": "s2.3",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.3",
+        "kpId": "kp-2.3-01",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0098",
+    "version": 1,
+    "title_en": "Algebraic fractions",
+    "title_zh": "代数分式",
+    "domain": "algebra",
+    "subdomain": "s2.3",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.3",
+        "kpId": "kp-2.3-03",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0099",
+    "version": 1,
+    "title_en": "Indices II",
+    "title_zh": "指数法则II",
+    "domain": "algebra",
+    "subdomain": "s2.4",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.4",
+        "kpId": "kp-2.4-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0100",
+    "version": 1,
+    "title_en": "Indices II",
+    "title_zh": "指数法则II",
+    "domain": "algebra",
+    "subdomain": "s2.4",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.4",
+        "kpId": "kp-2.4-03",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0101",
+    "version": 1,
+    "title_en": "Indices II",
+    "title_zh": "指数法则II",
+    "domain": "algebra",
+    "subdomain": "s2.4",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.4",
+        "kpId": "kp-2.4-02",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0103",
+    "version": 1,
+    "title_en": "Equations",
+    "title_zh": "方程",
+    "domain": "algebra",
+    "subdomain": "s2.5",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.5",
+        "kpId": "kp-2.5-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0104",
+    "version": 1,
+    "title_en": "Equations",
+    "title_zh": "方程",
+    "domain": "algebra",
+    "subdomain": "s2.5",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.5",
+        "kpId": "kp-2.5-02",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0105",
+    "version": 1,
+    "title_en": "Equations",
+    "title_zh": "方程",
+    "domain": "algebra",
+    "subdomain": "s2.5",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.5",
+        "kpId": "kp-2.5-04",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0106",
+    "version": 1,
+    "title_en": "Equations",
+    "title_zh": "方程",
+    "domain": "algebra",
+    "subdomain": "s2.5",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.5",
+        "kpId": "kp-2.5-03",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0107",
+    "version": 1,
+    "title_en": "Equations",
+    "title_zh": "方程",
+    "domain": "algebra",
+    "subdomain": "s2.5",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.5",
+        "kpId": "kp-2.5-08",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0108",
+    "version": 1,
+    "title_en": "Equations",
+    "title_zh": "方程",
+    "domain": "algebra",
+    "subdomain": "s2.5",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.5",
+        "kpId": "kp-2.5-09",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0109",
+    "version": 1,
+    "title_en": "Equations",
+    "title_zh": "方程",
+    "domain": "algebra",
+    "subdomain": "s2.5",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.5",
+        "kpId": "kp-2.5-10",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0110",
+    "version": 1,
+    "title_en": "Equations",
+    "title_zh": "方程",
+    "domain": "algebra",
+    "subdomain": "s2.5",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.5",
+        "kpId": "kp-2.5-05",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0111",
+    "version": 1,
+    "title_en": "Inequalities",
+    "title_zh": "不等式",
+    "domain": "algebra",
+    "subdomain": "s2.6",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.6",
+        "kpId": "kp-2.6-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0112",
+    "version": 1,
+    "title_en": "Inequalities",
+    "title_zh": "不等式",
+    "domain": "algebra",
+    "subdomain": "s2.6",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.6",
+        "kpId": "kp-2.6-04",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0113",
+    "version": 1,
+    "title_en": "Sequences",
+    "title_zh": "数列",
+    "domain": "algebra",
+    "subdomain": "s2.7",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.7",
+        "kpId": "kp-2.7-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0114",
+    "version": 1,
+    "title_en": "Sequences",
+    "title_zh": "数列",
+    "domain": "algebra",
+    "subdomain": "s2.7",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.7",
+        "kpId": "kp-2.7-03",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0115",
+    "version": 1,
+    "title_en": "Sequences",
+    "title_zh": "数列",
+    "domain": "algebra",
+    "subdomain": "s2.7",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.7",
+        "kpId": "kp-2.7-02",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0116",
+    "version": 1,
+    "title_en": "Sequences",
+    "title_zh": "数列",
+    "domain": "algebra",
+    "subdomain": "s2.7",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.7",
+        "kpId": "kp-2.7-04",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0117",
+    "version": 1,
+    "title_en": "Sequences",
+    "title_zh": "数列",
+    "domain": "algebra",
+    "subdomain": "s2.7",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.7",
+        "kpId": "kp-2.7-05",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0120",
+    "version": 1,
+    "title_en": "Proportion",
+    "title_zh": "正反比例",
+    "domain": "algebra",
+    "subdomain": "s2.8",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.8",
+        "kpId": "kp-2.8-03",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0121",
+    "version": 1,
+    "title_en": "Proportion",
+    "title_zh": "正反比例",
+    "domain": "algebra",
+    "subdomain": "s2.8",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.8",
+        "kpId": "kp-2.8-01",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0122",
+    "version": 1,
+    "title_en": "Proportion",
+    "title_zh": "正反比例",
+    "domain": "algebra",
+    "subdomain": "s2.8",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.8",
+        "kpId": "kp-2.8-02",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0123",
+    "version": 1,
+    "title_en": "Proportion",
+    "title_zh": "正反比例",
+    "domain": "algebra",
+    "subdomain": "s2.8",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.8",
+        "kpId": "kp-2.8-06",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0124",
+    "version": 1,
+    "title_en": "Graphs in practical situations",
+    "title_zh": "实际问题图像",
+    "domain": "algebra",
+    "subdomain": "s2.9",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.9",
+        "kpId": "kp-2.9-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0125",
+    "version": 1,
+    "title_en": "Graphs in practical situations",
+    "title_zh": "实际问题图像",
+    "domain": "algebra",
+    "subdomain": "s2.9",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.9",
+        "kpId": "kp-2.9-02",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0126",
+    "version": 1,
+    "title_en": "Graphs in practical situations",
+    "title_zh": "实际问题图像",
+    "domain": "algebra",
+    "subdomain": "s2.9",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.9",
+        "kpId": "kp-2.9-03",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0127",
+    "version": 1,
+    "title_en": "Graphs of functions",
+    "title_zh": "函数图像",
+    "domain": "algebra",
+    "subdomain": "s2.10",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.10",
+        "kpId": "kp-2.10-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0129",
+    "version": 1,
+    "title_en": "Graphs of functions",
+    "title_zh": "函数图像",
+    "domain": "algebra",
+    "subdomain": "s2.10",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.10",
+        "kpId": "kp-2.10-02",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0130",
+    "version": 1,
+    "title_en": "Graphs of functions",
+    "title_zh": "函数图像",
+    "domain": "algebra",
+    "subdomain": "s2.10",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.10",
+        "kpId": "kp-2.10-03",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0131",
+    "version": 1,
+    "title_en": "Sketching curves",
+    "title_zh": "曲线草图",
+    "domain": "algebra",
+    "subdomain": "s2.11",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.11",
+        "kpId": "kp-2.11-01",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0132",
+    "version": 1,
+    "title_en": "Sketching curves",
+    "title_zh": "曲线草图",
+    "domain": "algebra",
+    "subdomain": "s2.11",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.11",
+        "kpId": "kp-2.11-02",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0133",
+    "version": 1,
+    "title_en": "Sketching curves",
+    "title_zh": "曲线草图",
+    "domain": "algebra",
+    "subdomain": "s2.11",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.11",
+        "kpId": "kp-2.11-03",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0134",
+    "version": 1,
+    "title_en": "Functions",
+    "title_zh": "函数",
+    "domain": "algebra",
+    "subdomain": "s2.13",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.13",
+        "kpId": "kp-2.13-01",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0135",
+    "version": 1,
+    "title_en": "Functions",
+    "title_zh": "函数",
+    "domain": "algebra",
+    "subdomain": "s2.13",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.13",
+        "kpId": "kp-2.13-03",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0136",
+    "version": 1,
+    "title_en": "Functions",
+    "title_zh": "函数",
+    "domain": "algebra",
+    "subdomain": "s2.13",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.13",
+        "kpId": "kp-2.13-02",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0137",
+    "version": 1,
+    "title_en": "Coordinates",
+    "title_zh": "坐标",
+    "domain": "geometry",
+    "subdomain": "s3.1",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s3.1",
+        "kpId": "kp-3.1-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0138",
+    "version": 1,
+    "title_en": "Length and midpoint",
+    "title_zh": "长度与中点",
+    "domain": "geometry",
+    "subdomain": "s3.4",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s3.4",
+        "kpId": "kp-3.4-01",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0139",
+    "version": 1,
+    "title_en": "Length and midpoint",
+    "title_zh": "长度与中点",
+    "domain": "geometry",
+    "subdomain": "s3.4",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s3.4",
+        "kpId": "kp-3.4-02",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0140",
+    "version": 1,
+    "title_en": "Gradient of linear graphs",
+    "title_zh": "线性图像斜率",
+    "domain": "geometry",
+    "subdomain": "s3.3",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s3.3",
+        "kpId": "kp-3.3-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0141",
+    "version": 1,
+    "title_en": "Drawing linear graphs",
+    "title_zh": "画线性图像",
+    "domain": "geometry",
+    "subdomain": "s3.2",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s3.2",
+        "kpId": "kp-3.2-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0142",
+    "version": 1,
+    "title_en": "Perpendicular lines",
+    "title_zh": "垂直线",
+    "domain": "geometry",
+    "subdomain": "s3.7",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s3.7",
+        "kpId": "kp-3.7-01",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0145",
+    "version": 1,
+    "title_en": "Angles",
+    "title_zh": "角",
+    "domain": "geometry",
+    "subdomain": "s4.6",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s4.6",
+        "kpId": "kp-4.6-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0146",
+    "version": 1,
+    "title_en": "Angles",
+    "title_zh": "角",
+    "domain": "geometry",
+    "subdomain": "s4.6",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s4.6",
+        "kpId": "kp-4.6-02",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0148",
+    "version": 1,
+    "title_en": "Angles",
+    "title_zh": "角",
+    "domain": "geometry",
+    "subdomain": "s4.6",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s4.6",
+        "kpId": "kp-4.6-03",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0149",
+    "version": 1,
+    "title_en": "Angles",
+    "title_zh": "角",
+    "domain": "geometry",
+    "subdomain": "s4.6",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s4.6",
+        "kpId": "kp-4.6-05",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0150",
+    "version": 1,
+    "title_en": "Circles, arcs and sectors",
+    "title_zh": "圆、弧与扇形",
+    "domain": "geometry",
+    "subdomain": "s5.3",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s5.3",
+        "kpId": "kp-5.3-03",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0151",
+    "version": 1,
+    "title_en": "Circles, arcs and sectors",
+    "title_zh": "圆、弧与扇形",
+    "domain": "geometry",
+    "subdomain": "s5.3",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s5.3",
+        "kpId": "kp-5.3-04",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0153",
+    "version": 1,
+    "title_en": "Trigonometric functions",
+    "title_zh": "三角函数",
+    "domain": "geometry",
+    "subdomain": "s6.4",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s6.4",
+        "kpId": "kp-6.4-01",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0154",
+    "version": 1,
+    "title_en": "Trigonometric functions",
+    "title_zh": "三角函数",
+    "domain": "geometry",
+    "subdomain": "s6.4",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s6.4",
+        "kpId": "kp-6.4-02",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0155",
+    "version": 1,
+    "title_en": "Introduction to probability",
+    "title_zh": "概率入门",
+    "domain": "probability",
+    "subdomain": "s8.1",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s8.1",
+        "kpId": "kp-8.1-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0156",
+    "version": 1,
+    "title_en": "Introduction to probability",
+    "title_zh": "概率入门",
+    "domain": "probability",
+    "subdomain": "s8.1",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s8.1",
+        "kpId": "kp-8.1-02",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0157",
+    "version": 1,
+    "title_en": "Relative and expected frequencies",
+    "title_zh": "相对频率与期望频率",
+    "domain": "probability",
+    "subdomain": "s8.2",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s8.2",
+        "kpId": "kp-8.2-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0158",
+    "version": 1,
+    "title_en": "Combined events",
+    "title_zh": "组合事件",
+    "domain": "probability",
+    "subdomain": "s8.3",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s8.3",
+        "kpId": "kp-8.3-02",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0160",
+    "version": 1,
+    "title_en": "Conditional probability",
+    "title_zh": "条件概率",
+    "domain": "probability",
+    "subdomain": "s8.4",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s8.4",
+        "kpId": "kp-8.4-01",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0161",
+    "version": 1,
+    "title_en": "Conditional probability",
+    "title_zh": "条件概率",
+    "domain": "probability",
+    "subdomain": "s8.4",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s8.4",
+        "kpId": "kp-8.4-02",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0162",
+    "version": 1,
+    "title_en": "Classifying and tabulating data",
+    "title_zh": "数据分类与列表",
+    "domain": "statistics",
+    "subdomain": "s9.1",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s9.1",
+        "kpId": "kp-9.1-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0163",
+    "version": 1,
+    "title_en": "Averages and measures of spread",
+    "title_zh": "平均数与离散度",
+    "domain": "statistics",
+    "subdomain": "s9.3",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s9.3",
+        "kpId": "kp-9.3-02",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0164",
+    "version": 1,
+    "title_en": "Averages and measures of spread",
+    "title_zh": "平均数与离散度",
+    "domain": "statistics",
+    "subdomain": "s9.3",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s9.3",
+        "kpId": "kp-9.3-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0165",
+    "version": 1,
+    "title_en": "Averages and measures of spread",
+    "title_zh": "平均数与离散度",
+    "domain": "statistics",
+    "subdomain": "s9.3",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s9.3",
+        "kpId": "kp-9.3-03",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0166",
+    "version": 1,
+    "title_en": "Averages and measures of spread",
+    "title_zh": "平均数与离散度",
+    "domain": "statistics",
+    "subdomain": "s9.3",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s9.3",
+        "kpId": "kp-9.3-05",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0167",
+    "version": 1,
+    "title_en": "Averages and measures of spread",
+    "title_zh": "平均数与离散度",
+    "domain": "statistics",
+    "subdomain": "s9.3",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s9.3",
+        "kpId": "kp-9.3-06",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0168",
+    "version": 1,
+    "title_en": "Scatter diagrams and correlation",
+    "title_zh": "散点图与相关性",
+    "domain": "statistics",
+    "subdomain": "s9.5",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s9.5",
+        "kpId": "kp-9.5-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0169",
+    "version": 1,
+    "title_en": "Scatter diagrams and correlation",
+    "title_zh": "散点图与相关性",
+    "domain": "statistics",
+    "subdomain": "s9.5",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s9.5",
+        "kpId": "kp-9.5-02",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0289",
+    "version": 1,
+    "title_en": "Sum of Arithmetic Series",
+    "title_zh": "等差数列求和",
+    "domain": "algebra",
+    "subdomain": "edx-3.1",
+    "tags": [
+      "edexcel-only"
+    ],
+    "examBoards": {
+      "edexcel_4ma1": {
+        "section": "3.1",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      2,
+      4
+    ],
+    "estimatedMinutes": {
+      "concept": 15,
+      "practice": 20
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0290",
+    "version": 1,
+    "title_en": "Calculus Kinematics",
+    "title_zh": "微积分运动学",
+    "domain": "algebra",
+    "subdomain": "edx-3.4",
+    "tags": [
+      "edexcel-only"
+    ],
+    "examBoards": {
+      "edexcel_4ma1": {
+        "section": "3.4",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      2,
+      4
+    ],
+    "estimatedMinutes": {
+      "concept": 15,
+      "practice": 20
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0291",
+    "version": 1,
+    "title_en": "Imperial Unit Conversions",
+    "title_zh": "英制单位换算",
+    "domain": "number",
+    "subdomain": "edx-4.4",
+    "tags": [
+      "edexcel-only"
+    ],
+    "examBoards": {
+      "edexcel_4ma1": {
+        "section": "4.4",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      2,
+      4
+    ],
+    "estimatedMinutes": {
+      "concept": 15,
+      "practice": 20
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0292",
+    "version": 1,
+    "title_en": "Plans and Elevations",
+    "title_zh": "三视图",
+    "domain": "geometry",
+    "subdomain": "edx-4.10",
+    "tags": [
+      "edexcel-only"
+    ],
+    "examBoards": {
+      "edexcel_4ma1": {
+        "section": "4.10",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      2,
+      4
+    ],
+    "estimatedMinutes": {
+      "concept": 15,
+      "practice": 20
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0293",
+    "version": 1,
+    "title_en": "Frustum Volume",
+    "title_zh": "锥台体积",
+    "domain": "geometry",
+    "subdomain": "edx-4.10",
+    "tags": [
+      "edexcel-only"
+    ],
+    "examBoards": {
+      "edexcel_4ma1": {
+        "section": "4.10",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      2,
+      4
+    ],
+    "estimatedMinutes": {
+      "concept": 15,
+      "practice": 20
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0294",
+    "version": 1,
+    "title_en": "Negative Scale Factor Enlargement",
+    "title_zh": "负缩放因子放大",
+    "domain": "geometry",
+    "subdomain": "edx-5.2",
+    "tags": [
+      "edexcel-only"
+    ],
+    "examBoards": {
+      "edexcel_4ma1": {
+        "section": "5.2",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      2,
+      4
+    ],
+    "estimatedMinutes": {
+      "concept": 15,
+      "practice": 20
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0295",
+    "version": 1,
+    "title_en": "Box Plots",
+    "title_zh": "箱线图",
+    "domain": "statistics",
+    "subdomain": "edx-6.1",
+    "tags": [
+      "edexcel-only"
+    ],
+    "examBoards": {
+      "edexcel_4ma1": {
+        "section": "6.1",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      2,
+      4
+    ],
+    "estimatedMinutes": {
+      "concept": 15,
+      "practice": 20
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0296",
+    "version": 1,
+    "title_en": "Geometrical Reasoning",
+    "title_zh": "几何推理",
+    "domain": "geometry",
+    "subdomain": "edx-4.7",
+    "tags": [
+      "edexcel-only"
+    ],
+    "examBoards": {
+      "edexcel_4ma1": {
+        "section": "4.7",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      2,
+      4
+    ],
+    "estimatedMinutes": {
+      "concept": 15,
+      "practice": 20
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0297",
+    "version": 1,
+    "title_en": "Change Subject (appears twice)",
+    "title_zh": "主元出现两次的变形",
+    "domain": "algebra",
+    "subdomain": "edx-2.3",
+    "tags": [
+      "edexcel-only"
+    ],
+    "examBoards": {
+      "edexcel_4ma1": {
+        "section": "2.3",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      2,
+      4
+    ],
+    "estimatedMinutes": {
+      "concept": 15,
+      "practice": 20
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0298",
+    "version": 1,
+    "title_en": "Applied Number Operations",
+    "title_zh": "综合数字应用",
+    "domain": "number",
+    "subdomain": "edx-1.10",
+    "tags": [
+      "edexcel-only"
+    ],
+    "examBoards": {
+      "edexcel_4ma1": {
+        "section": "1.10",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      2,
+      4
+    ],
+    "estimatedMinutes": {
+      "concept": 15,
+      "practice": 20
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0303",
+    "version": 1,
+    "title_en": "Equations",
+    "title_zh": "方程",
+    "domain": "algebra",
+    "subdomain": "s2.5",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.5",
+        "kpId": "kp-2.5-12",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0307",
+    "version": 1,
+    "title_en": "Algebraic fractions",
+    "title_zh": "代数分式",
+    "domain": "algebra",
+    "subdomain": "s2.3",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.3",
+        "kpId": "kp-2.3-02",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0309",
+    "version": 1,
+    "title_en": "Algebraic fractions",
+    "title_zh": "代数分式",
+    "domain": "algebra",
+    "subdomain": "s2.3",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.3",
+        "kpId": "kp-2.3-04",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0311",
+    "version": 1,
+    "title_en": "The four operations",
+    "title_zh": "四则运算",
+    "domain": "number",
+    "subdomain": "s1.6",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.6",
+        "kpId": "kp-1.6-02",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0317",
+    "version": 1,
+    "title_en": "Circle theorems",
+    "title_zh": "圆定理",
+    "domain": "geometry",
+    "subdomain": "s4.7",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s4.7",
+        "kpId": "kp-4.7-02",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0318",
+    "version": 1,
+    "title_en": "Circle theorems",
+    "title_zh": "圆定理",
+    "domain": "geometry",
+    "subdomain": "s4.7",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s4.7",
+        "kpId": "kp-4.7-01",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0319",
+    "version": 1,
+    "title_en": "Circle theorems",
+    "title_zh": "圆定理",
+    "domain": "geometry",
+    "subdomain": "s4.7",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s4.7",
+        "kpId": "kp-4.7-04",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0320",
+    "version": 1,
+    "title_en": "Circle theorems",
+    "title_zh": "圆定理",
+    "domain": "geometry",
+    "subdomain": "s4.7",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s4.7",
+        "kpId": "kp-4.7-03",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0322",
+    "version": 1,
+    "title_en": "Vectors in 2D",
+    "title_zh": "二维向量",
+    "domain": "geometry",
+    "subdomain": "s7.2",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s7.2",
+        "kpId": "kp-7.2-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0323",
+    "version": 1,
+    "title_en": "Vectors in 2D",
+    "title_zh": "二维向量",
+    "domain": "geometry",
+    "subdomain": "s7.2",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s7.2",
+        "kpId": "kp-7.2-02",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0324",
+    "version": 1,
+    "title_en": "Vector geometry",
+    "title_zh": "向量几何",
+    "domain": "geometry",
+    "subdomain": "s7.4",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s7.4",
+        "kpId": "kp-7.4-01",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0325",
+    "version": 1,
+    "title_en": "Vectors in 2D",
+    "title_zh": "二维向量",
+    "domain": "geometry",
+    "subdomain": "s7.2",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s7.2",
+        "kpId": "kp-7.2-03",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0326",
+    "version": 1,
+    "title_en": "Right-angled triangles",
+    "title_zh": "直角三角形",
+    "domain": "geometry",
+    "subdomain": "s6.2",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s6.2",
+        "kpId": "kp-6.2-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0327",
+    "version": 1,
+    "title_en": "Right-angled triangles",
+    "title_zh": "直角三角形",
+    "domain": "geometry",
+    "subdomain": "s6.2",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s6.2",
+        "kpId": "kp-6.2-02",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0328",
+    "version": 1,
+    "title_en": "Right-angled triangles",
+    "title_zh": "直角三角形",
+    "domain": "geometry",
+    "subdomain": "s6.2",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s6.2",
+        "kpId": "kp-6.2-03",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0329",
+    "version": 1,
+    "title_en": "Area and perimeter",
+    "title_zh": "面积与周长",
+    "domain": "geometry",
+    "subdomain": "s5.2",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s5.2",
+        "kpId": "kp-5.2-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0330",
+    "version": 1,
+    "title_en": "Circles, arcs and sectors",
+    "title_zh": "圆、弧与扇形",
+    "domain": "geometry",
+    "subdomain": "s5.3",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s5.3",
+        "kpId": "kp-5.3-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0343",
+    "version": 1,
+    "title_en": "Ordering",
+    "title_zh": "排序",
+    "domain": "number",
+    "subdomain": "s1.5",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.5",
+        "kpId": "kp-1.5-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0344",
+    "version": 1,
+    "title_en": "Ordering",
+    "title_zh": "排序",
+    "domain": "number",
+    "subdomain": "s1.5",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.5",
+        "kpId": "kp-1.5-02",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0345",
+    "version": 1,
+    "title_en": "Using a calculator",
+    "title_zh": "计算器使用",
+    "domain": "number",
+    "subdomain": "s1.14",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.14",
+        "kpId": "kp-1.14-01",
+        "tier": "core",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0346",
+    "version": 1,
+    "title_en": "Surds",
+    "title_zh": "根式",
+    "domain": "number",
+    "subdomain": "s1.18",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s1.18",
+        "kpId": "kp-1.18-01",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0347",
+    "version": 1,
+    "title_en": "Differentiation",
+    "title_zh": "微分",
+    "domain": "algebra",
+    "subdomain": "s2.12",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.12",
+        "kpId": "kp-2.12-01",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0348",
+    "version": 1,
+    "title_en": "Differentiation",
+    "title_zh": "微分",
+    "domain": "algebra",
+    "subdomain": "s2.12",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s2.12",
+        "kpId": "kp-2.12-02",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0349",
+    "version": 1,
+    "title_en": "Geometrical terms",
+    "title_zh": "几何术语",
+    "domain": "geometry",
+    "subdomain": "s4.1",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s4.1",
+        "kpId": "kp-4.1-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0350",
+    "version": 1,
+    "title_en": "Geometrical terms",
+    "title_zh": "几何术语",
+    "domain": "geometry",
+    "subdomain": "s4.1",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s4.1",
+        "kpId": "kp-4.1-02",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0351",
+    "version": 1,
+    "title_en": "Geometrical constructions",
+    "title_zh": "几何作图",
+    "domain": "geometry",
+    "subdomain": "s4.2",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s4.2",
+        "kpId": "kp-4.2-03",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0352",
+    "version": 1,
+    "title_en": "Geometrical constructions",
+    "title_zh": "几何作图",
+    "domain": "geometry",
+    "subdomain": "s4.2",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s4.2",
+        "kpId": "kp-4.2-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0353",
+    "version": 1,
+    "title_en": "Scale drawings and bearings",
+    "title_zh": "比例图与方位角",
+    "domain": "geometry",
+    "subdomain": "s4.3",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s4.3",
+        "kpId": "kp-4.3-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0354",
+    "version": 1,
+    "title_en": "Scale drawings and bearings",
+    "title_zh": "比例图与方位角",
+    "domain": "geometry",
+    "subdomain": "s4.3",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s4.3",
+        "kpId": "kp-4.3-02",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0355",
+    "version": 1,
+    "title_en": "Symmetry",
+    "title_zh": "对称",
+    "domain": "geometry",
+    "subdomain": "s4.5",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s4.5",
+        "kpId": "kp-4.5-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0356",
+    "version": 1,
+    "title_en": "Symmetry",
+    "title_zh": "对称",
+    "domain": "geometry",
+    "subdomain": "s4.5",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s4.5",
+        "kpId": "kp-4.5-02",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0357",
+    "version": 1,
+    "title_en": "Constructions and loci",
+    "title_zh": "作图与轨迹",
+    "domain": "geometry",
+    "subdomain": "s4.8",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s4.8",
+        "kpId": "kp-4.8-01",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0358",
+    "version": 1,
+    "title_en": "Constructions and loci",
+    "title_zh": "作图与轨迹",
+    "domain": "geometry",
+    "subdomain": "s4.8",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s4.8",
+        "kpId": "kp-4.8-03",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0359",
+    "version": 1,
+    "title_en": "Units of measure",
+    "title_zh": "计量单位",
+    "domain": "geometry",
+    "subdomain": "s5.1",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s5.1",
+        "kpId": "kp-5.1-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0360",
+    "version": 1,
+    "title_en": "Units of measure",
+    "title_zh": "计量单位",
+    "domain": "geometry",
+    "subdomain": "s5.1",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s5.1",
+        "kpId": "kp-5.1-03",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0361",
+    "version": 1,
+    "title_en": "Surface area and volume",
+    "title_zh": "表面积与体积",
+    "domain": "geometry",
+    "subdomain": "s5.4",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s5.4",
+        "kpId": "kp-5.4-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0362",
+    "version": 1,
+    "title_en": "Surface area and volume",
+    "title_zh": "表面积与体积",
+    "domain": "geometry",
+    "subdomain": "s5.4",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s5.4",
+        "kpId": "kp-5.4-03",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0363",
+    "version": 1,
+    "title_en": "Surface area and volume",
+    "title_zh": "表面积与体积",
+    "domain": "geometry",
+    "subdomain": "s5.4",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s5.4",
+        "kpId": "kp-5.4-04",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0364",
+    "version": 1,
+    "title_en": "Surface area and volume",
+    "title_zh": "表面积与体积",
+    "domain": "geometry",
+    "subdomain": "s5.4",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s5.4",
+        "kpId": "kp-5.4-06",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0365",
+    "version": 1,
+    "title_en": "Compound shapes",
+    "title_zh": "组合图形",
+    "domain": "geometry",
+    "subdomain": "s5.5",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s5.5",
+        "kpId": "kp-5.5-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0366",
+    "version": 1,
+    "title_en": "Exact trigonometric values",
+    "title_zh": "三角精确值",
+    "domain": "geometry",
+    "subdomain": "s6.3",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s6.3",
+        "kpId": "kp-6.3-01",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0367",
+    "version": 1,
+    "title_en": "Non-right-angled triangles",
+    "title_zh": "非直角三角形",
+    "domain": "geometry",
+    "subdomain": "s6.5",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s6.5",
+        "kpId": "kp-6.5-01",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0368",
+    "version": 1,
+    "title_en": "Non-right-angled triangles",
+    "title_zh": "非直角三角形",
+    "domain": "geometry",
+    "subdomain": "s6.5",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s6.5",
+        "kpId": "kp-6.5-02",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0369",
+    "version": 1,
+    "title_en": "Non-right-angled triangles",
+    "title_zh": "非直角三角形",
+    "domain": "geometry",
+    "subdomain": "s6.5",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s6.5",
+        "kpId": "kp-6.5-04",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0370",
+    "version": 1,
+    "title_en": "3D trigonometry",
+    "title_zh": "三维三角",
+    "domain": "geometry",
+    "subdomain": "s6.6",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s6.6",
+        "kpId": "kp-6.6-01",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0371",
+    "version": 1,
+    "title_en": "3D trigonometry",
+    "title_zh": "三维三角",
+    "domain": "geometry",
+    "subdomain": "s6.6",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s6.6",
+        "kpId": "kp-6.6-02",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0372",
+    "version": 1,
+    "title_en": "Transformations",
+    "title_zh": "变换",
+    "domain": "geometry",
+    "subdomain": "s7.1",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s7.1",
+        "kpId": "kp-7.1-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0373",
+    "version": 1,
+    "title_en": "Transformations",
+    "title_zh": "变换",
+    "domain": "geometry",
+    "subdomain": "s7.1",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s7.1",
+        "kpId": "kp-7.1-05",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0374",
+    "version": 1,
+    "title_en": "Transformations",
+    "title_zh": "变换",
+    "domain": "geometry",
+    "subdomain": "s7.1",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s7.1",
+        "kpId": "kp-7.1-02",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0375",
+    "version": 1,
+    "title_en": "Transformations",
+    "title_zh": "变换",
+    "domain": "geometry",
+    "subdomain": "s7.1",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s7.1",
+        "kpId": "kp-7.1-07",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0377",
+    "version": 1,
+    "title_en": "Transformations",
+    "title_zh": "变换",
+    "domain": "geometry",
+    "subdomain": "s7.1",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s7.1",
+        "kpId": "kp-7.1-12",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0380",
+    "version": 1,
+    "title_en": "Interpreting statistical data",
+    "title_zh": "数据解读",
+    "domain": "statistics",
+    "subdomain": "s9.2",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s9.2",
+        "kpId": "kp-9.2-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0381",
+    "version": 1,
+    "title_en": "Interpreting statistical data",
+    "title_zh": "数据解读",
+    "domain": "statistics",
+    "subdomain": "s9.2",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s9.2",
+        "kpId": "kp-9.2-02",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0382",
+    "version": 1,
+    "title_en": "Statistical charts and diagrams",
+    "title_zh": "统计图表",
+    "domain": "statistics",
+    "subdomain": "s9.4",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s9.4",
+        "kpId": "kp-9.4-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0383",
+    "version": 1,
+    "title_en": "Statistical charts and diagrams",
+    "title_zh": "统计图表",
+    "domain": "statistics",
+    "subdomain": "s9.4",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s9.4",
+        "kpId": "kp-9.4-02",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0384",
+    "version": 1,
+    "title_en": "Statistical charts and diagrams",
+    "title_zh": "统计图表",
+    "domain": "statistics",
+    "subdomain": "s9.4",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s9.4",
+        "kpId": "kp-9.4-03",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0385",
+    "version": 1,
+    "title_en": "Cumulative frequency",
+    "title_zh": "累积频率",
+    "domain": "statistics",
+    "subdomain": "s9.6",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s9.6",
+        "kpId": "kp-9.6-01",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0386",
+    "version": 1,
+    "title_en": "Cumulative frequency",
+    "title_zh": "累积频率",
+    "domain": "statistics",
+    "subdomain": "s9.6",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s9.6",
+        "kpId": "kp-9.6-02",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0388",
+    "version": 1,
+    "title_en": "Histograms",
+    "title_zh": "频率直方图",
+    "domain": "statistics",
+    "subdomain": "s9.7",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s9.7",
+        "kpId": "kp-9.7-01",
+        "tier": "extended",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": false,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0390",
+    "version": 1,
+    "title_en": "Similarity and congruence",
+    "title_zh": "相似与全等",
+    "domain": "geometry",
+    "subdomain": "s4.4",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s4.4",
+        "kpId": "kp-4.4-01",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0391",
+    "version": 1,
+    "title_en": "Similarity and congruence",
+    "title_zh": "相似与全等",
+    "domain": "geometry",
+    "subdomain": "s4.4",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s4.4",
+        "kpId": "kp-4.4-02",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0392",
+    "version": 1,
+    "title_en": "Similarity and congruence",
+    "title_zh": "相似与全等",
+    "domain": "geometry",
+    "subdomain": "s4.4",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s4.4",
+        "kpId": "kp-4.4-03",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  },
+  {
+    "kn_id": "kn_0393",
+    "version": 1,
+    "title_en": "Similarity and congruence",
+    "title_zh": "相似与全等",
+    "domain": "geometry",
+    "subdomain": "s4.4",
+    "tags": [],
+    "examBoards": {
+      "cie_0580": {
+        "section": "s4.4",
+        "kpId": "kp-4.4-06",
+        "tier": "both",
+        "weight": "medium"
+      }
+    },
+    "prerequisites": [],
+    "leadsTo": [],
+    "difficultyRange": [
+      1,
+      3
+    ],
+    "estimatedMinutes": {
+      "concept": 10,
+      "practice": 15
+    },
+    "content": {
+      "variants": {
+        "cie": [],
+        "edexcel": [],
+        "generic": []
+      },
+      "missions": [],
+      "glGeneratorId": null,
+      "examRefs": {
+        "cie": 0,
+        "edexcel": 0
+      }
+    },
+    "noFigure": true,
+    "isFoundational": true,
+    "deprecated": false,
+    "createdAt": "2026-04-06T16:01:38Z",
+    "updatedAt": "2026-04-06T16:01:38Z"
+  }
+]

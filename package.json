@@ -1,0 +1,10 @@
+{
+  "name": "25maths-knowledge-registry",
+  "version": "1.0.0",
+  "description": "Unified knowledge registry for 25Maths ecosystem",
+  "scripts": {
+    "build": "python3 scripts/build-all.py",
+    "validate": "python3 scripts/validate-registry.py"
+  },
+  "private": true
+}
