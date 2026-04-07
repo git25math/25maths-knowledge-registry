@@ -1,0 +1,24 @@
+=== 知识库最终清理完成 ===
+最新 commit: 54c6d5a docs: v2.1.0 final — Phase 5A complete, all branches merged
+Tags (local): v2.0.0
+v2.1.0
+Release branches: release/v2.0.0, release/v2.1.0 (→ 54c6d5a)
+剩余未合并分支:
+  remotes/origin/claude/phase-2-meta-nodes-routes-pIsrK
+
+=== 验证 ===
+=== Registry Validation ===
+
+✓ kn_id uniqueness: 203/203 unique
+✓ kn_id format: all 203 valid
+✓ DAG: no cycles detected (201 nodes, 272 edges)
+✓ Prerequisites valid: all 272 refs exist
+✓ KP map: 288/288 mapped
+✓ HHK map: 55/55 units mapped
+✓ Edexcel map: 6 chapters, 42 sections
+✓ Domains: all 203 valid
+✓ Versions: all 203 ≥ 1
+✓ Routes: 13 framework files
+
+========================================
+ALL 10 CHECKS PASSED
