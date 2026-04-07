@@ -1,0 +1,68 @@
+=== 知识库 Phase 2 合并完成 ===
+Branch merged to main
+
+=== 路线审查结果 ===
+--- cie-extended-algebra domain 分布 ---
+  algebra: 36
+  geometry: 55
+  unknown: 15
+
+--- hhk-y11 节点分类 ---
+  milestone: 7
+  regular: 42
+
+=== 覆盖率报告 ===
+=== Knowledge Coverage Report ===
+
+Meta Nodes: 203 total
+  In routes: 173/203 (85%)
+  Not in any route: 30 nodes
+
+Routes Coverage:
+  cie-core-geometry               38 nodes, ~25.3h learning
+  cie-core-number                 52 nodes, ~22.0h learning
+  cie-extended-algebra            91 nodes, ~56.5h learning
+  cie-recovery-algebra            26 nodes, ~14.3h learning
+  cie-recovery-fractions           8 nodes, ~3.9h learning
+  cie-sprint-2weeks               28 nodes, ~15.2h learning
+  edx-foundation                  31 nodes, ~19.0h learning
+  edx-higher                      20 nodes, ~10.0h learning
+  hhk-y10                         24 nodes, ~14.0h learning
+  hhk-y11                         42 nodes, ~22.1h learning
+  hhk-y7                          21 nodes, ~11.0h learning
+  hhk-y8                          18 nodes, ~9.9h learning
+  hhk-y9                          23 nodes, ~13.0h learning
+
+Nodes not in any route:
+  kn_0004: "Types of number" (optional)
+  kn_0005: "Types of number" (optional)
+  kn_0007: "Types of number" (optional)
+  kn_0008: "Types of number" (optional)
+  kn_0009: "Types of number" (optional)
+  kn_0011: "Types of number" (optional)
+  kn_0045: "Estimation" (optional)
+  kn_0046: "Limits of accuracy" (optional)
+  kn_0047: "Limits of accuracy" (optional)
+  kn_0048: "Limits of accuracy" (optional)
+  kn_0050: "Limits of accuracy" (optional)
+  kn_0051: "Limits of accuracy" (optional)
+  kn_0055: "Ratio and proportion" (optional)
+  kn_0069: "Percentages" (optional)
+  kn_0087: "Algebraic manipulation" (optional)
+  kn_0091: "Algebraic manipulation" (optional)
+  kn_0092: "Algebraic manipulation" (optional)
+  kn_0148: "Angles" (optional)
+  kn_0161: "Conditional probability" (optional)
+  kn_0166: "Averages and measures of spread" (optional)
+  kn_0303: "Equations" (optional)
+  kn_0311: "The four operations" (optional)
+  kn_0345: "Using a calculator" (low frequency)
+  kn_0346: "Surds" (optional)
+  kn_0364: "Surface area and volume" (optional)
+  kn_0374: "Transformations" (optional)
+  kn_0377: "Transformations" (optional)
+  kn_0385: "Cumulative frequency" (optional)
+  kn_0386: "Cumulative frequency" (optional)
+  kn_0388: "Histograms" (optional)
+
+Report saved: /home/user/25maths-knowledge-registry/dist/coverage-report.json
