@@ -1,0 +1,79 @@
+=== Phase 2 知识库完成报告 ===
+Branch: claude/phase-2-meta-nodes-routes-pIsrK
+
+=== meta-nodes.json ===
+总节点: 203
+有HHK映射: 150
+有Edexcel映射: 98
+isFoundational: 11
+
+=== 路线节点统计 ===
+  cie-core-geometry: 44 节点
+  cie-core-number: 61 节点
+  cie-extended-algebra: 106 节点
+  cie-recovery-algebra: 30 节点
+  cie-recovery-fractions: 9 节点
+  cie-sprint-2weeks: 33 节点
+  edx-foundation: 36 节点
+  edx-higher: 23 节点
+  hhk-y10: 28 节点
+  hhk-y11: 49 节点
+  hhk-y7: 25 节点
+  hhk-y8: 21 节点
+  hhk-y9: 27 节点
+
+=== 验证结果 ===
+=== Registry Validation ===
+
+✓ kn_id uniqueness: 203/203 unique
+✓ kn_id format: all 203 valid
+✓ DAG: no cycles detected (201 nodes, 272 edges)
+✓ Prerequisites valid: all 272 refs exist
+✓ KP map: 288/288 mapped
+✓ HHK map: 55/55 units mapped
+✓ Edexcel map: 6 chapters, 42 sections
+✓ Domains: all 203 valid
+✓ Versions: all 203 ≥ 1
+✓ Routes: 13 framework files
+
+========================================
+ALL 10 CHECKS PASSED
+
+=== 目录结构 ===
+./README.md
+./dist/coverage-report.json
+./dist/meta-nodes.json
+./dist/routes-compiled.json
+./graph/dag-edges.json
+./output-20260406-2348.txt
+./output-20260407-0003.txt
+./output-20260407-0010.txt
+./output-20260407-0419.txt
+./output-20260407-0434.txt
+./package.json
+./registry/edx-kn-map.json
+./registry/hhk-kn-map.json
+./registry/kn-registry.json
+./registry/kp-kn-map.json
+./routes/cie-core-geometry.json
+./routes/cie-core-number.json
+./routes/cie-extended-algebra.json
+./routes/cie-recovery-algebra.json
+./routes/cie-recovery-fractions.json
+./routes/cie-sprint-2weeks.json
+./routes/edx-foundation.json
+./routes/edx-higher.json
+./routes/hhk-y10.json
+./routes/hhk-y11.json
+./routes/hhk-y7.json
+./routes/hhk-y8.json
+./routes/hhk-y9.json
+./schema/knowledge-node.schema.json
+./scripts/build-all.py
+./scripts/build-meta-nodes.py
+./scripts/build-registry.py
+./scripts/build-routes.py
+./scripts/check-coverage.py
+./scripts/dag-utils.py
+./scripts/dag_utils.py
+./scripts/validate-registry.py
