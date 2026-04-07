@@ -1,25 +1,25 @@
 {
   "totalMetaNodes": 203,
-  "nodesInRoutes": 173,
-  "coveragePercent": 85.2,
+  "nodesInRoutes": 189,
+  "coveragePercent": 93.1,
   "routeStats": [
     {
       "id": "cie-core-geometry",
-      "nodes": 38,
+      "nodes": 35,
       "milestones": 6,
-      "estimatedHours": 25.3
+      "estimatedHours": 23.3
     },
     {
       "id": "cie-core-number",
-      "nodes": 52,
-      "milestones": 9,
-      "estimatedHours": 22.0
+      "nodes": 58,
+      "milestones": 10,
+      "estimatedHours": 24.6
     },
     {
       "id": "cie-extended-algebra",
-      "nodes": 91,
-      "milestones": 15,
-      "estimatedHours": 56.5
+      "nodes": 64,
+      "milestones": 11,
+      "estimatedHours": 38.0
     },
     {
       "id": "cie-recovery-algebra",
@@ -84,21 +84,7 @@
   ],
   "nodesNotInRoute": [
     {
-      "kn_id": "kn_0004",
-      "title_en": "Types of number",
-      "domain": "number",
-      "weight": "medium",
-      "reason": "optional"
-    },
-    {
       "kn_id": "kn_0005",
-      "title_en": "Types of number",
-      "domain": "number",
-      "weight": "medium",
-      "reason": "optional"
-    },
-    {
-      "kn_id": "kn_0007",
       "title_en": "Types of number",
       "domain": "number",
       "weight": "medium",
@@ -126,34 +112,6 @@
       "reason": "optional"
     },
     {
-      "kn_id": "kn_0045",
-      "title_en": "Estimation",
-      "domain": "number",
-      "weight": "medium",
-      "reason": "optional"
-    },
-    {
-      "kn_id": "kn_0046",
-      "title_en": "Limits of accuracy",
-      "domain": "number",
-      "weight": "medium",
-      "reason": "optional"
-    },
-    {
-      "kn_id": "kn_0047",
-      "title_en": "Limits of accuracy",
-      "domain": "number",
-      "weight": "medium",
-      "reason": "optional"
-    },
-    {
-      "kn_id": "kn_0048",
-      "title_en": "Limits of accuracy",
-      "domain": "number",
-      "weight": "medium",
-      "reason": "optional"
-    },
-    {
       "kn_id": "kn_0050",
       "title_en": "Limits of accuracy",
       "domain": "number",
@@ -163,20 +121,6 @@
     {
       "kn_id": "kn_0051",
       "title_en": "Limits of accuracy",
-      "domain": "number",
-      "weight": "medium",
-      "reason": "optional"
-    },
-    {
-      "kn_id": "kn_0055",
-      "title_en": "Ratio and proportion",
-      "domain": "number",
-      "weight": "medium",
-      "reason": "optional"
-    },
-    {
-      "kn_id": "kn_0069",
-      "title_en": "Percentages",
       "domain": "number",
       "weight": "medium",
       "reason": "optional"
@@ -203,21 +147,14 @@
       "reason": "optional"
     },
     {
-      "kn_id": "kn_0148",
-      "title_en": "Angles",
-      "domain": "geometry",
-      "weight": "medium",
-      "reason": "optional"
-    },
-    {
-      "kn_id": "kn_0161",
-      "title_en": "Conditional probability",
-      "domain": "probability",
-      "weight": "medium",
-      "reason": "optional"
-    },
-    {
       "kn_id": "kn_0166",
+      "title_en": "Averages and measures of spread",
+      "domain": "statistics",
+      "weight": "medium",
+      "reason": "optional"
+    },
+    {
+      "kn_id": "kn_0167",
       "title_en": "Averages and measures of spread",
       "domain": "statistics",
       "weight": "medium",
@@ -243,55 +180,6 @@
       "domain": "number",
       "weight": "low",
       "reason": "low frequency"
-    },
-    {
-      "kn_id": "kn_0346",
-      "title_en": "Surds",
-      "domain": "number",
-      "weight": "medium",
-      "reason": "optional"
-    },
-    {
-      "kn_id": "kn_0364",
-      "title_en": "Surface area and volume",
-      "domain": "geometry",
-      "weight": "medium",
-      "reason": "optional"
-    },
-    {
-      "kn_id": "kn_0374",
-      "title_en": "Transformations",
-      "domain": "geometry",
-      "weight": "medium",
-      "reason": "optional"
-    },
-    {
-      "kn_id": "kn_0377",
-      "title_en": "Transformations",
-      "domain": "geometry",
-      "weight": "medium",
-      "reason": "optional"
-    },
-    {
-      "kn_id": "kn_0385",
-      "title_en": "Cumulative frequency",
-      "domain": "statistics",
-      "weight": "medium",
-      "reason": "optional"
-    },
-    {
-      "kn_id": "kn_0386",
-      "title_en": "Cumulative frequency",
-      "domain": "statistics",
-      "weight": "medium",
-      "reason": "optional"
-    },
-    {
-      "kn_id": "kn_0388",
-      "title_en": "Histograms",
-      "domain": "statistics",
-      "weight": "medium",
-      "reason": "optional"
     }
   ]
 }

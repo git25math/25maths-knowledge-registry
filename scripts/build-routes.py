@@ -160,6 +160,17 @@ def build_cie_core_number(meta_nodes, meta_map, edges):
             continue
         selected.append(mn['kn_id'])
 
+    # Supplement: important uncovered number/statistics nodes
+    SUPPLEMENT_NUMBER = [
+        'kn_0046', 'kn_0047', 'kn_0048', 'kn_0050', 'kn_0051',  # Limits of accuracy
+        'kn_0385', 'kn_0386',  # Cumulative frequency
+        'kn_0388',  # Histograms
+    ]
+    selected_set = set(selected)
+    for kn_id in SUPPLEMENT_NUMBER:
+        if kn_id not in selected_set and kn_id in meta_map:
+            selected.append(kn_id)
+
     selected = limit_per_section(selected, meta_map, max_per_section=3)
     sorted_ids = topo_sort_nodes(selected, edges)
     nodes = []
@@ -171,33 +182,53 @@ def build_cie_core_number(meta_nodes, meta_map, edges):
 
 
 def build_cie_core_geometry(meta_nodes, meta_map, edges):
-    """Route 2: CIE Core Geometry."""
+    """Route 2: CIE Core Geometry — s4.x/s5.x geometry nodes, all tiers."""
     selected = []
     for mn in meta_nodes:
         cie = mn['examBoards'].get('cie_0580')
         if not cie:
             continue
-        if cie['tier'] not in ('core', 'both'):
-            continue
         if mn['domain'] != 'geometry':
+            continue
+        # Include core, both, AND extended geometry (s4.x/s5.x)
+        sec = cie.get('section', '')
+        if not any(sec.startswith(s) for s in ['s4', 's5']):
             continue
         weight = cie.get('weight', 'medium')
         if weight in ('low', 'rare'):
             continue
         selected.append(mn['kn_id'])
 
-    selected = limit_per_section(selected, meta_map, max_per_section=3)
+    # Supplement: explicitly add uncovered geometry nodes
+    SUPPLEMENT_GEO = [
+        'kn_0364',  # Surface area and volume
+        'kn_0374', 'kn_0377',  # Transformations
+        'kn_0148',  # Angles
+    ]
+    selected_set = set(selected)
+    for kn_id in SUPPLEMENT_GEO:
+        if kn_id not in selected_set and kn_id in meta_map:
+            selected.append(kn_id)
+
+    selected = limit_per_section(selected, meta_map, max_per_section=4)
     sorted_ids = topo_sort_nodes(selected, edges)
     nodes = []
     for kn_id in sorted_ids:
         mn = meta_map[kn_id]
-        is_req = mn['examBoards']['cie_0580'].get('weight', 'medium') in ('highest', 'high')
+        is_req = mn['examBoards'].get('cie_0580', {}).get('weight', 'medium') in ('highest', 'high')
         nodes.append(make_route_node(kn_id, 0, is_req, get_est_minutes(mn)))
     return insert_milestones(nodes, 'cie-core-geometry')
 
 
 def build_cie_extended_algebra(meta_nodes, meta_map, edges):
-    """Route 3: CIE Extended Algebra + Geometry (trig/vectors)."""
+    """Route 3: CIE Extended Algebra + Trig (s6.x) + Vectors (s7.x).
+
+    Excludes pure geometry (s4.x/s5.x) which belongs in cie-core-geometry.
+    Keeps: s2.x (algebra), s3.x (graphs/sequences), s6.x (trig), s7.x (vectors).
+    """
+    # Sections that belong in this algebra route
+    ALGEBRA_SECTIONS = ['s2', 's3', 's6', 's7']
+
     selected = []
     for mn in meta_nodes:
         cie = mn['examBoards'].get('cie_0580')
@@ -205,19 +236,38 @@ def build_cie_extended_algebra(meta_nodes, meta_map, edges):
             continue
         if cie['tier'] not in ('extended', 'both'):
             continue
-        if mn['domain'] not in ('algebra', 'geometry'):
-            continue
+        sec = cie.get('section', '')
+        domain = mn['domain']
+
+        # Include if: algebra domain OR section is s2/s3/s6/s7
+        if domain == 'algebra':
+            pass  # always include algebra
+        elif any(sec.startswith(s) for s in ALGEBRA_SECTIONS):
+            pass  # trig, vectors, graphs
+        else:
+            continue  # skip pure geometry (s4.x/s5.x)
+
         weight = cie.get('weight', 'medium')
         if weight in ('low', 'rare'):
             continue
         selected.append(mn['kn_id'])
+
+    # Supplement: important uncovered algebra-adjacent nodes
+    SUPPLEMENT_ALG = [
+        'kn_0161',  # Conditional probability (uses algebra)
+        'kn_0346',  # Surds
+    ]
+    selected_set = set(selected)
+    for kn_id in SUPPLEMENT_ALG:
+        if kn_id not in selected_set and kn_id in meta_map:
+            selected.append(kn_id)
 
     selected = limit_per_section(selected, meta_map, max_per_section=3)
     sorted_ids = topo_sort_nodes(selected, edges)
     nodes = []
     for kn_id in sorted_ids:
         mn = meta_map[kn_id]
-        is_req = mn['examBoards']['cie_0580'].get('weight', 'medium') in ('highest', 'high')
+        is_req = mn['examBoards'].get('cie_0580', {}).get('weight', 'medium') in ('highest', 'high')
         nodes.append(make_route_node(kn_id, 0, is_req, get_est_minutes(mn)))
     return insert_milestones(nodes, 'cie-extended-algebra')
 

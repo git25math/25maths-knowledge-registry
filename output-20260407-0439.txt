@@ -1,0 +1,82 @@
+=== Phase 2 路线修复报告 ===
+
+=== 修复后路线节点统计 ===
+  cie-core-geometry: 41 节点
+  cie-core-number: 68 节点
+  cie-extended-algebra: 75 节点
+  cie-recovery-algebra: 30 节点
+  cie-recovery-fractions: 9 节点
+  cie-sprint-2weeks: 33 节点
+  edx-foundation: 36 节点
+  edx-higher: 23 节点
+  hhk-y10: 28 节点
+  hhk-y11: 49 节点
+  hhk-y7: 25 节点
+  hhk-y8: 21 节点
+  hhk-y9: 27 节点
+
+=== cie-extended-algebra domain 分布 ===
+  algebra: 36
+  geometry: 26
+  number: 1
+  probability: 1
+
+=== cie-core-geometry domain 分布 ===
+  geometry: 35
+
+=== 覆盖率 ===
+=== Knowledge Coverage Report ===
+
+Meta Nodes: 203 total
+  In routes: 189/203 (93%)
+  Not in any route: 14 nodes
+
+Routes Coverage:
+  cie-core-geometry               35 nodes, ~23.3h learning
+  cie-core-number                 58 nodes, ~24.6h learning
+  cie-extended-algebra            64 nodes, ~38.0h learning
+  cie-recovery-algebra            26 nodes, ~14.3h learning
+  cie-recovery-fractions           8 nodes, ~3.9h learning
+  cie-sprint-2weeks               28 nodes, ~15.2h learning
+  edx-foundation                  31 nodes, ~19.0h learning
+  edx-higher                      20 nodes, ~10.0h learning
+  hhk-y10                         24 nodes, ~14.0h learning
+  hhk-y11                         42 nodes, ~22.1h learning
+  hhk-y7                          21 nodes, ~11.0h learning
+  hhk-y8                          18 nodes, ~9.9h learning
+  hhk-y9                          23 nodes, ~13.0h learning
+
+Nodes not in any route:
+  kn_0005: "Types of number" (optional)
+  kn_0008: "Types of number" (optional)
+  kn_0009: "Types of number" (optional)
+  kn_0011: "Types of number" (optional)
+  kn_0050: "Limits of accuracy" (optional)
+  kn_0051: "Limits of accuracy" (optional)
+  kn_0087: "Algebraic manipulation" (optional)
+  kn_0091: "Algebraic manipulation" (optional)
+  kn_0092: "Algebraic manipulation" (optional)
+  kn_0166: "Averages and measures of spread" (optional)
+  kn_0167: "Averages and measures of spread" (optional)
+  kn_0303: "Equations" (optional)
+  kn_0311: "The four operations" (optional)
+  kn_0345: "Using a calculator" (low frequency)
+
+Report saved: /home/user/25maths-knowledge-registry/dist/coverage-report.json
+
+=== 验证 ===
+=== Registry Validation ===
+
+✓ kn_id uniqueness: 203/203 unique
+✓ kn_id format: all 203 valid
+✓ DAG: no cycles detected (201 nodes, 272 edges)
+✓ Prerequisites valid: all 272 refs exist
+✓ KP map: 288/288 mapped
+✓ HHK map: 55/55 units mapped
+✓ Edexcel map: 6 chapters, 42 sections
+✓ Domains: all 203 valid
+✓ Versions: all 203 ≥ 1
+✓ Routes: 13 framework files
+
+========================================
+ALL 10 CHECKS PASSED
