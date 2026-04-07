@@ -1,6 +1,6 @@
 # 25maths Knowledge Registry
 
-## 当前版本：v2.0.0（Phase 0-4 完成）
+## 当前版本：v2.1.0（Phase 5A 完成）
 
 Unified knowledge node registry for the 25Maths ecosystem — a single source of truth for knowledge points across all products (Play, Practice, ExamHub) and exam boards (CIE 0580, Edexcel 4MA1, HHK).
 
@@ -30,7 +30,7 @@ python3 scripts/verify-phase3.py
 ## 考试局覆盖
 
 - CIE 0580：72 sections，288 KP
-- Edexcel 4MA1：42 units，style layer 完整接入
+- Edexcel 4MA1：42 units，exam-refs 74.8%（2435/3257），107 variants 映射完成
 - HHK 校本：55 units，Y7-Y11
 
 ## Structure
@@ -96,9 +96,9 @@ Coverage: 189/203 nodes (93%), 14 uncovered are low-frequency optional variants.
 
 | 产品 | kn_id | 进度写入 | 路线引擎 | Edexcel |
 |------|-------|---------|---------|---------|
-| Play | ✅ 294 KP | ✅ 9处 | ✅ DAG | ✅ 复用 |
-| ExamHub | ✅ 55 HHK | ✅ 2处 | ✅ 课纲 | ✅ 真题 |
-| Practice | ✅ 416 variant | ✅ 答题后 | ✅ RouteEngine | ✅ style层 |
+| Play | ✅ 294 KP | ✅ 9处 | ✅ DAG | ✅ 复用 CIE variants |
+| ExamHub | ✅ 55 HHK | ✅ 2处 | ✅ 课纲 | ✅ 真题 2435/3257 (74.8%) |
+| Practice | ✅ 416 variant | ✅ 答题后 | ✅ RouteEngine | ✅ 107 variants + style层 |
 
 ## Phase 完成记录
 
@@ -109,7 +109,8 @@ Coverage: 189/203 nodes (93%), 14 uncovered are low-frequency optional variants.
 | Phase 2 | 元节点体系 + 13条路线填充 + 覆盖率93% | ✅ 完成 |
 | Phase 3 | 弱点路线动态生成验证 + 数据流通确认 | ✅ 完成 |
 | Phase 4 | Edexcel 4MA1 完整接入（42 units, style layer） | ✅ 完成 |
-| Phase 5 | 综合节点 + 跨产品成就 | 规划中 |
+| Phase 5A | Edexcel exam-refs 74.8% + 107 variants 映射 + 三产品融合 | ✅ 完成 |
+| Phase 5B | 综合节点 + 跨产品成就 | 规划中 |
 
 ## MetaNode Schema
 
@@ -123,12 +124,13 @@ Each meta node contains:
 
 See `schema/knowledge-node.schema.json` for the full type definition.
 
-## 下一步（Phase 5）
+## 下一步（Phase 5B+）
 
 - 综合节点：跨 domain 的复合知识点（如 "代数几何结合"）
 - 跨产品成就：Play + Practice + ExamHub 联合进度徽章
 - 自适应路线：基于 meta_node_progress 实时调整学习路径
+- Edexcel exam-refs 剩余 25.2% 补全
 
 ---
 
-*v2.0.0 — Phase 0-4 complete — 2026-04-07*
+*v2.1.0 — Phase 5A complete — 2026-04-07*
