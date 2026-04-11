@@ -1,0 +1,41 @@
+=== P1 多考试局分离 — 注册表侧完成 ===
+Latest: 4176803 chore: v2.1.0 final — README下一步更新 + 完整收尾
+
+=== primaryBoard 分布 ===
+  cie: 105
+  both: 88
+  edx: 10
+
+=== 路线 boardFilter ===
+  cie-core-geometry              boardFilter=['cie', 'both']
+  cie-core-number                boardFilter=['cie', 'both']
+  cie-extended-algebra           boardFilter=['cie', 'both']
+  cie-recovery-algebra           boardFilter=['cie', 'both']
+  cie-recovery-fractions         boardFilter=['cie', 'both']
+  cie-sprint-2weeks              boardFilter=['cie', 'both']
+  edx-foundation                 boardFilter=['edx', 'both']
+  edx-higher                     boardFilter=['edx', 'both']
+  hhk-y10                        boardFilter=['cie', 'both']
+  hhk-y11                        boardFilter=['cie', 'both']
+  hhk-y7                         boardFilter=['cie', 'both']
+  hhk-y8                         boardFilter=['cie', 'both']
+  hhk-y9                         boardFilter=['cie', 'both']
+
+=== 验证 ===
+=== Registry Validation ===
+
+✓ kn_id uniqueness: 203/203 unique
+✓ kn_id format: all 203 valid
+✓ DAG: no cycles detected (201 nodes, 272 edges)
+✓ Prerequisites valid: all 272 refs exist
+✓ KP map: 288/288 mapped
+✓ HHK map: 55/55 units mapped
+✓ Edexcel map: 6 chapters, 42 sections
+✓ Domains: all 203 valid
+✓ Versions: all 203 ≥ 1
+✓ Routes: 13 framework files
+✓ primaryBoard: {'cie': 105, 'both': 88, 'edx': 10}
+✓ Route boardFilter: all route nodes match primaryBoard
+
+========================================
+ALL CHECKS PASSED

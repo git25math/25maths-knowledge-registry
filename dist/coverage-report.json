@@ -1,7 +1,7 @@
 {
   "totalMetaNodes": 203,
-  "nodesInRoutes": 189,
-  "coveragePercent": 93.1,
+  "nodesInRoutes": 184,
+  "coveragePercent": 90.6,
   "routeStats": [
     {
       "id": "cie-core-geometry",
@@ -84,7 +84,21 @@
   ],
   "nodesNotInRoute": [
     {
+      "kn_id": "kn_0004",
+      "title_en": "Types of number",
+      "domain": "number",
+      "weight": "medium",
+      "reason": "optional"
+    },
+    {
       "kn_id": "kn_0005",
+      "title_en": "Types of number",
+      "domain": "number",
+      "weight": "medium",
+      "reason": "optional"
+    },
+    {
+      "kn_id": "kn_0007",
       "title_en": "Types of number",
       "domain": "number",
       "weight": "medium",
@@ -112,6 +126,13 @@
       "reason": "optional"
     },
     {
+      "kn_id": "kn_0045",
+      "title_en": "Estimation",
+      "domain": "number",
+      "weight": "medium",
+      "reason": "optional"
+    },
+    {
       "kn_id": "kn_0050",
       "title_en": "Limits of accuracy",
       "domain": "number",
@@ -121,6 +142,20 @@
     {
       "kn_id": "kn_0051",
       "title_en": "Limits of accuracy",
+      "domain": "number",
+      "weight": "medium",
+      "reason": "optional"
+    },
+    {
+      "kn_id": "kn_0055",
+      "title_en": "Ratio and proportion",
+      "domain": "number",
+      "weight": "medium",
+      "reason": "optional"
+    },
+    {
+      "kn_id": "kn_0069",
+      "title_en": "Percentages",
       "domain": "number",
       "weight": "medium",
       "reason": "optional"

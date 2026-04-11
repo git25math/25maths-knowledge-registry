@@ -129,8 +129,9 @@ See `schema/knowledge-node.schema.json` for the full type definition.
 ### P1 — 多考试局分离（所有产品首要任务）
 当前问题：CIE 和 Edexcel 节点在路线/地图/练习中混合显示
 解决方案：
-- [ ] kn-registry 节点加 primaryBoard 字段（cie/edx/both）
-- [ ] 路线文件加 board 过滤字段
+- [x] meta-nodes 加 `primaryBoard` 字段（cie=105 / edx=10 / both=88）
+- [x] 路线文件加 `boardFilter` 字段（cie-* → [cie,both]; edx-* → [edx,both]; hhk-* → [cie,both]）
+- [x] validate-registry 加 primaryBoard + boardFilter 对齐检查
 - [ ] Practice URL 路由：/cie/s1.4 vs /edx/ch1-u3
 - [ ] 题目编号格式：CIE cie.1.4.xx / Edexcel edx.ch1-u3.xx
 - [ ] KnowledgeMap board tab 筛选

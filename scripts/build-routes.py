@@ -457,6 +457,22 @@ def build_hhk_year(year, meta_nodes, meta_map, edges, hhk_map):
     return insert_milestones(nodes, f'hhk-y{year}')
 
 
+def infer_board_filter(route_id):
+    """Infer the board filter from a route id.
+
+    Used by Practice/KnowledgeMap/ExamHub to separate CIE vs Edexcel views.
+    Returns a list of accepted primaryBoard values.
+    """
+    if route_id.startswith('cie-'):
+        return ['cie', 'both']
+    elif route_id.startswith('edx-'):
+        return ['edx', 'both']
+    elif route_id.startswith('hhk-'):
+        # HHK校本课纲复用 CIE 大纲，所以接受 cie + both
+        return ['cie', 'both']
+    return ['cie', 'edx', 'both']
+
+
 def update_route_file(route_id, nodes, meta_map):
     """Update existing route JSON file with nodes and computed hours."""
     path = os.path.join(BASE, 'routes', f'{route_id}.json')
@@ -465,6 +481,7 @@ def update_route_file(route_id, nodes, meta_map):
 
     route['nodes'] = nodes
     route['estimatedHours'] = estimate_hours(nodes, meta_map)
+    route['boardFilter'] = infer_board_filter(route_id)
 
     with open(path, 'w') as f:
         json.dump(route, f, indent=2, ensure_ascii=False)

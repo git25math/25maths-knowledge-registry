@@ -204,12 +204,31 @@ def main():
         # Difficulty range
         diff_range = node.get('difficultyRange', [1, 3])
 
+        # Primary board classification:
+        #   'cie'  — CIE only (no Edexcel mapping)
+        #   'edx'  — Edexcel only (tagged edexcel-only OR kn_0289-kn_0298)
+        #   'both' — Present in both CIE and Edexcel
+        kn_num = int(kn_id.split('_')[1])
+        has_cie = 'cie_0580' in exam_boards
+        has_edx = 'edexcel_4ma1' in exam_boards
+        is_edx_only = 'edexcel-only' in node.get('tags', []) or 289 <= kn_num <= 298
+
+        if is_edx_only or (has_edx and not has_cie):
+            primary_board = 'edx'
+        elif has_cie and has_edx:
+            primary_board = 'both'
+        elif has_cie:
+            primary_board = 'cie'
+        else:
+            primary_board = 'cie'  # default fallback
+
         meta_node = {
             'kn_id': kn_id,
             'title_en': node.get('title_en', ''),
             'title_zh': node.get('title_zh', ''),
             'domain': domain,
             'subdomain': node.get('subdomain', ''),
+            'primaryBoard': primary_board,
 
             'examBoards': exam_boards,
 
@@ -257,10 +276,18 @@ def main():
     foundational = len([n for n in meta_nodes if n['learning']['isFoundational']])
     with_prereqs = len([n for n in meta_nodes if n['prerequisites']])
 
+    # Primary board breakdown
+    board_counts = defaultdict(int)
+    for n in meta_nodes:
+        board_counts[n['primaryBoard']] += 1
+
     print(f"Total meta nodes: {total}")
     print(f"With CIE mapping: {len([n for n in meta_nodes if 'cie_0580' in n['examBoards']])}")
     print(f"With HHK mapping: {with_hhk}")
     print(f"With Edexcel mapping: {with_edx}")
+    print(f"Primary board breakdown:")
+    for board in ('cie', 'edx', 'both'):
+        print(f"  {board}: {board_counts.get(board, 0)}")
     print(f"Foundational (leadsTo >= 5): {foundational}")
     print(f"With prerequisites: {with_prereqs}")
     print(f"\nOutput: {out_path}")

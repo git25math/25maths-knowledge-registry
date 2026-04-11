@@ -125,6 +125,47 @@ def main():
     route_files = [f for f in os.listdir(os.path.join(BASE, 'routes')) if f.endswith('.json')]
     print(f"✓ Routes: {len(route_files)} framework files")
 
+    # 11. primaryBoard + boardFilter sanity (only if dist/meta-nodes.json exists)
+    meta_path = os.path.join(BASE, 'dist', 'meta-nodes.json')
+    if os.path.exists(meta_path):
+        with open(meta_path) as f:
+            meta = json.load(f)
+
+        VALID_BOARDS = {'cie', 'edx', 'both'}
+        bad_primary = [m['kn_id'] for m in meta if m.get('primaryBoard') not in VALID_BOARDS]
+        if bad_primary:
+            errors.append(f"Invalid primaryBoard: {bad_primary[:5]}...")
+            print(f"✗ primaryBoard: {len(bad_primary)} invalid")
+        else:
+            board_counts = defaultdict(int)
+            for m in meta:
+                board_counts[m['primaryBoard']] += 1
+            print(f"✓ primaryBoard: {dict(board_counts)}")
+
+        # Check route boardFilter alignment — every route node's primaryBoard
+        # must be in the route's boardFilter allowlist.
+        meta_map = {m['kn_id']: m for m in meta}
+        route_mismatch = []
+        for rf in route_files:
+            with open(os.path.join(BASE, 'routes', rf)) as f:
+                route = json.load(f)
+            board_filter = route.get('boardFilter', ['cie', 'edx', 'both'])
+            for node in route.get('nodes', []):
+                if node.get('milestone'):
+                    continue
+                kn_id = node.get('kn_id', '')
+                mn = meta_map.get(kn_id)
+                if mn and mn.get('primaryBoard') not in board_filter:
+                    route_mismatch.append(f"{rf}:{kn_id}({mn['primaryBoard']})")
+
+        if route_mismatch:
+            warnings.append(f"{len(route_mismatch)} route nodes fail boardFilter")
+            print(f"⚠ Route boardFilter: {len(route_mismatch)} mismatches")
+            for m in route_mismatch[:5]:
+                print(f"    {m}")
+        else:
+            print(f"✓ Route boardFilter: all route nodes match primaryBoard")
+
     # Summary
     print(f"\n{'=' * 40}")
     if errors:
@@ -139,7 +180,7 @@ def main():
         for w in warnings:
             print(f"  WARN: {w}")
     else:
-        print(f"ALL {10} CHECKS PASSED")
+        print(f"ALL CHECKS PASSED")
 
 
 if __name__ == '__main__':
