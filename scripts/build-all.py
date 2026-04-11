@@ -56,8 +56,9 @@ def main():
     steps = [
         ('build-meta-nodes.py', 'Step 1: Build meta-nodes.json'),
         ('build-routes.py', 'Step 2: Fill 13 routes'),
-        ('validate-registry.py', 'Step 3: Validate registry'),
-        ('check-coverage.py', 'Step 4: Coverage report'),
+        ('build-board-indexes.py', 'Step 3: Board indexes (P1)'),
+        ('validate-registry.py', 'Step 4: Validate registry'),
+        ('check-coverage.py', 'Step 5: Coverage report'),
     ]
 
     for script, desc in steps:
@@ -68,9 +69,9 @@ def main():
             else:
                 sys.exit(1)
 
-    # Step 5: Compile routes
+    # Step 6: Compile routes
     print(f"\n{'='*60}")
-    print(f"  Step 5: Compile routes")
+    print(f"  Step 6: Compile routes")
     print(f"{'='*60}\n")
     compile_routes()
 

@@ -140,13 +140,6 @@
       "reason": "optional"
     },
     {
-      "kn_id": "kn_0051",
-      "title_en": "Limits of accuracy",
-      "domain": "number",
-      "weight": "medium",
-      "reason": "optional"
-    },
-    {
       "kn_id": "kn_0055",
       "title_en": "Ratio and proportion",
       "domain": "number",
@@ -178,6 +171,13 @@
       "kn_id": "kn_0092",
       "title_en": "Algebraic manipulation",
       "domain": "algebra",
+      "weight": "medium",
+      "reason": "optional"
+    },
+    {
+      "kn_id": "kn_0160",
+      "title_en": "Conditional probability",
+      "domain": "probability",
       "weight": "medium",
       "reason": "optional"
     },

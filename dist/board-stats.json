@@ -1,0 +1,29 @@
+{
+  "cie": {
+    "total": 105,
+    "domains": {
+      "number": 33,
+      "algebra": 25,
+      "geometry": 25,
+      "probability": 6,
+      "statistics": 16
+    }
+  },
+  "edx": {
+    "total": 10,
+    "domains": {
+      "algebra": 3,
+      "number": 2,
+      "geometry": 4,
+      "statistics": 1
+    }
+  },
+  "both": {
+    "total": 88,
+    "domains": {
+      "number": 23,
+      "algebra": 29,
+      "geometry": 36
+    }
+  }
+}

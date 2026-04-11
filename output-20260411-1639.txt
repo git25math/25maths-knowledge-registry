@@ -1,0 +1,39 @@
+=== P1 数据产物 + dag-utils 去重 ===
+Latest: 0454cf6 feat: P1 多考试局分离 — primaryBoard + boardFilter
+
+=== 新增 dist/ 产物 ===
+  dist/nodes-by-board.json: 110530 bytes
+  dist/question-id-map.json: 10657 bytes
+  dist/board-stats.json: 426 bytes
+
+=== nodes-by-board.json 概览 ===
+  cie_only: 105
+  edx_only: 10
+  both: 88
+  cie_view: 193
+  edx_view: 98
+
+=== question-id-map.json 样例 ===
+  kn_0001: {'cie': 'cie.1.1'}
+  kn_0042: {'cie': 'cie.1.9', 'edx': 'edx.ch1-u6'}
+  kn_0083: {'cie': 'cie.2.1'}
+  kn_0289: {'edx': 'edx.sec-3.1'}
+
+=== 验证 ===
+=== Registry Validation ===
+
+✓ kn_id uniqueness: 203/203 unique
+✓ kn_id format: all 203 valid
+✓ DAG: no cycles detected (201 nodes, 272 edges)
+✓ Prerequisites valid: all 272 refs exist
+✓ KP map: 288/288 mapped
+✓ HHK map: 55/55 units mapped
+✓ Edexcel map: 6 chapters, 42 sections
+✓ Domains: all 203 valid
+✓ Versions: all 203 ≥ 1
+✓ Routes: 13 framework files
+✓ primaryBoard: {'cie': 105, 'both': 88, 'edx': 10}
+✓ Route boardFilter: all route nodes match primaryBoard
+
+========================================
+ALL CHECKS PASSED

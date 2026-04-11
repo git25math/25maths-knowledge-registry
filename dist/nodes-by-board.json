@@ -1,0 +1,5446 @@
+{
+  "cie_view": [
+    {
+      "kn_id": "kn_0001",
+      "title_en": "Types of number",
+      "title_zh": "数的类型",
+      "domain": "number",
+      "subdomain": "s1.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0002",
+      "title_en": "Types of number",
+      "title_zh": "数的类型",
+      "domain": "number",
+      "subdomain": "s1.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0003",
+      "title_en": "Types of number",
+      "title_zh": "数的类型",
+      "domain": "number",
+      "subdomain": "s1.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0004",
+      "title_en": "Types of number",
+      "title_zh": "数的类型",
+      "domain": "number",
+      "subdomain": "s1.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0005",
+      "title_en": "Types of number",
+      "title_zh": "数的类型",
+      "domain": "number",
+      "subdomain": "s1.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0007",
+      "title_en": "Types of number",
+      "title_zh": "数的类型",
+      "domain": "number",
+      "subdomain": "s1.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0008",
+      "title_en": "Types of number",
+      "title_zh": "数的类型",
+      "domain": "number",
+      "subdomain": "s1.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0009",
+      "title_en": "Types of number",
+      "title_zh": "数的类型",
+      "domain": "number",
+      "subdomain": "s1.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0011",
+      "title_en": "Types of number",
+      "title_zh": "数的类型",
+      "domain": "number",
+      "subdomain": "s1.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0012",
+      "title_en": "Sets",
+      "title_zh": "集合与韦恩图",
+      "domain": "number",
+      "subdomain": "s1.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0013",
+      "title_en": "Sets",
+      "title_zh": "集合与韦恩图",
+      "domain": "number",
+      "subdomain": "s1.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0014",
+      "title_en": "Powers and roots",
+      "title_zh": "幂与根",
+      "domain": "number",
+      "subdomain": "s1.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0015",
+      "title_en": "Powers and roots",
+      "title_zh": "幂与根",
+      "domain": "number",
+      "subdomain": "s1.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0016",
+      "title_en": "Indices I",
+      "title_zh": "指数法则I",
+      "domain": "number",
+      "subdomain": "s1.7",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0018",
+      "title_en": "Indices I",
+      "title_zh": "指数法则I",
+      "domain": "number",
+      "subdomain": "s1.7",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0019",
+      "title_en": "Powers and roots",
+      "title_zh": "幂与根",
+      "domain": "number",
+      "subdomain": "s1.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0020",
+      "title_en": "Fractions, decimals, percentages",
+      "title_zh": "分数、小数、百分数",
+      "domain": "number",
+      "subdomain": "s1.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0027",
+      "title_en": "Fractions, decimals, percentages",
+      "title_zh": "分数、小数、百分数",
+      "domain": "number",
+      "subdomain": "s1.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0030",
+      "title_en": "Fractions, decimals, percentages",
+      "title_zh": "分数、小数、百分数",
+      "domain": "number",
+      "subdomain": "s1.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0031",
+      "title_en": "Fractions, decimals, percentages",
+      "title_zh": "分数、小数、百分数",
+      "domain": "number",
+      "subdomain": "s1.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0032",
+      "title_en": "The four operations",
+      "title_zh": "四则运算",
+      "domain": "number",
+      "subdomain": "s1.6",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0033",
+      "title_en": "The four operations",
+      "title_zh": "四则运算",
+      "domain": "number",
+      "subdomain": "s1.6",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0034",
+      "title_en": "The four operations",
+      "title_zh": "四则运算",
+      "domain": "number",
+      "subdomain": "s1.6",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0036",
+      "title_en": "Standard form",
+      "title_zh": "标准式",
+      "domain": "number",
+      "subdomain": "s1.8",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0037",
+      "title_en": "Standard form",
+      "title_zh": "标准式",
+      "domain": "number",
+      "subdomain": "s1.8",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0042",
+      "title_en": "Estimation",
+      "title_zh": "估算",
+      "domain": "number",
+      "subdomain": "s1.9",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0043",
+      "title_en": "Estimation",
+      "title_zh": "估算",
+      "domain": "number",
+      "subdomain": "s1.9",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0044",
+      "title_en": "Estimation",
+      "title_zh": "估算",
+      "domain": "number",
+      "subdomain": "s1.9",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0045",
+      "title_en": "Estimation",
+      "title_zh": "估算",
+      "domain": "number",
+      "subdomain": "s1.9",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0046",
+      "title_en": "Limits of accuracy",
+      "title_zh": "精度范围",
+      "domain": "number",
+      "subdomain": "s1.10",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0047",
+      "title_en": "Limits of accuracy",
+      "title_zh": "精度范围",
+      "domain": "number",
+      "subdomain": "s1.10",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0048",
+      "title_en": "Limits of accuracy",
+      "title_zh": "精度范围",
+      "domain": "number",
+      "subdomain": "s1.10",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0050",
+      "title_en": "Limits of accuracy",
+      "title_zh": "精度范围",
+      "domain": "number",
+      "subdomain": "s1.10",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0051",
+      "title_en": "Limits of accuracy",
+      "title_zh": "精度范围",
+      "domain": "number",
+      "subdomain": "s1.10",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0052",
+      "title_en": "Ratio and proportion",
+      "title_zh": "比与比例",
+      "domain": "number",
+      "subdomain": "s1.11",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0053",
+      "title_en": "Ratio and proportion",
+      "title_zh": "比与比例",
+      "domain": "number",
+      "subdomain": "s1.11",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0054",
+      "title_en": "Ratio and proportion",
+      "title_zh": "比与比例",
+      "domain": "number",
+      "subdomain": "s1.11",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0055",
+      "title_en": "Ratio and proportion",
+      "title_zh": "比与比例",
+      "domain": "number",
+      "subdomain": "s1.11",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0056",
+      "title_en": "Rates",
+      "title_zh": "速率",
+      "domain": "number",
+      "subdomain": "s1.12",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0057",
+      "title_en": "Rates",
+      "title_zh": "速率",
+      "domain": "number",
+      "subdomain": "s1.12",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0058",
+      "title_en": "Rates",
+      "title_zh": "速率",
+      "domain": "number",
+      "subdomain": "s1.12",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0062",
+      "title_en": "Percentages",
+      "title_zh": "百分数应用",
+      "domain": "number",
+      "subdomain": "s1.13",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0064",
+      "title_en": "Percentages",
+      "title_zh": "百分数应用",
+      "domain": "number",
+      "subdomain": "s1.13",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0067",
+      "title_en": "Percentages",
+      "title_zh": "百分数应用",
+      "domain": "number",
+      "subdomain": "s1.13",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0068",
+      "title_en": "Money",
+      "title_zh": "货币",
+      "domain": "number",
+      "subdomain": "s1.16",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0069",
+      "title_en": "Percentages",
+      "title_zh": "百分数应用",
+      "domain": "number",
+      "subdomain": "s1.13",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0070",
+      "title_en": "Exponential growth and decay",
+      "title_zh": "指数增长与衰减",
+      "domain": "number",
+      "subdomain": "s1.17",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0073",
+      "title_en": "Time",
+      "title_zh": "时间",
+      "domain": "number",
+      "subdomain": "s1.15",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0075",
+      "title_en": "Time",
+      "title_zh": "时间",
+      "domain": "number",
+      "subdomain": "s1.15",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0077",
+      "title_en": "Time",
+      "title_zh": "时间",
+      "domain": "number",
+      "subdomain": "s1.15",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0078",
+      "title_en": "Money",
+      "title_zh": "货币",
+      "domain": "number",
+      "subdomain": "s1.16",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0083",
+      "title_en": "Introduction to algebra",
+      "title_zh": "代数入门",
+      "domain": "algebra",
+      "subdomain": "s2.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0084",
+      "title_en": "Introduction to algebra",
+      "title_zh": "代数入门",
+      "domain": "algebra",
+      "subdomain": "s2.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0085",
+      "title_en": "Algebraic manipulation",
+      "title_zh": "代数运算",
+      "domain": "algebra",
+      "subdomain": "s2.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0086",
+      "title_en": "Algebraic manipulation",
+      "title_zh": "代数运算",
+      "domain": "algebra",
+      "subdomain": "s2.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0087",
+      "title_en": "Algebraic manipulation",
+      "title_zh": "代数运算",
+      "domain": "algebra",
+      "subdomain": "s2.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0089",
+      "title_en": "Algebraic manipulation",
+      "title_zh": "代数运算",
+      "domain": "algebra",
+      "subdomain": "s2.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0090",
+      "title_en": "Algebraic manipulation",
+      "title_zh": "代数运算",
+      "domain": "algebra",
+      "subdomain": "s2.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0091",
+      "title_en": "Algebraic manipulation",
+      "title_zh": "代数运算",
+      "domain": "algebra",
+      "subdomain": "s2.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0092",
+      "title_en": "Algebraic manipulation",
+      "title_zh": "代数运算",
+      "domain": "algebra",
+      "subdomain": "s2.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0093",
+      "title_en": "Algebraic manipulation",
+      "title_zh": "代数运算",
+      "domain": "algebra",
+      "subdomain": "s2.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0094",
+      "title_en": "Algebraic manipulation",
+      "title_zh": "代数运算",
+      "domain": "algebra",
+      "subdomain": "s2.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0095",
+      "title_en": "Algebraic manipulation",
+      "title_zh": "代数运算",
+      "domain": "algebra",
+      "subdomain": "s2.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0096",
+      "title_en": "Algebraic manipulation",
+      "title_zh": "代数运算",
+      "domain": "algebra",
+      "subdomain": "s2.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0097",
+      "title_en": "Algebraic fractions",
+      "title_zh": "代数分式",
+      "domain": "algebra",
+      "subdomain": "s2.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0098",
+      "title_en": "Algebraic fractions",
+      "title_zh": "代数分式",
+      "domain": "algebra",
+      "subdomain": "s2.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0099",
+      "title_en": "Indices II",
+      "title_zh": "指数法则II",
+      "domain": "algebra",
+      "subdomain": "s2.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0100",
+      "title_en": "Indices II",
+      "title_zh": "指数法则II",
+      "domain": "algebra",
+      "subdomain": "s2.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0101",
+      "title_en": "Indices II",
+      "title_zh": "指数法则II",
+      "domain": "algebra",
+      "subdomain": "s2.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0103",
+      "title_en": "Equations",
+      "title_zh": "方程",
+      "domain": "algebra",
+      "subdomain": "s2.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0104",
+      "title_en": "Equations",
+      "title_zh": "方程",
+      "domain": "algebra",
+      "subdomain": "s2.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0105",
+      "title_en": "Equations",
+      "title_zh": "方程",
+      "domain": "algebra",
+      "subdomain": "s2.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0106",
+      "title_en": "Equations",
+      "title_zh": "方程",
+      "domain": "algebra",
+      "subdomain": "s2.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0107",
+      "title_en": "Equations",
+      "title_zh": "方程",
+      "domain": "algebra",
+      "subdomain": "s2.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0108",
+      "title_en": "Equations",
+      "title_zh": "方程",
+      "domain": "algebra",
+      "subdomain": "s2.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0109",
+      "title_en": "Equations",
+      "title_zh": "方程",
+      "domain": "algebra",
+      "subdomain": "s2.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0110",
+      "title_en": "Equations",
+      "title_zh": "方程",
+      "domain": "algebra",
+      "subdomain": "s2.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0111",
+      "title_en": "Inequalities",
+      "title_zh": "不等式",
+      "domain": "algebra",
+      "subdomain": "s2.6",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0112",
+      "title_en": "Inequalities",
+      "title_zh": "不等式",
+      "domain": "algebra",
+      "subdomain": "s2.6",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0113",
+      "title_en": "Sequences",
+      "title_zh": "数列",
+      "domain": "algebra",
+      "subdomain": "s2.7",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0114",
+      "title_en": "Sequences",
+      "title_zh": "数列",
+      "domain": "algebra",
+      "subdomain": "s2.7",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0115",
+      "title_en": "Sequences",
+      "title_zh": "数列",
+      "domain": "algebra",
+      "subdomain": "s2.7",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0116",
+      "title_en": "Sequences",
+      "title_zh": "数列",
+      "domain": "algebra",
+      "subdomain": "s2.7",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0117",
+      "title_en": "Sequences",
+      "title_zh": "数列",
+      "domain": "algebra",
+      "subdomain": "s2.7",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0120",
+      "title_en": "Proportion",
+      "title_zh": "正反比例",
+      "domain": "algebra",
+      "subdomain": "s2.8",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0121",
+      "title_en": "Proportion",
+      "title_zh": "正反比例",
+      "domain": "algebra",
+      "subdomain": "s2.8",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0122",
+      "title_en": "Proportion",
+      "title_zh": "正反比例",
+      "domain": "algebra",
+      "subdomain": "s2.8",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0123",
+      "title_en": "Proportion",
+      "title_zh": "正反比例",
+      "domain": "algebra",
+      "subdomain": "s2.8",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0124",
+      "title_en": "Graphs in practical situations",
+      "title_zh": "实际问题图像",
+      "domain": "algebra",
+      "subdomain": "s2.9",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0125",
+      "title_en": "Graphs in practical situations",
+      "title_zh": "实际问题图像",
+      "domain": "algebra",
+      "subdomain": "s2.9",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0126",
+      "title_en": "Graphs in practical situations",
+      "title_zh": "实际问题图像",
+      "domain": "algebra",
+      "subdomain": "s2.9",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0127",
+      "title_en": "Graphs of functions",
+      "title_zh": "函数图像",
+      "domain": "algebra",
+      "subdomain": "s2.10",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0129",
+      "title_en": "Graphs of functions",
+      "title_zh": "函数图像",
+      "domain": "algebra",
+      "subdomain": "s2.10",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0130",
+      "title_en": "Graphs of functions",
+      "title_zh": "函数图像",
+      "domain": "algebra",
+      "subdomain": "s2.10",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0131",
+      "title_en": "Sketching curves",
+      "title_zh": "曲线草图",
+      "domain": "algebra",
+      "subdomain": "s2.11",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0132",
+      "title_en": "Sketching curves",
+      "title_zh": "曲线草图",
+      "domain": "algebra",
+      "subdomain": "s2.11",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0133",
+      "title_en": "Sketching curves",
+      "title_zh": "曲线草图",
+      "domain": "algebra",
+      "subdomain": "s2.11",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0134",
+      "title_en": "Functions",
+      "title_zh": "函数",
+      "domain": "algebra",
+      "subdomain": "s2.13",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0135",
+      "title_en": "Functions",
+      "title_zh": "函数",
+      "domain": "algebra",
+      "subdomain": "s2.13",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0136",
+      "title_en": "Functions",
+      "title_zh": "函数",
+      "domain": "algebra",
+      "subdomain": "s2.13",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0137",
+      "title_en": "Coordinates",
+      "title_zh": "坐标",
+      "domain": "geometry",
+      "subdomain": "s3.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0138",
+      "title_en": "Length and midpoint",
+      "title_zh": "长度与中点",
+      "domain": "geometry",
+      "subdomain": "s3.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0139",
+      "title_en": "Length and midpoint",
+      "title_zh": "长度与中点",
+      "domain": "geometry",
+      "subdomain": "s3.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0140",
+      "title_en": "Gradient of linear graphs",
+      "title_zh": "线性图像斜率",
+      "domain": "geometry",
+      "subdomain": "s3.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0141",
+      "title_en": "Drawing linear graphs",
+      "title_zh": "画线性图像",
+      "domain": "geometry",
+      "subdomain": "s3.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0142",
+      "title_en": "Perpendicular lines",
+      "title_zh": "垂直线",
+      "domain": "geometry",
+      "subdomain": "s3.7",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0145",
+      "title_en": "Angles",
+      "title_zh": "角",
+      "domain": "geometry",
+      "subdomain": "s4.6",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0146",
+      "title_en": "Angles",
+      "title_zh": "角",
+      "domain": "geometry",
+      "subdomain": "s4.6",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0148",
+      "title_en": "Angles",
+      "title_zh": "角",
+      "domain": "geometry",
+      "subdomain": "s4.6",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0149",
+      "title_en": "Angles",
+      "title_zh": "角",
+      "domain": "geometry",
+      "subdomain": "s4.6",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0150",
+      "title_en": "Circles, arcs and sectors",
+      "title_zh": "圆、弧与扇形",
+      "domain": "geometry",
+      "subdomain": "s5.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0151",
+      "title_en": "Circles, arcs and sectors",
+      "title_zh": "圆、弧与扇形",
+      "domain": "geometry",
+      "subdomain": "s5.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0153",
+      "title_en": "Trigonometric functions",
+      "title_zh": "三角函数",
+      "domain": "geometry",
+      "subdomain": "s6.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0154",
+      "title_en": "Trigonometric functions",
+      "title_zh": "三角函数",
+      "domain": "geometry",
+      "subdomain": "s6.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0155",
+      "title_en": "Introduction to probability",
+      "title_zh": "概率入门",
+      "domain": "probability",
+      "subdomain": "s8.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0156",
+      "title_en": "Introduction to probability",
+      "title_zh": "概率入门",
+      "domain": "probability",
+      "subdomain": "s8.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0157",
+      "title_en": "Relative and expected frequencies",
+      "title_zh": "相对频率与期望频率",
+      "domain": "probability",
+      "subdomain": "s8.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0158",
+      "title_en": "Combined events",
+      "title_zh": "组合事件",
+      "domain": "probability",
+      "subdomain": "s8.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0160",
+      "title_en": "Conditional probability",
+      "title_zh": "条件概率",
+      "domain": "probability",
+      "subdomain": "s8.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0161",
+      "title_en": "Conditional probability",
+      "title_zh": "条件概率",
+      "domain": "probability",
+      "subdomain": "s8.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0162",
+      "title_en": "Classifying and tabulating data",
+      "title_zh": "数据分类与列表",
+      "domain": "statistics",
+      "subdomain": "s9.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0163",
+      "title_en": "Averages and measures of spread",
+      "title_zh": "平均数与离散度",
+      "domain": "statistics",
+      "subdomain": "s9.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0164",
+      "title_en": "Averages and measures of spread",
+      "title_zh": "平均数与离散度",
+      "domain": "statistics",
+      "subdomain": "s9.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0165",
+      "title_en": "Averages and measures of spread",
+      "title_zh": "平均数与离散度",
+      "domain": "statistics",
+      "subdomain": "s9.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0166",
+      "title_en": "Averages and measures of spread",
+      "title_zh": "平均数与离散度",
+      "domain": "statistics",
+      "subdomain": "s9.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0167",
+      "title_en": "Averages and measures of spread",
+      "title_zh": "平均数与离散度",
+      "domain": "statistics",
+      "subdomain": "s9.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0168",
+      "title_en": "Scatter diagrams and correlation",
+      "title_zh": "散点图与相关性",
+      "domain": "statistics",
+      "subdomain": "s9.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0169",
+      "title_en": "Scatter diagrams and correlation",
+      "title_zh": "散点图与相关性",
+      "domain": "statistics",
+      "subdomain": "s9.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0303",
+      "title_en": "Equations",
+      "title_zh": "方程",
+      "domain": "algebra",
+      "subdomain": "s2.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0307",
+      "title_en": "Algebraic fractions",
+      "title_zh": "代数分式",
+      "domain": "algebra",
+      "subdomain": "s2.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0309",
+      "title_en": "Algebraic fractions",
+      "title_zh": "代数分式",
+      "domain": "algebra",
+      "subdomain": "s2.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0311",
+      "title_en": "The four operations",
+      "title_zh": "四则运算",
+      "domain": "number",
+      "subdomain": "s1.6",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0313",
+      "title_en": "Knowledge node from topic 6.1",
+      "title_zh": "知识节点 6.1",
+      "domain": "geometry",
+      "subdomain": "s6.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0314",
+      "title_en": "Knowledge node from topic 6.1",
+      "title_zh": "知识节点 6.1",
+      "domain": "geometry",
+      "subdomain": "s6.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0317",
+      "title_en": "Circle theorems",
+      "title_zh": "圆定理",
+      "domain": "geometry",
+      "subdomain": "s4.7",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0318",
+      "title_en": "Circle theorems",
+      "title_zh": "圆定理",
+      "domain": "geometry",
+      "subdomain": "s4.7",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0319",
+      "title_en": "Circle theorems",
+      "title_zh": "圆定理",
+      "domain": "geometry",
+      "subdomain": "s4.7",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0320",
+      "title_en": "Circle theorems",
+      "title_zh": "圆定理",
+      "domain": "geometry",
+      "subdomain": "s4.7",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0322",
+      "title_en": "Vectors in 2D",
+      "title_zh": "二维向量",
+      "domain": "geometry",
+      "subdomain": "s7.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0323",
+      "title_en": "Vectors in 2D",
+      "title_zh": "二维向量",
+      "domain": "geometry",
+      "subdomain": "s7.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0324",
+      "title_en": "Vector geometry",
+      "title_zh": "向量几何",
+      "domain": "geometry",
+      "subdomain": "s7.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0325",
+      "title_en": "Vectors in 2D",
+      "title_zh": "二维向量",
+      "domain": "geometry",
+      "subdomain": "s7.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0326",
+      "title_en": "Right-angled triangles",
+      "title_zh": "直角三角形",
+      "domain": "geometry",
+      "subdomain": "s6.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0327",
+      "title_en": "Right-angled triangles",
+      "title_zh": "直角三角形",
+      "domain": "geometry",
+      "subdomain": "s6.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0328",
+      "title_en": "Right-angled triangles",
+      "title_zh": "直角三角形",
+      "domain": "geometry",
+      "subdomain": "s6.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0329",
+      "title_en": "Area and perimeter",
+      "title_zh": "面积与周长",
+      "domain": "geometry",
+      "subdomain": "s5.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0330",
+      "title_en": "Circles, arcs and sectors",
+      "title_zh": "圆、弧与扇形",
+      "domain": "geometry",
+      "subdomain": "s5.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0343",
+      "title_en": "Ordering",
+      "title_zh": "排序",
+      "domain": "number",
+      "subdomain": "s1.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0344",
+      "title_en": "Ordering",
+      "title_zh": "排序",
+      "domain": "number",
+      "subdomain": "s1.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0345",
+      "title_en": "Using a calculator",
+      "title_zh": "计算器使用",
+      "domain": "number",
+      "subdomain": "s1.14",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0346",
+      "title_en": "Surds",
+      "title_zh": "根式",
+      "domain": "number",
+      "subdomain": "s1.18",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0347",
+      "title_en": "Differentiation",
+      "title_zh": "微分",
+      "domain": "algebra",
+      "subdomain": "s2.12",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0348",
+      "title_en": "Differentiation",
+      "title_zh": "微分",
+      "domain": "algebra",
+      "subdomain": "s2.12",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0349",
+      "title_en": "Geometrical terms",
+      "title_zh": "几何术语",
+      "domain": "geometry",
+      "subdomain": "s4.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0350",
+      "title_en": "Geometrical terms",
+      "title_zh": "几何术语",
+      "domain": "geometry",
+      "subdomain": "s4.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0351",
+      "title_en": "Geometrical constructions",
+      "title_zh": "几何作图",
+      "domain": "geometry",
+      "subdomain": "s4.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0352",
+      "title_en": "Geometrical constructions",
+      "title_zh": "几何作图",
+      "domain": "geometry",
+      "subdomain": "s4.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0353",
+      "title_en": "Scale drawings and bearings",
+      "title_zh": "比例图与方位角",
+      "domain": "geometry",
+      "subdomain": "s4.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0354",
+      "title_en": "Scale drawings and bearings",
+      "title_zh": "比例图与方位角",
+      "domain": "geometry",
+      "subdomain": "s4.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0355",
+      "title_en": "Symmetry",
+      "title_zh": "对称",
+      "domain": "geometry",
+      "subdomain": "s4.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0356",
+      "title_en": "Symmetry",
+      "title_zh": "对称",
+      "domain": "geometry",
+      "subdomain": "s4.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0357",
+      "title_en": "Constructions and loci",
+      "title_zh": "作图与轨迹",
+      "domain": "geometry",
+      "subdomain": "s4.8",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0358",
+      "title_en": "Constructions and loci",
+      "title_zh": "作图与轨迹",
+      "domain": "geometry",
+      "subdomain": "s4.8",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0359",
+      "title_en": "Units of measure",
+      "title_zh": "计量单位",
+      "domain": "geometry",
+      "subdomain": "s5.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0360",
+      "title_en": "Units of measure",
+      "title_zh": "计量单位",
+      "domain": "geometry",
+      "subdomain": "s5.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0361",
+      "title_en": "Surface area and volume",
+      "title_zh": "表面积与体积",
+      "domain": "geometry",
+      "subdomain": "s5.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0362",
+      "title_en": "Surface area and volume",
+      "title_zh": "表面积与体积",
+      "domain": "geometry",
+      "subdomain": "s5.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0363",
+      "title_en": "Surface area and volume",
+      "title_zh": "表面积与体积",
+      "domain": "geometry",
+      "subdomain": "s5.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0364",
+      "title_en": "Surface area and volume",
+      "title_zh": "表面积与体积",
+      "domain": "geometry",
+      "subdomain": "s5.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0365",
+      "title_en": "Compound shapes",
+      "title_zh": "组合图形",
+      "domain": "geometry",
+      "subdomain": "s5.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0366",
+      "title_en": "Exact trigonometric values",
+      "title_zh": "三角精确值",
+      "domain": "geometry",
+      "subdomain": "s6.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0367",
+      "title_en": "Non-right-angled triangles",
+      "title_zh": "非直角三角形",
+      "domain": "geometry",
+      "subdomain": "s6.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0368",
+      "title_en": "Non-right-angled triangles",
+      "title_zh": "非直角三角形",
+      "domain": "geometry",
+      "subdomain": "s6.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0369",
+      "title_en": "Non-right-angled triangles",
+      "title_zh": "非直角三角形",
+      "domain": "geometry",
+      "subdomain": "s6.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0370",
+      "title_en": "3D trigonometry",
+      "title_zh": "三维三角",
+      "domain": "geometry",
+      "subdomain": "s6.6",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0371",
+      "title_en": "3D trigonometry",
+      "title_zh": "三维三角",
+      "domain": "geometry",
+      "subdomain": "s6.6",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0372",
+      "title_en": "Transformations",
+      "title_zh": "变换",
+      "domain": "geometry",
+      "subdomain": "s7.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0373",
+      "title_en": "Transformations",
+      "title_zh": "变换",
+      "domain": "geometry",
+      "subdomain": "s7.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0374",
+      "title_en": "Transformations",
+      "title_zh": "变换",
+      "domain": "geometry",
+      "subdomain": "s7.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0375",
+      "title_en": "Transformations",
+      "title_zh": "变换",
+      "domain": "geometry",
+      "subdomain": "s7.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0377",
+      "title_en": "Transformations",
+      "title_zh": "变换",
+      "domain": "geometry",
+      "subdomain": "s7.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0380",
+      "title_en": "Interpreting statistical data",
+      "title_zh": "数据解读",
+      "domain": "statistics",
+      "subdomain": "s9.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0381",
+      "title_en": "Interpreting statistical data",
+      "title_zh": "数据解读",
+      "domain": "statistics",
+      "subdomain": "s9.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0382",
+      "title_en": "Statistical charts and diagrams",
+      "title_zh": "统计图表",
+      "domain": "statistics",
+      "subdomain": "s9.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0383",
+      "title_en": "Statistical charts and diagrams",
+      "title_zh": "统计图表",
+      "domain": "statistics",
+      "subdomain": "s9.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0384",
+      "title_en": "Statistical charts and diagrams",
+      "title_zh": "统计图表",
+      "domain": "statistics",
+      "subdomain": "s9.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0385",
+      "title_en": "Cumulative frequency",
+      "title_zh": "累积频率",
+      "domain": "statistics",
+      "subdomain": "s9.6",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0386",
+      "title_en": "Cumulative frequency",
+      "title_zh": "累积频率",
+      "domain": "statistics",
+      "subdomain": "s9.6",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0388",
+      "title_en": "Histograms",
+      "title_zh": "频率直方图",
+      "domain": "statistics",
+      "subdomain": "s9.7",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0390",
+      "title_en": "Similarity and congruence",
+      "title_zh": "相似与全等",
+      "domain": "geometry",
+      "subdomain": "s4.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0391",
+      "title_en": "Similarity and congruence",
+      "title_zh": "相似与全等",
+      "domain": "geometry",
+      "subdomain": "s4.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0392",
+      "title_en": "Similarity and congruence",
+      "title_zh": "相似与全等",
+      "domain": "geometry",
+      "subdomain": "s4.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0393",
+      "title_en": "Similarity and congruence",
+      "title_zh": "相似与全等",
+      "domain": "geometry",
+      "subdomain": "s4.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    }
+  ],
+  "edx_view": [
+    {
+      "kn_id": "kn_0012",
+      "title_en": "Sets",
+      "title_zh": "集合与韦恩图",
+      "domain": "number",
+      "subdomain": "s1.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0013",
+      "title_en": "Sets",
+      "title_zh": "集合与韦恩图",
+      "domain": "number",
+      "subdomain": "s1.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0014",
+      "title_en": "Powers and roots",
+      "title_zh": "幂与根",
+      "domain": "number",
+      "subdomain": "s1.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0015",
+      "title_en": "Powers and roots",
+      "title_zh": "幂与根",
+      "domain": "number",
+      "subdomain": "s1.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0016",
+      "title_en": "Indices I",
+      "title_zh": "指数法则I",
+      "domain": "number",
+      "subdomain": "s1.7",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0018",
+      "title_en": "Indices I",
+      "title_zh": "指数法则I",
+      "domain": "number",
+      "subdomain": "s1.7",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0019",
+      "title_en": "Powers and roots",
+      "title_zh": "幂与根",
+      "domain": "number",
+      "subdomain": "s1.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0020",
+      "title_en": "Fractions, decimals, percentages",
+      "title_zh": "分数、小数、百分数",
+      "domain": "number",
+      "subdomain": "s1.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0027",
+      "title_en": "Fractions, decimals, percentages",
+      "title_zh": "分数、小数、百分数",
+      "domain": "number",
+      "subdomain": "s1.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0030",
+      "title_en": "Fractions, decimals, percentages",
+      "title_zh": "分数、小数、百分数",
+      "domain": "number",
+      "subdomain": "s1.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0031",
+      "title_en": "Fractions, decimals, percentages",
+      "title_zh": "分数、小数、百分数",
+      "domain": "number",
+      "subdomain": "s1.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0032",
+      "title_en": "The four operations",
+      "title_zh": "四则运算",
+      "domain": "number",
+      "subdomain": "s1.6",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0033",
+      "title_en": "The four operations",
+      "title_zh": "四则运算",
+      "domain": "number",
+      "subdomain": "s1.6",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0034",
+      "title_en": "The four operations",
+      "title_zh": "四则运算",
+      "domain": "number",
+      "subdomain": "s1.6",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0036",
+      "title_en": "Standard form",
+      "title_zh": "标准式",
+      "domain": "number",
+      "subdomain": "s1.8",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0037",
+      "title_en": "Standard form",
+      "title_zh": "标准式",
+      "domain": "number",
+      "subdomain": "s1.8",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0042",
+      "title_en": "Estimation",
+      "title_zh": "估算",
+      "domain": "number",
+      "subdomain": "s1.9",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0043",
+      "title_en": "Estimation",
+      "title_zh": "估算",
+      "domain": "number",
+      "subdomain": "s1.9",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0044",
+      "title_en": "Estimation",
+      "title_zh": "估算",
+      "domain": "number",
+      "subdomain": "s1.9",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0045",
+      "title_en": "Estimation",
+      "title_zh": "估算",
+      "domain": "number",
+      "subdomain": "s1.9",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0085",
+      "title_en": "Algebraic manipulation",
+      "title_zh": "代数运算",
+      "domain": "algebra",
+      "subdomain": "s2.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0086",
+      "title_en": "Algebraic manipulation",
+      "title_zh": "代数运算",
+      "domain": "algebra",
+      "subdomain": "s2.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0087",
+      "title_en": "Algebraic manipulation",
+      "title_zh": "代数运算",
+      "domain": "algebra",
+      "subdomain": "s2.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0089",
+      "title_en": "Algebraic manipulation",
+      "title_zh": "代数运算",
+      "domain": "algebra",
+      "subdomain": "s2.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0090",
+      "title_en": "Algebraic manipulation",
+      "title_zh": "代数运算",
+      "domain": "algebra",
+      "subdomain": "s2.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0091",
+      "title_en": "Algebraic manipulation",
+      "title_zh": "代数运算",
+      "domain": "algebra",
+      "subdomain": "s2.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0092",
+      "title_en": "Algebraic manipulation",
+      "title_zh": "代数运算",
+      "domain": "algebra",
+      "subdomain": "s2.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0093",
+      "title_en": "Algebraic manipulation",
+      "title_zh": "代数运算",
+      "domain": "algebra",
+      "subdomain": "s2.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0094",
+      "title_en": "Algebraic manipulation",
+      "title_zh": "代数运算",
+      "domain": "algebra",
+      "subdomain": "s2.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0095",
+      "title_en": "Algebraic manipulation",
+      "title_zh": "代数运算",
+      "domain": "algebra",
+      "subdomain": "s2.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0096",
+      "title_en": "Algebraic manipulation",
+      "title_zh": "代数运算",
+      "domain": "algebra",
+      "subdomain": "s2.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0097",
+      "title_en": "Algebraic fractions",
+      "title_zh": "代数分式",
+      "domain": "algebra",
+      "subdomain": "s2.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0098",
+      "title_en": "Algebraic fractions",
+      "title_zh": "代数分式",
+      "domain": "algebra",
+      "subdomain": "s2.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0099",
+      "title_en": "Indices II",
+      "title_zh": "指数法则II",
+      "domain": "algebra",
+      "subdomain": "s2.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0100",
+      "title_en": "Indices II",
+      "title_zh": "指数法则II",
+      "domain": "algebra",
+      "subdomain": "s2.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0101",
+      "title_en": "Indices II",
+      "title_zh": "指数法则II",
+      "domain": "algebra",
+      "subdomain": "s2.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0111",
+      "title_en": "Inequalities",
+      "title_zh": "不等式",
+      "domain": "algebra",
+      "subdomain": "s2.6",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0112",
+      "title_en": "Inequalities",
+      "title_zh": "不等式",
+      "domain": "algebra",
+      "subdomain": "s2.6",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0113",
+      "title_en": "Sequences",
+      "title_zh": "数列",
+      "domain": "algebra",
+      "subdomain": "s2.7",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0114",
+      "title_en": "Sequences",
+      "title_zh": "数列",
+      "domain": "algebra",
+      "subdomain": "s2.7",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0115",
+      "title_en": "Sequences",
+      "title_zh": "数列",
+      "domain": "algebra",
+      "subdomain": "s2.7",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0116",
+      "title_en": "Sequences",
+      "title_zh": "数列",
+      "domain": "algebra",
+      "subdomain": "s2.7",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0117",
+      "title_en": "Sequences",
+      "title_zh": "数列",
+      "domain": "algebra",
+      "subdomain": "s2.7",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0120",
+      "title_en": "Proportion",
+      "title_zh": "正反比例",
+      "domain": "algebra",
+      "subdomain": "s2.8",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0121",
+      "title_en": "Proportion",
+      "title_zh": "正反比例",
+      "domain": "algebra",
+      "subdomain": "s2.8",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0122",
+      "title_en": "Proportion",
+      "title_zh": "正反比例",
+      "domain": "algebra",
+      "subdomain": "s2.8",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0123",
+      "title_en": "Proportion",
+      "title_zh": "正反比例",
+      "domain": "algebra",
+      "subdomain": "s2.8",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0137",
+      "title_en": "Coordinates",
+      "title_zh": "坐标",
+      "domain": "geometry",
+      "subdomain": "s3.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0138",
+      "title_en": "Length and midpoint",
+      "title_zh": "长度与中点",
+      "domain": "geometry",
+      "subdomain": "s3.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0139",
+      "title_en": "Length and midpoint",
+      "title_zh": "长度与中点",
+      "domain": "geometry",
+      "subdomain": "s3.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0140",
+      "title_en": "Gradient of linear graphs",
+      "title_zh": "线性图像斜率",
+      "domain": "geometry",
+      "subdomain": "s3.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0141",
+      "title_en": "Drawing linear graphs",
+      "title_zh": "画线性图像",
+      "domain": "geometry",
+      "subdomain": "s3.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0145",
+      "title_en": "Angles",
+      "title_zh": "角",
+      "domain": "geometry",
+      "subdomain": "s4.6",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0146",
+      "title_en": "Angles",
+      "title_zh": "角",
+      "domain": "geometry",
+      "subdomain": "s4.6",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0148",
+      "title_en": "Angles",
+      "title_zh": "角",
+      "domain": "geometry",
+      "subdomain": "s4.6",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0149",
+      "title_en": "Angles",
+      "title_zh": "角",
+      "domain": "geometry",
+      "subdomain": "s4.6",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0289",
+      "title_en": "Sum of Arithmetic Series",
+      "title_zh": "等差数列求和",
+      "domain": "algebra",
+      "subdomain": "edx-3.1",
+      "difficultyRange": [
+        2,
+        4
+      ]
+    },
+    {
+      "kn_id": "kn_0290",
+      "title_en": "Calculus Kinematics",
+      "title_zh": "微积分运动学",
+      "domain": "algebra",
+      "subdomain": "edx-3.4",
+      "difficultyRange": [
+        2,
+        4
+      ]
+    },
+    {
+      "kn_id": "kn_0291",
+      "title_en": "Imperial Unit Conversions",
+      "title_zh": "英制单位换算",
+      "domain": "number",
+      "subdomain": "edx-4.4",
+      "difficultyRange": [
+        2,
+        4
+      ]
+    },
+    {
+      "kn_id": "kn_0292",
+      "title_en": "Plans and Elevations",
+      "title_zh": "三视图",
+      "domain": "geometry",
+      "subdomain": "edx-4.10",
+      "difficultyRange": [
+        2,
+        4
+      ]
+    },
+    {
+      "kn_id": "kn_0293",
+      "title_en": "Frustum Volume",
+      "title_zh": "锥台体积",
+      "domain": "geometry",
+      "subdomain": "edx-4.10",
+      "difficultyRange": [
+        2,
+        4
+      ]
+    },
+    {
+      "kn_id": "kn_0294",
+      "title_en": "Negative Scale Factor Enlargement",
+      "title_zh": "负缩放因子放大",
+      "domain": "geometry",
+      "subdomain": "edx-5.2",
+      "difficultyRange": [
+        2,
+        4
+      ]
+    },
+    {
+      "kn_id": "kn_0295",
+      "title_en": "Box Plots",
+      "title_zh": "箱线图",
+      "domain": "statistics",
+      "subdomain": "edx-6.1",
+      "difficultyRange": [
+        2,
+        4
+      ]
+    },
+    {
+      "kn_id": "kn_0296",
+      "title_en": "Geometrical Reasoning",
+      "title_zh": "几何推理",
+      "domain": "geometry",
+      "subdomain": "edx-4.7",
+      "difficultyRange": [
+        2,
+        4
+      ]
+    },
+    {
+      "kn_id": "kn_0297",
+      "title_en": "Change Subject (appears twice)",
+      "title_zh": "主元出现两次的变形",
+      "domain": "algebra",
+      "subdomain": "edx-2.3",
+      "difficultyRange": [
+        2,
+        4
+      ]
+    },
+    {
+      "kn_id": "kn_0298",
+      "title_en": "Applied Number Operations",
+      "title_zh": "综合数字应用",
+      "domain": "number",
+      "subdomain": "edx-1.10",
+      "difficultyRange": [
+        2,
+        4
+      ]
+    },
+    {
+      "kn_id": "kn_0307",
+      "title_en": "Algebraic fractions",
+      "title_zh": "代数分式",
+      "domain": "algebra",
+      "subdomain": "s2.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0309",
+      "title_en": "Algebraic fractions",
+      "title_zh": "代数分式",
+      "domain": "algebra",
+      "subdomain": "s2.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0311",
+      "title_en": "The four operations",
+      "title_zh": "四则运算",
+      "domain": "number",
+      "subdomain": "s1.6",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0313",
+      "title_en": "Knowledge node from topic 6.1",
+      "title_zh": "知识节点 6.1",
+      "domain": "geometry",
+      "subdomain": "s6.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0314",
+      "title_en": "Knowledge node from topic 6.1",
+      "title_zh": "知识节点 6.1",
+      "domain": "geometry",
+      "subdomain": "s6.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0317",
+      "title_en": "Circle theorems",
+      "title_zh": "圆定理",
+      "domain": "geometry",
+      "subdomain": "s4.7",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0318",
+      "title_en": "Circle theorems",
+      "title_zh": "圆定理",
+      "domain": "geometry",
+      "subdomain": "s4.7",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0319",
+      "title_en": "Circle theorems",
+      "title_zh": "圆定理",
+      "domain": "geometry",
+      "subdomain": "s4.7",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0320",
+      "title_en": "Circle theorems",
+      "title_zh": "圆定理",
+      "domain": "geometry",
+      "subdomain": "s4.7",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0326",
+      "title_en": "Right-angled triangles",
+      "title_zh": "直角三角形",
+      "domain": "geometry",
+      "subdomain": "s6.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0327",
+      "title_en": "Right-angled triangles",
+      "title_zh": "直角三角形",
+      "domain": "geometry",
+      "subdomain": "s6.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0328",
+      "title_en": "Right-angled triangles",
+      "title_zh": "直角三角形",
+      "domain": "geometry",
+      "subdomain": "s6.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0329",
+      "title_en": "Area and perimeter",
+      "title_zh": "面积与周长",
+      "domain": "geometry",
+      "subdomain": "s5.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0343",
+      "title_en": "Ordering",
+      "title_zh": "排序",
+      "domain": "number",
+      "subdomain": "s1.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0344",
+      "title_en": "Ordering",
+      "title_zh": "排序",
+      "domain": "number",
+      "subdomain": "s1.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0349",
+      "title_en": "Geometrical terms",
+      "title_zh": "几何术语",
+      "domain": "geometry",
+      "subdomain": "s4.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0350",
+      "title_en": "Geometrical terms",
+      "title_zh": "几何术语",
+      "domain": "geometry",
+      "subdomain": "s4.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0351",
+      "title_en": "Geometrical constructions",
+      "title_zh": "几何作图",
+      "domain": "geometry",
+      "subdomain": "s4.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0352",
+      "title_en": "Geometrical constructions",
+      "title_zh": "几何作图",
+      "domain": "geometry",
+      "subdomain": "s4.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0353",
+      "title_en": "Scale drawings and bearings",
+      "title_zh": "比例图与方位角",
+      "domain": "geometry",
+      "subdomain": "s4.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0354",
+      "title_en": "Scale drawings and bearings",
+      "title_zh": "比例图与方位角",
+      "domain": "geometry",
+      "subdomain": "s4.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0355",
+      "title_en": "Symmetry",
+      "title_zh": "对称",
+      "domain": "geometry",
+      "subdomain": "s4.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0356",
+      "title_en": "Symmetry",
+      "title_zh": "对称",
+      "domain": "geometry",
+      "subdomain": "s4.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0357",
+      "title_en": "Constructions and loci",
+      "title_zh": "作图与轨迹",
+      "domain": "geometry",
+      "subdomain": "s4.8",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0358",
+      "title_en": "Constructions and loci",
+      "title_zh": "作图与轨迹",
+      "domain": "geometry",
+      "subdomain": "s4.8",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0359",
+      "title_en": "Units of measure",
+      "title_zh": "计量单位",
+      "domain": "geometry",
+      "subdomain": "s5.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0360",
+      "title_en": "Units of measure",
+      "title_zh": "计量单位",
+      "domain": "geometry",
+      "subdomain": "s5.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0366",
+      "title_en": "Exact trigonometric values",
+      "title_zh": "三角精确值",
+      "domain": "geometry",
+      "subdomain": "s6.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0390",
+      "title_en": "Similarity and congruence",
+      "title_zh": "相似与全等",
+      "domain": "geometry",
+      "subdomain": "s4.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0391",
+      "title_en": "Similarity and congruence",
+      "title_zh": "相似与全等",
+      "domain": "geometry",
+      "subdomain": "s4.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0392",
+      "title_en": "Similarity and congruence",
+      "title_zh": "相似与全等",
+      "domain": "geometry",
+      "subdomain": "s4.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0393",
+      "title_en": "Similarity and congruence",
+      "title_zh": "相似与全等",
+      "domain": "geometry",
+      "subdomain": "s4.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    }
+  ],
+  "cie_only": [
+    {
+      "kn_id": "kn_0001",
+      "title_en": "Types of number",
+      "title_zh": "数的类型",
+      "domain": "number",
+      "subdomain": "s1.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0002",
+      "title_en": "Types of number",
+      "title_zh": "数的类型",
+      "domain": "number",
+      "subdomain": "s1.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0003",
+      "title_en": "Types of number",
+      "title_zh": "数的类型",
+      "domain": "number",
+      "subdomain": "s1.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0004",
+      "title_en": "Types of number",
+      "title_zh": "数的类型",
+      "domain": "number",
+      "subdomain": "s1.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0005",
+      "title_en": "Types of number",
+      "title_zh": "数的类型",
+      "domain": "number",
+      "subdomain": "s1.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0007",
+      "title_en": "Types of number",
+      "title_zh": "数的类型",
+      "domain": "number",
+      "subdomain": "s1.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0008",
+      "title_en": "Types of number",
+      "title_zh": "数的类型",
+      "domain": "number",
+      "subdomain": "s1.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0009",
+      "title_en": "Types of number",
+      "title_zh": "数的类型",
+      "domain": "number",
+      "subdomain": "s1.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0011",
+      "title_en": "Types of number",
+      "title_zh": "数的类型",
+      "domain": "number",
+      "subdomain": "s1.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0046",
+      "title_en": "Limits of accuracy",
+      "title_zh": "精度范围",
+      "domain": "number",
+      "subdomain": "s1.10",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0047",
+      "title_en": "Limits of accuracy",
+      "title_zh": "精度范围",
+      "domain": "number",
+      "subdomain": "s1.10",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0048",
+      "title_en": "Limits of accuracy",
+      "title_zh": "精度范围",
+      "domain": "number",
+      "subdomain": "s1.10",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0050",
+      "title_en": "Limits of accuracy",
+      "title_zh": "精度范围",
+      "domain": "number",
+      "subdomain": "s1.10",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0051",
+      "title_en": "Limits of accuracy",
+      "title_zh": "精度范围",
+      "domain": "number",
+      "subdomain": "s1.10",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0052",
+      "title_en": "Ratio and proportion",
+      "title_zh": "比与比例",
+      "domain": "number",
+      "subdomain": "s1.11",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0053",
+      "title_en": "Ratio and proportion",
+      "title_zh": "比与比例",
+      "domain": "number",
+      "subdomain": "s1.11",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0054",
+      "title_en": "Ratio and proportion",
+      "title_zh": "比与比例",
+      "domain": "number",
+      "subdomain": "s1.11",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0055",
+      "title_en": "Ratio and proportion",
+      "title_zh": "比与比例",
+      "domain": "number",
+      "subdomain": "s1.11",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0056",
+      "title_en": "Rates",
+      "title_zh": "速率",
+      "domain": "number",
+      "subdomain": "s1.12",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0057",
+      "title_en": "Rates",
+      "title_zh": "速率",
+      "domain": "number",
+      "subdomain": "s1.12",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0058",
+      "title_en": "Rates",
+      "title_zh": "速率",
+      "domain": "number",
+      "subdomain": "s1.12",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0062",
+      "title_en": "Percentages",
+      "title_zh": "百分数应用",
+      "domain": "number",
+      "subdomain": "s1.13",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0064",
+      "title_en": "Percentages",
+      "title_zh": "百分数应用",
+      "domain": "number",
+      "subdomain": "s1.13",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0067",
+      "title_en": "Percentages",
+      "title_zh": "百分数应用",
+      "domain": "number",
+      "subdomain": "s1.13",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0068",
+      "title_en": "Money",
+      "title_zh": "货币",
+      "domain": "number",
+      "subdomain": "s1.16",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0069",
+      "title_en": "Percentages",
+      "title_zh": "百分数应用",
+      "domain": "number",
+      "subdomain": "s1.13",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0070",
+      "title_en": "Exponential growth and decay",
+      "title_zh": "指数增长与衰减",
+      "domain": "number",
+      "subdomain": "s1.17",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0073",
+      "title_en": "Time",
+      "title_zh": "时间",
+      "domain": "number",
+      "subdomain": "s1.15",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0075",
+      "title_en": "Time",
+      "title_zh": "时间",
+      "domain": "number",
+      "subdomain": "s1.15",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0077",
+      "title_en": "Time",
+      "title_zh": "时间",
+      "domain": "number",
+      "subdomain": "s1.15",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0078",
+      "title_en": "Money",
+      "title_zh": "货币",
+      "domain": "number",
+      "subdomain": "s1.16",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0083",
+      "title_en": "Introduction to algebra",
+      "title_zh": "代数入门",
+      "domain": "algebra",
+      "subdomain": "s2.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0084",
+      "title_en": "Introduction to algebra",
+      "title_zh": "代数入门",
+      "domain": "algebra",
+      "subdomain": "s2.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0103",
+      "title_en": "Equations",
+      "title_zh": "方程",
+      "domain": "algebra",
+      "subdomain": "s2.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0104",
+      "title_en": "Equations",
+      "title_zh": "方程",
+      "domain": "algebra",
+      "subdomain": "s2.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0105",
+      "title_en": "Equations",
+      "title_zh": "方程",
+      "domain": "algebra",
+      "subdomain": "s2.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0106",
+      "title_en": "Equations",
+      "title_zh": "方程",
+      "domain": "algebra",
+      "subdomain": "s2.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0107",
+      "title_en": "Equations",
+      "title_zh": "方程",
+      "domain": "algebra",
+      "subdomain": "s2.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0108",
+      "title_en": "Equations",
+      "title_zh": "方程",
+      "domain": "algebra",
+      "subdomain": "s2.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0109",
+      "title_en": "Equations",
+      "title_zh": "方程",
+      "domain": "algebra",
+      "subdomain": "s2.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0110",
+      "title_en": "Equations",
+      "title_zh": "方程",
+      "domain": "algebra",
+      "subdomain": "s2.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0124",
+      "title_en": "Graphs in practical situations",
+      "title_zh": "实际问题图像",
+      "domain": "algebra",
+      "subdomain": "s2.9",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0125",
+      "title_en": "Graphs in practical situations",
+      "title_zh": "实际问题图像",
+      "domain": "algebra",
+      "subdomain": "s2.9",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0126",
+      "title_en": "Graphs in practical situations",
+      "title_zh": "实际问题图像",
+      "domain": "algebra",
+      "subdomain": "s2.9",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0127",
+      "title_en": "Graphs of functions",
+      "title_zh": "函数图像",
+      "domain": "algebra",
+      "subdomain": "s2.10",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0129",
+      "title_en": "Graphs of functions",
+      "title_zh": "函数图像",
+      "domain": "algebra",
+      "subdomain": "s2.10",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0130",
+      "title_en": "Graphs of functions",
+      "title_zh": "函数图像",
+      "domain": "algebra",
+      "subdomain": "s2.10",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0131",
+      "title_en": "Sketching curves",
+      "title_zh": "曲线草图",
+      "domain": "algebra",
+      "subdomain": "s2.11",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0132",
+      "title_en": "Sketching curves",
+      "title_zh": "曲线草图",
+      "domain": "algebra",
+      "subdomain": "s2.11",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0133",
+      "title_en": "Sketching curves",
+      "title_zh": "曲线草图",
+      "domain": "algebra",
+      "subdomain": "s2.11",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0134",
+      "title_en": "Functions",
+      "title_zh": "函数",
+      "domain": "algebra",
+      "subdomain": "s2.13",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0135",
+      "title_en": "Functions",
+      "title_zh": "函数",
+      "domain": "algebra",
+      "subdomain": "s2.13",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0136",
+      "title_en": "Functions",
+      "title_zh": "函数",
+      "domain": "algebra",
+      "subdomain": "s2.13",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0142",
+      "title_en": "Perpendicular lines",
+      "title_zh": "垂直线",
+      "domain": "geometry",
+      "subdomain": "s3.7",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0150",
+      "title_en": "Circles, arcs and sectors",
+      "title_zh": "圆、弧与扇形",
+      "domain": "geometry",
+      "subdomain": "s5.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0151",
+      "title_en": "Circles, arcs and sectors",
+      "title_zh": "圆、弧与扇形",
+      "domain": "geometry",
+      "subdomain": "s5.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0153",
+      "title_en": "Trigonometric functions",
+      "title_zh": "三角函数",
+      "domain": "geometry",
+      "subdomain": "s6.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0154",
+      "title_en": "Trigonometric functions",
+      "title_zh": "三角函数",
+      "domain": "geometry",
+      "subdomain": "s6.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0155",
+      "title_en": "Introduction to probability",
+      "title_zh": "概率入门",
+      "domain": "probability",
+      "subdomain": "s8.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0156",
+      "title_en": "Introduction to probability",
+      "title_zh": "概率入门",
+      "domain": "probability",
+      "subdomain": "s8.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0157",
+      "title_en": "Relative and expected frequencies",
+      "title_zh": "相对频率与期望频率",
+      "domain": "probability",
+      "subdomain": "s8.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0158",
+      "title_en": "Combined events",
+      "title_zh": "组合事件",
+      "domain": "probability",
+      "subdomain": "s8.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0160",
+      "title_en": "Conditional probability",
+      "title_zh": "条件概率",
+      "domain": "probability",
+      "subdomain": "s8.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0161",
+      "title_en": "Conditional probability",
+      "title_zh": "条件概率",
+      "domain": "probability",
+      "subdomain": "s8.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0162",
+      "title_en": "Classifying and tabulating data",
+      "title_zh": "数据分类与列表",
+      "domain": "statistics",
+      "subdomain": "s9.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0163",
+      "title_en": "Averages and measures of spread",
+      "title_zh": "平均数与离散度",
+      "domain": "statistics",
+      "subdomain": "s9.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0164",
+      "title_en": "Averages and measures of spread",
+      "title_zh": "平均数与离散度",
+      "domain": "statistics",
+      "subdomain": "s9.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0165",
+      "title_en": "Averages and measures of spread",
+      "title_zh": "平均数与离散度",
+      "domain": "statistics",
+      "subdomain": "s9.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0166",
+      "title_en": "Averages and measures of spread",
+      "title_zh": "平均数与离散度",
+      "domain": "statistics",
+      "subdomain": "s9.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0167",
+      "title_en": "Averages and measures of spread",
+      "title_zh": "平均数与离散度",
+      "domain": "statistics",
+      "subdomain": "s9.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0168",
+      "title_en": "Scatter diagrams and correlation",
+      "title_zh": "散点图与相关性",
+      "domain": "statistics",
+      "subdomain": "s9.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0169",
+      "title_en": "Scatter diagrams and correlation",
+      "title_zh": "散点图与相关性",
+      "domain": "statistics",
+      "subdomain": "s9.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0303",
+      "title_en": "Equations",
+      "title_zh": "方程",
+      "domain": "algebra",
+      "subdomain": "s2.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0322",
+      "title_en": "Vectors in 2D",
+      "title_zh": "二维向量",
+      "domain": "geometry",
+      "subdomain": "s7.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0323",
+      "title_en": "Vectors in 2D",
+      "title_zh": "二维向量",
+      "domain": "geometry",
+      "subdomain": "s7.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0324",
+      "title_en": "Vector geometry",
+      "title_zh": "向量几何",
+      "domain": "geometry",
+      "subdomain": "s7.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0325",
+      "title_en": "Vectors in 2D",
+      "title_zh": "二维向量",
+      "domain": "geometry",
+      "subdomain": "s7.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0330",
+      "title_en": "Circles, arcs and sectors",
+      "title_zh": "圆、弧与扇形",
+      "domain": "geometry",
+      "subdomain": "s5.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0345",
+      "title_en": "Using a calculator",
+      "title_zh": "计算器使用",
+      "domain": "number",
+      "subdomain": "s1.14",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0346",
+      "title_en": "Surds",
+      "title_zh": "根式",
+      "domain": "number",
+      "subdomain": "s1.18",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0347",
+      "title_en": "Differentiation",
+      "title_zh": "微分",
+      "domain": "algebra",
+      "subdomain": "s2.12",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0348",
+      "title_en": "Differentiation",
+      "title_zh": "微分",
+      "domain": "algebra",
+      "subdomain": "s2.12",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0361",
+      "title_en": "Surface area and volume",
+      "title_zh": "表面积与体积",
+      "domain": "geometry",
+      "subdomain": "s5.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0362",
+      "title_en": "Surface area and volume",
+      "title_zh": "表面积与体积",
+      "domain": "geometry",
+      "subdomain": "s5.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0363",
+      "title_en": "Surface area and volume",
+      "title_zh": "表面积与体积",
+      "domain": "geometry",
+      "subdomain": "s5.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0364",
+      "title_en": "Surface area and volume",
+      "title_zh": "表面积与体积",
+      "domain": "geometry",
+      "subdomain": "s5.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0365",
+      "title_en": "Compound shapes",
+      "title_zh": "组合图形",
+      "domain": "geometry",
+      "subdomain": "s5.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0367",
+      "title_en": "Non-right-angled triangles",
+      "title_zh": "非直角三角形",
+      "domain": "geometry",
+      "subdomain": "s6.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0368",
+      "title_en": "Non-right-angled triangles",
+      "title_zh": "非直角三角形",
+      "domain": "geometry",
+      "subdomain": "s6.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0369",
+      "title_en": "Non-right-angled triangles",
+      "title_zh": "非直角三角形",
+      "domain": "geometry",
+      "subdomain": "s6.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0370",
+      "title_en": "3D trigonometry",
+      "title_zh": "三维三角",
+      "domain": "geometry",
+      "subdomain": "s6.6",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0371",
+      "title_en": "3D trigonometry",
+      "title_zh": "三维三角",
+      "domain": "geometry",
+      "subdomain": "s6.6",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0372",
+      "title_en": "Transformations",
+      "title_zh": "变换",
+      "domain": "geometry",
+      "subdomain": "s7.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0373",
+      "title_en": "Transformations",
+      "title_zh": "变换",
+      "domain": "geometry",
+      "subdomain": "s7.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0374",
+      "title_en": "Transformations",
+      "title_zh": "变换",
+      "domain": "geometry",
+      "subdomain": "s7.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0375",
+      "title_en": "Transformations",
+      "title_zh": "变换",
+      "domain": "geometry",
+      "subdomain": "s7.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0377",
+      "title_en": "Transformations",
+      "title_zh": "变换",
+      "domain": "geometry",
+      "subdomain": "s7.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0380",
+      "title_en": "Interpreting statistical data",
+      "title_zh": "数据解读",
+      "domain": "statistics",
+      "subdomain": "s9.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0381",
+      "title_en": "Interpreting statistical data",
+      "title_zh": "数据解读",
+      "domain": "statistics",
+      "subdomain": "s9.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0382",
+      "title_en": "Statistical charts and diagrams",
+      "title_zh": "统计图表",
+      "domain": "statistics",
+      "subdomain": "s9.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0383",
+      "title_en": "Statistical charts and diagrams",
+      "title_zh": "统计图表",
+      "domain": "statistics",
+      "subdomain": "s9.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0384",
+      "title_en": "Statistical charts and diagrams",
+      "title_zh": "统计图表",
+      "domain": "statistics",
+      "subdomain": "s9.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0385",
+      "title_en": "Cumulative frequency",
+      "title_zh": "累积频率",
+      "domain": "statistics",
+      "subdomain": "s9.6",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0386",
+      "title_en": "Cumulative frequency",
+      "title_zh": "累积频率",
+      "domain": "statistics",
+      "subdomain": "s9.6",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0388",
+      "title_en": "Histograms",
+      "title_zh": "频率直方图",
+      "domain": "statistics",
+      "subdomain": "s9.7",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    }
+  ],
+  "edx_only": [
+    {
+      "kn_id": "kn_0289",
+      "title_en": "Sum of Arithmetic Series",
+      "title_zh": "等差数列求和",
+      "domain": "algebra",
+      "subdomain": "edx-3.1",
+      "difficultyRange": [
+        2,
+        4
+      ]
+    },
+    {
+      "kn_id": "kn_0290",
+      "title_en": "Calculus Kinematics",
+      "title_zh": "微积分运动学",
+      "domain": "algebra",
+      "subdomain": "edx-3.4",
+      "difficultyRange": [
+        2,
+        4
+      ]
+    },
+    {
+      "kn_id": "kn_0291",
+      "title_en": "Imperial Unit Conversions",
+      "title_zh": "英制单位换算",
+      "domain": "number",
+      "subdomain": "edx-4.4",
+      "difficultyRange": [
+        2,
+        4
+      ]
+    },
+    {
+      "kn_id": "kn_0292",
+      "title_en": "Plans and Elevations",
+      "title_zh": "三视图",
+      "domain": "geometry",
+      "subdomain": "edx-4.10",
+      "difficultyRange": [
+        2,
+        4
+      ]
+    },
+    {
+      "kn_id": "kn_0293",
+      "title_en": "Frustum Volume",
+      "title_zh": "锥台体积",
+      "domain": "geometry",
+      "subdomain": "edx-4.10",
+      "difficultyRange": [
+        2,
+        4
+      ]
+    },
+    {
+      "kn_id": "kn_0294",
+      "title_en": "Negative Scale Factor Enlargement",
+      "title_zh": "负缩放因子放大",
+      "domain": "geometry",
+      "subdomain": "edx-5.2",
+      "difficultyRange": [
+        2,
+        4
+      ]
+    },
+    {
+      "kn_id": "kn_0295",
+      "title_en": "Box Plots",
+      "title_zh": "箱线图",
+      "domain": "statistics",
+      "subdomain": "edx-6.1",
+      "difficultyRange": [
+        2,
+        4
+      ]
+    },
+    {
+      "kn_id": "kn_0296",
+      "title_en": "Geometrical Reasoning",
+      "title_zh": "几何推理",
+      "domain": "geometry",
+      "subdomain": "edx-4.7",
+      "difficultyRange": [
+        2,
+        4
+      ]
+    },
+    {
+      "kn_id": "kn_0297",
+      "title_en": "Change Subject (appears twice)",
+      "title_zh": "主元出现两次的变形",
+      "domain": "algebra",
+      "subdomain": "edx-2.3",
+      "difficultyRange": [
+        2,
+        4
+      ]
+    },
+    {
+      "kn_id": "kn_0298",
+      "title_en": "Applied Number Operations",
+      "title_zh": "综合数字应用",
+      "domain": "number",
+      "subdomain": "edx-1.10",
+      "difficultyRange": [
+        2,
+        4
+      ]
+    }
+  ],
+  "both": [
+    {
+      "kn_id": "kn_0012",
+      "title_en": "Sets",
+      "title_zh": "集合与韦恩图",
+      "domain": "number",
+      "subdomain": "s1.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0013",
+      "title_en": "Sets",
+      "title_zh": "集合与韦恩图",
+      "domain": "number",
+      "subdomain": "s1.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0014",
+      "title_en": "Powers and roots",
+      "title_zh": "幂与根",
+      "domain": "number",
+      "subdomain": "s1.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0015",
+      "title_en": "Powers and roots",
+      "title_zh": "幂与根",
+      "domain": "number",
+      "subdomain": "s1.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0016",
+      "title_en": "Indices I",
+      "title_zh": "指数法则I",
+      "domain": "number",
+      "subdomain": "s1.7",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0018",
+      "title_en": "Indices I",
+      "title_zh": "指数法则I",
+      "domain": "number",
+      "subdomain": "s1.7",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0019",
+      "title_en": "Powers and roots",
+      "title_zh": "幂与根",
+      "domain": "number",
+      "subdomain": "s1.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0020",
+      "title_en": "Fractions, decimals, percentages",
+      "title_zh": "分数、小数、百分数",
+      "domain": "number",
+      "subdomain": "s1.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0027",
+      "title_en": "Fractions, decimals, percentages",
+      "title_zh": "分数、小数、百分数",
+      "domain": "number",
+      "subdomain": "s1.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0030",
+      "title_en": "Fractions, decimals, percentages",
+      "title_zh": "分数、小数、百分数",
+      "domain": "number",
+      "subdomain": "s1.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0031",
+      "title_en": "Fractions, decimals, percentages",
+      "title_zh": "分数、小数、百分数",
+      "domain": "number",
+      "subdomain": "s1.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0032",
+      "title_en": "The four operations",
+      "title_zh": "四则运算",
+      "domain": "number",
+      "subdomain": "s1.6",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0033",
+      "title_en": "The four operations",
+      "title_zh": "四则运算",
+      "domain": "number",
+      "subdomain": "s1.6",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0034",
+      "title_en": "The four operations",
+      "title_zh": "四则运算",
+      "domain": "number",
+      "subdomain": "s1.6",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0036",
+      "title_en": "Standard form",
+      "title_zh": "标准式",
+      "domain": "number",
+      "subdomain": "s1.8",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0037",
+      "title_en": "Standard form",
+      "title_zh": "标准式",
+      "domain": "number",
+      "subdomain": "s1.8",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0042",
+      "title_en": "Estimation",
+      "title_zh": "估算",
+      "domain": "number",
+      "subdomain": "s1.9",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0043",
+      "title_en": "Estimation",
+      "title_zh": "估算",
+      "domain": "number",
+      "subdomain": "s1.9",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0044",
+      "title_en": "Estimation",
+      "title_zh": "估算",
+      "domain": "number",
+      "subdomain": "s1.9",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0045",
+      "title_en": "Estimation",
+      "title_zh": "估算",
+      "domain": "number",
+      "subdomain": "s1.9",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0085",
+      "title_en": "Algebraic manipulation",
+      "title_zh": "代数运算",
+      "domain": "algebra",
+      "subdomain": "s2.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0086",
+      "title_en": "Algebraic manipulation",
+      "title_zh": "代数运算",
+      "domain": "algebra",
+      "subdomain": "s2.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0087",
+      "title_en": "Algebraic manipulation",
+      "title_zh": "代数运算",
+      "domain": "algebra",
+      "subdomain": "s2.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0089",
+      "title_en": "Algebraic manipulation",
+      "title_zh": "代数运算",
+      "domain": "algebra",
+      "subdomain": "s2.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0090",
+      "title_en": "Algebraic manipulation",
+      "title_zh": "代数运算",
+      "domain": "algebra",
+      "subdomain": "s2.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0091",
+      "title_en": "Algebraic manipulation",
+      "title_zh": "代数运算",
+      "domain": "algebra",
+      "subdomain": "s2.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0092",
+      "title_en": "Algebraic manipulation",
+      "title_zh": "代数运算",
+      "domain": "algebra",
+      "subdomain": "s2.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0093",
+      "title_en": "Algebraic manipulation",
+      "title_zh": "代数运算",
+      "domain": "algebra",
+      "subdomain": "s2.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0094",
+      "title_en": "Algebraic manipulation",
+      "title_zh": "代数运算",
+      "domain": "algebra",
+      "subdomain": "s2.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0095",
+      "title_en": "Algebraic manipulation",
+      "title_zh": "代数运算",
+      "domain": "algebra",
+      "subdomain": "s2.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0096",
+      "title_en": "Algebraic manipulation",
+      "title_zh": "代数运算",
+      "domain": "algebra",
+      "subdomain": "s2.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0097",
+      "title_en": "Algebraic fractions",
+      "title_zh": "代数分式",
+      "domain": "algebra",
+      "subdomain": "s2.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0098",
+      "title_en": "Algebraic fractions",
+      "title_zh": "代数分式",
+      "domain": "algebra",
+      "subdomain": "s2.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0099",
+      "title_en": "Indices II",
+      "title_zh": "指数法则II",
+      "domain": "algebra",
+      "subdomain": "s2.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0100",
+      "title_en": "Indices II",
+      "title_zh": "指数法则II",
+      "domain": "algebra",
+      "subdomain": "s2.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0101",
+      "title_en": "Indices II",
+      "title_zh": "指数法则II",
+      "domain": "algebra",
+      "subdomain": "s2.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0111",
+      "title_en": "Inequalities",
+      "title_zh": "不等式",
+      "domain": "algebra",
+      "subdomain": "s2.6",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0112",
+      "title_en": "Inequalities",
+      "title_zh": "不等式",
+      "domain": "algebra",
+      "subdomain": "s2.6",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0113",
+      "title_en": "Sequences",
+      "title_zh": "数列",
+      "domain": "algebra",
+      "subdomain": "s2.7",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0114",
+      "title_en": "Sequences",
+      "title_zh": "数列",
+      "domain": "algebra",
+      "subdomain": "s2.7",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0115",
+      "title_en": "Sequences",
+      "title_zh": "数列",
+      "domain": "algebra",
+      "subdomain": "s2.7",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0116",
+      "title_en": "Sequences",
+      "title_zh": "数列",
+      "domain": "algebra",
+      "subdomain": "s2.7",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0117",
+      "title_en": "Sequences",
+      "title_zh": "数列",
+      "domain": "algebra",
+      "subdomain": "s2.7",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0120",
+      "title_en": "Proportion",
+      "title_zh": "正反比例",
+      "domain": "algebra",
+      "subdomain": "s2.8",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0121",
+      "title_en": "Proportion",
+      "title_zh": "正反比例",
+      "domain": "algebra",
+      "subdomain": "s2.8",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0122",
+      "title_en": "Proportion",
+      "title_zh": "正反比例",
+      "domain": "algebra",
+      "subdomain": "s2.8",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0123",
+      "title_en": "Proportion",
+      "title_zh": "正反比例",
+      "domain": "algebra",
+      "subdomain": "s2.8",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0137",
+      "title_en": "Coordinates",
+      "title_zh": "坐标",
+      "domain": "geometry",
+      "subdomain": "s3.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0138",
+      "title_en": "Length and midpoint",
+      "title_zh": "长度与中点",
+      "domain": "geometry",
+      "subdomain": "s3.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0139",
+      "title_en": "Length and midpoint",
+      "title_zh": "长度与中点",
+      "domain": "geometry",
+      "subdomain": "s3.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0140",
+      "title_en": "Gradient of linear graphs",
+      "title_zh": "线性图像斜率",
+      "domain": "geometry",
+      "subdomain": "s3.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0141",
+      "title_en": "Drawing linear graphs",
+      "title_zh": "画线性图像",
+      "domain": "geometry",
+      "subdomain": "s3.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0145",
+      "title_en": "Angles",
+      "title_zh": "角",
+      "domain": "geometry",
+      "subdomain": "s4.6",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0146",
+      "title_en": "Angles",
+      "title_zh": "角",
+      "domain": "geometry",
+      "subdomain": "s4.6",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0148",
+      "title_en": "Angles",
+      "title_zh": "角",
+      "domain": "geometry",
+      "subdomain": "s4.6",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0149",
+      "title_en": "Angles",
+      "title_zh": "角",
+      "domain": "geometry",
+      "subdomain": "s4.6",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0307",
+      "title_en": "Algebraic fractions",
+      "title_zh": "代数分式",
+      "domain": "algebra",
+      "subdomain": "s2.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0309",
+      "title_en": "Algebraic fractions",
+      "title_zh": "代数分式",
+      "domain": "algebra",
+      "subdomain": "s2.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0311",
+      "title_en": "The four operations",
+      "title_zh": "四则运算",
+      "domain": "number",
+      "subdomain": "s1.6",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0313",
+      "title_en": "Knowledge node from topic 6.1",
+      "title_zh": "知识节点 6.1",
+      "domain": "geometry",
+      "subdomain": "s6.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0314",
+      "title_en": "Knowledge node from topic 6.1",
+      "title_zh": "知识节点 6.1",
+      "domain": "geometry",
+      "subdomain": "s6.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0317",
+      "title_en": "Circle theorems",
+      "title_zh": "圆定理",
+      "domain": "geometry",
+      "subdomain": "s4.7",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0318",
+      "title_en": "Circle theorems",
+      "title_zh": "圆定理",
+      "domain": "geometry",
+      "subdomain": "s4.7",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0319",
+      "title_en": "Circle theorems",
+      "title_zh": "圆定理",
+      "domain": "geometry",
+      "subdomain": "s4.7",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0320",
+      "title_en": "Circle theorems",
+      "title_zh": "圆定理",
+      "domain": "geometry",
+      "subdomain": "s4.7",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0326",
+      "title_en": "Right-angled triangles",
+      "title_zh": "直角三角形",
+      "domain": "geometry",
+      "subdomain": "s6.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0327",
+      "title_en": "Right-angled triangles",
+      "title_zh": "直角三角形",
+      "domain": "geometry",
+      "subdomain": "s6.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0328",
+      "title_en": "Right-angled triangles",
+      "title_zh": "直角三角形",
+      "domain": "geometry",
+      "subdomain": "s6.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0329",
+      "title_en": "Area and perimeter",
+      "title_zh": "面积与周长",
+      "domain": "geometry",
+      "subdomain": "s5.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0343",
+      "title_en": "Ordering",
+      "title_zh": "排序",
+      "domain": "number",
+      "subdomain": "s1.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0344",
+      "title_en": "Ordering",
+      "title_zh": "排序",
+      "domain": "number",
+      "subdomain": "s1.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0349",
+      "title_en": "Geometrical terms",
+      "title_zh": "几何术语",
+      "domain": "geometry",
+      "subdomain": "s4.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0350",
+      "title_en": "Geometrical terms",
+      "title_zh": "几何术语",
+      "domain": "geometry",
+      "subdomain": "s4.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0351",
+      "title_en": "Geometrical constructions",
+      "title_zh": "几何作图",
+      "domain": "geometry",
+      "subdomain": "s4.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0352",
+      "title_en": "Geometrical constructions",
+      "title_zh": "几何作图",
+      "domain": "geometry",
+      "subdomain": "s4.2",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0353",
+      "title_en": "Scale drawings and bearings",
+      "title_zh": "比例图与方位角",
+      "domain": "geometry",
+      "subdomain": "s4.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0354",
+      "title_en": "Scale drawings and bearings",
+      "title_zh": "比例图与方位角",
+      "domain": "geometry",
+      "subdomain": "s4.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0355",
+      "title_en": "Symmetry",
+      "title_zh": "对称",
+      "domain": "geometry",
+      "subdomain": "s4.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0356",
+      "title_en": "Symmetry",
+      "title_zh": "对称",
+      "domain": "geometry",
+      "subdomain": "s4.5",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0357",
+      "title_en": "Constructions and loci",
+      "title_zh": "作图与轨迹",
+      "domain": "geometry",
+      "subdomain": "s4.8",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0358",
+      "title_en": "Constructions and loci",
+      "title_zh": "作图与轨迹",
+      "domain": "geometry",
+      "subdomain": "s4.8",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0359",
+      "title_en": "Units of measure",
+      "title_zh": "计量单位",
+      "domain": "geometry",
+      "subdomain": "s5.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0360",
+      "title_en": "Units of measure",
+      "title_zh": "计量单位",
+      "domain": "geometry",
+      "subdomain": "s5.1",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0366",
+      "title_en": "Exact trigonometric values",
+      "title_zh": "三角精确值",
+      "domain": "geometry",
+      "subdomain": "s6.3",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0390",
+      "title_en": "Similarity and congruence",
+      "title_zh": "相似与全等",
+      "domain": "geometry",
+      "subdomain": "s4.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0391",
+      "title_en": "Similarity and congruence",
+      "title_zh": "相似与全等",
+      "domain": "geometry",
+      "subdomain": "s4.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0392",
+      "title_en": "Similarity and congruence",
+      "title_zh": "相似与全等",
+      "domain": "geometry",
+      "subdomain": "s4.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    },
+    {
+      "kn_id": "kn_0393",
+      "title_en": "Similarity and congruence",
+      "title_zh": "相似与全等",
+      "domain": "geometry",
+      "subdomain": "s4.4",
+      "difficultyRange": [
+        1,
+        3
+      ]
+    }
+  ]
+}

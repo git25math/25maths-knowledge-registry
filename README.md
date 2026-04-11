@@ -47,9 +47,12 @@ python3 scripts/verify-phase3.py
 ├── graph/
 │   └── dag-edges.json              # 272 prerequisite edges (DAG, 0 cycles)
 ├── dist/                           # Build outputs
-│   ├── meta-nodes.json             # 203 enriched meta nodes
+│   ├── meta-nodes.json             # 203 enriched meta nodes (with primaryBoard)
 │   ├── routes-compiled.json        # All 13 routes compiled
-│   └── coverage-report.json        # Coverage analysis
+│   ├── coverage-report.json        # Coverage analysis
+│   ├── nodes-by-board.json         # Pre-filtered CIE/Edx/both views (P1)
+│   ├── question-id-map.json        # kn_id → canonical URL prefix (P1)
+│   └── board-stats.json            # Per-board domain breakdown (P1)
 ├── routes/                         # 13 learning routes (all activated)
 │   ├── cie-core-number.json
 │   ├── cie-core-geometry.json
@@ -61,14 +64,15 @@ python3 scripts/verify-phase3.py
 │   ├── edx-higher.json
 │   └── hhk-y7.json ... hhk-y11.json
 ├── scripts/
-│   ├── build-all.py                # Phase 2 build pipeline
-│   ├── build-meta-nodes.py         # Generate meta-nodes.json
-│   ├── build-routes.py             # Fill 13 routes
+│   ├── build-all.py                # Full build pipeline orchestrator
+│   ├── build-meta-nodes.py         # Generate meta-nodes.json (+ primaryBoard)
+│   ├── build-routes.py             # Fill 13 routes (+ boardFilter)
+│   ├── build-board-indexes.py      # P1 artifacts (nodes-by-board, qid map)
 │   ├── build-registry.py           # Phase 1 source builder
-│   ├── dag-utils.py                # DAG utilities (topo sort, paths)
+│   ├── dag_utils.py                # DAG utilities (topo sort, paths)
 │   ├── check-coverage.py           # Coverage report
-│   ├── validate-registry.py        # 10-check validation
-│   └── verify-phase3.py            # Phase 3 data flow verification
+│   ├── validate-registry.py        # Registry + primaryBoard validation
+│   └── verify-phase3.py            # Three-product data flow verification
 └── .github/workflows/validate.yml  # CI validation
 ```
 
@@ -130,11 +134,13 @@ See `schema/knowledge-node.schema.json` for the full type definition.
 当前问题：CIE 和 Edexcel 节点在路线/地图/练习中混合显示
 解决方案：
 - [x] meta-nodes 加 `primaryBoard` 字段（cie=105 / edx=10 / both=88）
-- [x] 路线文件加 `boardFilter` 字段（cie-* → [cie,both]; edx-* → [edx,both]; hhk-* → [cie,both]）
+- [x] 路线文件加 `boardFilter` 字段（cie-*/hhk-* → [cie,both]; edx-* → [edx,both]）
 - [x] validate-registry 加 primaryBoard + boardFilter 对齐检查
-- [ ] Practice URL 路由：/cie/s1.4 vs /edx/ch1-u3
-- [ ] 题目编号格式：CIE cie.1.4.xx / Edexcel edx.ch1-u3.xx
-- [ ] KnowledgeMap board tab 筛选
+- [x] `dist/nodes-by-board.json` — cie_view (193) + edx_view (98) 预过滤视图
+- [x] `dist/question-id-map.json` — kn_id → `cie.1.4` / `edx.ch1-u7` URL 前缀
+- [x] `dist/board-stats.json` — KnowledgeMap board tab 用的领域计数
+- [ ] Practice 消费 `question-id-map.json` 生成 URL 路由 (产品侧)
+- [ ] KnowledgeMap 消费 `nodes-by-board.json` 渲染 board tab (产品侧)
 
 ### P2 — Phase 5B 综合节点
 - [ ] 跨 section 综合节点定义（Mock 模板已验证可行）
