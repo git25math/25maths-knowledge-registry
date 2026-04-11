@@ -126,10 +126,22 @@ See `schema/knowledge-node.schema.json` for the full type definition.
 
 ## 下一步（Phase 5B+）
 
-- 综合节点：跨 domain 的复合知识点（如 "代数几何结合"）
-- 跨产品成就：Play + Practice + ExamHub 联合进度徽章
-- 自适应路线：基于 meta_node_progress 实时调整学习路径
-- Edexcel exam-refs 剩余 25.2% 补全
+### P1 — 多考试局分离（所有产品首要任务）
+当前问题：CIE 和 Edexcel 节点在路线/地图/练习中混合显示
+解决方案：
+- [ ] kn-registry 节点加 primaryBoard 字段（cie/edx/both）
+- [ ] 路线文件加 board 过滤字段
+- [ ] Practice URL 路由：/cie/s1.4 vs /edx/ch1-u3
+- [ ] 题目编号格式：CIE cie.1.4.xx / Edexcel edx.ch1-u3.xx
+- [ ] KnowledgeMap board tab 筛选
+
+### P2 — Phase 5B 综合节点
+- [ ] 跨 section 综合节点定义（Mock 模板已验证可行）
+- [ ] 知识图谱添加综合节点边
+
+### P3 — Phase 5C 成就统一
+- [ ] 三产品成就合并展示
+- [ ] Mock 相关成就（首次完成/A级/满分等）
 
 ---
 
