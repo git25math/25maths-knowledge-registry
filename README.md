@@ -127,6 +127,7 @@ Each meta node contains:
 - `routes` — which learning routes include this node
 
 See `schema/knowledge-node.schema.json` for the full type definition.
+See [`CONSUMERS.md`](CONSUMERS.md) for per-product integration guide.
 
 ## 下一步（Phase 5B+）
 

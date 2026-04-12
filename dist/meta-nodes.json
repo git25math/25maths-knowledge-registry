@@ -134,8 +134,7 @@
       "isFoundational": false
     },
     "routes": [
-      "cie-core-number",
-      "hhk-y8"
+      "cie-core-number"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -562,7 +561,9 @@
       "noFigure": true,
       "isFoundational": false
     },
-    "routes": [],
+    "routes": [
+      "hhk-y8"
+    ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
   },
@@ -1802,8 +1803,7 @@
       "isFoundational": false
     },
     "routes": [
-      "cie-core-number",
-      "hhk-y10"
+      "cie-core-number"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -1876,7 +1876,8 @@
       "isFoundational": false
     },
     "routes": [
-      "cie-core-number"
+      "cie-core-number",
+      "hhk-y10"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -2300,7 +2301,8 @@
       "isFoundational": false
     },
     "routes": [
-      "cie-core-number"
+      "cie-core-number",
+      "hhk-y11"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -2494,9 +2496,7 @@
       "noFigure": true,
       "isFoundational": false
     },
-    "routes": [
-      "hhk-y11"
-    ],
+    "routes": [],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
   },
@@ -2850,8 +2850,7 @@
       "isFoundational": false
     },
     "routes": [
-      "cie-core-number",
-      "hhk-y7"
+      "cie-core-number"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -2921,7 +2920,8 @@
       "isFoundational": false
     },
     "routes": [
-      "cie-core-number"
+      "cie-core-number",
+      "hhk-y7"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -3909,7 +3909,9 @@
       "cie-extended-algebra",
       "cie-recovery-algebra",
       "cie-sprint-2weeks",
-      "edx-higher"
+      "edx-higher",
+      "hhk-y8",
+      "hhk-y9"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -4237,9 +4239,7 @@
     "routes": [
       "cie-extended-algebra",
       "cie-sprint-2weeks",
-      "edx-higher",
-      "hhk-y8",
-      "hhk-y9"
+      "edx-higher"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -4921,7 +4921,9 @@
     "routes": [
       "cie-extended-algebra",
       "cie-recovery-algebra",
-      "cie-recovery-fractions"
+      "cie-recovery-fractions",
+      "hhk-y10",
+      "hhk-y9"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -6145,7 +6147,9 @@
     },
     "routes": [
       "cie-extended-algebra",
-      "edx-foundation"
+      "edx-foundation",
+      "hhk-y11",
+      "hhk-y7"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -6295,9 +6299,7 @@
       "isFoundational": false
     },
     "routes": [
-      "edx-foundation",
-      "hhk-y11",
-      "hhk-y7"
+      "edx-foundation"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -6645,9 +6647,7 @@
     },
     "routes": [
       "cie-extended-algebra",
-      "cie-recovery-algebra",
-      "hhk-y10",
-      "hhk-y11"
+      "cie-recovery-algebra"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -6719,7 +6719,9 @@
     },
     "routes": [
       "cie-extended-algebra",
-      "cie-recovery-algebra"
+      "cie-recovery-algebra",
+      "hhk-y10",
+      "hhk-y11"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -6940,7 +6942,8 @@
     },
     "routes": [
       "cie-extended-algebra",
-      "cie-recovery-algebra"
+      "cie-recovery-algebra",
+      "hhk-y10"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -7011,8 +7014,7 @@
       "isFoundational": false
     },
     "routes": [
-      "cie-extended-algebra",
-      "hhk-y10"
+      "cie-extended-algebra"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -7284,10 +7286,7 @@
     },
     "routes": [
       "cie-extended-algebra",
-      "cie-recovery-algebra",
-      "hhk-y10",
-      "hhk-y11",
-      "hhk-y9"
+      "cie-recovery-algebra"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -7420,7 +7419,10 @@
       "isFoundational": false
     },
     "routes": [
-      "cie-extended-algebra"
+      "cie-extended-algebra",
+      "hhk-y10",
+      "hhk-y11",
+      "hhk-y9"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -8008,8 +8010,7 @@
     },
     "routes": [
       "cie-core-geometry",
-      "hhk-y8",
-      "hhk-y9"
+      "hhk-y8"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -8085,7 +8086,8 @@
       "isFoundational": false
     },
     "routes": [
-      "cie-core-geometry"
+      "cie-core-geometry",
+      "hhk-y9"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -8311,7 +8313,8 @@
       "isFoundational": false
     },
     "routes": [
-      "cie-core-geometry"
+      "cie-core-geometry",
+      "hhk-y10"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -9156,8 +9159,7 @@
     },
     "routes": [
       "cie-core-number",
-      "hhk-y8",
-      "hhk-y9"
+      "hhk-y8"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -9437,7 +9439,8 @@
       "isFoundational": false
     },
     "routes": [
-      "cie-core-number"
+      "cie-core-number",
+      "hhk-y9"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -10097,9 +10100,7 @@
     },
     "routes": [
       "cie-extended-algebra",
-      "cie-recovery-fractions",
-      "hhk-y10",
-      "hhk-y9"
+      "cie-recovery-fractions"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -10626,8 +10627,7 @@
       "isFoundational": false
     },
     "routes": [
-      "cie-core-geometry",
-      "hhk-y10"
+      "cie-core-geometry"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -12165,8 +12165,7 @@
     },
     "routes": [
       "cie-core-geometry",
-      "edx-foundation",
-      "hhk-y7"
+      "edx-foundation"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -12240,7 +12239,8 @@
     },
     "routes": [
       "cie-core-geometry",
-      "edx-foundation"
+      "edx-foundation",
+      "hhk-y7"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -12786,8 +12786,7 @@
       "isFoundational": false
     },
     "routes": [
-      "cie-core-geometry",
-      "hhk-y7"
+      "cie-core-geometry"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -13002,7 +13001,8 @@
       "isFoundational": false
     },
     "routes": [
-      "cie-core-geometry"
+      "cie-core-geometry",
+      "hhk-y7"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -13974,8 +13974,7 @@
       "isFoundational": false
     },
     "routes": [
-      "cie-core-number",
-      "hhk-y11"
+      "cie-core-number"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -14119,7 +14118,8 @@
       "isFoundational": false
     },
     "routes": [
-      "cie-core-number"
+      "cie-core-number",
+      "hhk-y11"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -14382,9 +14382,7 @@
     },
     "routes": [
       "cie-core-geometry",
-      "edx-foundation",
-      "hhk-y10",
-      "hhk-y9"
+      "edx-foundation"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -14539,7 +14537,9 @@
     },
     "routes": [
       "cie-core-geometry",
-      "edx-foundation"
+      "edx-foundation",
+      "hhk-y10",
+      "hhk-y9"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"

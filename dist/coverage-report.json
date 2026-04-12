@@ -112,13 +112,6 @@
       "reason": "optional"
     },
     {
-      "kn_id": "kn_0009",
-      "title_en": "Types of number",
-      "domain": "number",
-      "weight": "medium",
-      "reason": "optional"
-    },
-    {
       "kn_id": "kn_0011",
       "title_en": "Types of number",
       "domain": "number",
@@ -134,6 +127,13 @@
     },
     {
       "kn_id": "kn_0050",
+      "title_en": "Limits of accuracy",
+      "domain": "number",
+      "weight": "medium",
+      "reason": "optional"
+    },
+    {
+      "kn_id": "kn_0051",
       "title_en": "Limits of accuracy",
       "domain": "number",
       "weight": "medium",

@@ -8,4 +8,13 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: python3 scripts/validate-registry.py
+
+      # 1. Registry structure validation (12 checks incl. primaryBoard)
+      - name: Validate registry
+        run: python3 scripts/validate-registry.py
+
+      # 2. Verify dist/ artifacts are built from current sources
+      #    Compares source file hashes to dist/build-manifest.json.
+      #    Fails if scripts changed but dist/ wasn't rebuilt.
+      - name: Check dist freshness
+        run: python3 scripts/check-dist-fresh.py
