@@ -124,6 +124,31 @@ def estimate_hours(nodes, meta_map):
     return round(total_min / 60, 1)
 
 
+def inject_hard_prereqs(kn_ids, meta_map, edges):
+    """Auto-inject missing hard prerequisites into a route's node list.
+
+    Walks every selected node's hard prerequisites. If a hard prereq
+    is in meta_map but not yet in the route, adds it. Iterates until
+    no new prereqs are found (transitive closure).
+    """
+    selected = set(kn_ids)
+    changed = True
+    while changed:
+        changed = False
+        additions = set()
+        for kn_id in list(selected):
+            mn = meta_map.get(kn_id)
+            if not mn:
+                continue
+            for p in mn.get('prerequisites', []):
+                if p['type'] == 'hard' and p['kn_id'] in meta_map and p['kn_id'] not in selected:
+                    additions.add(p['kn_id'])
+        if additions:
+            selected.update(additions)
+            changed = True
+    return list(selected)
+
+
 # ══════════════════════════════════════════
 # Route builders
 # ══════════════════════════════════════════
@@ -172,6 +197,7 @@ def build_cie_core_number(meta_nodes, meta_map, edges):
             selected.append(kn_id)
 
     selected = limit_per_section(selected, meta_map, max_per_section=3)
+    selected = inject_hard_prereqs(selected, meta_map, edges)
     sorted_ids = topo_sort_nodes(selected, edges)
     nodes = []
     for kn_id in sorted_ids:
@@ -211,6 +237,7 @@ def build_cie_core_geometry(meta_nodes, meta_map, edges):
             selected.append(kn_id)
 
     selected = limit_per_section(selected, meta_map, max_per_section=4)
+    selected = inject_hard_prereqs(selected, meta_map, edges)
     sorted_ids = topo_sort_nodes(selected, edges)
     nodes = []
     for kn_id in sorted_ids:
@@ -263,6 +290,7 @@ def build_cie_extended_algebra(meta_nodes, meta_map, edges):
             selected.append(kn_id)
 
     selected = limit_per_section(selected, meta_map, max_per_section=3)
+    selected = inject_hard_prereqs(selected, meta_map, edges)
     sorted_ids = topo_sort_nodes(selected, edges)
     nodes = []
     for kn_id in sorted_ids:
@@ -292,6 +320,7 @@ def build_cie_recovery_algebra(meta_nodes, meta_map, edges):
         section_counts[sec] += 1
         selected.append(mn['kn_id'])
 
+    selected = inject_hard_prereqs(selected, meta_map, edges)
     sorted_ids = topo_sort_nodes(selected, edges)
     nodes = []
     for kn_id in sorted_ids:
@@ -315,6 +344,7 @@ def build_cie_recovery_fractions(meta_nodes, meta_map, edges):
     # Sort by difficulty ascending
     selected.sort(key=lambda kn_id: meta_map[kn_id]['learning'].get('difficultyRange', [1, 3])[0])
     # Then topo sort within same difficulty
+    selected = inject_hard_prereqs(selected, meta_map, edges)
     sorted_ids = topo_sort_nodes(selected, edges)
     nodes = []
     for kn_id in sorted_ids:
@@ -338,6 +368,7 @@ def build_cie_sprint_2weeks(meta_nodes, meta_map, edges):
 
     candidates.sort()
     selected = [kn_id for _, kn_id in candidates[:28]]
+    selected = inject_hard_prereqs(selected, meta_map, edges)
     sorted_ids = topo_sort_nodes(selected, edges)
     nodes = []
     for kn_id in sorted_ids:
@@ -357,6 +388,7 @@ def build_edx_foundation(meta_nodes, meta_map, edges):
             continue
         selected.append(mn['kn_id'])
 
+    selected = inject_hard_prereqs(selected, meta_map, edges)
     sorted_ids = topo_sort_nodes(selected, edges)
     nodes = []
     for kn_id in sorted_ids:
@@ -383,6 +415,7 @@ def build_edx_higher(meta_nodes, meta_map, edges):
         meta_map[k]['examBoards'].get('cie_0580', meta_map[k]['examBoards'].get('edexcel_4ma1', {})).get('weight', 'medium'), 4))
     selected = selected[:20]
 
+    selected = inject_hard_prereqs(selected, meta_map, edges)
     sorted_ids = topo_sort_nodes(selected, edges)
     nodes = []
     for kn_id in sorted_ids:
@@ -448,6 +481,7 @@ def build_hhk_year(year, meta_nodes, meta_map, edges, hhk_map):
             selected.append(kn_id)
             seen.add(kn_id)
 
+    selected = inject_hard_prereqs(selected, meta_map, edges)
     sorted_ids = topo_sort_nodes(selected, edges)
     nodes = []
     for kn_id in sorted_ids:
@@ -462,13 +496,16 @@ def infer_board_filter(route_id):
 
     Used by Practice/KnowledgeMap/ExamHub to separate CIE vs Edexcel views.
     Returns a list of accepted primaryBoard values.
+
+    Note: edx-* routes include 'cie' because hard prerequisites
+    may be CIE-only foundational nodes that Edexcel students still need.
     """
     if route_id.startswith('cie-'):
         return ['cie', 'both']
     elif route_id.startswith('edx-'):
-        return ['edx', 'both']
+        # Edexcel routes accept CIE nodes too — shared foundations
+        return ['cie', 'edx', 'both']
     elif route_id.startswith('hhk-'):
-        # HHK校本课纲复用 CIE 大纲，所以接受 cie + both
         return ['cie', 'both']
     return ['cie', 'edx', 'both']
 

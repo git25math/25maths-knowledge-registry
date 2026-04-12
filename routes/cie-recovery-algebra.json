@@ -5,21 +5,21 @@
   "board": "cie_0580",
   "tier": "core",
   "description": "代数基础补救路线，只选L1-L2",
-  "estimatedHours": 6.0,
+  "estimatedHours": 12.4,
   "nodes": [
     {
-      "kn_id": "kn_0083",
+      "kn_id": "kn_0019",
       "order": 1,
       "isRequired": true,
       "unlockCondition": {
         "type": "prerequisite_mastered",
         "threshold": 0.8
       },
-      "estimatedMinutes": 33,
+      "estimatedMinutes": 25,
       "milestone": false
     },
     {
-      "kn_id": "kn_0097",
+      "kn_id": "kn_0083",
       "order": 2,
       "isRequired": true,
       "unlockCondition": {
@@ -30,7 +30,7 @@
       "milestone": false
     },
     {
-      "kn_id": "kn_0114",
+      "kn_id": "kn_0103",
       "order": 3,
       "isRequired": true,
       "unlockCondition": {
@@ -41,7 +41,7 @@
       "milestone": false
     },
     {
-      "kn_id": "kn_0124",
+      "kn_id": "kn_0114",
       "order": 4,
       "isRequired": true,
       "unlockCondition": {
@@ -52,7 +52,7 @@
       "milestone": false
     },
     {
-      "kn_id": "kn_0135",
+      "kn_id": "kn_0124",
       "order": 5,
       "isRequired": true,
       "unlockCondition": {
@@ -63,7 +63,7 @@
       "milestone": false
     },
     {
-      "kn_id": "kn_0084",
+      "kn_id": "kn_0135",
       "order": 6,
       "isRequired": true,
       "unlockCondition": {
@@ -80,29 +80,29 @@
       "title_en": "Checkpoint 1",
       "title_zh": "检查点 1",
       "covers": [
+        "kn_0019",
         "kn_0083",
-        "kn_0097",
+        "kn_0103",
         "kn_0114",
         "kn_0124",
-        "kn_0135",
-        "kn_0084"
+        "kn_0135"
       ],
       "isRequired": false,
       "milestone": true
     },
     {
-      "kn_id": "kn_0086",
+      "kn_id": "kn_0016",
       "order": 8,
       "isRequired": true,
       "unlockCondition": {
         "type": "prerequisite_mastered",
         "threshold": 0.8
       },
-      "estimatedMinutes": 33,
+      "estimatedMinutes": 25,
       "milestone": false
     },
     {
-      "kn_id": "kn_0107",
+      "kn_id": "kn_0084",
       "order": 9,
       "isRequired": true,
       "unlockCondition": {
@@ -113,7 +113,7 @@
       "milestone": false
     },
     {
-      "kn_id": "kn_0113",
+      "kn_id": "kn_0086",
       "order": 10,
       "isRequired": true,
       "unlockCondition": {
@@ -124,7 +124,7 @@
       "milestone": false
     },
     {
-      "kn_id": "kn_0085",
+      "kn_id": "kn_0113",
       "order": 11,
       "isRequired": true,
       "unlockCondition": {
@@ -135,8 +135,19 @@
       "milestone": false
     },
     {
-      "kn_id": "kn_0108",
+      "kn_id": "kn_0104",
       "order": 12,
+      "isRequired": true,
+      "unlockCondition": {
+        "type": "prerequisite_mastered",
+        "threshold": 0.8
+      },
+      "estimatedMinutes": 33,
+      "milestone": false
+    },
+    {
+      "kn_id": "kn_0099",
+      "order": 13,
       "isRequired": true,
       "unlockCondition": {
         "type": "prerequisite_mastered",
@@ -148,14 +159,169 @@
     {
       "kn_id": "milestone-cie-recovery-algebra-2",
       "type": "milestone",
-      "order": 13,
+      "order": 14,
       "title_en": "Checkpoint 2",
       "title_zh": "检查点 2",
       "covers": [
+        "kn_0016",
+        "kn_0084",
         "kn_0086",
-        "kn_0107",
         "kn_0113",
+        "kn_0104",
+        "kn_0099"
+      ],
+      "isRequired": false,
+      "milestone": true
+    },
+    {
+      "kn_id": "kn_0085",
+      "order": 15,
+      "isRequired": true,
+      "unlockCondition": {
+        "type": "prerequisite_mastered",
+        "threshold": 0.8
+      },
+      "estimatedMinutes": 33,
+      "milestone": false
+    },
+    {
+      "kn_id": "kn_0094",
+      "order": 16,
+      "isRequired": true,
+      "unlockCondition": {
+        "type": "prerequisite_mastered",
+        "threshold": 0.8
+      },
+      "estimatedMinutes": 33,
+      "milestone": false
+    },
+    {
+      "kn_id": "kn_0110",
+      "order": 17,
+      "isRequired": true,
+      "unlockCondition": {
+        "type": "prerequisite_mastered",
+        "threshold": 0.8
+      },
+      "estimatedMinutes": 33,
+      "milestone": false
+    },
+    {
+      "kn_id": "kn_0101",
+      "order": 18,
+      "isRequired": true,
+      "unlockCondition": {
+        "type": "prerequisite_mastered",
+        "threshold": 0.8
+      },
+      "estimatedMinutes": 33,
+      "milestone": false
+    },
+    {
+      "kn_id": "kn_0089",
+      "order": 19,
+      "isRequired": true,
+      "unlockCondition": {
+        "type": "prerequisite_mastered",
+        "threshold": 0.8
+      },
+      "estimatedMinutes": 33,
+      "milestone": false
+    },
+    {
+      "kn_id": "kn_0100",
+      "order": 20,
+      "isRequired": true,
+      "unlockCondition": {
+        "type": "prerequisite_mastered",
+        "threshold": 0.8
+      },
+      "estimatedMinutes": 33,
+      "milestone": false
+    },
+    {
+      "kn_id": "milestone-cie-recovery-algebra-3",
+      "type": "milestone",
+      "order": 21,
+      "title_en": "Checkpoint 3",
+      "title_zh": "检查点 3",
+      "covers": [
         "kn_0085",
+        "kn_0094",
+        "kn_0110",
+        "kn_0101",
+        "kn_0089",
+        "kn_0100"
+      ],
+      "isRequired": false,
+      "milestone": true
+    },
+    {
+      "kn_id": "kn_0090",
+      "order": 22,
+      "isRequired": true,
+      "unlockCondition": {
+        "type": "prerequisite_mastered",
+        "threshold": 0.8
+      },
+      "estimatedMinutes": 33,
+      "milestone": false
+    },
+    {
+      "kn_id": "kn_0107",
+      "order": 23,
+      "isRequired": true,
+      "unlockCondition": {
+        "type": "prerequisite_mastered",
+        "threshold": 0.8
+      },
+      "estimatedMinutes": 33,
+      "milestone": false
+    },
+    {
+      "kn_id": "kn_0091",
+      "order": 24,
+      "isRequired": true,
+      "unlockCondition": {
+        "type": "prerequisite_mastered",
+        "threshold": 0.8
+      },
+      "estimatedMinutes": 33,
+      "milestone": false
+    },
+    {
+      "kn_id": "kn_0097",
+      "order": 25,
+      "isRequired": true,
+      "unlockCondition": {
+        "type": "prerequisite_mastered",
+        "threshold": 0.8
+      },
+      "estimatedMinutes": 33,
+      "milestone": false
+    },
+    {
+      "kn_id": "kn_0108",
+      "order": 26,
+      "isRequired": true,
+      "unlockCondition": {
+        "type": "prerequisite_mastered",
+        "threshold": 0.8
+      },
+      "estimatedMinutes": 33,
+      "milestone": false
+    },
+    {
+      "kn_id": "milestone-cie-recovery-algebra-4",
+      "type": "milestone",
+      "order": 27,
+      "title_en": "Checkpoint 4",
+      "title_zh": "检查点 4",
+      "covers": [
+        "kn_0090",
+        "kn_0107",
+        "kn_0091",
+        "kn_0097",
         "kn_0108"
       ],
       "isRequired": false,

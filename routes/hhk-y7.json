@@ -5,7 +5,7 @@
   "board": "hhk",
   "tier": "both",
   "description": "哈罗七年级课纲学习路线",
-  "estimatedHours": 11.0,
+  "estimatedHours": 11.4,
   "nodes": [
     {
       "kn_id": "kn_0003",
@@ -63,14 +63,14 @@
       "milestone": false
     },
     {
-      "kn_id": "kn_0069",
+      "kn_id": "kn_0113",
       "order": 6,
       "isRequired": true,
       "unlockCondition": {
         "type": "prerequisite_mastered",
         "threshold": 0.8
       },
-      "estimatedMinutes": 25,
+      "estimatedMinutes": 33,
       "milestone": false
     },
     {
@@ -85,7 +85,7 @@
         "kn_0034",
         "kn_0053",
         "kn_0054",
-        "kn_0069"
+        "kn_0113"
       ],
       "isRequired": false,
       "milestone": true
@@ -185,18 +185,18 @@
       "milestone": false
     },
     {
-      "kn_id": "kn_0330",
+      "kn_id": "kn_0068",
       "order": 16,
       "isRequired": true,
       "unlockCondition": {
         "type": "prerequisite_mastered",
         "threshold": 0.8
       },
-      "estimatedMinutes": 40,
+      "estimatedMinutes": 25,
       "milestone": false
     },
     {
-      "kn_id": "kn_0353",
+      "kn_id": "kn_0330",
       "order": 17,
       "isRequired": true,
       "unlockCondition": {
@@ -207,14 +207,14 @@
       "milestone": false
     },
     {
-      "kn_id": "kn_0116",
+      "kn_id": "kn_0353",
       "order": 18,
       "isRequired": true,
       "unlockCondition": {
         "type": "prerequisite_mastered",
         "threshold": 0.8
       },
-      "estimatedMinutes": 33,
+      "estimatedMinutes": 40,
       "milestone": false
     },
     {
@@ -229,14 +229,14 @@
       "milestone": false
     },
     {
-      "kn_id": "kn_0364",
+      "kn_id": "kn_0027",
       "order": 20,
       "isRequired": true,
       "unlockCondition": {
         "type": "prerequisite_mastered",
         "threshold": 0.8
       },
-      "estimatedMinutes": 40,
+      "estimatedMinutes": 25,
       "milestone": false
     },
     {
@@ -247,17 +247,17 @@
       "title_zh": "检查点 3",
       "covers": [
         "kn_0030",
+        "kn_0068",
         "kn_0330",
         "kn_0353",
-        "kn_0116",
         "kn_0350",
-        "kn_0364"
+        "kn_0027"
       ],
       "isRequired": false,
       "milestone": true
     },
     {
-      "kn_id": "kn_0027",
+      "kn_id": "kn_0069",
       "order": 22,
       "isRequired": true,
       "unlockCondition": {
@@ -268,8 +268,19 @@
       "milestone": false
     },
     {
-      "kn_id": "kn_0031",
+      "kn_id": "kn_0365",
       "order": 23,
+      "isRequired": true,
+      "unlockCondition": {
+        "type": "prerequisite_mastered",
+        "threshold": 0.8
+      },
+      "estimatedMinutes": 40,
+      "milestone": false
+    },
+    {
+      "kn_id": "kn_0031",
+      "order": 24,
       "isRequired": true,
       "unlockCondition": {
         "type": "prerequisite_mastered",
@@ -280,7 +291,7 @@
     },
     {
       "kn_id": "kn_0062",
-      "order": 24,
+      "order": 25,
       "isRequired": true,
       "unlockCondition": {
         "type": "prerequisite_mastered",
@@ -292,11 +303,12 @@
     {
       "kn_id": "milestone-hhk-y7-4",
       "type": "milestone",
-      "order": 25,
+      "order": 26,
       "title_en": "Checkpoint 4",
       "title_zh": "检查点 4",
       "covers": [
-        "kn_0027",
+        "kn_0069",
+        "kn_0365",
         "kn_0031",
         "kn_0062"
       ],

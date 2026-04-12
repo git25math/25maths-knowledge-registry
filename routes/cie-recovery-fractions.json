@@ -5,7 +5,7 @@
   "board": "cie_0580",
   "tier": "core",
   "description": "分数补救路线，s1.4→s2.3",
-  "estimatedHours": 3.9,
+  "estimatedHours": 7.7,
   "nodes": [
     {
       "kn_id": "kn_0020",
@@ -19,18 +19,18 @@
       "milestone": false
     },
     {
-      "kn_id": "kn_0030",
+      "kn_id": "kn_0083",
       "order": 2,
       "isRequired": true,
       "unlockCondition": {
         "type": "prerequisite_mastered",
         "threshold": 0.8
       },
-      "estimatedMinutes": 25,
+      "estimatedMinutes": 33,
       "milestone": false
     },
     {
-      "kn_id": "kn_0027",
+      "kn_id": "kn_0030",
       "order": 3,
       "isRequired": true,
       "unlockCondition": {
@@ -41,19 +41,8 @@
       "milestone": false
     },
     {
-      "kn_id": "kn_0031",
+      "kn_id": "kn_0086",
       "order": 4,
-      "isRequired": true,
-      "unlockCondition": {
-        "type": "prerequisite_mastered",
-        "threshold": 0.8
-      },
-      "estimatedMinutes": 25,
-      "milestone": false
-    },
-    {
-      "kn_id": "kn_0097",
-      "order": 5,
       "isRequired": true,
       "unlockCondition": {
         "type": "prerequisite_mastered",
@@ -63,7 +52,18 @@
       "milestone": false
     },
     {
-      "kn_id": "kn_0307",
+      "kn_id": "kn_0027",
+      "order": 5,
+      "isRequired": true,
+      "unlockCondition": {
+        "type": "prerequisite_mastered",
+        "threshold": 0.8
+      },
+      "estimatedMinutes": 25,
+      "milestone": false
+    },
+    {
+      "kn_id": "kn_0085",
       "order": 6,
       "isRequired": true,
       "unlockCondition": {
@@ -81,17 +81,17 @@
       "title_zh": "检查点 1",
       "covers": [
         "kn_0020",
+        "kn_0083",
         "kn_0030",
+        "kn_0086",
         "kn_0027",
-        "kn_0031",
-        "kn_0097",
-        "kn_0307"
+        "kn_0085"
       ],
       "isRequired": false,
       "milestone": true
     },
     {
-      "kn_id": "kn_0098",
+      "kn_id": "kn_0094",
       "order": 8,
       "isRequired": true,
       "unlockCondition": {
@@ -102,8 +102,19 @@
       "milestone": false
     },
     {
-      "kn_id": "kn_0309",
+      "kn_id": "kn_0031",
       "order": 9,
+      "isRequired": true,
+      "unlockCondition": {
+        "type": "prerequisite_mastered",
+        "threshold": 0.8
+      },
+      "estimatedMinutes": 25,
+      "milestone": false
+    },
+    {
+      "kn_id": "kn_0089",
+      "order": 10,
       "isRequired": true,
       "unlockCondition": {
         "type": "prerequisite_mastered",
@@ -111,6 +122,103 @@
       },
       "estimatedMinutes": 33,
       "milestone": false
+    },
+    {
+      "kn_id": "kn_0090",
+      "order": 11,
+      "isRequired": true,
+      "unlockCondition": {
+        "type": "prerequisite_mastered",
+        "threshold": 0.8
+      },
+      "estimatedMinutes": 33,
+      "milestone": false
+    },
+    {
+      "kn_id": "kn_0093",
+      "order": 12,
+      "isRequired": true,
+      "unlockCondition": {
+        "type": "prerequisite_mastered",
+        "threshold": 0.8
+      },
+      "estimatedMinutes": 33,
+      "milestone": false
+    },
+    {
+      "kn_id": "kn_0097",
+      "order": 13,
+      "isRequired": true,
+      "unlockCondition": {
+        "type": "prerequisite_mastered",
+        "threshold": 0.8
+      },
+      "estimatedMinutes": 33,
+      "milestone": false
+    },
+    {
+      "kn_id": "milestone-cie-recovery-fractions-2",
+      "type": "milestone",
+      "order": 14,
+      "title_en": "Checkpoint 2",
+      "title_zh": "检查点 2",
+      "covers": [
+        "kn_0094",
+        "kn_0031",
+        "kn_0089",
+        "kn_0090",
+        "kn_0093",
+        "kn_0097"
+      ],
+      "isRequired": false,
+      "milestone": true
+    },
+    {
+      "kn_id": "kn_0307",
+      "order": 15,
+      "isRequired": true,
+      "unlockCondition": {
+        "type": "prerequisite_mastered",
+        "threshold": 0.8
+      },
+      "estimatedMinutes": 33,
+      "milestone": false
+    },
+    {
+      "kn_id": "kn_0098",
+      "order": 16,
+      "isRequired": true,
+      "unlockCondition": {
+        "type": "prerequisite_mastered",
+        "threshold": 0.8
+      },
+      "estimatedMinutes": 33,
+      "milestone": false
+    },
+    {
+      "kn_id": "kn_0309",
+      "order": 17,
+      "isRequired": true,
+      "unlockCondition": {
+        "type": "prerequisite_mastered",
+        "threshold": 0.8
+      },
+      "estimatedMinutes": 33,
+      "milestone": false
+    },
+    {
+      "kn_id": "milestone-cie-recovery-fractions-3",
+      "type": "milestone",
+      "order": 18,
+      "title_en": "Checkpoint 3",
+      "title_zh": "检查点 3",
+      "covers": [
+        "kn_0307",
+        "kn_0098",
+        "kn_0309"
+      ],
+      "isRequired": false,
+      "milestone": true
     }
   ],
   "version": 1,

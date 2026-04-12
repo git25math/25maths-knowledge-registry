@@ -7,14 +7,14 @@
     "registry/kp-kn-map.json": "2bc914f104c97f1c",
     "graph/dag-edges.json": "5027989ea162ee2e",
     "scripts/build-meta-nodes.py": "0207936340c03d89",
-    "scripts/build-routes.py": "35f7f52b0810554b",
+    "scripts/build-routes.py": "f7e0c48454173c18",
     "scripts/build-board-indexes.py": "e4ff2c4475582dfc",
     "scripts/dag_utils.py": "65edb50cc491124a"
   },
   "distFiles": {
-    "meta-nodes.json": "82132331759ad221",
-    "routes-compiled.json": "cb160c5c60604483",
-    "coverage-report.json": "8434bfe4f1233d4c",
+    "meta-nodes.json": "ce0d7143803c6707",
+    "routes-compiled.json": "2b1164abb89c09dd",
+    "coverage-report.json": "c85b262b88f07918",
     "nodes-by-board.json": "ad6b45311e6402c6",
     "question-id-map.json": "2e81c30e97bfffc1",
     "board-stats.json": "246ab53a70a60063"

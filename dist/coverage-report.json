@@ -1,7 +1,7 @@
 {
   "totalMetaNodes": 203,
-  "nodesInRoutes": 187,
-  "coveragePercent": 92.1,
+  "nodesInRoutes": 186,
+  "coveragePercent": 91.6,
   "variantsExempt": 15,
   "effectiveCoverage": 99,
   "routeStats": [
@@ -19,69 +19,69 @@
     },
     {
       "id": "cie-extended-algebra",
-      "nodes": 64,
-      "milestones": 11,
-      "estimatedHours": 38.0
+      "nodes": 74,
+      "milestones": 12,
+      "estimatedHours": 43.0
     },
     {
       "id": "cie-recovery-algebra",
-      "nodes": 11,
-      "milestones": 2,
-      "estimatedHours": 6.0
+      "nodes": 23,
+      "milestones": 4,
+      "estimatedHours": 12.4
     },
     {
       "id": "cie-recovery-fractions",
-      "nodes": 8,
-      "milestones": 1,
-      "estimatedHours": 3.9
+      "nodes": 15,
+      "milestones": 3,
+      "estimatedHours": 7.7
     },
     {
       "id": "cie-sprint-2weeks",
-      "nodes": 28,
-      "milestones": 5,
-      "estimatedHours": 15.2
+      "nodes": 34,
+      "milestones": 6,
+      "estimatedHours": 18.4
     },
     {
       "id": "edx-foundation",
-      "nodes": 31,
-      "milestones": 5,
-      "estimatedHours": 19.0
+      "nodes": 38,
+      "milestones": 6,
+      "estimatedHours": 23.1
     },
     {
       "id": "edx-higher",
-      "nodes": 20,
-      "milestones": 3,
-      "estimatedHours": 10.0
+      "nodes": 21,
+      "milestones": 4,
+      "estimatedHours": 10.6
     },
     {
       "id": "hhk-y10",
-      "nodes": 24,
-      "milestones": 4,
-      "estimatedHours": 14.0
+      "nodes": 33,
+      "milestones": 6,
+      "estimatedHours": 19.1
     },
     {
       "id": "hhk-y11",
-      "nodes": 42,
-      "milestones": 7,
-      "estimatedHours": 22.1
+      "nodes": 59,
+      "milestones": 10,
+      "estimatedHours": 31.2
     },
     {
       "id": "hhk-y7",
-      "nodes": 21,
+      "nodes": 22,
       "milestones": 4,
-      "estimatedHours": 11.0
+      "estimatedHours": 11.4
     },
     {
       "id": "hhk-y8",
-      "nodes": 18,
-      "milestones": 3,
-      "estimatedHours": 9.9
+      "nodes": 30,
+      "milestones": 5,
+      "estimatedHours": 16.4
     },
     {
       "id": "hhk-y9",
-      "nodes": 23,
-      "milestones": 4,
-      "estimatedHours": 13.0
+      "nodes": 30,
+      "milestones": 5,
+      "estimatedHours": 16.7
     }
   ],
   "nodesNotInRoute": [
@@ -174,14 +174,6 @@
       "variantOf": "kn_0085"
     },
     {
-      "kn_id": "kn_0091",
-      "title_en": "Algebraic manipulation",
-      "domain": "algebra",
-      "weight": "medium",
-      "reason": "variant of kn_0085",
-      "variantOf": "kn_0085"
-    },
-    {
       "kn_id": "kn_0092",
       "title_en": "Algebraic manipulation",
       "domain": "algebra",
@@ -190,7 +182,23 @@
       "variantOf": "kn_0085"
     },
     {
+      "kn_id": "kn_0160",
+      "title_en": "Conditional probability",
+      "domain": "probability",
+      "weight": "medium",
+      "reason": "optional",
+      "variantOf": null
+    },
+    {
       "kn_id": "kn_0166",
+      "title_en": "Averages and measures of spread",
+      "domain": "statistics",
+      "weight": "medium",
+      "reason": "variant of kn_0163",
+      "variantOf": "kn_0163"
+    },
+    {
+      "kn_id": "kn_0167",
       "title_en": "Averages and measures of spread",
       "domain": "statistics",
       "weight": "medium",
