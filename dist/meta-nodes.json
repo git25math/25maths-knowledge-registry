@@ -56,7 +56,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -130,7 +130,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -203,13 +203,15 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
-      "cie-core-number"
+      "cie-core-number",
+      "hhk-y7",
+      "hhk-y8"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -276,14 +278,12 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
     },
-    "routes": [
-      "hhk-y8"
-    ],
+    "routes": [],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
   },
@@ -349,7 +349,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -424,7 +424,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -493,7 +493,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -564,7 +564,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -635,7 +635,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -704,15 +704,14 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
       "cie-core-number",
-      "edx-higher",
-      "hhk-y11"
+      "edx-higher"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -780,7 +779,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -853,7 +852,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -932,7 +931,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -1010,7 +1009,7 @@
         "practice": 20
       },
       "difficultyRange": [
-        1,
+        2,
         3
       ],
       "noFigure": true,
@@ -1018,8 +1017,7 @@
     },
     "routes": [
       "cie-core-number",
-      "edx-higher",
-      "hhk-y10"
+      "edx-higher"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -1092,8 +1090,8 @@
         "practice": 20
       },
       "difficultyRange": [
-        1,
-        3
+        3,
+        4
       ],
       "noFigure": true,
       "isFoundational": false
@@ -1259,7 +1257,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -1338,7 +1336,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -1417,7 +1415,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -1503,7 +1501,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": true
@@ -1585,15 +1583,13 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
-      "cie-core-number",
-      "hhk-y7",
-      "hhk-y8"
+      "cie-core-number"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -1660,7 +1656,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -1742,7 +1738,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": true
@@ -1821,8 +1817,8 @@
         "practice": 20
       },
       "difficultyRange": [
-        1,
-        3
+        3,
+        4
       ],
       "noFigure": true,
       "isFoundational": false
@@ -1895,14 +1891,15 @@
         "practice": 20
       },
       "difficultyRange": [
-        1,
-        3
+        3,
+        4
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
-      "cie-core-number"
+      "cie-core-number",
+      "hhk-y10"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -1972,7 +1969,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -2049,7 +2046,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -2120,13 +2117,14 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
-      "cie-core-number"
+      "cie-core-number",
+      "hhk-y11"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -2194,7 +2192,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -2259,7 +2257,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -2327,7 +2325,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -2394,14 +2392,13 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
-      "cie-core-number",
-      "hhk-y11"
+      "cie-core-number"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -2462,7 +2459,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -2525,7 +2522,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -2594,14 +2591,13 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
-      "cie-core-number",
-      "hhk-y7"
+      "cie-core-number"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -2664,13 +2660,14 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
-      "cie-core-number"
+      "cie-core-number",
+      "hhk-y7"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -2742,7 +2739,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": true
@@ -2815,7 +2812,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -2884,7 +2881,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -2955,7 +2952,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -3026,7 +3023,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -3098,7 +3095,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -3172,7 +3169,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -3244,15 +3241,13 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
-      "cie-core-number",
-      "hhk-y7",
-      "hhk-y9"
+      "cie-core-number"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -3311,7 +3306,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -3389,12 +3384,15 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
     },
-    "routes": [],
+    "routes": [
+      "hhk-y7",
+      "hhk-y9"
+    ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
   },
@@ -3449,8 +3447,8 @@
         "practice": 20
       },
       "difficultyRange": [
-        1,
-        3
+        2,
+        4
       ],
       "noFigure": true,
       "isFoundational": false
@@ -3515,7 +3513,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -3577,7 +3575,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -3645,7 +3643,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -3709,7 +3707,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -3791,7 +3789,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": true
@@ -3867,7 +3865,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -3954,7 +3952,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": true
@@ -4040,7 +4038,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": true
@@ -4049,7 +4047,9 @@
       "cie-extended-algebra",
       "cie-recovery-algebra",
       "cie-sprint-2weeks",
-      "edx-higher"
+      "edx-higher",
+      "hhk-y8",
+      "hhk-y9"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -4120,7 +4120,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -4295,9 +4295,7 @@
     "routes": [
       "cie-extended-algebra",
       "cie-sprint-2weeks",
-      "edx-higher",
-      "hhk-y8",
-      "hhk-y9"
+      "edx-higher"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -4627,7 +4625,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -4895,7 +4893,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        4
       ],
       "noFigure": true,
       "isFoundational": false
@@ -4978,15 +4976,14 @@
         "practice": 25
       },
       "difficultyRange": [
-        1,
-        3
+        2,
+        4
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
       "cie-extended-algebra",
-      "cie-recovery-algebra",
       "cie-recovery-fractions",
       "hhk-y10",
       "hhk-y9"
@@ -5067,15 +5064,14 @@
         "practice": 25
       },
       "difficultyRange": [
-        1,
-        3
+        2,
+        4
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
       "cie-extended-algebra",
-      "cie-recovery-algebra",
       "hhk-y8"
     ],
     "version": 1,
@@ -5150,15 +5146,14 @@
         "practice": 25
       },
       "difficultyRange": [
-        1,
-        3
+        2,
+        4
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
-      "cie-extended-algebra",
-      "cie-recovery-algebra"
+      "cie-extended-algebra"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -5231,8 +5226,8 @@
         "practice": 25
       },
       "difficultyRange": [
-        1,
-        3
+        2,
+        4
       ],
       "noFigure": true,
       "isFoundational": false
@@ -5299,15 +5294,14 @@
         "practice": 25
       },
       "difficultyRange": [
-        1,
-        3
+        3,
+        4
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
       "cie-extended-algebra",
-      "cie-recovery-algebra",
       "cie-sprint-2weeks",
       "hhk-y11"
     ],
@@ -5368,14 +5362,13 @@
         "practice": 25
       },
       "difficultyRange": [
-        1,
-        3
+        3,
+        4
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
-      "cie-recovery-algebra",
       "hhk-y11"
     ],
     "version": 1,
@@ -5438,8 +5431,8 @@
         "practice": 25
       },
       "difficultyRange": [
-        1,
-        3
+        2,
+        4
       ],
       "noFigure": true,
       "isFoundational": false
@@ -5511,8 +5504,8 @@
         "practice": 25
       },
       "difficultyRange": [
-        1,
-        3
+        2,
+        4
       ],
       "noFigure": true,
       "isFoundational": false
@@ -5594,13 +5587,14 @@
       },
       "difficultyRange": [
         1,
-        3
+        4
       ],
       "noFigure": true,
       "isFoundational": true
     },
     "routes": [
       "cie-extended-algebra",
+      "cie-recovery-algebra",
       "cie-sprint-2weeks",
       "hhk-y11"
     ],
@@ -5678,6 +5672,7 @@
     },
     "routes": [
       "cie-extended-algebra",
+      "cie-recovery-algebra",
       "cie-sprint-2weeks",
       "hhk-y11"
     ],
@@ -5735,7 +5730,7 @@
         "practice": 25
       },
       "difficultyRange": [
-        1,
+        2,
         3
       ],
       "noFigure": true,
@@ -5817,7 +5812,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        4
       ],
       "noFigure": true,
       "isFoundational": false
@@ -5902,15 +5897,14 @@
         "practice": 25
       },
       "difficultyRange": [
-        1,
-        3
+        2,
+        4
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
       "cie-extended-algebra",
-      "cie-recovery-algebra",
       "hhk-y11",
       "hhk-y8"
     ],
@@ -5980,15 +5974,14 @@
         "practice": 25
       },
       "difficultyRange": [
-        1,
-        3
+        3,
+        4
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
       "cie-extended-algebra",
-      "cie-recovery-algebra",
       "hhk-y11",
       "hhk-y8"
     ],
@@ -6061,7 +6054,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -6140,7 +6133,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -6148,7 +6141,9 @@
     "routes": [
       "cie-extended-algebra",
       "cie-recovery-algebra",
-      "edx-foundation"
+      "edx-foundation",
+      "hhk-y11",
+      "hhk-y7"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -6220,16 +6215,14 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
       "cie-extended-algebra",
-      "edx-foundation",
-      "hhk-y11",
-      "hhk-y7"
+      "edx-foundation"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -6300,13 +6293,15 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
-      "edx-foundation"
+      "edx-foundation",
+      "hhk-y11",
+      "hhk-y7"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -6374,16 +6369,14 @@
         "practice": 25
       },
       "difficultyRange": [
-        1,
+        2,
         3
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
-      "edx-foundation",
-      "hhk-y11",
-      "hhk-y7"
+      "edx-foundation"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -6440,15 +6433,14 @@
         "practice": 25
       },
       "difficultyRange": [
-        1,
-        3
+        4,
+        5
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
       "cie-extended-algebra",
-      "cie-recovery-algebra",
       "hhk-y11"
     ],
     "version": 1,
@@ -6513,15 +6505,14 @@
         "practice": 25
       },
       "difficultyRange": [
-        1,
-        3
+        2,
+        4
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
       "cie-extended-algebra",
-      "cie-recovery-algebra",
       "hhk-y11"
     ],
     "version": 1,
@@ -6585,8 +6576,8 @@
         "practice": 25
       },
       "difficultyRange": [
-        1,
-        3
+        2,
+        4
       ],
       "noFigure": true,
       "isFoundational": false
@@ -6652,8 +6643,8 @@
         "practice": 25
       },
       "difficultyRange": [
-        1,
-        3
+        3,
+        4
       ],
       "noFigure": true,
       "isFoundational": false
@@ -6736,9 +6727,7 @@
     },
     "routes": [
       "cie-extended-algebra",
-      "cie-recovery-algebra",
-      "hhk-y10",
-      "hhk-y11"
+      "cie-recovery-algebra"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -6803,7 +6792,7 @@
         "practice": 25
       },
       "difficultyRange": [
-        1,
+        2,
         3
       ],
       "noFigure": true,
@@ -6811,7 +6800,8 @@
     },
     "routes": [
       "cie-extended-algebra",
-      "cie-recovery-algebra"
+      "hhk-y10",
+      "hhk-y11"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -6874,7 +6864,7 @@
         "practice": 25
       },
       "difficultyRange": [
-        1,
+        2,
         3
       ],
       "noFigure": true,
@@ -6953,15 +6943,14 @@
         "practice": 25
       },
       "difficultyRange": [
-        1,
-        3
+        2,
+        4
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
       "cie-extended-algebra",
-      "cie-recovery-algebra",
       "cie-sprint-2weeks",
       "hhk-y10"
     ],
@@ -7027,16 +7016,14 @@
         "practice": 25
       },
       "difficultyRange": [
-        1,
-        3
+        3,
+        4
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
-      "cie-extended-algebra",
-      "cie-recovery-algebra",
-      "hhk-y10"
+      "cie-extended-algebra"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -7101,14 +7088,15 @@
         "practice": 25
       },
       "difficultyRange": [
-        1,
-        3
+        4,
+        5
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
-      "cie-extended-algebra"
+      "cie-extended-algebra",
+      "hhk-y10"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -7170,15 +7158,14 @@
         "practice": 25
       },
       "difficultyRange": [
-        1,
-        3
+        3,
+        5
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
       "cie-extended-algebra",
-      "cie-recovery-algebra",
       "hhk-y11"
     ],
     "version": 1,
@@ -7237,15 +7224,14 @@
         "practice": 25
       },
       "difficultyRange": [
-        1,
-        3
+        3,
+        5
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
       "cie-extended-algebra",
-      "cie-recovery-algebra",
       "hhk-y11"
     ],
     "version": 1,
@@ -7298,8 +7284,8 @@
         "practice": 25
       },
       "difficultyRange": [
-        1,
-        3
+        4,
+        5
       ],
       "noFigure": true,
       "isFoundational": false
@@ -7376,15 +7362,14 @@
         "practice": 25
       },
       "difficultyRange": [
-        1,
-        3
+        2,
+        4
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
       "cie-extended-algebra",
-      "cie-recovery-algebra",
       "hhk-y10",
       "hhk-y11",
       "hhk-y9"
@@ -7445,7 +7430,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -7515,8 +7500,8 @@
         "practice": 25
       },
       "difficultyRange": [
-        1,
-        3
+        3,
+        4
       ],
       "noFigure": true,
       "isFoundational": false
@@ -7598,7 +7583,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": true
@@ -7736,8 +7721,8 @@
         "practice": 30
       },
       "difficultyRange": [
-        1,
-        3
+        3,
+        4
       ],
       "noFigure": true,
       "isFoundational": false
@@ -7808,7 +7793,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -7892,8 +7877,8 @@
         "practice": 30
       },
       "difficultyRange": [
-        1,
-        3
+        2,
+        4
       ],
       "noFigure": true,
       "isFoundational": false
@@ -7956,8 +7941,8 @@
         "practice": 30
       },
       "difficultyRange": [
-        1,
-        3
+        2,
+        4
       ],
       "noFigure": true,
       "isFoundational": false
@@ -8033,15 +8018,16 @@
         "practice": 30
       },
       "difficultyRange": [
-        1,
-        3
+        3,
+        4
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
       "cie-core-geometry",
-      "hhk-y8"
+      "hhk-y8",
+      "hhk-y9"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -8111,8 +8097,8 @@
         "practice": 30
       },
       "difficultyRange": [
-        1,
-        3
+        3,
+        4
       ],
       "noFigure": true,
       "isFoundational": false
@@ -8188,8 +8174,8 @@
         "practice": 30
       },
       "difficultyRange": [
-        1,
-        3
+        3,
+        4
       ],
       "noFigure": true,
       "isFoundational": false
@@ -8268,8 +8254,8 @@
         "practice": 30
       },
       "difficultyRange": [
-        1,
-        3
+        4,
+        5
       ],
       "noFigure": true,
       "isFoundational": false
@@ -8346,14 +8332,13 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
-      "cie-core-geometry",
-      "hhk-y7"
+      "cie-core-geometry"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -8418,13 +8403,15 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
-      "cie-core-geometry"
+      "cie-core-geometry",
+      "hhk-y10",
+      "hhk-y7"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -8489,15 +8476,14 @@
         "practice": 30
       },
       "difficultyRange": [
-        1,
-        3
+        3,
+        5
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
       "cie-extended-algebra",
-      "hhk-y10",
       "hhk-y11"
     ],
     "version": 1,
@@ -8557,8 +8543,8 @@
         "practice": 30
       },
       "difficultyRange": [
-        1,
-        3
+        4,
+        5
       ],
       "noFigure": true,
       "isFoundational": false
@@ -8631,7 +8617,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -8708,13 +8694,14 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
-      "cie-core-number"
+      "cie-core-number",
+      "hhk-y11"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -8771,7 +8758,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -8844,7 +8831,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -8913,12 +8900,14 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
     },
-    "routes": [],
+    "routes": [
+      "hhk-y10"
+    ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
   },
@@ -8976,14 +8965,13 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
-      "cie-extended-algebra",
-      "hhk-y10"
+      "cie-extended-algebra"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -9051,7 +9039,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -9126,7 +9114,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -9202,7 +9190,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -9274,7 +9262,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -9346,7 +9334,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -9415,14 +9403,14 @@
         "practice": 20
       },
       "difficultyRange": [
-        1,
+        2,
         3
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
-      "hhk-y9"
+      "hhk-y8"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -9491,13 +9479,14 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
-      "cie-core-number"
+      "cie-core-number",
+      "hhk-y9"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -9560,7 +9549,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -9612,8 +9601,8 @@
         "practice": 25
       },
       "difficultyRange": [
-        2,
-        4
+        1,
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -9665,7 +9654,7 @@
         "practice": 25
       },
       "difficultyRange": [
-        2,
+        3,
         4
       ],
       "noFigure": true,
@@ -9713,8 +9702,8 @@
         "practice": 20
       },
       "difficultyRange": [
-        2,
-        4
+        1,
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -9766,8 +9755,8 @@
         "practice": 30
       },
       "difficultyRange": [
-        2,
-        4
+        1,
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -9820,7 +9809,7 @@
       },
       "difficultyRange": [
         2,
-        4
+        3
       ],
       "noFigure": true,
       "isFoundational": false
@@ -9872,8 +9861,8 @@
         "practice": 30
       },
       "difficultyRange": [
-        2,
-        4
+        4,
+        5
       ],
       "noFigure": true,
       "isFoundational": false
@@ -9926,7 +9915,7 @@
       },
       "difficultyRange": [
         2,
-        4
+        3
       ],
       "noFigure": true,
       "isFoundational": false
@@ -9978,8 +9967,8 @@
         "practice": 30
       },
       "difficultyRange": [
-        2,
-        4
+        4,
+        5
       ],
       "noFigure": true,
       "isFoundational": false
@@ -10031,7 +10020,7 @@
         "practice": 25
       },
       "difficultyRange": [
-        2,
+        3,
         4
       ],
       "noFigure": true,
@@ -10084,8 +10073,8 @@
         "practice": 20
       },
       "difficultyRange": [
-        2,
-        4
+        1,
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -10230,8 +10219,8 @@
         "practice": 25
       },
       "difficultyRange": [
-        1,
-        3
+        2,
+        4
       ],
       "noFigure": true,
       "isFoundational": false
@@ -10303,8 +10292,8 @@
         "practice": 25
       },
       "difficultyRange": [
-        1,
-        3
+        3,
+        4
       ],
       "noFigure": true,
       "isFoundational": false
@@ -10382,12 +10371,14 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
     },
-    "routes": [],
+    "routes": [
+      "hhk-y8"
+    ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
   },
@@ -10462,8 +10453,8 @@
         "practice": 30
       },
       "difficultyRange": [
-        1,
-        3
+        3,
+        5
       ],
       "noFigure": true,
       "isFoundational": false
@@ -10544,8 +10535,8 @@
         "practice": 30
       },
       "difficultyRange": [
-        1,
-        3
+        4,
+        5
       ],
       "noFigure": true,
       "isFoundational": false
@@ -10620,8 +10611,8 @@
         "practice": 30
       },
       "difficultyRange": [
-        1,
-        3
+        4,
+        5
       ],
       "noFigure": true,
       "isFoundational": false
@@ -10694,8 +10685,8 @@
         "practice": 30
       },
       "difficultyRange": [
-        1,
-        3
+        4,
+        5
       ],
       "noFigure": true,
       "isFoundational": false
@@ -10765,16 +10756,14 @@
         "practice": 30
       },
       "difficultyRange": [
-        1,
-        3
+        4,
+        5
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
-      "cie-core-geometry",
-      "hhk-y10",
-      "hhk-y9"
+      "cie-core-geometry"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -10845,8 +10834,8 @@
         "practice": 30
       },
       "difficultyRange": [
-        1,
-        3
+        3,
+        5
       ],
       "noFigure": true,
       "isFoundational": false
@@ -10926,8 +10915,8 @@
         "practice": 30
       },
       "difficultyRange": [
-        1,
-        3
+        2,
+        5
       ],
       "noFigure": true,
       "isFoundational": false
@@ -10995,13 +10984,14 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
-      "cie-extended-algebra"
+      "cie-extended-algebra",
+      "hhk-y11"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -11055,8 +11045,8 @@
         "practice": 30
       },
       "difficultyRange": [
-        1,
-        3
+        3,
+        4
       ],
       "noFigure": true,
       "isFoundational": false
@@ -11130,15 +11120,14 @@
         "practice": 30
       },
       "difficultyRange": [
-        1,
-        3
+        2,
+        4
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
-      "cie-extended-algebra",
-      "hhk-y11"
+      "cie-extended-algebra"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -11212,8 +11201,8 @@
         "practice": 30
       },
       "difficultyRange": [
-        1,
-        3
+        3,
+        5
       ],
       "noFigure": true,
       "isFoundational": false
@@ -11290,8 +11279,8 @@
         "practice": 30
       },
       "difficultyRange": [
-        1,
-        3
+        4,
+        5
       ],
       "noFigure": true,
       "isFoundational": false
@@ -11371,8 +11360,8 @@
         "practice": 30
       },
       "difficultyRange": [
-        1,
-        3
+        4,
+        5
       ],
       "noFigure": true,
       "isFoundational": false
@@ -11459,7 +11448,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -11541,7 +11530,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -11609,7 +11598,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -11677,7 +11666,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -11731,7 +11720,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -11797,8 +11786,8 @@
         "practice": 20
       },
       "difficultyRange": [
-        1,
-        3
+        2,
+        4
       ],
       "noFigure": true,
       "isFoundational": false
@@ -11869,15 +11858,14 @@
         "practice": 25
       },
       "difficultyRange": [
-        1,
-        3
+        2,
+        4
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
       "cie-extended-algebra",
-      "cie-recovery-algebra",
       "hhk-y11"
     ],
     "version": 1,
@@ -11936,15 +11924,14 @@
         "practice": 25
       },
       "difficultyRange": [
-        1,
-        3
+        3,
+        4
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
       "cie-extended-algebra",
-      "cie-recovery-algebra",
       "hhk-y11"
     ],
     "version": 1,
@@ -12013,7 +12000,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -12021,9 +12008,7 @@
     "routes": [
       "cie-core-geometry",
       "edx-foundation",
-      "hhk-y10",
-      "hhk-y7",
-      "hhk-y9"
+      "hhk-y7"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -12095,7 +12080,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -12174,14 +12159,16 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
       "cie-core-geometry",
-      "edx-foundation"
+      "edx-foundation",
+      "hhk-y10",
+      "hhk-y9"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -12247,7 +12234,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -12326,14 +12313,15 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
       "cie-core-geometry",
-      "edx-foundation"
+      "edx-foundation",
+      "hhk-y7"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -12401,15 +12389,14 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
       "cie-core-geometry",
-      "edx-foundation",
-      "hhk-y7"
+      "edx-foundation"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -12468,7 +12455,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -12536,7 +12523,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -12605,8 +12592,8 @@
         "practice": 30
       },
       "difficultyRange": [
-        1,
-        3
+        3,
+        5
       ],
       "noFigure": true,
       "isFoundational": false
@@ -12669,8 +12656,8 @@
         "practice": 30
       },
       "difficultyRange": [
-        1,
-        3
+        4,
+        5
       ],
       "noFigure": true,
       "isFoundational": false
@@ -12740,7 +12727,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -12808,7 +12795,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -12884,7 +12871,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -12957,15 +12944,13 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
-      "cie-core-geometry",
-      "hhk-y10",
-      "hhk-y7"
+      "cie-core-geometry"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -13031,7 +13016,7 @@
         "practice": 30
       },
       "difficultyRange": [
-        1,
+        2,
         3
       ],
       "noFigure": true,
@@ -13039,6 +13024,7 @@
     },
     "routes": [
       "cie-core-geometry",
+      "hhk-y10",
       "hhk-y7"
     ],
     "version": 1,
@@ -13102,14 +13088,16 @@
         "practice": 30
       },
       "difficultyRange": [
-        1,
+        2,
         3
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
-      "cie-core-geometry"
+      "cie-core-geometry",
+      "hhk-y10",
+      "hhk-y7"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -13176,7 +13164,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -13249,14 +13237,15 @@
         "practice": 30
       },
       "difficultyRange": [
-        1,
-        3
+        3,
+        5
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
-      "cie-extended-algebra"
+      "cie-extended-algebra",
+      "hhk-y10"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -13320,8 +13309,8 @@
         "practice": 30
       },
       "difficultyRange": [
-        1,
-        3
+        3,
+        5
       ],
       "noFigure": true,
       "isFoundational": false
@@ -13391,15 +13380,14 @@
         "practice": 30
       },
       "difficultyRange": [
-        1,
-        3
+        3,
+        5
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
-      "cie-extended-algebra",
-      "hhk-y10"
+      "cie-extended-algebra"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -13457,8 +13445,8 @@
         "practice": 30
       },
       "difficultyRange": [
-        1,
-        3
+        5,
+        5
       ],
       "noFigure": true,
       "isFoundational": false
@@ -13526,8 +13514,8 @@
         "practice": 30
       },
       "difficultyRange": [
-        1,
-        3
+        3,
+        5
       ],
       "noFigure": true,
       "isFoundational": false
@@ -13585,8 +13573,8 @@
         "practice": 30
       },
       "difficultyRange": [
-        1,
-        3
+        4,
+        5
       ],
       "noFigure": true,
       "isFoundational": false
@@ -13662,8 +13650,8 @@
         "practice": 30
       },
       "difficultyRange": [
-        1,
-        3
+        3,
+        5
       ],
       "noFigure": true,
       "isFoundational": false
@@ -13736,8 +13724,8 @@
         "practice": 30
       },
       "difficultyRange": [
-        1,
-        3
+        3,
+        5
       ],
       "noFigure": true,
       "isFoundational": false
@@ -13805,8 +13793,8 @@
         "practice": 30
       },
       "difficultyRange": [
-        1,
-        3
+        4,
+        5
       ],
       "noFigure": true,
       "isFoundational": false
@@ -13878,8 +13866,8 @@
         "practice": 30
       },
       "difficultyRange": [
-        1,
-        3
+        4,
+        5
       ],
       "noFigure": true,
       "isFoundational": false
@@ -13948,8 +13936,8 @@
         "practice": 30
       },
       "difficultyRange": [
-        1,
-        3
+        4,
+        5
       ],
       "noFigure": true,
       "isFoundational": false
@@ -14019,15 +14007,14 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
       "cie-core-number",
-      "hhk-y11",
-      "hhk-y8"
+      "hhk-y11"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -14088,7 +14075,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -14164,7 +14151,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -14238,7 +14225,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -14310,7 +14297,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -14435,7 +14422,7 @@
         "practice": 20
       },
       "difficultyRange": [
-        1,
+        2,
         3
       ],
       "noFigure": true,
@@ -14499,7 +14486,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -14576,7 +14563,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -14655,7 +14642,7 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
@@ -14733,14 +14720,16 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
       "cie-core-geometry",
-      "edx-foundation"
+      "edx-foundation",
+      "hhk-y10",
+      "hhk-y9"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"
@@ -14809,16 +14798,14 @@
       },
       "difficultyRange": [
         1,
-        3
+        2
       ],
       "noFigure": true,
       "isFoundational": false
     },
     "routes": [
       "cie-core-geometry",
-      "edx-foundation",
-      "hhk-y10",
-      "hhk-y9"
+      "edx-foundation"
     ],
     "version": 1,
     "createdAt": "2026-04-07T00:00:00Z"

@@ -1,10 +1,30 @@
 {
   "name": "25maths-knowledge-registry",
-  "version": "1.0.0",
-  "description": "Unified knowledge registry for 25Maths ecosystem",
+  "version": "2.1.0",
+  "description": "Unified knowledge registry for 25Maths ecosystem — 203 nodes, 13 routes, 3 exam boards",
   "scripts": {
     "build": "python3 scripts/build-all.py",
-    "validate": "python3 scripts/validate-registry.py"
+    "validate": "python3 scripts/validate-registry.py",
+    "coverage": "python3 scripts/check-coverage.py",
+    "freshness": "python3 scripts/check-dist-fresh.py",
+    "freshness:update": "python3 scripts/check-dist-fresh.py --update",
+    "verify": "python3 scripts/verify-phase3.py",
+    "populate-edx": "python3 scripts/populate-edx-knids.py"
   },
+  "types": "types/index.d.ts",
+  "exports": {
+    "./types": "./types/index.d.ts",
+    "./dist/*": "./dist/*",
+    "./registry/*": "./registry/*",
+    "./graph/*": "./graph/*"
+  },
+  "files": [
+    "dist/",
+    "registry/",
+    "graph/",
+    "routes/",
+    "types/",
+    "schema/"
+  ],
   "private": true
 }

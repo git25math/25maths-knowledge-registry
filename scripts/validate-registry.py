@@ -190,6 +190,32 @@ def main():
         else:
             print(f"✓ Route ordering: all prerequisites come before dependents")
 
+        # 13. Route prereq gap analysis — hard prereqs outside the route
+        prereq_gaps = 0
+        routes_with_gaps = 0
+        for rf in route_files:
+            with open(os.path.join(BASE, 'routes', rf)) as f:
+                route = json.load(f)
+            nodes = [n for n in route.get('nodes', []) if not n.get('milestone')]
+            route_kns = {n['kn_id'] for n in nodes}
+            route_gaps = 0
+            for n in nodes:
+                mn = meta_map.get(n['kn_id'])
+                if not mn:
+                    continue
+                for p in mn.get('prerequisites', []):
+                    if p['type'] == 'hard' and p['kn_id'] not in route_kns:
+                        route_gaps += 1
+            if route_gaps:
+                routes_with_gaps += 1
+                prereq_gaps += route_gaps
+
+        if prereq_gaps:
+            warnings.append(f"{prereq_gaps} hard prereqs outside routes ({routes_with_gaps} routes)")
+            print(f"⚠ Route gaps: {prereq_gaps} hard prereqs outside routes ({routes_with_gaps} routes)")
+        else:
+            print(f"✓ Route gaps: all hard prerequisites included in routes")
+
     # Summary
     print(f"\n{'=' * 40}")
     if errors:

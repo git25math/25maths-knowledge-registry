@@ -139,6 +139,44 @@ def main():
         else:
             return 'low'
 
+    # Compute DAG depth (longest path from any root) for difficulty calibration
+    # Depth 0 = no prerequisites, higher = more advanced
+    from dag_utils import topological_sort as topo_sort
+    all_dag_nodes = list(kn_ids)
+    topo_order = topo_sort(all_dag_nodes, dag_edges)
+    dag_depth = {}
+    adj_fwd = defaultdict(list)
+    for e in dag_edges:
+        if e['from'] in kn_ids and e['to'] in kn_ids:
+            adj_fwd[e['from']].append(e['to'])
+    for kn_id in topo_order:
+        if kn_id not in dag_depth:
+            dag_depth[kn_id] = 0
+        for child in adj_fwd.get(kn_id, []):
+            dag_depth[child] = max(dag_depth.get(child, 0), dag_depth[kn_id] + 1)
+
+    max_depth = max(dag_depth.values()) if dag_depth else 1
+
+    def compute_difficulty(kn_id):
+        """Compute [min, max] difficulty from DAG depth + in-degree.
+        Scale: 1 (foundational) to 5 (advanced).
+        """
+        depth = dag_depth.get(kn_id, 0)
+        in_count = in_degree.get(kn_id, 0)
+        # Normalize depth to 1-5 scale
+        if max_depth > 0:
+            norm = depth / max_depth  # 0.0 to 1.0
+        else:
+            norm = 0
+        base = 1 + int(norm * 4)  # 1 to 5
+        # Widen range for nodes with many prerequisites
+        spread = min(2, in_count // 2)
+        low = max(1, base - spread)
+        high = min(5, base + 1)
+        if low > high:
+            low = high
+        return [low, high]
+
     # Build variant map: for nodes sharing same (title_en, section),
     # the lowest kn_id is the "primary" and others are variants.
     section_groups = defaultdict(list)
@@ -219,8 +257,8 @@ def main():
         # isFoundational: true if leadsTo >= 5
         is_foundational = len(node_leads_to) >= 5
 
-        # Difficulty range
-        diff_range = node.get('difficultyRange', [1, 3])
+        # Difficulty range — calibrated from DAG depth
+        diff_range = compute_difficulty(kn_id)
 
         # Primary board classification:
         #   'cie'  — CIE only (no Edexcel mapping)

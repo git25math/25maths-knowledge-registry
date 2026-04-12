@@ -1,8 +1,8 @@
 {
   "totalMetaNodes": 203,
-  "nodesInRoutes": 185,
-  "coveragePercent": 91.1,
-  "variantsExempt": 16,
+  "nodesInRoutes": 187,
+  "coveragePercent": 92.1,
+  "variantsExempt": 15,
   "effectiveCoverage": 99,
   "routeStats": [
     {
@@ -25,9 +25,9 @@
     },
     {
       "id": "cie-recovery-algebra",
-      "nodes": 26,
-      "milestones": 4,
-      "estimatedHours": 14.3
+      "nodes": 11,
+      "milestones": 2,
+      "estimatedHours": 6.0
     },
     {
       "id": "cie-recovery-fractions",
@@ -85,6 +85,14 @@
     }
   ],
   "nodesNotInRoute": [
+    {
+      "kn_id": "kn_0004",
+      "title_en": "Types of number",
+      "domain": "number",
+      "weight": "medium",
+      "reason": "variant of kn_0001",
+      "variantOf": "kn_0001"
+    },
     {
       "kn_id": "kn_0005",
       "title_en": "Types of number",
@@ -158,14 +166,6 @@
       "variantOf": "kn_0052"
     },
     {
-      "kn_id": "kn_0069",
-      "title_en": "Percentages",
-      "domain": "number",
-      "weight": "medium",
-      "reason": "variant of kn_0062",
-      "variantOf": "kn_0062"
-    },
-    {
       "kn_id": "kn_0087",
       "title_en": "Algebraic manipulation",
       "domain": "algebra",
@@ -190,14 +190,6 @@
       "variantOf": "kn_0085"
     },
     {
-      "kn_id": "kn_0160",
-      "title_en": "Conditional probability",
-      "domain": "probability",
-      "weight": "medium",
-      "reason": "optional",
-      "variantOf": null
-    },
-    {
       "kn_id": "kn_0166",
       "title_en": "Averages and measures of spread",
       "domain": "statistics",
@@ -212,14 +204,6 @@
       "weight": "medium",
       "reason": "variant of kn_0103",
       "variantOf": "kn_0103"
-    },
-    {
-      "kn_id": "kn_0311",
-      "title_en": "The four operations",
-      "domain": "number",
-      "weight": "medium",
-      "reason": "variant of kn_0032",
-      "variantOf": "kn_0032"
     },
     {
       "kn_id": "kn_0345",

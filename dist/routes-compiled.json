@@ -2238,7 +2238,7 @@
     "board": "cie_0580",
     "tier": "core",
     "description": "代数基础补救路线，只选L1-L2",
-    "estimatedHours": 14.3,
+    "estimatedHours": 6.0,
     "nodes": [
       {
         "kn_id": "kn_0083",
@@ -2263,7 +2263,7 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0098",
+        "kn_id": "kn_0114",
         "order": 3,
         "isRequired": true,
         "unlockCondition": {
@@ -2274,7 +2274,7 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0103",
+        "kn_id": "kn_0124",
         "order": 4,
         "isRequired": true,
         "unlockCondition": {
@@ -2285,7 +2285,7 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0114",
+        "kn_id": "kn_0135",
         "order": 5,
         "isRequired": true,
         "unlockCondition": {
@@ -2296,7 +2296,7 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0120",
+        "kn_id": "kn_0084",
         "order": 6,
         "isRequired": true,
         "unlockCondition": {
@@ -2315,16 +2315,16 @@
         "covers": [
           "kn_0083",
           "kn_0097",
-          "kn_0098",
-          "kn_0103",
           "kn_0114",
-          "kn_0120"
+          "kn_0124",
+          "kn_0135",
+          "kn_0084"
         ],
         "isRequired": false,
         "milestone": true
       },
       {
-        "kn_id": "kn_0121",
+        "kn_id": "kn_0086",
         "order": 8,
         "isRequired": true,
         "unlockCondition": {
@@ -2335,7 +2335,7 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0124",
+        "kn_id": "kn_0107",
         "order": 9,
         "isRequired": true,
         "unlockCondition": {
@@ -2346,7 +2346,7 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0127",
+        "kn_id": "kn_0113",
         "order": 10,
         "isRequired": true,
         "unlockCondition": {
@@ -2357,7 +2357,7 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0135",
+        "kn_id": "kn_0085",
         "order": 11,
         "isRequired": true,
         "unlockCondition": {
@@ -2368,19 +2368,8 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0084",
+        "kn_id": "kn_0108",
         "order": 12,
-        "isRequired": true,
-        "unlockCondition": {
-          "type": "prerequisite_mastered",
-          "threshold": 0.8
-        },
-        "estimatedMinutes": 33,
-        "milestone": false
-      },
-      {
-        "kn_id": "kn_0086",
-        "order": 13,
         "isRequired": true,
         "unlockCondition": {
           "type": "prerequisite_mastered",
@@ -2392,207 +2381,18 @@
       {
         "kn_id": "milestone-cie-recovery-algebra-2",
         "type": "milestone",
-        "order": 14,
+        "order": 13,
         "title_en": "Checkpoint 2",
         "title_zh": "检查点 2",
         "covers": [
-          "kn_0121",
-          "kn_0124",
-          "kn_0127",
-          "kn_0135",
-          "kn_0084",
-          "kn_0086"
-        ],
-        "isRequired": false,
-        "milestone": true
-      },
-      {
-        "kn_id": "kn_0099",
-        "order": 15,
-        "isRequired": true,
-        "unlockCondition": {
-          "type": "prerequisite_mastered",
-          "threshold": 0.8
-        },
-        "estimatedMinutes": 33,
-        "milestone": false
-      },
-      {
-        "kn_id": "kn_0113",
-        "order": 16,
-        "isRequired": true,
-        "unlockCondition": {
-          "type": "prerequisite_mastered",
-          "threshold": 0.8
-        },
-        "estimatedMinutes": 33,
-        "milestone": false
-      },
-      {
-        "kn_id": "kn_0111",
-        "order": 17,
-        "isRequired": true,
-        "unlockCondition": {
-          "type": "prerequisite_mastered",
-          "threshold": 0.8
-        },
-        "estimatedMinutes": 33,
-        "milestone": false
-      },
-      {
-        "kn_id": "kn_0104",
-        "order": 18,
-        "isRequired": true,
-        "unlockCondition": {
-          "type": "prerequisite_mastered",
-          "threshold": 0.8
-        },
-        "estimatedMinutes": 33,
-        "milestone": false
-      },
-      {
-        "kn_id": "kn_0125",
-        "order": 19,
-        "isRequired": true,
-        "unlockCondition": {
-          "type": "prerequisite_mastered",
-          "threshold": 0.8
-        },
-        "estimatedMinutes": 33,
-        "milestone": false
-      },
-      {
-        "kn_id": "kn_0129",
-        "order": 20,
-        "isRequired": true,
-        "unlockCondition": {
-          "type": "prerequisite_mastered",
-          "threshold": 0.8
-        },
-        "estimatedMinutes": 33,
-        "milestone": false
-      },
-      {
-        "kn_id": "milestone-cie-recovery-algebra-3",
-        "type": "milestone",
-        "order": 21,
-        "title_en": "Checkpoint 3",
-        "title_zh": "检查点 3",
-        "covers": [
-          "kn_0099",
+          "kn_0086",
+          "kn_0107",
           "kn_0113",
-          "kn_0111",
-          "kn_0104",
-          "kn_0125",
-          "kn_0129"
-        ],
-        "isRequired": false,
-        "milestone": true
-      },
-      {
-        "kn_id": "kn_0131",
-        "order": 22,
-        "isRequired": true,
-        "unlockCondition": {
-          "type": "prerequisite_mastered",
-          "threshold": 0.8
-        },
-        "estimatedMinutes": 33,
-        "milestone": false
-      },
-      {
-        "kn_id": "kn_0134",
-        "order": 23,
-        "isRequired": true,
-        "unlockCondition": {
-          "type": "prerequisite_mastered",
-          "threshold": 0.8
-        },
-        "estimatedMinutes": 33,
-        "milestone": false
-      },
-      {
-        "kn_id": "kn_0085",
-        "order": 24,
-        "isRequired": true,
-        "unlockCondition": {
-          "type": "prerequisite_mastered",
-          "threshold": 0.8
-        },
-        "estimatedMinutes": 33,
-        "milestone": false
-      },
-      {
-        "kn_id": "kn_0100",
-        "order": 25,
-        "isRequired": true,
-        "unlockCondition": {
-          "type": "prerequisite_mastered",
-          "threshold": 0.8
-        },
-        "estimatedMinutes": 33,
-        "milestone": false
-      },
-      {
-        "kn_id": "kn_0112",
-        "order": 26,
-        "isRequired": true,
-        "unlockCondition": {
-          "type": "prerequisite_mastered",
-          "threshold": 0.8
-        },
-        "estimatedMinutes": 33,
-        "milestone": false
-      },
-      {
-        "kn_id": "kn_0132",
-        "order": 27,
-        "isRequired": true,
-        "unlockCondition": {
-          "type": "prerequisite_mastered",
-          "threshold": 0.8
-        },
-        "estimatedMinutes": 33,
-        "milestone": false
-      },
-      {
-        "kn_id": "milestone-cie-recovery-algebra-4",
-        "type": "milestone",
-        "order": 28,
-        "title_en": "Checkpoint 4",
-        "title_zh": "检查点 4",
-        "covers": [
-          "kn_0131",
-          "kn_0134",
           "kn_0085",
-          "kn_0100",
-          "kn_0112",
-          "kn_0132"
+          "kn_0108"
         ],
         "isRequired": false,
         "milestone": true
-      },
-      {
-        "kn_id": "kn_0347",
-        "order": 29,
-        "isRequired": true,
-        "unlockCondition": {
-          "type": "prerequisite_mastered",
-          "threshold": 0.8
-        },
-        "estimatedMinutes": 33,
-        "milestone": false
-      },
-      {
-        "kn_id": "kn_0348",
-        "order": 30,
-        "isRequired": true,
-        "unlockCondition": {
-          "type": "prerequisite_mastered",
-          "threshold": 0.8
-        },
-        "estimatedMinutes": 33,
-        "milestone": false
       }
     ],
     "version": 1,
@@ -3873,7 +3673,7 @@
     "estimatedHours": 14.0,
     "nodes": [
       {
-        "kn_id": "kn_0016",
+        "kn_id": "kn_0018",
         "order": 1,
         "isRequired": true,
         "unlockCondition": {
@@ -3884,18 +3684,18 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0097",
+        "kn_id": "kn_0037",
         "order": 2,
         "isRequired": true,
         "unlockCondition": {
           "type": "prerequisite_mastered",
           "threshold": 0.8
         },
-        "estimatedMinutes": 33,
+        "estimatedMinutes": 25,
         "milestone": false
       },
       {
-        "kn_id": "kn_0098",
+        "kn_id": "kn_0097",
         "order": 3,
         "isRequired": true,
         "unlockCondition": {
@@ -3906,7 +3706,7 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0124",
+        "kn_id": "kn_0098",
         "order": 4,
         "isRequired": true,
         "unlockCondition": {
@@ -3917,7 +3717,7 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0126",
+        "kn_id": "kn_0125",
         "order": 5,
         "isRequired": true,
         "unlockCondition": {
@@ -3945,18 +3745,18 @@
         "title_en": "Checkpoint 1",
         "title_zh": "检查点 1",
         "covers": [
-          "kn_0016",
+          "kn_0018",
+          "kn_0037",
           "kn_0097",
           "kn_0098",
-          "kn_0124",
-          "kn_0126",
+          "kn_0125",
           "kn_0127"
         ],
         "isRequired": false,
         "milestone": true
       },
       {
-        "kn_id": "kn_0135",
+        "kn_id": "kn_0130",
         "order": 8,
         "isRequired": true,
         "unlockCondition": {
@@ -3967,51 +3767,51 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0158",
+        "kn_id": "kn_0135",
         "order": 9,
         "isRequired": true,
         "unlockCondition": {
           "type": "prerequisite_mastered",
           "threshold": 0.8
         },
-        "estimatedMinutes": 24,
+        "estimatedMinutes": 33,
         "milestone": false
       },
       {
-        "kn_id": "kn_0161",
+        "kn_id": "kn_0151",
         "order": 10,
         "isRequired": true,
         "unlockCondition": {
           "type": "prerequisite_mastered",
           "threshold": 0.8
         },
-        "estimatedMinutes": 24,
+        "estimatedMinutes": 40,
         "milestone": false
       },
       {
-        "kn_id": "kn_0319",
+        "kn_id": "kn_0158",
         "order": 11,
         "isRequired": true,
         "unlockCondition": {
           "type": "prerequisite_mastered",
           "threshold": 0.8
         },
-        "estimatedMinutes": 40,
+        "estimatedMinutes": 24,
         "milestone": false
       },
       {
-        "kn_id": "kn_0328",
+        "kn_id": "kn_0160",
         "order": 12,
         "isRequired": true,
         "unlockCondition": {
           "type": "prerequisite_mastered",
           "threshold": 0.8
         },
-        "estimatedMinutes": 40,
+        "estimatedMinutes": 24,
         "milestone": false
       },
       {
-        "kn_id": "kn_0330",
+        "kn_id": "kn_0328",
         "order": 13,
         "isRequired": true,
         "unlockCondition": {
@@ -4028,18 +3828,18 @@
         "title_en": "Checkpoint 2",
         "title_zh": "检查点 2",
         "covers": [
+          "kn_0130",
           "kn_0135",
+          "kn_0151",
           "kn_0158",
-          "kn_0161",
-          "kn_0319",
-          "kn_0328",
-          "kn_0330"
+          "kn_0160",
+          "kn_0328"
         ],
         "isRequired": false,
         "milestone": true
       },
       {
-        "kn_id": "kn_0349",
+        "kn_id": "kn_0330",
         "order": 15,
         "isRequired": true,
         "unlockCondition": {
@@ -4061,7 +3861,7 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0362",
+        "kn_id": "kn_0363",
         "order": 17,
         "isRequired": true,
         "unlockCondition": {
@@ -4072,7 +3872,7 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0368",
+        "kn_id": "kn_0372",
         "order": 18,
         "isRequired": true,
         "unlockCondition": {
@@ -4083,7 +3883,7 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0372",
+        "kn_id": "kn_0391",
         "order": 19,
         "isRequired": true,
         "unlockCondition": {
@@ -4094,14 +3894,14 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0391",
+        "kn_id": "kn_0126",
         "order": 20,
         "isRequired": true,
         "unlockCondition": {
           "type": "prerequisite_mastered",
           "threshold": 0.8
         },
-        "estimatedMinutes": 40,
+        "estimatedMinutes": 33,
         "milestone": false
       },
       {
@@ -4111,51 +3911,51 @@
         "title_en": "Checkpoint 3",
         "title_zh": "检查点 3",
         "covers": [
-          "kn_0349",
+          "kn_0330",
           "kn_0352",
-          "kn_0362",
-          "kn_0368",
+          "kn_0363",
           "kn_0372",
-          "kn_0391"
+          "kn_0391",
+          "kn_0126"
         ],
         "isRequired": false,
         "milestone": true
       },
       {
-        "kn_id": "kn_0018",
+        "kn_id": "kn_0134",
         "order": 22,
         "isRequired": true,
         "unlockCondition": {
           "type": "prerequisite_mastered",
           "threshold": 0.8
         },
-        "estimatedMinutes": 25,
+        "estimatedMinutes": 33,
         "milestone": false
       },
       {
-        "kn_id": "kn_0129",
+        "kn_id": "kn_0366",
         "order": 23,
         "isRequired": true,
         "unlockCondition": {
           "type": "prerequisite_mastered",
           "threshold": 0.8
         },
-        "estimatedMinutes": 33,
+        "estimatedMinutes": 40,
         "milestone": false
       },
       {
-        "kn_id": "kn_0134",
+        "kn_id": "kn_0351",
         "order": 24,
         "isRequired": true,
         "unlockCondition": {
           "type": "prerequisite_mastered",
           "threshold": 0.8
         },
-        "estimatedMinutes": 33,
+        "estimatedMinutes": 40,
         "milestone": false
       },
       {
-        "kn_id": "kn_0153",
+        "kn_id": "kn_0364",
         "order": 25,
         "isRequired": true,
         "unlockCondition": {
@@ -4177,7 +3977,7 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0393",
+        "kn_id": "kn_0392",
         "order": 27,
         "isRequired": true,
         "unlockCondition": {
@@ -4194,12 +3994,12 @@
         "title_en": "Checkpoint 4",
         "title_zh": "检查点 4",
         "covers": [
-          "kn_0018",
-          "kn_0129",
           "kn_0134",
-          "kn_0153",
+          "kn_0366",
+          "kn_0351",
+          "kn_0364",
           "kn_0375",
-          "kn_0393"
+          "kn_0392"
         ],
         "isRequired": false,
         "milestone": true
@@ -4222,7 +4022,7 @@
     "estimatedHours": 22.1,
     "nodes": [
       {
-        "kn_id": "kn_0012",
+        "kn_id": "kn_0044",
         "order": 1,
         "isRequired": true,
         "unlockCondition": {
@@ -4244,7 +4044,7 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0048",
+        "kn_id": "kn_0068",
         "order": 3,
         "isRequired": true,
         "unlockCondition": {
@@ -4255,7 +4055,7 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0068",
+        "kn_id": "kn_0070",
         "order": 4,
         "isRequired": true,
         "unlockCondition": {
@@ -4266,7 +4066,7 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0070",
+        "kn_id": "kn_0075",
         "order": 5,
         "isRequired": true,
         "unlockCondition": {
@@ -4277,7 +4077,7 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0075",
+        "kn_id": "kn_0078",
         "order": 6,
         "isRequired": true,
         "unlockCondition": {
@@ -4294,30 +4094,19 @@
         "title_en": "Checkpoint 1",
         "title_zh": "检查点 1",
         "covers": [
-          "kn_0012",
+          "kn_0044",
           "kn_0046",
-          "kn_0048",
           "kn_0068",
           "kn_0070",
-          "kn_0075"
+          "kn_0075",
+          "kn_0078"
         ],
         "isRequired": false,
         "milestone": true
       },
       {
-        "kn_id": "kn_0078",
-        "order": 8,
-        "isRequired": true,
-        "unlockCondition": {
-          "type": "prerequisite_mastered",
-          "threshold": 0.8
-        },
-        "estimatedMinutes": 25,
-        "milestone": false
-      },
-      {
         "kn_id": "kn_0103",
-        "order": 9,
+        "order": 8,
         "isRequired": true,
         "unlockCondition": {
           "type": "prerequisite_mastered",
@@ -4328,6 +4117,17 @@
       },
       {
         "kn_id": "kn_0108",
+        "order": 9,
+        "isRequired": true,
+        "unlockCondition": {
+          "type": "prerequisite_mastered",
+          "threshold": 0.8
+        },
+        "estimatedMinutes": 33,
+        "milestone": false
+      },
+      {
+        "kn_id": "kn_0114",
         "order": 10,
         "isRequired": true,
         "unlockCondition": {
@@ -4338,7 +4138,7 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0115",
+        "kn_id": "kn_0125",
         "order": 11,
         "isRequired": true,
         "unlockCondition": {
@@ -4349,7 +4149,7 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0117",
+        "kn_id": "kn_0135",
         "order": 12,
         "isRequired": true,
         "unlockCondition": {
@@ -4360,14 +4160,14 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0124",
+        "kn_id": "kn_0138",
         "order": 13,
         "isRequired": true,
         "unlockCondition": {
           "type": "prerequisite_mastered",
           "threshold": 0.8
         },
-        "estimatedMinutes": 33,
+        "estimatedMinutes": 40,
         "milestone": false
       },
       {
@@ -4377,40 +4177,40 @@
         "title_en": "Checkpoint 2",
         "title_zh": "检查点 2",
         "covers": [
-          "kn_0078",
           "kn_0103",
           "kn_0108",
-          "kn_0115",
-          "kn_0117",
-          "kn_0124"
+          "kn_0114",
+          "kn_0125",
+          "kn_0135",
+          "kn_0138"
         ],
         "isRequired": false,
         "milestone": true
       },
       {
-        "kn_id": "kn_0126",
+        "kn_id": "kn_0155",
         "order": 15,
         "isRequired": true,
         "unlockCondition": {
           "type": "prerequisite_mastered",
           "threshold": 0.8
         },
-        "estimatedMinutes": 33,
+        "estimatedMinutes": 24,
         "milestone": false
       },
       {
-        "kn_id": "kn_0135",
+        "kn_id": "kn_0322",
         "order": 16,
         "isRequired": true,
         "unlockCondition": {
           "type": "prerequisite_mastered",
           "threshold": 0.8
         },
-        "estimatedMinutes": 33,
+        "estimatedMinutes": 40,
         "milestone": false
       },
       {
-        "kn_id": "kn_0138",
+        "kn_id": "kn_0323",
         "order": 17,
         "isRequired": true,
         "unlockCondition": {
@@ -4421,58 +4221,19 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0155",
+        "kn_id": "kn_0328",
         "order": 18,
         "isRequired": true,
         "unlockCondition": {
           "type": "prerequisite_mastered",
           "threshold": 0.8
         },
-        "estimatedMinutes": 24,
-        "milestone": false
-      },
-      {
-        "kn_id": "kn_0325",
-        "order": 19,
-        "isRequired": true,
-        "unlockCondition": {
-          "type": "prerequisite_mastered",
-          "threshold": 0.8
-        },
         "estimatedMinutes": 40,
         "milestone": false
-      },
-      {
-        "kn_id": "kn_0328",
-        "order": 20,
-        "isRequired": true,
-        "unlockCondition": {
-          "type": "prerequisite_mastered",
-          "threshold": 0.8
-        },
-        "estimatedMinutes": 40,
-        "milestone": false
-      },
-      {
-        "kn_id": "milestone-hhk-y11-3",
-        "type": "milestone",
-        "order": 21,
-        "title_en": "Checkpoint 3",
-        "title_zh": "检查点 3",
-        "covers": [
-          "kn_0126",
-          "kn_0135",
-          "kn_0138",
-          "kn_0155",
-          "kn_0325",
-          "kn_0328"
-        ],
-        "isRequired": false,
-        "milestone": true
       },
       {
         "kn_id": "kn_0347",
-        "order": 22,
+        "order": 19,
         "isRequired": true,
         "unlockCondition": {
           "type": "prerequisite_mastered",
@@ -4483,7 +4244,7 @@
       },
       {
         "kn_id": "kn_0380",
-        "order": 23,
+        "order": 20,
         "isRequired": true,
         "unlockCondition": {
           "type": "prerequisite_mastered",
@@ -4493,8 +4254,25 @@
         "milestone": false
       },
       {
+        "kn_id": "milestone-hhk-y11-3",
+        "type": "milestone",
+        "order": 21,
+        "title_en": "Checkpoint 3",
+        "title_zh": "检查点 3",
+        "covers": [
+          "kn_0155",
+          "kn_0322",
+          "kn_0323",
+          "kn_0328",
+          "kn_0347",
+          "kn_0380"
+        ],
+        "isRequired": false,
+        "milestone": true
+      },
+      {
         "kn_id": "kn_0383",
-        "order": 24,
+        "order": 22,
         "isRequired": true,
         "unlockCondition": {
           "type": "prerequisite_mastered",
@@ -4505,7 +4283,7 @@
       },
       {
         "kn_id": "kn_0073",
-        "order": 25,
+        "order": 23,
         "isRequired": true,
         "unlockCondition": {
           "type": "prerequisite_mastered",
@@ -4516,7 +4294,7 @@
       },
       {
         "kn_id": "kn_0104",
-        "order": 26,
+        "order": 24,
         "isRequired": true,
         "unlockCondition": {
           "type": "prerequisite_mastered",
@@ -4527,6 +4305,28 @@
       },
       {
         "kn_id": "kn_0109",
+        "order": 25,
+        "isRequired": true,
+        "unlockCondition": {
+          "type": "prerequisite_mastered",
+          "threshold": 0.8
+        },
+        "estimatedMinutes": 33,
+        "milestone": false
+      },
+      {
+        "kn_id": "kn_0111",
+        "order": 26,
+        "isRequired": true,
+        "unlockCondition": {
+          "type": "prerequisite_mastered",
+          "threshold": 0.8
+        },
+        "estimatedMinutes": 33,
+        "milestone": false
+      },
+      {
+        "kn_id": "kn_0116",
         "order": 27,
         "isRequired": true,
         "unlockCondition": {
@@ -4543,18 +4343,18 @@
         "title_en": "Checkpoint 4",
         "title_zh": "检查点 4",
         "covers": [
-          "kn_0347",
-          "kn_0380",
           "kn_0383",
           "kn_0073",
           "kn_0104",
-          "kn_0109"
+          "kn_0109",
+          "kn_0111",
+          "kn_0116"
         ],
         "isRequired": false,
         "milestone": true
       },
       {
-        "kn_id": "kn_0111",
+        "kn_id": "kn_0126",
         "order": 29,
         "isRequired": true,
         "unlockCondition": {
@@ -4565,14 +4365,14 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0322",
+        "kn_id": "kn_0156",
         "order": 30,
         "isRequired": true,
         "unlockCondition": {
           "type": "prerequisite_mastered",
           "threshold": 0.8
         },
-        "estimatedMinutes": 40,
+        "estimatedMinutes": 24,
         "milestone": false
       },
       {
@@ -4626,8 +4426,8 @@
         "title_en": "Checkpoint 5",
         "title_zh": "检查点 5",
         "covers": [
-          "kn_0111",
-          "kn_0322",
+          "kn_0126",
+          "kn_0156",
           "kn_0153",
           "kn_0348",
           "kn_0077",
@@ -4820,7 +4620,7 @@
     "estimatedHours": 11.0,
     "nodes": [
       {
-        "kn_id": "kn_0020",
+        "kn_id": "kn_0003",
         "order": 1,
         "isRequired": true,
         "unlockCondition": {
@@ -4831,7 +4631,7 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0032",
+        "kn_id": "kn_0020",
         "order": 2,
         "isRequired": true,
         "unlockCondition": {
@@ -4842,7 +4642,7 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0067",
+        "kn_id": "kn_0034",
         "order": 3,
         "isRequired": true,
         "unlockCondition": {
@@ -4853,19 +4653,58 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0115",
+        "kn_id": "kn_0053",
         "order": 4,
         "isRequired": true,
         "unlockCondition": {
           "type": "prerequisite_mastered",
           "threshold": 0.8
         },
-        "estimatedMinutes": 33,
+        "estimatedMinutes": 25,
         "milestone": false
       },
       {
-        "kn_id": "kn_0117",
+        "kn_id": "kn_0054",
         "order": 5,
+        "isRequired": true,
+        "unlockCondition": {
+          "type": "prerequisite_mastered",
+          "threshold": 0.8
+        },
+        "estimatedMinutes": 25,
+        "milestone": false
+      },
+      {
+        "kn_id": "kn_0069",
+        "order": 6,
+        "isRequired": true,
+        "unlockCondition": {
+          "type": "prerequisite_mastered",
+          "threshold": 0.8
+        },
+        "estimatedMinutes": 25,
+        "milestone": false
+      },
+      {
+        "kn_id": "milestone-hhk-y7-1",
+        "type": "milestone",
+        "order": 7,
+        "title_en": "Checkpoint 1",
+        "title_zh": "检查点 1",
+        "covers": [
+          "kn_0003",
+          "kn_0020",
+          "kn_0034",
+          "kn_0053",
+          "kn_0054",
+          "kn_0069"
+        ],
+        "isRequired": false,
+        "milestone": true
+      },
+      {
+        "kn_id": "kn_0114",
+        "order": 8,
         "isRequired": true,
         "unlockCondition": {
           "type": "prerequisite_mastered",
@@ -4876,45 +4715,6 @@
       },
       {
         "kn_id": "kn_0137",
-        "order": 6,
-        "isRequired": true,
-        "unlockCondition": {
-          "type": "prerequisite_mastered",
-          "threshold": 0.8
-        },
-        "estimatedMinutes": 40,
-        "milestone": false
-      },
-      {
-        "kn_id": "milestone-hhk-y7-1",
-        "type": "milestone",
-        "order": 7,
-        "title_en": "Checkpoint 1",
-        "title_zh": "检查点 1",
-        "covers": [
-          "kn_0020",
-          "kn_0032",
-          "kn_0067",
-          "kn_0115",
-          "kn_0117",
-          "kn_0137"
-        ],
-        "isRequired": false,
-        "milestone": true
-      },
-      {
-        "kn_id": "kn_0158",
-        "order": 8,
-        "isRequired": true,
-        "unlockCondition": {
-          "type": "prerequisite_mastered",
-          "threshold": 0.8
-        },
-        "estimatedMinutes": 24,
-        "milestone": false
-      },
-      {
-        "kn_id": "kn_0349",
         "order": 9,
         "isRequired": true,
         "unlockCondition": {
@@ -4925,7 +4725,7 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0354",
+        "kn_id": "kn_0151",
         "order": 10,
         "isRequired": true,
         "unlockCondition": {
@@ -4936,58 +4736,19 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0362",
+        "kn_id": "kn_0158",
         "order": 11,
         "isRequired": true,
         "unlockCondition": {
           "type": "prerequisite_mastered",
           "threshold": 0.8
         },
-        "estimatedMinutes": 40,
+        "estimatedMinutes": 24,
         "milestone": false
       },
       {
-        "kn_id": "kn_0030",
+        "kn_id": "kn_0349",
         "order": 12,
-        "isRequired": true,
-        "unlockCondition": {
-          "type": "prerequisite_mastered",
-          "threshold": 0.8
-        },
-        "estimatedMinutes": 25,
-        "milestone": false
-      },
-      {
-        "kn_id": "kn_0034",
-        "order": 13,
-        "isRequired": true,
-        "unlockCondition": {
-          "type": "prerequisite_mastered",
-          "threshold": 0.8
-        },
-        "estimatedMinutes": 25,
-        "milestone": false
-      },
-      {
-        "kn_id": "milestone-hhk-y7-2",
-        "type": "milestone",
-        "order": 14,
-        "title_en": "Checkpoint 2",
-        "title_zh": "检查点 2",
-        "covers": [
-          "kn_0158",
-          "kn_0349",
-          "kn_0354",
-          "kn_0362",
-          "kn_0030",
-          "kn_0034"
-        ],
-        "isRequired": false,
-        "milestone": true
-      },
-      {
-        "kn_id": "kn_0350",
-        "order": 15,
         "isRequired": true,
         "unlockCondition": {
           "type": "prerequisite_mastered",
@@ -4998,7 +4759,7 @@
       },
       {
         "kn_id": "kn_0363",
-        "order": 16,
+        "order": 13,
         "isRequired": true,
         "unlockCondition": {
           "type": "prerequisite_mastered",
@@ -5008,69 +4769,25 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0027",
-        "order": 17,
-        "isRequired": true,
-        "unlockCondition": {
-          "type": "prerequisite_mastered",
-          "threshold": 0.8
-        },
-        "estimatedMinutes": 25,
-        "milestone": false
-      },
-      {
-        "kn_id": "kn_0031",
-        "order": 18,
-        "isRequired": true,
-        "unlockCondition": {
-          "type": "prerequisite_mastered",
-          "threshold": 0.8
-        },
-        "estimatedMinutes": 25,
-        "milestone": false
-      },
-      {
-        "kn_id": "kn_0052",
-        "order": 19,
-        "isRequired": true,
-        "unlockCondition": {
-          "type": "prerequisite_mastered",
-          "threshold": 0.8
-        },
-        "estimatedMinutes": 25,
-        "milestone": false
-      },
-      {
-        "kn_id": "kn_0062",
-        "order": 20,
-        "isRequired": true,
-        "unlockCondition": {
-          "type": "prerequisite_mastered",
-          "threshold": 0.8
-        },
-        "estimatedMinutes": 25,
-        "milestone": false
-      },
-      {
-        "kn_id": "milestone-hhk-y7-3",
+        "kn_id": "milestone-hhk-y7-2",
         "type": "milestone",
-        "order": 21,
-        "title_en": "Checkpoint 3",
-        "title_zh": "检查点 3",
+        "order": 14,
+        "title_en": "Checkpoint 2",
+        "title_zh": "检查点 2",
         "covers": [
-          "kn_0350",
-          "kn_0363",
-          "kn_0027",
-          "kn_0031",
-          "kn_0052",
-          "kn_0062"
+          "kn_0114",
+          "kn_0137",
+          "kn_0151",
+          "kn_0158",
+          "kn_0349",
+          "kn_0363"
         ],
         "isRequired": false,
         "milestone": true
       },
       {
-        "kn_id": "kn_0054",
-        "order": 22,
+        "kn_id": "kn_0030",
+        "order": 15,
         "isRequired": true,
         "unlockCondition": {
           "type": "prerequisite_mastered",
@@ -5081,7 +4798,7 @@
       },
       {
         "kn_id": "kn_0330",
-        "order": 23,
+        "order": 16,
         "isRequired": true,
         "unlockCondition": {
           "type": "prerequisite_mastered",
@@ -5091,14 +4808,97 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0150",
-        "order": 24,
+        "kn_id": "kn_0353",
+        "order": 17,
         "isRequired": true,
         "unlockCondition": {
           "type": "prerequisite_mastered",
           "threshold": 0.8
         },
         "estimatedMinutes": 40,
+        "milestone": false
+      },
+      {
+        "kn_id": "kn_0116",
+        "order": 18,
+        "isRequired": true,
+        "unlockCondition": {
+          "type": "prerequisite_mastered",
+          "threshold": 0.8
+        },
+        "estimatedMinutes": 33,
+        "milestone": false
+      },
+      {
+        "kn_id": "kn_0350",
+        "order": 19,
+        "isRequired": true,
+        "unlockCondition": {
+          "type": "prerequisite_mastered",
+          "threshold": 0.8
+        },
+        "estimatedMinutes": 40,
+        "milestone": false
+      },
+      {
+        "kn_id": "kn_0364",
+        "order": 20,
+        "isRequired": true,
+        "unlockCondition": {
+          "type": "prerequisite_mastered",
+          "threshold": 0.8
+        },
+        "estimatedMinutes": 40,
+        "milestone": false
+      },
+      {
+        "kn_id": "milestone-hhk-y7-3",
+        "type": "milestone",
+        "order": 21,
+        "title_en": "Checkpoint 3",
+        "title_zh": "检查点 3",
+        "covers": [
+          "kn_0030",
+          "kn_0330",
+          "kn_0353",
+          "kn_0116",
+          "kn_0350",
+          "kn_0364"
+        ],
+        "isRequired": false,
+        "milestone": true
+      },
+      {
+        "kn_id": "kn_0027",
+        "order": 22,
+        "isRequired": true,
+        "unlockCondition": {
+          "type": "prerequisite_mastered",
+          "threshold": 0.8
+        },
+        "estimatedMinutes": 25,
+        "milestone": false
+      },
+      {
+        "kn_id": "kn_0031",
+        "order": 23,
+        "isRequired": true,
+        "unlockCondition": {
+          "type": "prerequisite_mastered",
+          "threshold": 0.8
+        },
+        "estimatedMinutes": 25,
+        "milestone": false
+      },
+      {
+        "kn_id": "kn_0062",
+        "order": 24,
+        "isRequired": true,
+        "unlockCondition": {
+          "type": "prerequisite_mastered",
+          "threshold": 0.8
+        },
+        "estimatedMinutes": 25,
         "milestone": false
       },
       {
@@ -5108,9 +4908,9 @@
         "title_en": "Checkpoint 4",
         "title_zh": "检查点 4",
         "covers": [
-          "kn_0054",
-          "kn_0330",
-          "kn_0150"
+          "kn_0027",
+          "kn_0031",
+          "kn_0062"
         ],
         "isRequired": false,
         "milestone": true
@@ -5133,7 +4933,7 @@
     "estimatedHours": 9.9,
     "nodes": [
       {
-        "kn_id": "kn_0004",
+        "kn_id": "kn_0003",
         "order": 1,
         "isRequired": true,
         "unlockCondition": {
@@ -5155,7 +4955,7 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0032",
+        "kn_id": "kn_0034",
         "order": 3,
         "isRequired": true,
         "unlockCondition": {
@@ -5205,9 +5005,9 @@
         "title_en": "Checkpoint 1",
         "title_zh": "检查点 1",
         "covers": [
-          "kn_0004",
+          "kn_0003",
           "kn_0019",
-          "kn_0032",
+          "kn_0034",
           "kn_0111",
           "kn_0145",
           "kn_0149"
@@ -5216,7 +5016,7 @@
         "milestone": true
       },
       {
-        "kn_id": "kn_0380",
+        "kn_id": "kn_0167",
         "order": 8,
         "isRequired": true,
         "unlockCondition": {
@@ -5227,7 +5027,7 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0034",
+        "kn_id": "kn_0311",
         "order": 9,
         "isRequired": true,
         "unlockCondition": {
@@ -5238,7 +5038,7 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0112",
+        "kn_id": "kn_0083",
         "order": 10,
         "isRequired": true,
         "unlockCondition": {
@@ -5249,18 +5049,18 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0313",
+        "kn_id": "kn_0162",
         "order": 11,
         "isRequired": true,
         "unlockCondition": {
           "type": "prerequisite_mastered",
           "threshold": 0.8
         },
-        "estimatedMinutes": 40,
+        "estimatedMinutes": 27,
         "milestone": false
       },
       {
-        "kn_id": "kn_0083",
+        "kn_id": "kn_0112",
         "order": 12,
         "isRequired": true,
         "unlockCondition": {
@@ -5271,36 +5071,8 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0162",
+        "kn_id": "kn_0313",
         "order": 13,
-        "isRequired": true,
-        "unlockCondition": {
-          "type": "prerequisite_mastered",
-          "threshold": 0.8
-        },
-        "estimatedMinutes": 27,
-        "milestone": false
-      },
-      {
-        "kn_id": "milestone-hhk-y8-2",
-        "type": "milestone",
-        "order": 14,
-        "title_en": "Checkpoint 2",
-        "title_zh": "检查点 2",
-        "covers": [
-          "kn_0380",
-          "kn_0034",
-          "kn_0112",
-          "kn_0313",
-          "kn_0083",
-          "kn_0162"
-        ],
-        "isRequired": false,
-        "milestone": true
-      },
-      {
-        "kn_id": "kn_0314",
-        "order": 15,
         "isRequired": true,
         "unlockCondition": {
           "type": "prerequisite_mastered",
@@ -5310,8 +5082,25 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0085",
-        "order": 16,
+        "kn_id": "milestone-hhk-y8-2",
+        "type": "milestone",
+        "order": 14,
+        "title_en": "Checkpoint 2",
+        "title_zh": "检查点 2",
+        "covers": [
+          "kn_0167",
+          "kn_0311",
+          "kn_0083",
+          "kn_0162",
+          "kn_0112",
+          "kn_0313"
+        ],
+        "isRequired": false,
+        "milestone": true
+      },
+      {
+        "kn_id": "kn_0086",
+        "order": 15,
         "isRequired": true,
         "unlockCondition": {
           "type": "prerequisite_mastered",
@@ -5322,7 +5111,7 @@
       },
       {
         "kn_id": "kn_0099",
-        "order": 17,
+        "order": 16,
         "isRequired": true,
         "unlockCondition": {
           "type": "prerequisite_mastered",
@@ -5333,6 +5122,17 @@
       },
       {
         "kn_id": "kn_0137",
+        "order": 17,
+        "isRequired": true,
+        "unlockCondition": {
+          "type": "prerequisite_mastered",
+          "threshold": 0.8
+        },
+        "estimatedMinutes": 40,
+        "milestone": false
+      },
+      {
+        "kn_id": "kn_0314",
         "order": 18,
         "isRequired": true,
         "unlockCondition": {
@@ -5343,7 +5143,7 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0090",
+        "kn_id": "kn_0085",
         "order": 19,
         "isRequired": true,
         "unlockCondition": {
@@ -5371,11 +5171,11 @@
         "title_en": "Checkpoint 3",
         "title_zh": "检查点 3",
         "covers": [
-          "kn_0314",
-          "kn_0085",
+          "kn_0086",
           "kn_0099",
           "kn_0137",
-          "kn_0090",
+          "kn_0314",
+          "kn_0085",
           "kn_0141"
         ],
         "isRequired": false,
@@ -5432,7 +5232,7 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0067",
+        "kn_id": "kn_0069",
         "order": 4,
         "isRequired": true,
         "unlockCondition": {
@@ -5443,7 +5243,7 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0085",
+        "kn_id": "kn_0086",
         "order": 5,
         "isRequired": true,
         "unlockCondition": {
@@ -5454,7 +5254,7 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0098",
+        "kn_id": "kn_0097",
         "order": 6,
         "isRequired": true,
         "unlockCondition": {
@@ -5474,15 +5274,15 @@
           "kn_0018",
           "kn_0019",
           "kn_0062",
-          "kn_0067",
-          "kn_0085",
-          "kn_0098"
+          "kn_0069",
+          "kn_0086",
+          "kn_0097"
         ],
         "isRequired": false,
         "milestone": true
       },
       {
-        "kn_id": "kn_0135",
+        "kn_id": "kn_0098",
         "order": 8,
         "isRequired": true,
         "unlockCondition": {
@@ -5493,8 +5293,30 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0149",
+        "kn_id": "kn_0135",
         "order": 9,
+        "isRequired": true,
+        "unlockCondition": {
+          "type": "prerequisite_mastered",
+          "threshold": 0.8
+        },
+        "estimatedMinutes": 33,
+        "milestone": false
+      },
+      {
+        "kn_id": "kn_0145",
+        "order": 10,
+        "isRequired": true,
+        "unlockCondition": {
+          "type": "prerequisite_mastered",
+          "threshold": 0.8
+        },
+        "estimatedMinutes": 40,
+        "milestone": false
+      },
+      {
+        "kn_id": "kn_0149",
+        "order": 11,
         "isRequired": true,
         "unlockCondition": {
           "type": "prerequisite_mastered",
@@ -5505,39 +5327,17 @@
       },
       {
         "kn_id": "kn_0162",
-        "order": 10,
-        "isRequired": true,
-        "unlockCondition": {
-          "type": "prerequisite_mastered",
-          "threshold": 0.8
-        },
-        "estimatedMinutes": 27,
-        "milestone": false
-      },
-      {
-        "kn_id": "kn_0167",
-        "order": 11,
-        "isRequired": true,
-        "unlockCondition": {
-          "type": "prerequisite_mastered",
-          "threshold": 0.8
-        },
-        "estimatedMinutes": 27,
-        "milestone": false
-      },
-      {
-        "kn_id": "kn_0319",
         "order": 12,
         "isRequired": true,
         "unlockCondition": {
           "type": "prerequisite_mastered",
           "threshold": 0.8
         },
-        "estimatedMinutes": 40,
+        "estimatedMinutes": 27,
         "milestone": false
       },
       {
-        "kn_id": "kn_0349",
+        "kn_id": "kn_0329",
         "order": 13,
         "isRequired": true,
         "unlockCondition": {
@@ -5554,12 +5354,12 @@
         "title_en": "Checkpoint 2",
         "title_zh": "检查点 2",
         "covers": [
+          "kn_0098",
           "kn_0135",
+          "kn_0145",
           "kn_0149",
           "kn_0162",
-          "kn_0167",
-          "kn_0319",
-          "kn_0349"
+          "kn_0329"
         ],
         "isRequired": false,
         "milestone": true
@@ -5598,7 +5398,7 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0090",
+        "kn_id": "kn_0085",
         "order": 18,
         "isRequired": true,
         "unlockCondition": {
@@ -5640,7 +5440,7 @@
           "kn_0352",
           "kn_0383",
           "kn_0391",
-          "kn_0090",
+          "kn_0085",
           "kn_0134",
           "kn_0313"
         ],
@@ -5648,18 +5448,18 @@
         "milestone": true
       },
       {
-        "kn_id": "kn_0329",
+        "kn_id": "kn_0168",
         "order": 22,
         "isRequired": true,
         "unlockCondition": {
           "type": "prerequisite_mastered",
           "threshold": 0.8
         },
-        "estimatedMinutes": 40,
+        "estimatedMinutes": 27,
         "milestone": false
       },
       {
-        "kn_id": "kn_0393",
+        "kn_id": "kn_0330",
         "order": 23,
         "isRequired": true,
         "unlockCondition": {
@@ -5670,18 +5470,18 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0097",
+        "kn_id": "kn_0351",
         "order": 24,
         "isRequired": true,
         "unlockCondition": {
           "type": "prerequisite_mastered",
           "threshold": 0.8
         },
-        "estimatedMinutes": 33,
+        "estimatedMinutes": 40,
         "milestone": false
       },
       {
-        "kn_id": "kn_0314",
+        "kn_id": "kn_0392",
         "order": 25,
         "isRequired": true,
         "unlockCondition": {
@@ -5692,7 +5492,7 @@
         "milestone": false
       },
       {
-        "kn_id": "kn_0330",
+        "kn_id": "kn_0314",
         "order": 26,
         "isRequired": true,
         "unlockCondition": {
@@ -5709,11 +5509,11 @@
         "title_en": "Checkpoint 4",
         "title_zh": "检查点 4",
         "covers": [
-          "kn_0329",
-          "kn_0393",
-          "kn_0097",
-          "kn_0314",
-          "kn_0330"
+          "kn_0168",
+          "kn_0330",
+          "kn_0351",
+          "kn_0392",
+          "kn_0314"
         ],
         "isRequired": false,
         "milestone": true

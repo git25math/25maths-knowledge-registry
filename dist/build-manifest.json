@@ -1,21 +1,21 @@
 {
   "generatedBy": "check-dist-fresh.py",
   "sourceHashes": {
-    "registry/edx-kn-map.json": "bf5a53e522822aef",
+    "registry/edx-kn-map.json": "adb0209b50564d14",
     "registry/hhk-kn-map.json": "1bada22ad850710f",
     "registry/kn-registry.json": "eca88676e58ca06e",
     "registry/kp-kn-map.json": "2bc914f104c97f1c",
     "graph/dag-edges.json": "5027989ea162ee2e",
-    "scripts/build-meta-nodes.py": "349b9caa27c2f8d9",
+    "scripts/build-meta-nodes.py": "0207936340c03d89",
     "scripts/build-routes.py": "35f7f52b0810554b",
     "scripts/build-board-indexes.py": "e4ff2c4475582dfc",
     "scripts/dag_utils.py": "65edb50cc491124a"
   },
   "distFiles": {
-    "meta-nodes.json": "e3b7453f28824c38",
-    "routes-compiled.json": "2b4d438a4945bea8",
-    "coverage-report.json": "03d187983d6eca1f",
-    "nodes-by-board.json": "59d503fa5e86c72b",
+    "meta-nodes.json": "82132331759ad221",
+    "routes-compiled.json": "cb160c5c60604483",
+    "coverage-report.json": "8434bfe4f1233d4c",
+    "nodes-by-board.json": "ad6b45311e6402c6",
     "question-id-map.json": "2e81c30e97bfffc1",
     "board-stats.json": "246ab53a70a60063"
   }
