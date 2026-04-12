@@ -1,7 +1,7 @@
 {
   "totalMetaNodes": 203,
-  "nodesInRoutes": 186,
-  "coveragePercent": 91.6,
+  "nodesInRoutes": 187,
+  "coveragePercent": 92.1,
   "variantsExempt": 15,
   "effectiveCoverage": 99,
   "routeStats": [
@@ -55,9 +55,9 @@
     },
     {
       "id": "hhk-y10",
-      "nodes": 33,
-      "milestones": 6,
-      "estimatedHours": 19.1
+      "nodes": 32,
+      "milestones": 5,
+      "estimatedHours": 18.4
     },
     {
       "id": "hhk-y11",
@@ -67,21 +67,21 @@
     },
     {
       "id": "hhk-y7",
-      "nodes": 22,
+      "nodes": 21,
       "milestones": 4,
-      "estimatedHours": 11.4
+      "estimatedHours": 11.0
     },
     {
       "id": "hhk-y8",
-      "nodes": 30,
+      "nodes": 28,
       "milestones": 5,
-      "estimatedHours": 16.4
+      "estimatedHours": 15.3
     },
     {
       "id": "hhk-y9",
-      "nodes": 30,
+      "nodes": 28,
       "milestones": 5,
-      "estimatedHours": 16.7
+      "estimatedHours": 15.7
     }
   ],
   "nodesNotInRoute": [
@@ -118,28 +118,12 @@
       "variantOf": "kn_0001"
     },
     {
-      "kn_id": "kn_0009",
-      "title_en": "Types of number",
-      "domain": "number",
-      "weight": "medium",
-      "reason": "variant of kn_0001",
-      "variantOf": "kn_0001"
-    },
-    {
       "kn_id": "kn_0011",
       "title_en": "Types of number",
       "domain": "number",
       "weight": "medium",
       "reason": "variant of kn_0001",
       "variantOf": "kn_0001"
-    },
-    {
-      "kn_id": "kn_0045",
-      "title_en": "Estimation",
-      "domain": "number",
-      "weight": "medium",
-      "reason": "variant of kn_0042",
-      "variantOf": "kn_0042"
     },
     {
       "kn_id": "kn_0050",
@@ -166,6 +150,14 @@
       "variantOf": "kn_0052"
     },
     {
+      "kn_id": "kn_0069",
+      "title_en": "Percentages",
+      "domain": "number",
+      "weight": "medium",
+      "reason": "variant of kn_0062",
+      "variantOf": "kn_0062"
+    },
+    {
       "kn_id": "kn_0087",
       "title_en": "Algebraic manipulation",
       "domain": "algebra",
@@ -180,14 +172,6 @@
       "weight": "medium",
       "reason": "variant of kn_0085",
       "variantOf": "kn_0085"
-    },
-    {
-      "kn_id": "kn_0160",
-      "title_en": "Conditional probability",
-      "domain": "probability",
-      "weight": "medium",
-      "reason": "optional",
-      "variantOf": null
     },
     {
       "kn_id": "kn_0166",
@@ -212,6 +196,14 @@
       "weight": "medium",
       "reason": "variant of kn_0103",
       "variantOf": "kn_0103"
+    },
+    {
+      "kn_id": "kn_0311",
+      "title_en": "The four operations",
+      "domain": "number",
+      "weight": "medium",
+      "reason": "variant of kn_0032",
+      "variantOf": "kn_0032"
     },
     {
       "kn_id": "kn_0345",

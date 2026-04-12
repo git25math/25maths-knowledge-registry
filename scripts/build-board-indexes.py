@@ -168,7 +168,39 @@ def main():
         for domain, count in sorted(s['domains'].items()):
             print(f"    {domain}: {count}")
 
-    print("\nOutput: dist/nodes-by-board.json, question-id-map.json, board-stats.json")
+    # 4. sections-index.json — section → [kn_ids] for quick lookup
+    sections = defaultdict(lambda: {'kn_ids': [], 'title': '', 'domain': ''})
+    for mn in meta_nodes:
+        cie = mn['examBoards'].get('cie_0580')
+        if not cie:
+            continue
+        sec = cie.get('section', '')
+        if not sec:
+            continue
+        sections[sec]['kn_ids'].append(mn['kn_id'])
+        if not sections[sec]['title']:
+            sections[sec]['title'] = mn['title_en']
+            sections[sec]['domain'] = mn['domain']
+
+    # Convert to sorted regular dict
+    sections_out = {}
+    for sec in sorted(sections.keys()):
+        s = sections[sec]
+        primary = [k for k in s['kn_ids']
+                   if not next((m for m in meta_nodes if m['kn_id'] == k), {}).get('variantOf')]
+        sections_out[sec] = {
+            'title': s['title'],
+            'domain': s['domain'],
+            'kn_ids': sorted(s['kn_ids'], key=lambda x: int(x.split('_')[1])),
+            'primary_count': len(primary),
+            'total_count': len(s['kn_ids']),
+        }
+
+    with open(os.path.join(dist_dir, 'sections-index.json'), 'w') as f:
+        json.dump(sections_out, f, indent=2, ensure_ascii=False)
+    print(f"\nsections-index.json: {len(sections_out)} sections")
+
+    print("\nOutput: dist/nodes-by-board.json, question-id-map.json, board-stats.json, sections-index.json")
 
 
 if __name__ == '__main__':

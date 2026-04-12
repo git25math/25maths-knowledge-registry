@@ -8,15 +8,16 @@
     "graph/dag-edges.json": "5027989ea162ee2e",
     "scripts/build-meta-nodes.py": "0207936340c03d89",
     "scripts/build-routes.py": "f7e0c48454173c18",
-    "scripts/build-board-indexes.py": "e4ff2c4475582dfc",
+    "scripts/build-board-indexes.py": "d54d14b0cbe52a66",
     "scripts/dag_utils.py": "65edb50cc491124a"
   },
   "distFiles": {
-    "meta-nodes.json": "ce0d7143803c6707",
-    "routes-compiled.json": "2b1164abb89c09dd",
-    "coverage-report.json": "c85b262b88f07918",
+    "meta-nodes.json": "ef2d1fcab13947b5",
+    "routes-compiled.json": "dd3e12fc07a77cd1",
+    "coverage-report.json": "9ce945e1a8b5e531",
     "nodes-by-board.json": "ad6b45311e6402c6",
     "question-id-map.json": "2e81c30e97bfffc1",
-    "board-stats.json": "246ab53a70a60063"
+    "board-stats.json": "246ab53a70a60063",
+    "sections-index.json": "b75206a90c255ad9"
   }
 }

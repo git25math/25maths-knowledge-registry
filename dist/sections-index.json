@@ -1,0 +1,747 @@
+{
+  "s1.1": {
+    "title": "Types of number",
+    "domain": "number",
+    "kn_ids": [
+      "kn_0001",
+      "kn_0002",
+      "kn_0003",
+      "kn_0004",
+      "kn_0005",
+      "kn_0007",
+      "kn_0008",
+      "kn_0009",
+      "kn_0011"
+    ],
+    "primary_count": 1,
+    "total_count": 9
+  },
+  "s1.10": {
+    "title": "Limits of accuracy",
+    "domain": "number",
+    "kn_ids": [
+      "kn_0046",
+      "kn_0047",
+      "kn_0048",
+      "kn_0050",
+      "kn_0051"
+    ],
+    "primary_count": 1,
+    "total_count": 5
+  },
+  "s1.11": {
+    "title": "Ratio and proportion",
+    "domain": "number",
+    "kn_ids": [
+      "kn_0052",
+      "kn_0053",
+      "kn_0054",
+      "kn_0055"
+    ],
+    "primary_count": 1,
+    "total_count": 4
+  },
+  "s1.12": {
+    "title": "Rates",
+    "domain": "number",
+    "kn_ids": [
+      "kn_0056",
+      "kn_0057",
+      "kn_0058"
+    ],
+    "primary_count": 1,
+    "total_count": 3
+  },
+  "s1.13": {
+    "title": "Percentages",
+    "domain": "number",
+    "kn_ids": [
+      "kn_0062",
+      "kn_0064",
+      "kn_0067",
+      "kn_0069"
+    ],
+    "primary_count": 1,
+    "total_count": 4
+  },
+  "s1.14": {
+    "title": "Using a calculator",
+    "domain": "number",
+    "kn_ids": [
+      "kn_0345"
+    ],
+    "primary_count": 1,
+    "total_count": 1
+  },
+  "s1.15": {
+    "title": "Time",
+    "domain": "number",
+    "kn_ids": [
+      "kn_0073",
+      "kn_0075",
+      "kn_0077"
+    ],
+    "primary_count": 1,
+    "total_count": 3
+  },
+  "s1.16": {
+    "title": "Money",
+    "domain": "number",
+    "kn_ids": [
+      "kn_0068",
+      "kn_0078"
+    ],
+    "primary_count": 1,
+    "total_count": 2
+  },
+  "s1.17": {
+    "title": "Exponential growth and decay",
+    "domain": "number",
+    "kn_ids": [
+      "kn_0070"
+    ],
+    "primary_count": 1,
+    "total_count": 1
+  },
+  "s1.18": {
+    "title": "Surds",
+    "domain": "number",
+    "kn_ids": [
+      "kn_0346"
+    ],
+    "primary_count": 1,
+    "total_count": 1
+  },
+  "s1.2": {
+    "title": "Sets",
+    "domain": "number",
+    "kn_ids": [
+      "kn_0012",
+      "kn_0013"
+    ],
+    "primary_count": 1,
+    "total_count": 2
+  },
+  "s1.3": {
+    "title": "Powers and roots",
+    "domain": "number",
+    "kn_ids": [
+      "kn_0014",
+      "kn_0015",
+      "kn_0019"
+    ],
+    "primary_count": 1,
+    "total_count": 3
+  },
+  "s1.4": {
+    "title": "Fractions, decimals, percentages",
+    "domain": "number",
+    "kn_ids": [
+      "kn_0020",
+      "kn_0027",
+      "kn_0030",
+      "kn_0031"
+    ],
+    "primary_count": 1,
+    "total_count": 4
+  },
+  "s1.5": {
+    "title": "Ordering",
+    "domain": "number",
+    "kn_ids": [
+      "kn_0343",
+      "kn_0344"
+    ],
+    "primary_count": 1,
+    "total_count": 2
+  },
+  "s1.6": {
+    "title": "The four operations",
+    "domain": "number",
+    "kn_ids": [
+      "kn_0032",
+      "kn_0033",
+      "kn_0034",
+      "kn_0311"
+    ],
+    "primary_count": 1,
+    "total_count": 4
+  },
+  "s1.7": {
+    "title": "Indices I",
+    "domain": "number",
+    "kn_ids": [
+      "kn_0016",
+      "kn_0018"
+    ],
+    "primary_count": 1,
+    "total_count": 2
+  },
+  "s1.8": {
+    "title": "Standard form",
+    "domain": "number",
+    "kn_ids": [
+      "kn_0036",
+      "kn_0037"
+    ],
+    "primary_count": 1,
+    "total_count": 2
+  },
+  "s1.9": {
+    "title": "Estimation",
+    "domain": "number",
+    "kn_ids": [
+      "kn_0042",
+      "kn_0043",
+      "kn_0044",
+      "kn_0045"
+    ],
+    "primary_count": 1,
+    "total_count": 4
+  },
+  "s2.1": {
+    "title": "Introduction to algebra",
+    "domain": "algebra",
+    "kn_ids": [
+      "kn_0083",
+      "kn_0084"
+    ],
+    "primary_count": 1,
+    "total_count": 2
+  },
+  "s2.10": {
+    "title": "Graphs of functions",
+    "domain": "algebra",
+    "kn_ids": [
+      "kn_0127",
+      "kn_0129",
+      "kn_0130"
+    ],
+    "primary_count": 1,
+    "total_count": 3
+  },
+  "s2.11": {
+    "title": "Sketching curves",
+    "domain": "algebra",
+    "kn_ids": [
+      "kn_0131",
+      "kn_0132",
+      "kn_0133"
+    ],
+    "primary_count": 1,
+    "total_count": 3
+  },
+  "s2.12": {
+    "title": "Differentiation",
+    "domain": "algebra",
+    "kn_ids": [
+      "kn_0347",
+      "kn_0348"
+    ],
+    "primary_count": 1,
+    "total_count": 2
+  },
+  "s2.13": {
+    "title": "Functions",
+    "domain": "algebra",
+    "kn_ids": [
+      "kn_0134",
+      "kn_0135",
+      "kn_0136"
+    ],
+    "primary_count": 1,
+    "total_count": 3
+  },
+  "s2.2": {
+    "title": "Algebraic manipulation",
+    "domain": "algebra",
+    "kn_ids": [
+      "kn_0085",
+      "kn_0086",
+      "kn_0087",
+      "kn_0089",
+      "kn_0090",
+      "kn_0091",
+      "kn_0092",
+      "kn_0093",
+      "kn_0094",
+      "kn_0095",
+      "kn_0096"
+    ],
+    "primary_count": 1,
+    "total_count": 11
+  },
+  "s2.3": {
+    "title": "Algebraic fractions",
+    "domain": "algebra",
+    "kn_ids": [
+      "kn_0097",
+      "kn_0098",
+      "kn_0307",
+      "kn_0309"
+    ],
+    "primary_count": 1,
+    "total_count": 4
+  },
+  "s2.4": {
+    "title": "Indices II",
+    "domain": "algebra",
+    "kn_ids": [
+      "kn_0099",
+      "kn_0100",
+      "kn_0101"
+    ],
+    "primary_count": 1,
+    "total_count": 3
+  },
+  "s2.5": {
+    "title": "Equations",
+    "domain": "algebra",
+    "kn_ids": [
+      "kn_0103",
+      "kn_0104",
+      "kn_0105",
+      "kn_0106",
+      "kn_0107",
+      "kn_0108",
+      "kn_0109",
+      "kn_0110",
+      "kn_0303"
+    ],
+    "primary_count": 1,
+    "total_count": 9
+  },
+  "s2.6": {
+    "title": "Inequalities",
+    "domain": "algebra",
+    "kn_ids": [
+      "kn_0111",
+      "kn_0112"
+    ],
+    "primary_count": 1,
+    "total_count": 2
+  },
+  "s2.7": {
+    "title": "Sequences",
+    "domain": "algebra",
+    "kn_ids": [
+      "kn_0113",
+      "kn_0114",
+      "kn_0115",
+      "kn_0116",
+      "kn_0117"
+    ],
+    "primary_count": 1,
+    "total_count": 5
+  },
+  "s2.8": {
+    "title": "Proportion",
+    "domain": "algebra",
+    "kn_ids": [
+      "kn_0120",
+      "kn_0121",
+      "kn_0122",
+      "kn_0123"
+    ],
+    "primary_count": 1,
+    "total_count": 4
+  },
+  "s2.9": {
+    "title": "Graphs in practical situations",
+    "domain": "algebra",
+    "kn_ids": [
+      "kn_0124",
+      "kn_0125",
+      "kn_0126"
+    ],
+    "primary_count": 1,
+    "total_count": 3
+  },
+  "s3.1": {
+    "title": "Coordinates",
+    "domain": "geometry",
+    "kn_ids": [
+      "kn_0137"
+    ],
+    "primary_count": 1,
+    "total_count": 1
+  },
+  "s3.2": {
+    "title": "Drawing linear graphs",
+    "domain": "geometry",
+    "kn_ids": [
+      "kn_0141"
+    ],
+    "primary_count": 1,
+    "total_count": 1
+  },
+  "s3.3": {
+    "title": "Gradient of linear graphs",
+    "domain": "geometry",
+    "kn_ids": [
+      "kn_0140"
+    ],
+    "primary_count": 1,
+    "total_count": 1
+  },
+  "s3.4": {
+    "title": "Length and midpoint",
+    "domain": "geometry",
+    "kn_ids": [
+      "kn_0138",
+      "kn_0139"
+    ],
+    "primary_count": 1,
+    "total_count": 2
+  },
+  "s3.7": {
+    "title": "Perpendicular lines",
+    "domain": "geometry",
+    "kn_ids": [
+      "kn_0142"
+    ],
+    "primary_count": 1,
+    "total_count": 1
+  },
+  "s4.1": {
+    "title": "Geometrical terms",
+    "domain": "geometry",
+    "kn_ids": [
+      "kn_0349",
+      "kn_0350"
+    ],
+    "primary_count": 1,
+    "total_count": 2
+  },
+  "s4.2": {
+    "title": "Geometrical constructions",
+    "domain": "geometry",
+    "kn_ids": [
+      "kn_0351",
+      "kn_0352"
+    ],
+    "primary_count": 1,
+    "total_count": 2
+  },
+  "s4.3": {
+    "title": "Scale drawings and bearings",
+    "domain": "geometry",
+    "kn_ids": [
+      "kn_0353",
+      "kn_0354"
+    ],
+    "primary_count": 1,
+    "total_count": 2
+  },
+  "s4.4": {
+    "title": "Similarity and congruence",
+    "domain": "geometry",
+    "kn_ids": [
+      "kn_0390",
+      "kn_0391",
+      "kn_0392",
+      "kn_0393"
+    ],
+    "primary_count": 1,
+    "total_count": 4
+  },
+  "s4.5": {
+    "title": "Symmetry",
+    "domain": "geometry",
+    "kn_ids": [
+      "kn_0355",
+      "kn_0356"
+    ],
+    "primary_count": 1,
+    "total_count": 2
+  },
+  "s4.6": {
+    "title": "Angles",
+    "domain": "geometry",
+    "kn_ids": [
+      "kn_0145",
+      "kn_0146",
+      "kn_0148",
+      "kn_0149"
+    ],
+    "primary_count": 1,
+    "total_count": 4
+  },
+  "s4.7": {
+    "title": "Circle theorems",
+    "domain": "geometry",
+    "kn_ids": [
+      "kn_0317",
+      "kn_0318",
+      "kn_0319",
+      "kn_0320"
+    ],
+    "primary_count": 1,
+    "total_count": 4
+  },
+  "s4.8": {
+    "title": "Constructions and loci",
+    "domain": "geometry",
+    "kn_ids": [
+      "kn_0357",
+      "kn_0358"
+    ],
+    "primary_count": 1,
+    "total_count": 2
+  },
+  "s5.1": {
+    "title": "Units of measure",
+    "domain": "geometry",
+    "kn_ids": [
+      "kn_0359",
+      "kn_0360"
+    ],
+    "primary_count": 1,
+    "total_count": 2
+  },
+  "s5.2": {
+    "title": "Area and perimeter",
+    "domain": "geometry",
+    "kn_ids": [
+      "kn_0329"
+    ],
+    "primary_count": 1,
+    "total_count": 1
+  },
+  "s5.3": {
+    "title": "Circles, arcs and sectors",
+    "domain": "geometry",
+    "kn_ids": [
+      "kn_0150",
+      "kn_0151",
+      "kn_0330"
+    ],
+    "primary_count": 1,
+    "total_count": 3
+  },
+  "s5.4": {
+    "title": "Surface area and volume",
+    "domain": "geometry",
+    "kn_ids": [
+      "kn_0361",
+      "kn_0362",
+      "kn_0363",
+      "kn_0364"
+    ],
+    "primary_count": 1,
+    "total_count": 4
+  },
+  "s5.5": {
+    "title": "Compound shapes",
+    "domain": "geometry",
+    "kn_ids": [
+      "kn_0365"
+    ],
+    "primary_count": 1,
+    "total_count": 1
+  },
+  "s6.1": {
+    "title": "Knowledge node from topic 6.1",
+    "domain": "geometry",
+    "kn_ids": [
+      "kn_0313",
+      "kn_0314"
+    ],
+    "primary_count": 1,
+    "total_count": 2
+  },
+  "s6.2": {
+    "title": "Right-angled triangles",
+    "domain": "geometry",
+    "kn_ids": [
+      "kn_0326",
+      "kn_0327",
+      "kn_0328"
+    ],
+    "primary_count": 1,
+    "total_count": 3
+  },
+  "s6.3": {
+    "title": "Exact trigonometric values",
+    "domain": "geometry",
+    "kn_ids": [
+      "kn_0366"
+    ],
+    "primary_count": 1,
+    "total_count": 1
+  },
+  "s6.4": {
+    "title": "Trigonometric functions",
+    "domain": "geometry",
+    "kn_ids": [
+      "kn_0153",
+      "kn_0154"
+    ],
+    "primary_count": 1,
+    "total_count": 2
+  },
+  "s6.5": {
+    "title": "Non-right-angled triangles",
+    "domain": "geometry",
+    "kn_ids": [
+      "kn_0367",
+      "kn_0368",
+      "kn_0369"
+    ],
+    "primary_count": 1,
+    "total_count": 3
+  },
+  "s6.6": {
+    "title": "3D trigonometry",
+    "domain": "geometry",
+    "kn_ids": [
+      "kn_0370",
+      "kn_0371"
+    ],
+    "primary_count": 1,
+    "total_count": 2
+  },
+  "s7.1": {
+    "title": "Transformations",
+    "domain": "geometry",
+    "kn_ids": [
+      "kn_0372",
+      "kn_0373",
+      "kn_0374",
+      "kn_0375",
+      "kn_0377"
+    ],
+    "primary_count": 1,
+    "total_count": 5
+  },
+  "s7.2": {
+    "title": "Vectors in 2D",
+    "domain": "geometry",
+    "kn_ids": [
+      "kn_0322",
+      "kn_0323",
+      "kn_0325"
+    ],
+    "primary_count": 1,
+    "total_count": 3
+  },
+  "s7.4": {
+    "title": "Vector geometry",
+    "domain": "geometry",
+    "kn_ids": [
+      "kn_0324"
+    ],
+    "primary_count": 1,
+    "total_count": 1
+  },
+  "s8.1": {
+    "title": "Introduction to probability",
+    "domain": "probability",
+    "kn_ids": [
+      "kn_0155",
+      "kn_0156"
+    ],
+    "primary_count": 1,
+    "total_count": 2
+  },
+  "s8.2": {
+    "title": "Relative and expected frequencies",
+    "domain": "probability",
+    "kn_ids": [
+      "kn_0157"
+    ],
+    "primary_count": 1,
+    "total_count": 1
+  },
+  "s8.3": {
+    "title": "Combined events",
+    "domain": "probability",
+    "kn_ids": [
+      "kn_0158"
+    ],
+    "primary_count": 1,
+    "total_count": 1
+  },
+  "s8.4": {
+    "title": "Conditional probability",
+    "domain": "probability",
+    "kn_ids": [
+      "kn_0160",
+      "kn_0161"
+    ],
+    "primary_count": 1,
+    "total_count": 2
+  },
+  "s9.1": {
+    "title": "Classifying and tabulating data",
+    "domain": "statistics",
+    "kn_ids": [
+      "kn_0162"
+    ],
+    "primary_count": 1,
+    "total_count": 1
+  },
+  "s9.2": {
+    "title": "Interpreting statistical data",
+    "domain": "statistics",
+    "kn_ids": [
+      "kn_0380",
+      "kn_0381"
+    ],
+    "primary_count": 1,
+    "total_count": 2
+  },
+  "s9.3": {
+    "title": "Averages and measures of spread",
+    "domain": "statistics",
+    "kn_ids": [
+      "kn_0163",
+      "kn_0164",
+      "kn_0165",
+      "kn_0166",
+      "kn_0167"
+    ],
+    "primary_count": 1,
+    "total_count": 5
+  },
+  "s9.4": {
+    "title": "Statistical charts and diagrams",
+    "domain": "statistics",
+    "kn_ids": [
+      "kn_0382",
+      "kn_0383",
+      "kn_0384"
+    ],
+    "primary_count": 1,
+    "total_count": 3
+  },
+  "s9.5": {
+    "title": "Scatter diagrams and correlation",
+    "domain": "statistics",
+    "kn_ids": [
+      "kn_0168",
+      "kn_0169"
+    ],
+    "primary_count": 1,
+    "total_count": 2
+  },
+  "s9.6": {
+    "title": "Cumulative frequency",
+    "domain": "statistics",
+    "kn_ids": [
+      "kn_0385",
+      "kn_0386"
+    ],
+    "primary_count": 1,
+    "total_count": 2
+  },
+  "s9.7": {
+    "title": "Histograms",
+    "domain": "statistics",
+    "kn_ids": [
+      "kn_0388"
+    ],
+    "primary_count": 1,
+    "total_count": 1
+  }
+}

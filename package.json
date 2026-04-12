@@ -9,7 +9,9 @@
     "freshness": "python3 scripts/check-dist-fresh.py",
     "freshness:update": "python3 scripts/check-dist-fresh.py --update",
     "verify": "python3 scripts/verify-phase3.py",
-    "populate-edx": "python3 scripts/populate-edx-knids.py"
+    "populate-edx": "python3 scripts/populate-edx-knids.py",
+    "query": "python3 scripts/query.py",
+    "simulate": "python3 scripts/simulate-progress.py"
   },
   "types": "types/index.d.ts",
   "exports": {

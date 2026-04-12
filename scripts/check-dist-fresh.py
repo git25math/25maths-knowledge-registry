@@ -35,6 +35,7 @@ DIST_FILES = [
     'nodes-by-board.json',
     'question-id-map.json',
     'board-stats.json',
+    'sections-index.json',
     'build-manifest.json',
 ]
 
