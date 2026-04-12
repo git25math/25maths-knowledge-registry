@@ -6,15 +6,15 @@
     "registry/kn-registry.json": "eca88676e58ca06e",
     "registry/kp-kn-map.json": "2bc914f104c97f1c",
     "graph/dag-edges.json": "5027989ea162ee2e",
-    "scripts/build-meta-nodes.py": "50c74e0b25b61b40",
+    "scripts/build-meta-nodes.py": "349b9caa27c2f8d9",
     "scripts/build-routes.py": "35f7f52b0810554b",
     "scripts/build-board-indexes.py": "e4ff2c4475582dfc",
     "scripts/dag_utils.py": "65edb50cc491124a"
   },
   "distFiles": {
-    "meta-nodes.json": "080122e7d6a48354",
-    "routes-compiled.json": "fd118c22b56c999f",
-    "coverage-report.json": "52612122724c6017",
+    "meta-nodes.json": "e3b7453f28824c38",
+    "routes-compiled.json": "2b4d438a4945bea8",
+    "coverage-report.json": "03d187983d6eca1f",
     "nodes-by-board.json": "59d503fa5e86c72b",
     "question-id-map.json": "2e81c30e97bfffc1",
     "board-stats.json": "246ab53a70a60063"

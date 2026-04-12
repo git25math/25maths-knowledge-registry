@@ -61,25 +61,40 @@ def main():
             'estimatedHours': hours,
         })
 
-    # Nodes not in any route
+    # Nodes not in any route — classify reason
     not_in_route = []
     for mn in meta_nodes:
         if mn['kn_id'] not in nodes_in_routes:
             cie = mn['examBoards'].get('cie_0580', {})
             weight = cie.get('weight', 'N/A')
+            variant_of = mn.get('variantOf')
+            if variant_of:
+                reason = f'variant of {variant_of}'
+            elif weight in ('low', 'rare'):
+                reason = 'low frequency'
+            else:
+                reason = 'optional'
             not_in_route.append({
                 'kn_id': mn['kn_id'],
                 'title_en': mn['title_en'],
                 'domain': mn['domain'],
                 'weight': weight,
-                'reason': 'low frequency' if weight in ('low', 'rare') else 'optional',
+                'reason': reason,
+                'variantOf': variant_of,
             })
+
+    variants_exempt = len([n for n in not_in_route if n.get('variantOf')])
+    effective_total = len(meta_nodes) - variants_exempt
+    effective_pct = round(100 * len(nodes_in_routes) / effective_total) if effective_total else 0
 
     # Print report
     print("=== Knowledge Coverage Report ===\n")
     print(f"Meta Nodes: {len(meta_nodes)} total")
     print(f"  In routes: {len(nodes_in_routes)}/{len(meta_nodes)} ({round(100*len(nodes_in_routes)/len(meta_nodes))}%)")
     print(f"  Not in any route: {len(not_in_route)} nodes")
+    print(f"    Variants (exempt): {variants_exempt}")
+    print(f"    Other: {len(not_in_route) - variants_exempt}")
+    print(f"  Effective coverage: {len(nodes_in_routes)}/{effective_total} ({effective_pct}%)")
 
     print(f"\nRoutes Coverage:")
     for rs in route_stats:
@@ -95,6 +110,8 @@ def main():
         'totalMetaNodes': len(meta_nodes),
         'nodesInRoutes': len(nodes_in_routes),
         'coveragePercent': round(100 * len(nodes_in_routes) / len(meta_nodes), 1),
+        'variantsExempt': variants_exempt,
+        'effectiveCoverage': effective_pct,
         'routeStats': route_stats,
         'nodesNotInRoute': not_in_route,
     }

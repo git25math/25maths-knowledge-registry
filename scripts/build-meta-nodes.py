@@ -139,6 +139,24 @@ def main():
         else:
             return 'low'
 
+    # Build variant map: for nodes sharing same (title_en, section),
+    # the lowest kn_id is the "primary" and others are variants.
+    section_groups = defaultdict(list)
+    for node in registry:
+        cie = node.get('examBoards', {}).get('cie_0580', {})
+        sec = cie.get('section', node.get('subdomain', ''))
+        key = (node.get('title_en', ''), sec)
+        section_groups[key].append(node['kn_id'])
+
+    variant_of = {}  # kn_id → primary kn_id (or None)
+    for (title, sec), kn_ids in section_groups.items():
+        if len(kn_ids) <= 1:
+            continue
+        sorted_ids = sorted(kn_ids, key=lambda x: int(x.split('_')[1]))
+        primary = sorted_ids[0]
+        for kn_id in sorted_ids[1:]:
+            variant_of[kn_id] = primary
+
     # Build meta nodes
     meta_nodes = []
     for node in registry:
@@ -229,6 +247,7 @@ def main():
             'domain': domain,
             'subdomain': node.get('subdomain', ''),
             'primaryBoard': primary_board,
+            'variantOf': variant_of.get(kn_id),
 
             'examBoards': exam_boards,
 
@@ -288,6 +307,8 @@ def main():
     print(f"Primary board breakdown:")
     for board in ('cie', 'edx', 'both'):
         print(f"  {board}: {board_counts.get(board, 0)}")
+    variants = len([n for n in meta_nodes if n.get('variantOf')])
+    print(f"Variants (variantOf set): {variants}")
     print(f"Foundational (leadsTo >= 5): {foundational}")
     print(f"With prerequisites: {with_prereqs}")
     print(f"\nOutput: {out_path}")

@@ -1,7 +1,9 @@
 {
   "totalMetaNodes": 203,
-  "nodesInRoutes": 184,
-  "coveragePercent": 90.6,
+  "nodesInRoutes": 185,
+  "coveragePercent": 91.1,
+  "variantsExempt": 16,
+  "effectiveCoverage": 99,
   "routeStats": [
     {
       "id": "cie-core-geometry",
@@ -84,137 +86,148 @@
   ],
   "nodesNotInRoute": [
     {
-      "kn_id": "kn_0004",
-      "title_en": "Types of number",
-      "domain": "number",
-      "weight": "medium",
-      "reason": "optional"
-    },
-    {
       "kn_id": "kn_0005",
       "title_en": "Types of number",
       "domain": "number",
       "weight": "medium",
-      "reason": "optional"
+      "reason": "variant of kn_0001",
+      "variantOf": "kn_0001"
     },
     {
       "kn_id": "kn_0007",
       "title_en": "Types of number",
       "domain": "number",
       "weight": "medium",
-      "reason": "optional"
+      "reason": "variant of kn_0001",
+      "variantOf": "kn_0001"
     },
     {
       "kn_id": "kn_0008",
       "title_en": "Types of number",
       "domain": "number",
       "weight": "medium",
-      "reason": "optional"
+      "reason": "variant of kn_0001",
+      "variantOf": "kn_0001"
+    },
+    {
+      "kn_id": "kn_0009",
+      "title_en": "Types of number",
+      "domain": "number",
+      "weight": "medium",
+      "reason": "variant of kn_0001",
+      "variantOf": "kn_0001"
     },
     {
       "kn_id": "kn_0011",
       "title_en": "Types of number",
       "domain": "number",
       "weight": "medium",
-      "reason": "optional"
+      "reason": "variant of kn_0001",
+      "variantOf": "kn_0001"
     },
     {
       "kn_id": "kn_0045",
       "title_en": "Estimation",
       "domain": "number",
       "weight": "medium",
-      "reason": "optional"
+      "reason": "variant of kn_0042",
+      "variantOf": "kn_0042"
     },
     {
       "kn_id": "kn_0050",
       "title_en": "Limits of accuracy",
       "domain": "number",
       "weight": "medium",
-      "reason": "optional"
+      "reason": "variant of kn_0046",
+      "variantOf": "kn_0046"
     },
     {
       "kn_id": "kn_0051",
       "title_en": "Limits of accuracy",
       "domain": "number",
       "weight": "medium",
-      "reason": "optional"
+      "reason": "variant of kn_0046",
+      "variantOf": "kn_0046"
     },
     {
       "kn_id": "kn_0055",
       "title_en": "Ratio and proportion",
       "domain": "number",
       "weight": "medium",
-      "reason": "optional"
+      "reason": "variant of kn_0052",
+      "variantOf": "kn_0052"
     },
     {
       "kn_id": "kn_0069",
       "title_en": "Percentages",
       "domain": "number",
       "weight": "medium",
-      "reason": "optional"
+      "reason": "variant of kn_0062",
+      "variantOf": "kn_0062"
     },
     {
       "kn_id": "kn_0087",
       "title_en": "Algebraic manipulation",
       "domain": "algebra",
       "weight": "medium",
-      "reason": "optional"
+      "reason": "variant of kn_0085",
+      "variantOf": "kn_0085"
     },
     {
       "kn_id": "kn_0091",
       "title_en": "Algebraic manipulation",
       "domain": "algebra",
       "weight": "medium",
-      "reason": "optional"
+      "reason": "variant of kn_0085",
+      "variantOf": "kn_0085"
     },
     {
       "kn_id": "kn_0092",
       "title_en": "Algebraic manipulation",
       "domain": "algebra",
       "weight": "medium",
-      "reason": "optional"
+      "reason": "variant of kn_0085",
+      "variantOf": "kn_0085"
     },
     {
       "kn_id": "kn_0160",
       "title_en": "Conditional probability",
       "domain": "probability",
       "weight": "medium",
-      "reason": "optional"
+      "reason": "optional",
+      "variantOf": null
     },
     {
       "kn_id": "kn_0166",
       "title_en": "Averages and measures of spread",
       "domain": "statistics",
       "weight": "medium",
-      "reason": "optional"
-    },
-    {
-      "kn_id": "kn_0167",
-      "title_en": "Averages and measures of spread",
-      "domain": "statistics",
-      "weight": "medium",
-      "reason": "optional"
+      "reason": "variant of kn_0163",
+      "variantOf": "kn_0163"
     },
     {
       "kn_id": "kn_0303",
       "title_en": "Equations",
       "domain": "algebra",
       "weight": "medium",
-      "reason": "optional"
+      "reason": "variant of kn_0103",
+      "variantOf": "kn_0103"
     },
     {
       "kn_id": "kn_0311",
       "title_en": "The four operations",
       "domain": "number",
       "weight": "medium",
-      "reason": "optional"
+      "reason": "variant of kn_0032",
+      "variantOf": "kn_0032"
     },
     {
       "kn_id": "kn_0345",
       "title_en": "Using a calculator",
       "domain": "number",
       "weight": "low",
-      "reason": "low frequency"
+      "reason": "low frequency",
+      "variantOf": null
     }
   ]
 }

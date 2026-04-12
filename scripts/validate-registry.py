@@ -166,6 +166,30 @@ def main():
         else:
             print(f"✓ Route boardFilter: all route nodes match primaryBoard")
 
+        # 12. Route prerequisite ordering — no node before its prereqs
+        prereq_violations = []
+        for rf in route_files:
+            with open(os.path.join(BASE, 'routes', rf)) as f:
+                route = json.load(f)
+            nodes = [n for n in route.get('nodes', []) if not n.get('milestone')]
+            kn_order = {n['kn_id']: i for i, n in enumerate(nodes)}
+            for n in nodes:
+                mn = meta_map.get(n['kn_id'])
+                if not mn:
+                    continue
+                for p in mn.get('prerequisites', []):
+                    pid = p['kn_id']
+                    if pid in kn_order and kn_order[pid] > kn_order[n['kn_id']]:
+                        prereq_violations.append(f"{rf}:{n['kn_id']}(order {kn_order[n['kn_id']]}) needs {pid}(order {kn_order[pid]})")
+
+        if prereq_violations:
+            warnings.append(f"{len(prereq_violations)} route prereq ordering violations")
+            print(f"⚠ Route ordering: {len(prereq_violations)} violations")
+            for v in prereq_violations[:5]:
+                print(f"    {v}")
+        else:
+            print(f"✓ Route ordering: all prerequisites come before dependents")
+
     # Summary
     print(f"\n{'=' * 40}")
     if errors:
