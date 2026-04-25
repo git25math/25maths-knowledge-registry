@@ -18,6 +18,7 @@
 | L4-tool | 25Maths-Dashboard / 25maths-Visual | NZH 内部工具 |
 | L4-marketing | 25maths-website | 对外营销 |
 | L4-pedagogy | 25maths-teaching | **教研内容源** · 用户本人创作 · 单向 ETL 流入 platform · 自留地保护(ADR-0043) |
+| L4-media | math-video-engine | **视频教学源** · 1,046 元题型 · 7 板 · ISS 10 模块 · CDN/B站 · 单向 ETL(ADR-0044) |
 
 ### 灵魂宪章(产品最高优先级)
 
