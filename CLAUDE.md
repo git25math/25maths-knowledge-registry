@@ -17,6 +17,7 @@
 | L4-source | 25Maths-Keywords / 25maths-games-legends | 6 月迁移源 → 只读 → 下线 |
 | L4-tool | 25Maths-Dashboard / 25maths-Visual | NZH 内部工具 |
 | L4-marketing | 25maths-website | 对外营销 |
+| L4-pedagogy | 25maths-teaching | **教研内容源** · 用户本人创作 · 单向 ETL 流入 platform · 自留地保护(ADR-0043) |
 
 ### 灵魂宪章(产品最高优先级)
 
