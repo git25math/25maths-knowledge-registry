@@ -15,7 +15,8 @@
 | L3 Operations | git25math/25maths-planning | Phase 报告 + 战略 + 灵魂审计 · **真相源** |
 | L4-platform | 25maths-practice | **25Maths 主平台** |
 | L4-source | 25Maths-Keywords / 25maths-games-legends | 6 月迁移源 → 只读 → 下线 |
-| L4-tool | 25Maths-Dashboard / 25maths-Visual | NZH 内部工具 |
+| L4-tool | 25maths-Visual(v3.3:Dashboard 已移出) | NZH 内部数据可视化 |
+| ⛔ 独立 | 25Maths-Dashboard | NZH 个人工作台 · 不融合(ADR-0046) |
 | L4-marketing | 25maths-website | 对外营销 |
 | L4-pedagogy | 25maths-teaching | **教研内容源** · 用户本人创作 · 单向 ETL 流入 platform · 自留地保护(ADR-0043) |
 | L4-media | math-video-engine | **视频教学源** · 1,046 元题型 · 7 板 · ISS 10 模块 · CDN/B站 · 单向 ETL(ADR-0044) |
@@ -33,6 +34,15 @@
 5. 走人问 · 学生离开一周回来感到温暖还是内疚?
 
 任一答错 → block merge。详见 [ADR-0040](https://github.com/git25math/25maths-os/blob/main/decisions/0040-soul-charter.md) + [ADR-0041](https://github.com/git25math/25maths-os/blob/main/decisions/0041-feedback-voice-ironclads.md)。
+
+### 双轨 Track 体系(ADR-0045 · v3.3)
+
+学生的真实生态是 **学校学一套(Learning)+ 自己备考一套或多套(Exam)** 双轨并行:
+
+- **Learning Track**(学习线 · 主线 · 必选):`hhk-sow`(哈罗海口课纲)+ 未来其他学校 SoW + `none` 自学者
+- **Exam Tracks**(备考线 · 0-N 并行):`cie-igcse-0580` / `edx-igcse-4ma1` / `hnzk-zhongkao`(海南中考)
+- 学生 user_profile 双指针:`learning_track`(单)+ `exam_tracks[]`(多)
+- UI 必须双区:📚 我在学 + 🎯 我在备考 + 智能融合建议
 
 ### MUST READ(任何 session 启动前)
 
