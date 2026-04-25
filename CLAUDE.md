@@ -40,9 +40,12 @@
 学生的真实生态是 **学校学一套(Learning)+ 自己备考一套或多套(Exam)** 双轨并行:
 
 - **Learning Track**(学习线 · 主线 · 必选):`hhk-sow`(哈罗海口课纲)+ 未来其他学校 SoW + `none` 自学者
-- **Exam Tracks**(备考线 · 0-N 并行):`cie-igcse-0580` / `edx-igcse-4ma1` / `hnzk-zhongkao`(海南中考)
-- 学生 user_profile 双指针:`learning_track`(单)+ `exam_tracks[]`(多)
-- UI 必须双区:📚 我在学 + 🎯 我在备考 + 智能融合建议
+- **Exam Tracks**(备考线 · 0-N 并行 · v3.4 三类分 · ADR-0047):
+  - 主考(subject_exam):`cie-igcse-0580` / `edx-igcse-4ma1` / `hnzk-zhongkao` / 高考 / CIE A
+  - 竞赛(competition):`ukmt-{pmc,jmc,imc,smc,bmo}` / `amc-{8,10,12}` / `aamc-*` / `kangaroo-*` / `bmmt-*` / `asdan` / IMO
+  - 学术延展(academic_extension):`edx-ial-{p1-4,fp1-3,m1-3,s1-3,d1}` / 未来 CIE A Pure/Mech/Stat
+- 学生 user_profile 双指针:`learning_track`(单)+ `exam_tracks[]`(多 · 含 track_category)
+- UI 主页四区:📚 我在学 + 🎯 我的主考 + 🏆 我的竞赛 + 🎓 我的 A Level + 💡 智能融合(KP 跨 track 重叠)
 
 ### MUST READ(任何 session 启动前)
 
