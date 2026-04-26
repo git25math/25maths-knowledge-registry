@@ -95,3 +95,36 @@ NZH 平时不需调:
 - 看 `python3 scripts/task-tracker.py status` 即知本周进度
 - 看 `git log --grep "TASK-.* done"` 即知做完什么
 - 看 lessons/INDEX.md 即知新 lesson(月度 review)
+
+---
+
+## 🔴 LESSON-013 · Definition of Done(DoD)· 标 ✅ 前必过 6 步
+
+**2026-04-26 紧急加入** · 触发自 7 个 backend deployed · 前端 0 wire 漏洞。
+
+```
+1. backend schema deployed     · supabase 真有列/表/RPC
+2. backend acceptance 通过     · spoof user 验收 jsonb 正确
+3. backend → 入仓 migration    · LESSON-011 改名 + DEPLOYED header
+4. frontend 调用方             · src/* 有 .rpc('<name>') 调用
+5. frontend UI 入口            · 学生/教师/家长 能看到/触发/点击
+6. NZH 灵魂自检通过            · 真账号登录看到 UI · 6 灵魂问 5/6 + 第 6 问通过
+```
+
+**TASK 状态 4 档**(替代 ⏳/✅ 二档):
+- ⏳ 未开始
+- 🟡 backend ready(schema/RPC · UI 0 wire)
+- 🔵 wired(frontend 调用 + UI 入口 · 未灵魂自检)
+- ✅ done(NZH 真账号自检 · 学生真实感知)
+
+**第 6 灵魂问**(新加):**这个改动学生在哪个屏幕的哪个按钮能看到?能描述具体 UI 位置吗?**
+
+**`task-tracker.py done <TASK>` 行为升级**(若执行):
+- 必先 prompt:"已完成 frontend wire-up + UI 入口?描述 UI 位置"
+- 答不出具体位置 → 状态写 🔵 wired · 不写 ✅
+- NZH 真账号自检通过后才升级 ✅
+
+**反 anti-pattern**:
+- ❌ 标 `✅ deployed` 仅 backend ready
+- ❌ "待前端 wire-up"但已 ✅
+- ❌ commit "deploy 完成"但 0 frontend changes

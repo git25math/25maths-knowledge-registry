@@ -17,6 +17,7 @@
 | [LESSON-010](LESSON-010-grep-prod-schema-not-just-frontend-code.md) | 起 SQL artifact 前必 grep prod migration + information_schema · 不信 frontend `.select()` · LESSON-009 schema 域强化版 | 2026-04-26 |
 | [LESSON-011](LESSON-011-prod-deploy-then-rename-draft-to-migration.md) | prod deploy 后 _DRAFT 必须改名入仓 migration · "跑过了" ≠ "入历史了" · LESSON-009/010 闭环 | 2026-04-26 |
 | [LESSON-012](LESSON-012-grep-prod-rpc-names-before-deploy.md) | deploy 前必 grep prod RPC 名 · 同名 overload + default 参数 = ambiguity 错 · 默认重命名 v1 | 2026-04-26 |
+| [LESSON-013](LESSON-013-backend-deploy-is-not-user-experience-ship.md) | 🔴 backend deploy ≠ user experience ship · 前端 0 wire = 学生 0 感知 · DoD 6 步 + 第 6 灵魂问"可见性" | 2026-04-26 |
 
 ### 🟡 Workflow · 工作流类(防具体动作出错)
 
@@ -35,18 +36,19 @@
 
 ---
 
-## 防重复治理铁六角(2026-04-26 · session 沉淀)
+## 防重复治理铁七角(2026-04-26 · 7 LESSONs 立成)
 
 | LESSON | 阶段 | 防止 | 真相源 |
 |---|---|---|---|
 | **007** | 写 TASK 前 | 重复造 TASK | v3 plan TASK 表 |
 | **008** | Beta 期决策 | 过早架构 commit | 真实痛点 |
 | **009** | 立 ADR 前 | 重复治理 | v3 plan + Stages |
-| **010** | 起 SQL 前(schema)| 错位列/表假设 | supabase prod `information_schema` |
+| **010** | 起 SQL schema 前 | 错位列/表假设 | supabase prod `information_schema` |
 | **011** | deploy 后 | git 与 prod 偏离 | 改名入仓 + DEPLOYED header |
-| **012** | **deploy 前(RPC)** | **同名 overload ambiguity** | **`pg_proc` WHERE proname** |
+| **012** | deploy RPC 前 | 同名 overload ambiguity | `pg_proc` WHERE proname |
+| **013 🔴** | **task 标 ✅ 前** | **backend done = user happy 错觉 · DoD 漏洞** | **NZH 真账号 UI 验收 + 第 6 灵魂问** |
 
-**共同主旨**:任何 artifact 立 / 改 / deploy 前后必先 grep 真相源 + 把 prod 真相回流到 git。git 不一定是 single source of truth(尤其 schema · 因 hot-patch / dashboard 改 / 多 worktree)· 但 deploy 后必须**让 git 重新成为真相**(LESSON-011 闭环)。
+**共同主旨**:任何 artifact 立 / 改 / deploy / 标 done 前后必先 grep 真相源 + 把 prod 真相回流到 git + **学生真实可见才算 done**。git 不一定是 single source of truth(尤其 schema)· deploy 后必让 git 重成真相(LESSON-011)· **backend ready ≠ ship**(LESSON-013 灵魂红线)。
 
 实战印证:本 session 节省 ~10d 工程时间(防 4 个新 TASK + 防 2 个 ADR 立法 + 防 prod schema 误改)。
 
