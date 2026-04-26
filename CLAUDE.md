@@ -2,6 +2,33 @@
 
 <!-- BEGIN auto-synced charter v3 · do not edit · source: 25maths-planning · last sync: 2026-04-26 -->
 
+<!-- ═══ CACHE-FRIENDLY HEADER (slow-change · ADR-0066 · 顶部 ~5K tokens 进 prompt cache) ═══ -->
+
+## 🔴 Quick Context (Claude session · 60 秒 read · auto-cache)
+
+**项目**:25Maths · 国际学校 IGCSE 数学 · Internal Beta · 注册即会员 · 全员免费(ADR-0058)
+**身份**:NZH = 国际学校高年级数学老师(ADR-0055)
+**初心**:在合规边界内把 NZH 课堂经验变自助工具(ADR-0059)
+**北极星**:承接每个想学的孩子 + 软化每个焦虑的家长
+
+**13 红线**(任一触发→紧急 ADR 复审):
+- 合规 6:不收补习费/不私聊/不绕学校/不替代教师/不撮合市场/不卖老师时间(ADR-0059 § 2)
+- 灵魂 7:不焦虑特性/不红点 streak/不差生排名/不同班对比/不"应该早就会"/学生永久免费/variant 1=1=1(ADR-0040 § 5)
+
+**5 灵魂问**(每 PR 必过):温度?声音?老师?三学生?走人?(任一答错 = block)
+
+**Cache 5 铁律**(ADR-0066):
+1 慢变内容(ADR-0040/0059/V3_FINAL)不 daily edit  2 用 `---` 分隔  3 Edit > Write  4 大文件 50 行/chunk  5 5 min 内不重复 read
+
+**`/<skills>` 可调用**(repo-committed · 跨账号):
+`/25maths-context-loader` `/25maths-cache-optimizer` `/25maths-session-summarizer`
+
+**当前 Tag**:v3.14-portable-skills · ADR 总数 67 · TASK 总数 132
+
+<!-- ═══ END CACHE-FRIENDLY HEADER · 以下是详细 charter ═══ -->
+
+---
+
 ## 25Maths Cross-Repo Charter v3.9 FINAL (auto-synced · soul-deepened · Beta · teacher-workbench)
 
 本仓是 25Maths Learning OS 的一部分。**灵魂宪章 ADR-0040 是产品最高优先级 · 任何冲突服从此节**。

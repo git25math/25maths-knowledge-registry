@@ -13,6 +13,7 @@
 | LESSON-003 | solo dev + Claude Max 20× = 25/75 工时拆分 · 不是 1+1 | 🟢 | meta | 2026-04-26 |
 | LESSON-004 | 用户私人工作仓(NZH Dashboard)永不主动修改 · 即使是清理 charter 也不 | 🔴 | red-line | 2026-04-26 |
 | LESSON-005 | 过早商业化设计创造反向灵魂压力 · 推迟到 post-Beta | 🔴 | meta | 2026-04-26 |
+| LESSON-006 | 跨账号可移植 = repo-committed skills · 不要依赖 user-level memory | 🟡 | meta | 2026-04-26 |
 
 ---
 
@@ -22,4 +23,4 @@
 
 ---
 
-*Last updated: 2026-04-26 · 5 seed lessons · 0 archived。*
+*Last updated: 2026-04-26 · 6 active lessons · 0 archived。*
