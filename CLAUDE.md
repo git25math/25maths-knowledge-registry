@@ -23,7 +23,7 @@
 **`/<skills>` 可调用**(repo-committed · 跨账号):
 `/25maths-context-loader` `/25maths-cache-optimizer` `/25maths-session-summarizer`
 
-**当前 Tag**:v3.14-portable-skills · ADR 总数 67 · TASK 总数 132
+**当前 Tag**:v3.22-stages-5-7-synthesis · ADR 总数 71 · TASK 总数 137
 
 <!-- ═══ END CACHE-FRIENDLY HEADER · 以下是详细 charter ═══ -->
 
