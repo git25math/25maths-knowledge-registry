@@ -14,6 +14,7 @@
 | LESSON-004 | 用户私人工作仓(NZH Dashboard)永不主动修改 · 即使是清理 charter 也不 | 🔴 | red-line | 2026-04-26 |
 | LESSON-005 | 过早商业化设计创造反向灵魂压力 · 推迟到 post-Beta | 🔴 | meta | 2026-04-26 |
 | LESSON-006 | 跨账号可移植 = repo-committed skills · 不要依赖 user-level memory | 🟡 | meta | 2026-04-26 |
+| LESSON-007 | 多 stage 综合先做 v3 plan TASK inventory · 不要重新发明已存在的 TASK | 🟡 | workflow | 2026-04-26 |
 
 ---
 
