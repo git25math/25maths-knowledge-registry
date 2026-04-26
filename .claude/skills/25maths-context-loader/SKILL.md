@@ -59,3 +59,13 @@ code / experience / **data_collection**(替代 commercial)/ soul
 
 本 skill 提交 git · 任何 Claude 账号 clone 25maths-planning 即得。
 不依赖 user-level memory。
+
+---
+
+## 🔴 FDD 铁律(LESSON-013 哲学根基 · 2026-04-26)
+
+> **后端服务前端 · 前端服务用户 · 后端开发最终点 = 前端更好地为用户服务**
+
+任何 backend TASK 立案前必答 3 问。详见 `lessons/LESSON-013-backend-deploy-is-not-user-experience-ship.md` 核心铁律段。
+
+任何 task 标 ✅ 前必过 DoD 6 步。详见 `AUDIT_FRAMEWORK.md § 7`。

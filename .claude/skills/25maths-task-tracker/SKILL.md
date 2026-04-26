@@ -128,3 +128,29 @@ NZH 平时不需调:
 - ❌ 标 `✅ deployed` 仅 backend ready
 - ❌ "待前端 wire-up"但已 ✅
 - ❌ commit "deploy 完成"但 0 frontend changes
+
+---
+
+## 🔴 LESSON-013 · 哲学根基 · Frontend-Driven Development(FDD)
+
+> **后端的所有优化 · 都是为了让前端有更好的体验。**
+> **没有前端明确需求的后端优化 = 无效。**
+> **后端开发的最终点 = 前端更好地为用户服务。**
+
+任何后端 TASK 起草前必答 3 问(不答 = 不许立):
+
+1. 这个 backend 改动服务于哪个具体前端 feature?
+2. 这个前端 feature 服务于哪个具体用户场景?(学生/教师/家长 在哪个屏幕做什么)
+3. 没有这个 backend · 前端能做到吗?(若能 · 后端是 over-engineering · 推迟)
+
+**TASK 配对原则**:每个 backend TASK 必配对 frontend TASK · 同时排期 · 同时 ship。
+- backend-only TASK = 孤儿(LESSON-013 灵魂红线)
+- 拆分排期允许 · 但 backend 单独 done = NOT done(状态停 🟡 ready)
+
+**反 anti-pattern**:
+- ❌ "现在加 belief · 未来某天加 UI"
+- ❌ "先把 schema 准备好 · 前端慢慢追"
+- ❌ "RPC 先写 · 等前端组要时再 wire"
+
+**✅ 正确开发顺序**:
+- 用户场景 → 前端 feature → 后端 RPC/schema 同时排期 → 同时 ship → NZH 真账号自检 → done

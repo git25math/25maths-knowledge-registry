@@ -7,6 +7,52 @@ auto_load: true
 
 # LESSON-013 · backend deploy ≠ user experience ship
 
+## 🔴 核心铁律(NZH 2026-04-26 升级 · LESSON-013 哲学根基)
+
+> **后端的所有优化 · 都是为了让前端有更好的体验。**
+> **所有一切的后端功能 · 都要服务于前端的特定需求。**
+> **没有前端明确需求的后端优化 = 无效。**
+>
+> **反向**:所有前端需求 · 都要通过后端来实现 · 而后端功能的架设必须要在前端将其作用发挥出来。
+>
+> **这是推动开发的动力。后端开发的最终点 = 前端更好地为用户服务。**
+
+### 推论 1 · Frontend-Driven Development(FDD)
+
+任何后端 TASK 起草前 · 必先回答 3 问:
+1. **这个 backend 改动服务于哪个具体前端 feature?**
+2. **这个前端 feature 服务于哪个具体用户场景?**(学生/教师/家长 在哪个屏幕做什么)
+3. **没有这个 backend · 前端能做到吗?**(若能 · 后端是 over-engineering · 推迟)
+
+任一答不出 · TASK 不许立 · 不许 deploy。
+
+### 推论 2 · 反 anti-pattern · "未来可能用上"
+
+❌ "现在加 belief 字段 · 未来某天加 UI"
+❌ "先把 schema 都准备好 · 前端慢慢追"
+❌ "RPC 先写 · 等前端组要时再 wire"
+
+✅ "学生在 X 屏幕需要看到 Y · 所以加 backend RPC Z 服务这个 feature"
+
+### 推论 3 · TASK 配对原则
+
+每个 backend TASK 必有配对 frontend TASK · 同时排期 · 同时 ship。
+- TASK-029 belief field(backend)+ TASK-029.f belief 学生反馈 UI(frontend)
+- 两个同时 done · 才整体 done
+- 拆分排期 = 制造孤儿 backend(LESSON-013 灵魂红线)
+
+### 推论 4 · 验收必须从用户屏幕开始
+
+不是从 supabase Editor 跑 RPC 看 jsonb · 而是:
+1. 学生 / 教师 / 家长 真账号登录
+2. 从某屏幕某按钮触发
+3. 看到 UI 上的数据 / 反馈 / 状态
+4. 灵魂 6 问全过(温度/声音/老师/三学生/走人/可见性)
+
+backend RPC 跑通 = staging milestone · 不是 done。
+
+---
+
 ## 触发场景(2026-04-26 严重事故)
 
 1. NZH 跑 7 个 SQL deploy 全成功(belief / method_marks / pedagogy_etl / student_profile_v5 / phase0_remaining_4 / section_health / get_next_step_v1)
