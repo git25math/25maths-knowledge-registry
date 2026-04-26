@@ -86,6 +86,7 @@ code 75% / experience 50% / commercial 20% / **soul 80%**(灵魂轴最严格 · 
 **节奏**:M1-M6 = 12 月对齐学校 academic calendar(ADR-0056)· Summer Break 集中 sprint
 **铁律**:无 paywall / 无 Stripe / 无 SKU / 无 user_vip / 无 paywall_impressions · 只 analytics_events
 **Exit-Beta**:NZH 显式签 ADR 才结束 · 无自动退出 · 4 季度自检
+**Post-Beta 商业引擎**(ADR-0060):**独立教师工作台 SaaS** ¥99-299/月 · 学生家长永久免费 · 不撮合 / 不抽佣 / 工具供应商身份
 
 ### 冲突仲裁
 
