@@ -1,6 +1,6 @@
 # 25maths-knowledge-registry · CLAUDE Operating Notes
 
-<!-- BEGIN auto-synced charter v3 · do not edit · source: 25maths-planning · last sync: 2026-04-25 -->
+<!-- BEGIN auto-synced charter v3 · do not edit · source: 25maths-planning · last sync: 2026-04-26 -->
 
 ## 25Maths Cross-Repo Charter v3 (auto-synced · soul-deepened)
 
@@ -69,10 +69,13 @@ code 75% / experience 50% / commercial 20% / **soul 80%**(灵魂轴最严格 · 
 6. 学生练习核心收费(ADR-0025 学生永远免费)
 7. variant_mastery 降级到 unit/section 级(违反 1=1=1 铁律)
 
-### 北极星(双锚)
+### 北极星(v3.6 现实化双锚)
 
-商业:DFM-killer + Y3 ¥1 亿 + 6 月渐进融合
-使命:**承接住每一个想要学的孩子,从能够接受的地方开始,手把手陪着重建自信**
+**身份**:由一名 IGCSE 国际学校高年级数学老师为他班里的孩子亲手搭建(ADR-0055)
+**商业**:Y1 \$93→\$1500/月 / Y3 \$20k/月 副业可持续 / 不追 unicorn / 无 VC(ADR-0057)
+**使命**:**承接住每一个想要学的孩子,从能够接受的地方开始,手把手陪着重建自信**
+**节奏**:M1-M6 = 12 月对齐学校 academic calendar(ADR-0056)· Summer Break 集中 sprint
+**财务铁律**:月可变成本 ≤ 月收入 × 50% / AI 用 Claude Max 20× 替代 / \<\$500 月收入零外部 LLM
 
 ### 冲突仲裁
 
