@@ -69,13 +69,14 @@ code 75% / experience 50% / commercial 20% / **soul 80%**(灵魂轴最严格 · 
 6. 学生练习核心收费(ADR-0025 学生永远免费)
 7. variant_mastery 降级到 unit/section 级(违反 1=1=1 铁律)
 
-### 北极星(v3.6 现实化双锚)
+### 北极星(v3.7 Beta 极简版)
 
 **身份**:由一名 IGCSE 国际学校高年级数学老师为他班里的孩子亲手搭建(ADR-0055)
-**商业**:Y1 \$93→\$1500/月 / Y3 \$20k/月 副业可持续 / 不追 unicorn / 无 VC(ADR-0057)
+**阶段**:**Internal Beta · 注册即会员 · 全员免费 · 不商业化 · 信息收集为主**(ADR-0058)
 **使命**:**承接住每一个想要学的孩子,从能够接受的地方开始,手把手陪着重建自信**
 **节奏**:M1-M6 = 12 月对齐学校 academic calendar(ADR-0056)· Summer Break 集中 sprint
-**财务铁律**:月可变成本 ≤ 月收入 × 50% / AI 用 Claude Max 20× 替代 / \<\$500 月收入零外部 LLM
+**铁律**:无 paywall / 无 Stripe / 无 SKU / 无 user_vip / 无 paywall_impressions · 只 analytics_events
+**Exit-Beta**:NZH 显式签 ADR 才结束 · 无自动退出 · 4 季度自检
 
 ### 冲突仲裁
 
