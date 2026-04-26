@@ -18,6 +18,7 @@
 | [LESSON-011](LESSON-011-prod-deploy-then-rename-draft-to-migration.md) | prod deploy 后 _DRAFT 必须改名入仓 migration · "跑过了" ≠ "入历史了" · LESSON-009/010 闭环 | 2026-04-26 |
 | [LESSON-012](LESSON-012-grep-prod-rpc-names-before-deploy.md) | deploy 前必 grep prod RPC 名 · 同名 overload + default 参数 = ambiguity 错 · 默认重命名 v1 | 2026-04-26 |
 | [LESSON-013](LESSON-013-backend-deploy-is-not-user-experience-ship.md) | 🔴 backend deploy ≠ user experience ship · 前端 0 wire = 学生 0 感知 · DoD 6 步 + 第 6 灵魂问"可见性" | 2026-04-26 |
+| [LESSON-014](LESSON-014-wrong-answer-moment-only-three-things.md) | 🔴 错题瞬间 = 3 件事(看答案/为什么错/再来一题)· 教学瞬间 + 推荐 留 session 总结 · 克制原则 | 2026-04-26 |
 
 ### 🟡 Workflow · 工作流类(防具体动作出错)
 
