@@ -15,6 +15,7 @@
 | [LESSON-008](LESSON-008-defer-pre-emptive-architecture.md) | Beta 期不解决"未来痛点" · 推迟架构 commit · 优先 1 行措辞 / opt-in | 2026-04-26 |
 | [LESSON-009](LESSON-009-grep-v3-plan-before-new-adr.md) | 立新 ADR 前 grep v3 plan + Stages 综合 · 防重复治理 · 优先 1 行修订指向真相源 | 2026-04-26 |
 | [LESSON-010](LESSON-010-grep-prod-schema-not-just-frontend-code.md) | 起 SQL artifact 前必 grep prod migration + information_schema · 不信 frontend `.select()` · LESSON-009 schema 域强化版 | 2026-04-26 |
+| [LESSON-011](LESSON-011-prod-deploy-then-rename-draft-to-migration.md) | prod deploy 后 _DRAFT 必须改名入仓 migration · "跑过了" ≠ "入历史了" · LESSON-009/010 闭环 | 2026-04-26 |
 
 ### 🟡 Workflow · 工作流类(防具体动作出错)
 
@@ -33,16 +34,17 @@
 
 ---
 
-## 防重复治理铁四角(2026-04-26 · session 沉淀)
+## 防重复治理铁五角(2026-04-26 · session 沉淀)
 
-| LESSON | 防止 | 真相源 |
-|---|---|---|
-| **007** | 多 stage 综合 → 重复造 TASK | v3 plan TASK 表 |
-| **008** | Beta 期 → 过早架构 commit | 真实痛点(非未来想象) |
-| **009** | 立新 ADR → 重复治理 | v3 plan + Stages 累积 |
-| **010** | 起 SQL artifact → 错位 schema 假设 | supabase prod `information_schema.columns` |
+| LESSON | 阶段 | 防止 | 真相源 |
+|---|---|---|---|
+| **007** | 写 TASK 前 | 重复造 TASK | v3 plan TASK 表 |
+| **008** | Beta 期决策 | 过早架构 commit | 真实痛点 |
+| **009** | 立 ADR 前 | 重复治理 | v3 plan + Stages |
+| **010** | 起 SQL 前 | 错位 schema 假设 | supabase prod `information_schema` |
+| **011** | **deploy 后** | **git 与 prod 偏离** | **改名入仓 + DEPLOYED header** |
 
-**共同主旨**:任何 artifact 立 / 改 / deploy 前必先 grep 真相源 · git 不一定是 single source of truth(尤其 schema · 因 hot-patch / dashboard 改 / 多 worktree)。
+**共同主旨**:任何 artifact 立 / 改 / deploy 前后必先 grep 真相源 + 把 prod 真相回流到 git。git 不一定是 single source of truth(尤其 schema · 因 hot-patch / dashboard 改 / 多 worktree)· 但 deploy 后必须**让 git 重新成为真相**(LESSON-011 闭环)。
 
 实战印证:本 session 节省 ~10d 工程时间(防 4 个新 TASK + 防 2 个 ADR 立法 + 防 prod schema 误改)。
 
