@@ -14,6 +14,7 @@
 | [LESSON-005](LESSON-005-no-premature-commercialization.md) | 过早商业化设计创造反向灵魂压力 · 推迟到 post-Beta(ADR-0058)| 2026-04-26 |
 | [LESSON-008](LESSON-008-defer-pre-emptive-architecture.md) | Beta 期不解决"未来痛点" · 推迟架构 commit · 优先 1 行措辞 / opt-in | 2026-04-26 |
 | [LESSON-009](LESSON-009-grep-v3-plan-before-new-adr.md) | 立新 ADR 前 grep v3 plan + Stages 综合 · 防重复治理 · 优先 1 行修订指向真相源 | 2026-04-26 |
+| [LESSON-010](LESSON-010-grep-prod-schema-not-just-frontend-code.md) | 起 SQL artifact 前必 grep prod migration + information_schema · 不信 frontend `.select()` · LESSON-009 schema 域强化版 | 2026-04-26 |
 
 ### 🟡 Workflow · 工作流类(防具体动作出错)
 
@@ -32,15 +33,16 @@
 
 ---
 
-## 防重复治理铁三角(2026-04-26 · session 沉淀)
+## 防重复治理铁四角(2026-04-26 · session 沉淀)
 
-| LESSON | 防止 |
-|---|---|
-| **007** | 多 stage 综合 → 重复造 TASK |
-| **008** | Beta 期 → 过早架构 commit |
-| **009** | 立新 ADR → 重复治理 |
+| LESSON | 防止 | 真相源 |
+|---|---|---|
+| **007** | 多 stage 综合 → 重复造 TASK | v3 plan TASK 表 |
+| **008** | Beta 期 → 过早架构 commit | 真实痛点(非未来想象) |
+| **009** | 立新 ADR → 重复治理 | v3 plan + Stages 累积 |
+| **010** | 起 SQL artifact → 错位 schema 假设 | supabase prod `information_schema.columns` |
 
-**共同主旨**:v3 plan + Stages 累积成果 = operational truth source · 任何新 artifact 立法前必先 grep。
+**共同主旨**:任何 artifact 立 / 改 / deploy 前必先 grep 真相源 · git 不一定是 single source of truth(尤其 schema · 因 hot-patch / dashboard 改 / 多 worktree)。
 
 实战印证:本 session 节省 ~10d 工程时间(防 4 个新 TASK + 防 2 个 ADR 立法 + 防 prod schema 误改)。
 
