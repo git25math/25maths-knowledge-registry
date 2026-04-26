@@ -16,6 +16,7 @@
 | LESSON-006 | 跨账号可移植 = repo-committed skills · 不要依赖 user-level memory | 🟡 | meta | 2026-04-26 |
 | LESSON-007 | 多 stage 综合先做 v3 plan TASK inventory · 不要重新发明已存在的 TASK | 🟡 | workflow | 2026-04-26 |
 | LESSON-008 | Beta 期不解决"未来痛点" · 推迟架构 commit · 优先 1 行措辞 / opt-in 字段 | 🔴 | meta | 2026-04-26 |
+| LESSON-009 | 立新 ADR 前 grep v3 plan + Stages 综合 · 防重复治理 · 优先 1 行修订指向真相源 | 🔴 | workflow | 2026-04-26 |
 
 ---
 
