@@ -154,3 +154,41 @@ NZH 平时不需调:
 
 **✅ 正确开发顺序**:
 - 用户场景 → 前端 feature → 后端 RPC/schema 同时排期 → 同时 ship → NZH 真账号自检 → done
+
+---
+
+## 🔴🔴 Hard Gate · 前端未 ship 不许进下一个 backend(NZH 2026-04-26)
+
+每次后端优化完成 · 必须验收前端实现 · 才能继续下一个 backend。
+
+```
+backend TASK_N done(含 frontend wire + NZH 真账号验收 + 6 灵魂问)
+  ↓
+解锁 backend TASK_N+1 可 claim
+```
+
+### task-tracker.py claim 行为(2026-04-26 升级 · 待 M2 实施)
+
+```bash
+python3 scripts/task-tracker.py claim TASK_N+1
+# auto-check:
+#   - prev backend TASK 是否 ✅ done(非 🟡 ready)
+# 若 prev 🟡 → claim 拒绝 · exit 2
+# 用户必须先把 prev 推到 ✅(含 frontend wire) 才能 claim 下一个
+```
+
+### 例外(NZH 显式签字才允许并行)
+
+- 紧急 prod bug 修复(独立不影响 user)
+- 纯文档 / contracts schema(不动 prod)
+- NZH 在 ADR 显式批准
+
+### Sprint 节奏(强制 serial · NZH 偏好)
+
+```
+Sprint 1:TASK_N (backend + frontend + 验收)
+Sprint 2:TASK_N+1
+Sprint 3:TASK_N+2
+```
+
+每 sprint = 1 完整 user-facing feature · 不并行 backend。

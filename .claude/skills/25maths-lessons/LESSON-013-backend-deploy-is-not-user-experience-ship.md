@@ -41,6 +41,74 @@ auto_load: true
 - 两个同时 done · 才整体 done
 - 拆分排期 = 制造孤儿 backend(LESSON-013 灵魂红线)
 
+### 推论 3.5 · 🔴🔴 Hard Gate · 前端未 ship · 不许进下一个 backend
+
+> **NZH 2026-04-26 升级 · 比 DoD 更严的开发门禁**
+>
+> **每次后端优化完成之后 · 一定要验收是否完全在前端实现 · 才能继续下一个功能。**
+> **每优化一次后端 · 都要让前端变得更加好用。**
+> **必须前端实现功能 · 才能推进下一个后端的继续优化和开发。**
+
+#### Hard Gate 工作流(强制 serial)
+
+```
+backend TASK_N           backend TASK_N+1
+  ↓                         ↓
+ deploy ✅                  ⛔ 不许 claim · 等
+  ↓
+ frontend wire ✅
+  ↓
+ NZH 真账号验收 ✅
+  ↓
+ 6 灵魂问 + 第 6 可见性问 全过 ✅
+  ↓                         ↓
+ task_N done ✅            ⛔ 解锁 · 现可 claim
+                            ↓
+                          backend TASK_N+1 启动
+```
+
+#### 反 anti-pattern
+
+❌ "TASK_N backend 完成 · 我先做 TASK_N+1 backend · 前端 wire-up 后面统一做"
+❌ "并行做 · backend / frontend 拆 2 队"
+❌ "schema 一次性都铺好 · UI 逐个加"
+
+#### ✅ 正确节奏
+
+```
+Sprint 1:TASK_29 belief
+  - day 1-2:backend deploy + frontend wire UI 入口 + NZH 验收
+  - day 3:done · 19 学生看到 belief 反馈 · 解锁 Sprint 2
+
+Sprint 2:TASK_26 method_marks
+  - day 1-2:backend deploy + 教师批改 UI + NZH 验收
+  - day 3:done · 教师在用了 · 解锁 Sprint 3
+```
+
+每个 sprint = 1 个完整 user-facing feature(backend + frontend + 验收)。
+
+#### task-tracker.py 行为升级(2026-04-26 后)
+
+```bash
+python3 scripts/task-tracker.py claim TASK_N+1
+# 应自动 check:
+#   - prev backend TASK 是否 done(✅ 状态 + UI wire 验收)
+# 若 prev 仍 🟡 backend ready → claim 拒绝 · exit 2
+# 用户必须先把 prev 推到 ✅ 才能 claim 下一个
+```
+
+实际实施(待 task-tracker.py M2 升级):
+- 加字段 `task_type: 'backend' | 'frontend' | 'pair'`
+- 加字段 `paired_with: 'TASK-NNN.f'`(对应前端 TASK)
+- claim 时 check pair 完成度
+
+#### 例外条件(NZH 显式签字才能并行)
+
+仅以下情况允许并行 backend(其他都 hard gate serial):
+1. 紧急 prod bug 修复(如 TASK-140 RouteEngine 表错配 · 不影响其他 task)
+2. 纯文档 / contracts schema(不动 prod · 无 user 影响)
+3. NZH 在 ADR 显式批准并行(如 M0 bootstrap 阶段)
+
 ### 推论 4 · 验收必须从用户屏幕开始
 
 不是从 supabase Editor 跑 RPC 看 jsonb · 而是:
