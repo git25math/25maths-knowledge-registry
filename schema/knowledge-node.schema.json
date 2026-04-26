@@ -48,6 +48,50 @@
         }
       }
     },
+    "country_curriculum": {
+      "type": "object",
+      "description": "TASK-027 · 国家课标维度(扩展国内 K-12)· 与 examBoards 正交",
+      "properties": {
+        "cn_renjiao": {
+          "type": "object",
+          "description": "中国人教版课标(7-9 年级)",
+          "properties": {
+            "grade": { "type": "integer", "minimum": 1, "maximum": 12 },
+            "chapter": { "type": "string" },
+            "section": { "type": "string" },
+            "topic_zh": { "type": "string" }
+          }
+        },
+        "cn_beishi": {
+          "type": "object",
+          "description": "北师大版课标(预留)",
+          "properties": {
+            "grade": { "type": "integer" },
+            "chapter": { "type": "string" }
+          }
+        },
+        "cn_huadong": {
+          "type": "object",
+          "description": "华东师大版课标(预留)",
+          "properties": {
+            "grade": { "type": "integer" },
+            "chapter": { "type": "string" }
+          }
+        }
+      }
+    },
+    "sow_version": {
+      "type": "object",
+      "description": "TASK-027 · School-specific SoW 版本追踪 · 学校升级课纲时不破坏历史 mapping",
+      "properties": {
+        "hhk_y10_v1": { "type": "string", "description": "Harrow Haikou Y10 SoW 2024-25 版本号" },
+        "hhk_y11_v1": { "type": "string" }
+      },
+      "additionalProperties": {
+        "type": "string",
+        "description": "Free-form key 'school_grade_versionN' · value = adoption-date or notes"
+      }
+    },
     "prerequisites": {
       "type": "array",
       "items": {
