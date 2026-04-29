@@ -1,8 +1,8 @@
 [
   {
     "kn_id": "kn_0001",
-    "title_en": "Types of number",
-    "title_zh": "数的类型",
+    "title_en": "Place value",
+    "title_zh": "位值",
     "domain": "number",
     "subdomain": "s1.1",
     "primaryBoard": "cie",
@@ -65,12 +65,20 @@
       "cie-core-number"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Place value",
+    "topics": [
+      "place value",
+      "digits",
+      "ones",
+      "tens"
+    ],
+    "lu_id": "lu.place_value"
   },
   {
     "kn_id": "kn_0002",
-    "title_en": "Types of number",
-    "title_zh": "数的类型",
+    "title_en": "Prime numbers",
+    "title_zh": "质数",
     "domain": "number",
     "subdomain": "s1.1",
     "primaryBoard": "cie",
@@ -139,12 +147,19 @@
       "cie-core-number"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Prime numbers",
+    "topics": [
+      "prime",
+      "divisible",
+      "only 1 and itself"
+    ],
+    "lu_id": "lu.prime_number"
   },
   {
     "kn_id": "kn_0003",
-    "title_en": "Types of number",
-    "title_zh": "数的类型",
+    "title_en": "Factors of a number",
+    "title_zh": "因数",
     "domain": "number",
     "subdomain": "s1.1",
     "primaryBoard": "cie",
@@ -214,12 +229,19 @@
       "hhk-y8"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Factors of a number",
+    "topics": [
+      "factor",
+      "divisor",
+      "divides exactly"
+    ],
+    "lu_id": "lu.factor"
   },
   {
     "kn_id": "kn_0004",
-    "title_en": "Types of number",
-    "title_zh": "数的类型",
+    "title_en": "Multiples of a number",
+    "title_zh": "倍数",
     "domain": "number",
     "subdomain": "s1.1",
     "primaryBoard": "cie",
@@ -285,12 +307,19 @@
     },
     "routes": [],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Multiples of a number",
+    "topics": [
+      "multiple",
+      "times table",
+      "divisible by"
+    ],
+    "lu_id": "lu.multiple"
   },
   {
     "kn_id": "kn_0005",
-    "title_en": "Types of number",
-    "title_zh": "数的类型",
+    "title_en": "Prime factorisation",
+    "title_zh": "质因数分解",
     "domain": "number",
     "subdomain": "s1.1",
     "primaryBoard": "cie",
@@ -356,12 +385,19 @@
     },
     "routes": [],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Prime factorisation",
+    "topics": [
+      "prime factor",
+      "factor tree",
+      "index form"
+    ],
+    "lu_id": "lu.prime_factorisation"
   },
   {
     "kn_id": "kn_0007",
-    "title_en": "Types of number",
-    "title_zh": "数的类型",
+    "title_en": "Lowest Common Multiple (LCM)",
+    "title_zh": "最小公倍数",
     "domain": "number",
     "subdomain": "s1.1",
     "primaryBoard": "cie",
@@ -431,12 +467,19 @@
     },
     "routes": [],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Lowest Common Multiple (LCM)",
+    "topics": [
+      "lcm",
+      "common multiple",
+      "schedule"
+    ],
+    "lu_id": "lu.lcm"
   },
   {
     "kn_id": "kn_0008",
-    "title_en": "Types of number",
-    "title_zh": "数的类型",
+    "title_en": "HCF/LCM in context",
+    "title_zh": "HCF/LCM 应用题",
     "domain": "number",
     "subdomain": "s1.1",
     "primaryBoard": "cie",
@@ -500,12 +543,21 @@
     },
     "routes": [],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "HCF/LCM in context",
+    "topics": [
+      "word problem",
+      "buses",
+      "tiles",
+      "groups",
+      "application_context"
+    ],
+    "lu_id": "lu.hcf_lcm_word"
   },
   {
     "kn_id": "kn_0009",
-    "title_en": "Types of number",
-    "title_zh": "数的类型",
+    "title_en": "Square numbers and roots",
+    "title_zh": "平方数与平方根",
     "domain": "number",
     "subdomain": "s1.1",
     "primaryBoard": "cie",
@@ -573,12 +625,19 @@
       "hhk-y8"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Square numbers and roots",
+    "topics": [
+      "square",
+      "root",
+      "perfect square"
+    ],
+    "lu_id": "lu.square_number"
   },
   {
     "kn_id": "kn_0011",
-    "title_en": "Types of number",
-    "title_zh": "数的类型",
+    "title_en": "What is a reciprocal",
+    "title_zh": "什么是倒数",
     "domain": "number",
     "subdomain": "s1.1",
     "primaryBoard": "cie",
@@ -644,12 +703,19 @@
     },
     "routes": [],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "What is a reciprocal",
+    "topics": [
+      "reciprocal",
+      "flip",
+      "1 over n"
+    ],
+    "lu_id": "lu.reciprocal"
   },
   {
     "kn_id": "kn_0012",
-    "title_en": "Sets",
-    "title_zh": "集合与韦恩图",
+    "title_en": "List Set Elements",
+    "title_zh": "列出集合元素",
     "domain": "number",
     "subdomain": "s1.2",
     "primaryBoard": "both",
@@ -717,12 +783,19 @@
       "hhk-y11"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "List Set Elements",
+    "topics": [
+      "list",
+      "set",
+      "elements"
+    ],
+    "lu_id": "lu.list_set_elements"
   },
   {
     "kn_id": "kn_0013",
-    "title_en": "Sets",
-    "title_zh": "集合与韦恩图",
+    "title_en": "Set Cardinality",
+    "title_zh": "集合基数",
     "domain": "number",
     "subdomain": "s1.2",
     "primaryBoard": "both",
@@ -792,12 +865,18 @@
       "edx-higher"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Set Cardinality",
+    "topics": [
+      "set",
+      "cardinality"
+    ],
+    "lu_id": "lu.set_cardinality"
   },
   {
     "kn_id": "kn_0014",
-    "title_en": "Powers and roots",
-    "title_zh": "幂与根",
+    "title_en": "Evaluate powers",
+    "title_zh": "计算幂",
     "domain": "number",
     "subdomain": "s1.3",
     "primaryBoard": "both",
@@ -865,12 +944,20 @@
       "edx-higher"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Evaluate powers",
+    "topics": [
+      "power",
+      "exponent",
+      "base",
+      "evaluate"
+    ],
+    "lu_id": "lu.evaluate_power"
   },
   {
     "kn_id": "kn_0015",
-    "title_en": "Powers and roots",
-    "title_zh": "幂与根",
+    "title_en": "Evaluate roots",
+    "title_zh": "计算根",
     "domain": "number",
     "subdomain": "s1.3",
     "primaryBoard": "both",
@@ -945,12 +1032,19 @@
       "edx-higher"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Evaluate roots",
+    "topics": [
+      "root",
+      "square root",
+      "cube root"
+    ],
+    "lu_id": "lu.evaluate_root"
   },
   {
     "kn_id": "kn_0016",
-    "title_en": "Indices I",
-    "title_zh": "指数法则I",
+    "title_en": "Zero index (a⁰ = 1)",
+    "title_zh": "零指数",
     "domain": "number",
     "subdomain": "s1.7",
     "primaryBoard": "both",
@@ -1029,12 +1123,19 @@
       "hhk-y8"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Zero index (a⁰ = 1)",
+    "topics": [
+      "zero",
+      "index",
+      "rule"
+    ],
+    "lu_id": "lu.zero_index"
   },
   {
     "kn_id": "kn_0018",
-    "title_en": "Indices I",
-    "title_zh": "指数法则I",
+    "title_en": "Fractional index (a^(1/n) = ⁿ√a)",
+    "title_zh": "分数指数",
     "domain": "number",
     "subdomain": "s1.7",
     "primaryBoard": "both",
@@ -1113,12 +1214,20 @@
       "hhk-y9"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Fractional index (a^(1/n) = ⁿ√a)",
+    "topics": [
+      "fractional",
+      "index",
+      "root",
+      "power"
+    ],
+    "lu_id": "lu.fractional_index"
   },
   {
     "kn_id": "kn_0019",
-    "title_en": "Powers and roots",
-    "title_zh": "幂与根",
+    "title_en": "Index laws (multiply/divide/power)",
+    "title_zh": "指数运算法则",
     "domain": "number",
     "subdomain": "s1.3",
     "primaryBoard": "both",
@@ -1206,12 +1315,20 @@
       "hhk-y9"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Index laws (multiply/divide/power)",
+    "topics": [
+      "law",
+      "multiply",
+      "divide",
+      "add exponents"
+    ],
+    "lu_id": "lu.index_laws"
   },
   {
     "kn_id": "kn_0020",
-    "title_en": "Fractions, decimals, percentages",
-    "title_zh": "分数、小数、百分数",
+    "title_en": "What is a fraction",
+    "title_zh": "分数的概念",
     "domain": "number",
     "subdomain": "s1.4",
     "primaryBoard": "both",
@@ -1280,12 +1397,19 @@
       "hhk-y7"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "What is a fraction",
+    "topics": [
+      "fraction",
+      "numerator",
+      "denominator"
+    ],
+    "lu_id": "lu.fraction_concept"
   },
   {
     "kn_id": "kn_0027",
-    "title_en": "Fractions, decimals, percentages",
-    "title_zh": "分数、小数、百分数",
+    "title_en": "Convert between F/D/P",
+    "title_zh": "分数/小数/百分数互转",
     "domain": "number",
     "subdomain": "s1.4",
     "primaryBoard": "both",
@@ -1359,12 +1483,20 @@
       "hhk-y7"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Convert between F/D/P",
+    "topics": [
+      "fraction",
+      "decimal",
+      "percent",
+      "convert"
+    ],
+    "lu_id": "lu.fdp_conversion"
   },
   {
     "kn_id": "kn_0030",
-    "title_en": "Fractions, decimals, percentages",
-    "title_zh": "分数、小数、百分数",
+    "title_en": "Multiply fractions",
+    "title_zh": "分数乘法",
     "domain": "number",
     "subdomain": "s1.4",
     "primaryBoard": "both",
@@ -1437,12 +1569,20 @@
       "hhk-y7"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Multiply fractions",
+    "topics": [
+      "fraction",
+      "multiply",
+      "cross-cancel",
+      "of"
+    ],
+    "lu_id": "lu.fraction_multiplication"
   },
   {
     "kn_id": "kn_0031",
-    "title_en": "Fractions, decimals, percentages",
-    "title_zh": "分数、小数、百分数",
+    "title_en": "Fraction of an amount",
+    "title_zh": "求一个数的几分之几",
     "domain": "number",
     "subdomain": "s1.4",
     "primaryBoard": "both",
@@ -1526,12 +1666,20 @@
       "hhk-y7"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Fraction of an amount",
+    "topics": [
+      "fraction",
+      "of",
+      "multiply",
+      "word problem"
+    ],
+    "lu_id": "lu.fraction_of_amount"
   },
   {
     "kn_id": "kn_0032",
-    "title_en": "The four operations",
-    "title_zh": "四则运算",
+    "title_en": "Order of operations (BODMAS)",
+    "title_zh": "运算顺序",
     "domain": "number",
     "subdomain": "s1.6",
     "primaryBoard": "both",
@@ -1604,12 +1752,20 @@
       "cie-core-number"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Order of operations (BODMAS)",
+    "topics": [
+      "BODMAS",
+      "BIDMAS",
+      "order",
+      "brackets"
+    ],
+    "lu_id": "lu.order_of_operations"
   },
   {
     "kn_id": "kn_0033",
-    "title_en": "The four operations",
-    "title_zh": "四则运算",
+    "title_en": "Negative numbers (concept)",
+    "title_zh": "负数（概念）",
     "domain": "number",
     "subdomain": "s1.6",
     "primaryBoard": "both",
@@ -1677,12 +1833,19 @@
       "cie-core-number"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Negative numbers (concept)",
+    "topics": [
+      "negative",
+      "minus",
+      "sign rules"
+    ],
+    "lu_id": "lu.negative_numbers"
   },
   {
     "kn_id": "kn_0034",
-    "title_en": "The four operations",
-    "title_zh": "四则运算",
+    "title_en": "Decimal arithmetic",
+    "title_zh": "小数运算",
     "domain": "number",
     "subdomain": "s1.6",
     "primaryBoard": "both",
@@ -1763,12 +1926,21 @@
       "hhk-y8"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Decimal arithmetic",
+    "topics": [
+      "decimal",
+      "add",
+      "subtract",
+      "multiply",
+      "divide"
+    ],
+    "lu_id": "lu.decimal_arithmetic"
   },
   {
     "kn_id": "kn_0036",
-    "title_en": "Standard form",
-    "title_zh": "标准式",
+    "title_en": "Standard form concept (A × 10ⁿ)",
+    "title_zh": "标准式的概念",
     "domain": "number",
     "subdomain": "s1.8",
     "primaryBoard": "both",
@@ -1840,12 +2012,19 @@
       "hhk-y10"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Standard form concept (A × 10ⁿ)",
+    "topics": [
+      "standard form",
+      "scientific notation",
+      "power of 10"
+    ],
+    "lu_id": "lu.sf_concept"
   },
   {
     "kn_id": "kn_0037",
-    "title_en": "Standard form",
-    "title_zh": "标准式",
+    "title_en": "Convert to standard form",
+    "title_zh": "转化为标准式",
     "domain": "number",
     "subdomain": "s1.8",
     "primaryBoard": "both",
@@ -1914,12 +2093,20 @@
       "cie-core-number"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Convert to standard form",
+    "topics": [
+      "convert",
+      "large",
+      "small",
+      "decimal point"
+    ],
+    "lu_id": "lu.convert_to_sf"
   },
   {
     "kn_id": "kn_0042",
-    "title_en": "Estimation",
-    "title_zh": "估算",
+    "title_en": "Round to decimal places",
+    "title_zh": "四舍五入到小数位",
     "domain": "number",
     "subdomain": "s1.9",
     "primaryBoard": "both",
@@ -1990,12 +2177,19 @@
       "cie-core-number"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Round to decimal places",
+    "topics": [
+      "round",
+      "decimal places",
+      "dp"
+    ],
+    "lu_id": "lu.round_dp"
   },
   {
     "kn_id": "kn_0043",
-    "title_en": "Estimation",
-    "title_zh": "估算",
+    "title_en": "Round to significant figures",
+    "title_zh": "四舍五入到有效数字",
     "domain": "number",
     "subdomain": "s1.9",
     "primaryBoard": "both",
@@ -2067,12 +2261,19 @@
       "cie-core-number"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Round to significant figures",
+    "topics": [
+      "round",
+      "significant figures",
+      "sf"
+    ],
+    "lu_id": "lu.round_sf"
   },
   {
     "kn_id": "kn_0044",
-    "title_en": "Estimation",
-    "title_zh": "估算",
+    "title_en": "Round to nearest 10/100/1000",
+    "title_zh": "四舍五入到整十/百/千",
     "domain": "number",
     "subdomain": "s1.9",
     "primaryBoard": "both",
@@ -2138,12 +2339,20 @@
       "cie-core-number"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Round to nearest 10/100/1000",
+    "topics": [
+      "round",
+      "nearest",
+      "10",
+      "100"
+    ],
+    "lu_id": "lu.round_nearest"
   },
   {
     "kn_id": "kn_0045",
-    "title_en": "Estimation",
-    "title_zh": "估算",
+    "title_en": "Estimate by rounding to 1 s.f.",
+    "title_zh": "用1位有效数字估算",
     "domain": "number",
     "subdomain": "s1.9",
     "primaryBoard": "both",
@@ -2212,12 +2421,19 @@
       "hhk-y11"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Estimate by rounding to 1 s.f.",
+    "topics": [
+      "estimate",
+      "1 sf",
+      "approximate"
+    ],
+    "lu_id": "lu.estimation"
   },
   {
     "kn_id": "kn_0046",
-    "title_en": "Limits of accuracy",
-    "title_zh": "精度范围",
+    "title_en": "Upper and lower bounds",
+    "title_zh": "上界与下界",
     "domain": "number",
     "subdomain": "s1.10",
     "primaryBoard": "cie",
@@ -2280,12 +2496,20 @@
       "hhk-y11"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Upper and lower bounds",
+    "topics": [
+      "bound",
+      "rounding",
+      "half unit",
+      "accuracy"
+    ],
+    "lu_id": "lu.upper_lower_bound"
   },
   {
     "kn_id": "kn_0047",
-    "title_en": "Limits of accuracy",
-    "title_zh": "精度范围",
+    "title_en": "Bounds of sums and differences",
+    "title_zh": "和与差的界",
     "domain": "number",
     "subdomain": "s1.10",
     "primaryBoard": "cie",
@@ -2347,12 +2571,22 @@
       "cie-core-number"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Bounds of sums and differences",
+    "topics": [
+      "add",
+      "subtract",
+      "upper",
+      "lower",
+      "max",
+      "min"
+    ],
+    "lu_id": "lu.bound_addition"
   },
   {
     "kn_id": "kn_0048",
-    "title_en": "Limits of accuracy",
-    "title_zh": "精度范围",
+    "title_en": "Bounds of products",
+    "title_zh": "积的界",
     "domain": "number",
     "subdomain": "s1.10",
     "primaryBoard": "cie",
@@ -2414,12 +2648,20 @@
       "cie-core-number"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Bounds of products",
+    "topics": [
+      "multiply",
+      "area",
+      "max product",
+      "min product"
+    ],
+    "lu_id": "lu.bound_product"
   },
   {
     "kn_id": "kn_0050",
-    "title_en": "Limits of accuracy",
-    "title_zh": "精度范围",
+    "title_en": "Error interval notation",
+    "title_zh": "误差区间表示",
     "domain": "number",
     "subdomain": "s1.10",
     "primaryBoard": "cie",
@@ -2479,12 +2721,19 @@
     },
     "routes": [],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Error interval notation",
+    "topics": [
+      "interval",
+      "inequality",
+      "notation"
+    ],
+    "lu_id": "lu.bound_interval"
   },
   {
     "kn_id": "kn_0051",
-    "title_en": "Limits of accuracy",
-    "title_zh": "精度范围",
+    "title_en": "Bounds in context (formulas)",
+    "title_zh": "界的应用（公式）",
     "domain": "number",
     "subdomain": "s1.10",
     "primaryBoard": "cie",
@@ -2542,12 +2791,21 @@
     },
     "routes": [],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Bounds in context (formulas)",
+    "topics": [
+      "formula",
+      "application",
+      "context",
+      "significant",
+      "application_context"
+    ],
+    "lu_id": "lu.bound_application"
   },
   {
     "kn_id": "kn_0052",
-    "title_en": "Ratio and proportion",
-    "title_zh": "比与比例",
+    "title_en": "Simplify ratios",
+    "title_zh": "化简比",
     "domain": "number",
     "subdomain": "s1.11",
     "primaryBoard": "cie",
@@ -2613,12 +2871,20 @@
       "cie-core-number"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Simplify ratios",
+    "topics": [
+      "ratio",
+      "simplify",
+      "HCF",
+      "equivalent"
+    ],
+    "lu_id": "lu.simplify_ratio"
   },
   {
     "kn_id": "kn_0053",
-    "title_en": "Ratio and proportion",
-    "title_zh": "比与比例",
+    "title_en": "Write as a ratio",
+    "title_zh": "写成比",
     "domain": "number",
     "subdomain": "s1.11",
     "primaryBoard": "cie",
@@ -2682,12 +2948,20 @@
       "cie-core-number"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Write as a ratio",
+    "topics": [
+      "ratio",
+      "express",
+      "units",
+      "convert"
+    ],
+    "lu_id": "lu.write_ratio"
   },
   {
     "kn_id": "kn_0054",
-    "title_en": "Ratio and proportion",
-    "title_zh": "比与比例",
+    "title_en": "Share in a given ratio",
+    "title_zh": "按比分配",
     "domain": "number",
     "subdomain": "s1.11",
     "primaryBoard": "cie",
@@ -2762,12 +3036,20 @@
       "hhk-y7"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Share in a given ratio",
+    "topics": [
+      "share",
+      "divide",
+      "parts",
+      "total"
+    ],
+    "lu_id": "lu.share_in_ratio"
   },
   {
     "kn_id": "kn_0055",
-    "title_en": "Ratio and proportion",
-    "title_zh": "比与比例",
+    "title_en": "Ratio word problems",
+    "title_zh": "比的应用题",
     "domain": "number",
     "subdomain": "s1.11",
     "primaryBoard": "cie",
@@ -2831,12 +3113,21 @@
     },
     "routes": [],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Ratio word problems",
+    "topics": [
+      "word problem",
+      "context",
+      "increase",
+      "decrease",
+      "application_context"
+    ],
+    "lu_id": "lu.ratio_problem"
   },
   {
     "kn_id": "kn_0056",
-    "title_en": "Rates",
-    "title_zh": "速率",
+    "title_en": "Speed-Distance-Time relationship",
+    "title_zh": "速度-距离-时间关系",
     "domain": "number",
     "subdomain": "s1.12",
     "primaryBoard": "cie",
@@ -2902,12 +3193,20 @@
       "cie-core-number"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Speed-Distance-Time relationship",
+    "topics": [
+      "speed",
+      "distance",
+      "time",
+      "formula"
+    ],
+    "lu_id": "lu.sdt_triangle"
   },
   {
     "kn_id": "kn_0057",
-    "title_en": "Rates",
-    "title_zh": "速率",
+    "title_en": "Convert speed units (km/h ↔ m/s)",
+    "title_zh": "速度单位换算",
     "domain": "number",
     "subdomain": "s1.12",
     "primaryBoard": "cie",
@@ -2973,12 +3272,20 @@
       "cie-core-number"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Convert speed units (km/h ↔ m/s)",
+    "topics": [
+      "km/h",
+      "m/s",
+      "convert",
+      "×3.6"
+    ],
+    "lu_id": "lu.unit_conversion_speed"
   },
   {
     "kn_id": "kn_0058",
-    "title_en": "Rates",
-    "title_zh": "速率",
+    "title_en": "Convert length units",
+    "title_zh": "长度单位换算",
     "domain": "number",
     "subdomain": "s1.12",
     "primaryBoard": "cie",
@@ -3045,12 +3352,21 @@
       "hhk-y7"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Convert length units",
+    "topics": [
+      "mm",
+      "cm",
+      "m",
+      "km",
+      "convert"
+    ],
+    "lu_id": "lu.length_conversion"
   },
   {
     "kn_id": "kn_0062",
-    "title_en": "Percentages",
-    "title_zh": "百分数应用",
+    "title_en": "Percentage of an amount",
+    "title_zh": "求百分比对应的量",
     "domain": "number",
     "subdomain": "s1.13",
     "primaryBoard": "cie",
@@ -3119,12 +3435,20 @@
       "hhk-y9"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Percentage of an amount",
+    "topics": [
+      "percent",
+      "of",
+      "multiply",
+      "amount"
+    ],
+    "lu_id": "lu.percent_of_amount"
   },
   {
     "kn_id": "kn_0064",
-    "title_en": "Percentages",
-    "title_zh": "百分数应用",
+    "title_en": "Percentage increase",
+    "title_zh": "百分数增加",
     "domain": "number",
     "subdomain": "s1.13",
     "primaryBoard": "cie",
@@ -3193,12 +3517,20 @@
       "hhk-y9"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Percentage increase",
+    "topics": [
+      "increase",
+      "profit",
+      "markup",
+      "multiplier"
+    ],
+    "lu_id": "lu.percent_increase"
   },
   {
     "kn_id": "kn_0067",
-    "title_en": "Percentages",
-    "title_zh": "百分数应用",
+    "title_en": "Reverse percentage (find original)",
+    "title_zh": "逆向百分数（求原值）",
     "domain": "number",
     "subdomain": "s1.13",
     "primaryBoard": "cie",
@@ -3265,12 +3597,20 @@
       "cie-core-number"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Reverse percentage (find original)",
+    "topics": [
+      "reverse",
+      "original",
+      "before",
+      "divide multiplier"
+    ],
+    "lu_id": "lu.reverse_percent"
   },
   {
     "kn_id": "kn_0068",
-    "title_en": "Money",
-    "title_zh": "货币",
+    "title_en": "Simple interest (PRT/100)",
+    "title_zh": "单利",
     "domain": "number",
     "subdomain": "s1.16",
     "primaryBoard": "cie",
@@ -3331,12 +3671,20 @@
       "hhk-y11"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Simple interest (PRT/100)",
+    "topics": [
+      "interest",
+      "simple",
+      "PRT",
+      "annual"
+    ],
+    "lu_id": "lu.simple_interest"
   },
   {
     "kn_id": "kn_0069",
-    "title_en": "Percentages",
-    "title_zh": "百分数应用",
+    "title_en": "Compound interest",
+    "title_zh": "复利",
     "domain": "number",
     "subdomain": "s1.13",
     "primaryBoard": "cie",
@@ -3406,7 +3754,15 @@
     },
     "routes": [],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Compound interest",
+    "topics": [
+      "compound",
+      "power",
+      "annual",
+      "exponential"
+    ],
+    "lu_id": "lu.compound_interest"
   },
   {
     "kn_id": "kn_0070",
@@ -3473,8 +3829,8 @@
   },
   {
     "kn_id": "kn_0073",
-    "title_en": "Time",
-    "title_zh": "时间",
+    "title_en": "12-hour and 24-hour time",
+    "title_zh": "12小时制与24小时制",
     "domain": "number",
     "subdomain": "s1.15",
     "primaryBoard": "cie",
@@ -3535,12 +3891,21 @@
       "hhk-y11"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "12-hour and 24-hour time",
+    "topics": [
+      "12 hour",
+      "24 hour",
+      "am",
+      "pm",
+      "convert"
+    ],
+    "lu_id": "lu.time_format"
   },
   {
     "kn_id": "kn_0075",
-    "title_en": "Time",
-    "title_zh": "时间",
+    "title_en": "Calculate duration",
+    "title_zh": "计算时长",
     "domain": "number",
     "subdomain": "s1.15",
     "primaryBoard": "cie",
@@ -3597,12 +3962,20 @@
       "hhk-y11"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Calculate duration",
+    "topics": [
+      "duration",
+      "elapsed",
+      "subtract",
+      "between"
+    ],
+    "lu_id": "lu.duration"
   },
   {
     "kn_id": "kn_0077",
-    "title_en": "Time",
-    "title_zh": "时间",
+    "title_en": "Time zones",
+    "title_zh": "时区",
     "domain": "number",
     "subdomain": "s1.15",
     "primaryBoard": "cie",
@@ -3665,12 +4038,20 @@
       "hhk-y11"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Time zones",
+    "topics": [
+      "time zone",
+      "GMT",
+      "offset",
+      "international"
+    ],
+    "lu_id": "lu.time_zones"
   },
   {
     "kn_id": "kn_0078",
-    "title_en": "Money",
-    "title_zh": "货币",
+    "title_en": "Currency exchange",
+    "title_zh": "货币兑换",
     "domain": "number",
     "subdomain": "s1.16",
     "primaryBoard": "cie",
@@ -3729,12 +4110,20 @@
       "hhk-y11"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Currency exchange",
+    "topics": [
+      "exchange",
+      "currency",
+      "rate",
+      "multiply"
+    ],
+    "lu_id": "lu.currency_exchange"
   },
   {
     "kn_id": "kn_0083",
-    "title_en": "Introduction to algebra",
-    "title_zh": "代数入门",
+    "title_en": "Substitution",
+    "title_zh": "代入求值",
     "domain": "algebra",
     "subdomain": "s2.1",
     "primaryBoard": "cie",
@@ -3819,12 +4208,17 @@
       "hhk-y9"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Substitution",
+    "topics": [
+      "substitution"
+    ],
+    "lu_id": "lu.substitution"
   },
   {
     "kn_id": "kn_0084",
-    "title_en": "Introduction to algebra",
-    "title_zh": "代数入门",
+    "title_en": "Formula Substitution",
+    "title_zh": "代入公式",
     "domain": "algebra",
     "subdomain": "s2.1",
     "primaryBoard": "cie",
@@ -3893,12 +4287,18 @@
       "cie-recovery-algebra"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Formula Substitution",
+    "topics": [
+      "formula",
+      "substitution"
+    ],
+    "lu_id": "lu.formula_substitution"
   },
   {
     "kn_id": "kn_0085",
-    "title_en": "Algebraic manipulation",
-    "title_zh": "代数运算",
+    "title_en": "Collect like terms",
+    "title_zh": "合并同类项",
     "domain": "algebra",
     "subdomain": "s2.2",
     "primaryBoard": "both",
@@ -3988,12 +4388,19 @@
       "hhk-y9"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Collect like terms",
+    "topics": [
+      "simplify",
+      "like terms",
+      "combine"
+    ],
+    "lu_id": "lu.collect_like_terms"
   },
   {
     "kn_id": "kn_0086",
-    "title_en": "Algebraic manipulation",
-    "title_zh": "代数运算",
+    "title_en": "Expand a single bracket",
+    "title_zh": "展开单括号",
     "domain": "algebra",
     "subdomain": "s2.2",
     "primaryBoard": "both",
@@ -4078,12 +4485,19 @@
       "hhk-y9"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Expand a single bracket",
+    "topics": [
+      "expand",
+      "distribute",
+      "bracket"
+    ],
+    "lu_id": "lu.expand_single"
   },
   {
     "kn_id": "kn_0087",
-    "title_en": "Algebraic manipulation",
-    "title_zh": "代数运算",
+    "title_en": "Expand two brackets (FOIL)",
+    "title_zh": "展开双括号",
     "domain": "algebra",
     "subdomain": "s2.2",
     "primaryBoard": "both",
@@ -4153,12 +4567,20 @@
     },
     "routes": [],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Expand two brackets (FOIL)",
+    "topics": [
+      "expand",
+      "FOIL",
+      "double bracket",
+      "quadratic"
+    ],
+    "lu_id": "lu.expand_double"
   },
   {
     "kn_id": "kn_0089",
-    "title_en": "Algebraic manipulation",
-    "title_zh": "代数运算",
+    "title_en": "Factorise by common factor",
+    "title_zh": "提取公因式",
     "domain": "algebra",
     "subdomain": "s2.2",
     "primaryBoard": "both",
@@ -4244,12 +4666,19 @@
       "hhk-y9"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Factorise by common factor",
+    "topics": [
+      "factorise",
+      "common factor",
+      "HCF"
+    ],
+    "lu_id": "lu.factorise_common"
   },
   {
     "kn_id": "kn_0090",
-    "title_en": "Algebraic manipulation",
-    "title_zh": "代数运算",
+    "title_en": "Factorise a quadratic expression",
+    "title_zh": "因式分解二次表达式",
     "domain": "algebra",
     "subdomain": "s2.2",
     "primaryBoard": "both",
@@ -4337,12 +4766,20 @@
       "hhk-y9"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Factorise a quadratic expression",
+    "topics": [
+      "factorise",
+      "quadratic",
+      "trinomial",
+      "product-sum"
+    ],
+    "lu_id": "lu.factorise_quadratic"
   },
   {
     "kn_id": "kn_0091",
-    "title_en": "Algebraic manipulation",
-    "title_zh": "代数运算",
+    "title_en": "Difference of two squares",
+    "title_zh": "平方差公式",
     "domain": "algebra",
     "subdomain": "s2.2",
     "primaryBoard": "both",
@@ -4423,12 +4860,20 @@
       "hhk-y8"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Difference of two squares",
+    "topics": [
+      "factorise",
+      "difference",
+      "squares",
+      "identity"
+    ],
+    "lu_id": "lu.difference_of_squares"
   },
   {
     "kn_id": "kn_0092",
-    "title_en": "Algebraic manipulation",
-    "title_zh": "代数运算",
+    "title_en": "Factorise by grouping",
+    "title_zh": "分组因式分解",
     "domain": "algebra",
     "subdomain": "s2.2",
     "primaryBoard": "both",
@@ -4502,12 +4947,19 @@
     },
     "routes": [],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Factorise by grouping",
+    "topics": [
+      "factorise",
+      "grouping",
+      "four terms"
+    ],
+    "lu_id": "lu.factorise_grouping"
   },
   {
     "kn_id": "kn_0093",
-    "title_en": "Algebraic manipulation",
-    "title_zh": "代数运算",
+    "title_en": "Algebraic fractions",
+    "title_zh": "代数分式",
     "domain": "algebra",
     "subdomain": "s2.2",
     "primaryBoard": "both",
@@ -4601,12 +5053,20 @@
       "hhk-y9"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Algebraic fractions",
+    "topics": [
+      "fraction",
+      "simplify",
+      "combine",
+      "cancel"
+    ],
+    "lu_id": "lu.algebraic_fractions"
   },
   {
     "kn_id": "kn_0094",
-    "title_en": "Algebraic manipulation",
-    "title_zh": "代数运算",
+    "title_en": "Form algebraic expressions",
+    "title_zh": "建立代数式",
     "domain": "algebra",
     "subdomain": "s2.2",
     "primaryBoard": "both",
@@ -4693,12 +5153,21 @@
       "hhk-y9"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Form algebraic expressions",
+    "topics": [
+      "form",
+      "expression",
+      "translate",
+      "word problem",
+      "application_context"
+    ],
+    "lu_id": "lu.form_expression"
   },
   {
     "kn_id": "kn_0095",
-    "title_en": "Algebraic manipulation",
-    "title_zh": "代数运算",
+    "title_en": "Rearrange formulae",
+    "title_zh": "变换公式",
     "domain": "algebra",
     "subdomain": "s2.2",
     "primaryBoard": "both",
@@ -4780,12 +5249,20 @@
       "edx-higher"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Rearrange formulae",
+    "topics": [
+      "rearrange",
+      "subject",
+      "formula",
+      "inverse"
+    ],
+    "lu_id": "lu.rearrange_formula"
   },
   {
     "kn_id": "kn_0096",
-    "title_en": "Algebraic manipulation",
-    "title_zh": "代数运算",
+    "title_en": "Show that / algebraic proof",
+    "title_zh": "证明题",
     "domain": "algebra",
     "subdomain": "s2.2",
     "primaryBoard": "both",
@@ -4870,12 +5347,20 @@
       "edx-higher"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Show that / algebraic proof",
+    "topics": [
+      "proof",
+      "show that",
+      "hence",
+      "verify"
+    ],
+    "lu_id": "lu.algebraic_proof"
   },
   {
     "kn_id": "kn_0097",
-    "title_en": "Algebraic fractions",
-    "title_zh": "代数分式",
+    "title_en": "Simplify Algebraic Fraction",
+    "title_zh": "化简代数分式",
     "domain": "algebra",
     "subdomain": "s2.3",
     "primaryBoard": "both",
@@ -4969,12 +5454,19 @@
       "hhk-y9"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Simplify Algebraic Fraction",
+    "topics": [
+      "simplify",
+      "algebraic",
+      "fraction"
+    ],
+    "lu_id": "lu.simplify_algebraic_fraction"
   },
   {
     "kn_id": "kn_0098",
-    "title_en": "Algebraic fractions",
-    "title_zh": "代数分式",
+    "title_en": "Add Algebraic Fractions",
+    "title_zh": "代数分式加法",
     "domain": "algebra",
     "subdomain": "s2.3",
     "primaryBoard": "both",
@@ -5048,12 +5540,19 @@
       "cie-recovery-fractions"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Add Algebraic Fractions",
+    "topics": [
+      "add",
+      "algebraic",
+      "fractions"
+    ],
+    "lu_id": "lu.add_algebraic_fractions"
   },
   {
     "kn_id": "kn_0099",
-    "title_en": "Indices II",
-    "title_zh": "指数法则II",
+    "title_en": "Multiply/divide index laws",
+    "title_zh": "指数乘除法则",
     "domain": "algebra",
     "subdomain": "s2.4",
     "primaryBoard": "both",
@@ -5137,12 +5636,21 @@
       "hhk-y8"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Multiply/divide index laws",
+    "topics": [
+      "index",
+      "multiply",
+      "divide",
+      "add",
+      "subtract exponents"
+    ],
+    "lu_id": "lu.index_multiply_divide"
   },
   {
     "kn_id": "kn_0100",
-    "title_en": "Indices II",
-    "title_zh": "指数法则II",
+    "title_en": "Power of a power",
+    "title_zh": "幂的幂",
     "domain": "algebra",
     "subdomain": "s2.4",
     "primaryBoard": "both",
@@ -5221,12 +5729,18 @@
       "hhk-y11"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Power of a power",
+    "topics": [
+      "power",
+      "multiply exponents"
+    ],
+    "lu_id": "lu.power_of_power"
   },
   {
     "kn_id": "kn_0101",
-    "title_en": "Indices II",
-    "title_zh": "指数法则II",
+    "title_en": "Negative and fractional indices",
+    "title_zh": "负指数与分数指数",
     "domain": "algebra",
     "subdomain": "s2.4",
     "primaryBoard": "both",
@@ -5304,12 +5818,20 @@
       "hhk-y11"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Negative and fractional indices",
+    "topics": [
+      "negative",
+      "fractional",
+      "reciprocal",
+      "root"
+    ],
+    "lu_id": "lu.negative_fractional_index"
   },
   {
     "kn_id": "kn_0103",
-    "title_en": "Equations",
-    "title_zh": "方程",
+    "title_en": "One-step equations",
+    "title_zh": "一步方程",
     "domain": "algebra",
     "subdomain": "s2.5",
     "primaryBoard": "cie",
@@ -5375,12 +5897,20 @@
       "hhk-y11"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "One-step equations",
+    "topics": [
+      "equation",
+      "solve",
+      "one step",
+      "inverse"
+    ],
+    "lu_id": "lu.linear_one_step"
   },
   {
     "kn_id": "kn_0104",
-    "title_en": "Equations",
-    "title_zh": "方程",
+    "title_en": "Two-step equations",
+    "title_zh": "两步方程",
     "domain": "algebra",
     "subdomain": "s2.5",
     "primaryBoard": "cie",
@@ -5444,12 +5974,19 @@
       "hhk-y11"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Two-step equations",
+    "topics": [
+      "equation",
+      "two step",
+      "order of operations"
+    ],
+    "lu_id": "lu.linear_two_step"
   },
   {
     "kn_id": "kn_0105",
-    "title_en": "Equations",
-    "title_zh": "方程",
+    "title_en": "Equations with x on both sides",
+    "title_zh": "两边含未知数的方程",
     "domain": "algebra",
     "subdomain": "s2.5",
     "primaryBoard": "cie",
@@ -5513,12 +6050,19 @@
       "hhk-y11"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Equations with x on both sides",
+    "topics": [
+      "both sides",
+      "collect",
+      "rearrange"
+    ],
+    "lu_id": "lu.linear_both_sides"
   },
   {
     "kn_id": "kn_0106",
-    "title_en": "Equations",
-    "title_zh": "方程",
+    "title_en": "Equations with fractions",
+    "title_zh": "含分数的方程",
     "domain": "algebra",
     "subdomain": "s2.5",
     "primaryBoard": "cie",
@@ -5586,12 +6130,20 @@
       "hhk-y11"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Equations with fractions",
+    "topics": [
+      "fraction",
+      "multiply through",
+      "LCM",
+      "clear"
+    ],
+    "lu_id": "lu.linear_fractions"
   },
   {
     "kn_id": "kn_0107",
-    "title_en": "Equations",
-    "title_zh": "方程",
+    "title_en": "Simultaneous equations",
+    "title_zh": "联立方程",
     "domain": "algebra",
     "subdomain": "s2.5",
     "primaryBoard": "cie",
@@ -5671,12 +6223,20 @@
       "hhk-y11"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Simultaneous equations",
+    "topics": [
+      "simultaneous",
+      "elimination",
+      "substitution",
+      "two unknowns"
+    ],
+    "lu_id": "lu.simultaneous"
   },
   {
     "kn_id": "kn_0108",
-    "title_en": "Equations",
-    "title_zh": "方程",
+    "title_en": "Solve quadratic by factorising",
+    "title_zh": "用因式分解法解二次方程",
     "domain": "algebra",
     "subdomain": "s2.5",
     "primaryBoard": "cie",
@@ -5750,12 +6310,19 @@
       "hhk-y8"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Solve quadratic by factorising",
+    "topics": [
+      "quadratic",
+      "factorise",
+      "zero product"
+    ],
+    "lu_id": "lu.solve_quadratic_by_factorising"
   },
   {
     "kn_id": "kn_0109",
-    "title_en": "Equations",
-    "title_zh": "方程",
+    "title_en": "Quadratic formula",
+    "title_zh": "求根公式",
     "domain": "algebra",
     "subdomain": "s2.5",
     "primaryBoard": "cie",
@@ -5813,12 +6380,19 @@
       "hhk-y11"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Quadratic formula",
+    "topics": [
+      "quadratic",
+      "formula",
+      "discriminant"
+    ],
+    "lu_id": "lu.quadratic_formula"
   },
   {
     "kn_id": "kn_0110",
-    "title_en": "Equations",
-    "title_zh": "方程",
+    "title_en": "Form and solve equations",
+    "title_zh": "列方程并求解",
     "domain": "algebra",
     "subdomain": "s2.5",
     "primaryBoard": "cie",
@@ -5897,12 +6471,21 @@
       "hhk-y11"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Form and solve equations",
+    "topics": [
+      "form",
+      "word problem",
+      "translate",
+      "solve",
+      "application_context"
+    ],
+    "lu_id": "lu.form_and_solve"
   },
   {
     "kn_id": "kn_0111",
-    "title_en": "Inequalities",
-    "title_zh": "不等式",
+    "title_en": "Solve Linear Inequality",
+    "title_zh": "解一次不等式",
     "domain": "algebra",
     "subdomain": "s2.6",
     "primaryBoard": "both",
@@ -5984,12 +6567,19 @@
       "hhk-y8"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Solve Linear Inequality",
+    "topics": [
+      "solve",
+      "linear",
+      "inequality"
+    ],
+    "lu_id": "lu.solve_linear_inequality"
   },
   {
     "kn_id": "kn_0112",
-    "title_en": "Inequalities",
-    "title_zh": "不等式",
+    "title_en": "Solve Compound Inequality",
+    "title_zh": "解复合不等式",
     "domain": "algebra",
     "subdomain": "s2.6",
     "primaryBoard": "both",
@@ -6061,12 +6651,19 @@
       "hhk-y8"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Solve Compound Inequality",
+    "topics": [
+      "solve",
+      "compound",
+      "inequality"
+    ],
+    "lu_id": "lu.solve_compound_inequality"
   },
   {
     "kn_id": "kn_0113",
-    "title_en": "Sequences",
-    "title_zh": "数列",
+    "title_en": "Recognise and continue a pattern",
+    "title_zh": "识别并延续规律",
     "domain": "algebra",
     "subdomain": "s2.7",
     "primaryBoard": "both",
@@ -6140,12 +6737,19 @@
       "edx-foundation"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Recognise and continue a pattern",
+    "topics": [
+      "pattern",
+      "next term",
+      "sequence"
+    ],
+    "lu_id": "lu.pattern_recognition"
   },
   {
     "kn_id": "kn_0114",
-    "title_en": "Sequences",
-    "title_zh": "数列",
+    "title_en": "Term-to-term rule",
+    "title_zh": "逐项规则",
     "domain": "algebra",
     "subdomain": "s2.7",
     "primaryBoard": "both",
@@ -6219,12 +6823,20 @@
       "edx-foundation"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Term-to-term rule",
+    "topics": [
+      "rule",
+      "difference",
+      "add",
+      "subtract"
+    ],
+    "lu_id": "lu.term_to_term_rule"
   },
   {
     "kn_id": "kn_0115",
-    "title_en": "Sequences",
-    "title_zh": "数列",
+    "title_en": "nth term of a linear sequence",
+    "title_zh": "线性数列的通项公式",
     "domain": "algebra",
     "subdomain": "s2.7",
     "primaryBoard": "both",
@@ -6300,12 +6912,20 @@
       "hhk-y7"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "nth term of a linear sequence",
+    "topics": [
+      "nth term",
+      "linear",
+      "formula",
+      "an+b"
+    ],
+    "lu_id": "lu.nth_term_linear"
   },
   {
     "kn_id": "kn_0116",
-    "title_en": "Sequences",
-    "title_zh": "数列",
+    "title_en": "Use nth term formula",
+    "title_zh": "使用通项公式",
     "domain": "algebra",
     "subdomain": "s2.7",
     "primaryBoard": "both",
@@ -6379,12 +6999,20 @@
       "hhk-y7"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Use nth term formula",
+    "topics": [
+      "substitute",
+      "term",
+      "position",
+      "solve"
+    ],
+    "lu_id": "lu.use_nth_term"
   },
   {
     "kn_id": "kn_0117",
-    "title_en": "Sequences",
-    "title_zh": "数列",
+    "title_en": "nth term of a quadratic sequence",
+    "title_zh": "二次数列的通项公式",
     "domain": "algebra",
     "subdomain": "s2.7",
     "primaryBoard": "both",
@@ -6454,12 +7082,19 @@
       "edx-foundation"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "nth term of a quadratic sequence",
+    "topics": [
+      "quadratic",
+      "second difference",
+      "an2+bn+c"
+    ],
+    "lu_id": "lu.nth_term_quadratic"
   },
   {
     "kn_id": "kn_0120",
-    "title_en": "Proportion",
-    "title_zh": "正反比例",
+    "title_en": "Direct proportion (y ∝ x)",
+    "title_zh": "正比例",
     "domain": "algebra",
     "subdomain": "s2.8",
     "primaryBoard": "both",
@@ -6519,12 +7154,20 @@
       "hhk-y11"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Direct proportion (y ∝ x)",
+    "topics": [
+      "direct",
+      "proportion",
+      "constant",
+      "ratio"
+    ],
+    "lu_id": "lu.direct_proportion"
   },
   {
     "kn_id": "kn_0121",
-    "title_en": "Proportion",
-    "title_zh": "正反比例",
+    "title_en": "Inverse proportion (y ∝ 1/x)",
+    "title_zh": "反比例",
     "domain": "algebra",
     "subdomain": "s2.8",
     "primaryBoard": "both",
@@ -6591,12 +7234,19 @@
       "hhk-y11"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Inverse proportion (y ∝ 1/x)",
+    "topics": [
+      "inverse",
+      "proportion",
+      "reciprocal"
+    ],
+    "lu_id": "lu.inverse_proportion"
   },
   {
     "kn_id": "kn_0122",
-    "title_en": "Proportion",
-    "title_zh": "正反比例",
+    "title_en": "Write proportion formula",
+    "title_zh": "写比例公式",
     "domain": "algebra",
     "subdomain": "s2.8",
     "primaryBoard": "both",
@@ -6662,12 +7312,20 @@
       "hhk-y11"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Write proportion formula",
+    "topics": [
+      "formula",
+      "constant",
+      "k",
+      "equation"
+    ],
+    "lu_id": "lu.proportion_formula"
   },
   {
     "kn_id": "kn_0123",
-    "title_en": "Proportion",
-    "title_zh": "正反比例",
+    "title_en": "Proportional change problems",
+    "title_zh": "比例变化问题",
     "domain": "algebra",
     "subdomain": "s2.8",
     "primaryBoard": "both",
@@ -6729,12 +7387,21 @@
       "hhk-y11"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Proportional change problems",
+    "topics": [
+      "change",
+      "effect",
+      "double",
+      "halve",
+      "application_context"
+    ],
+    "lu_id": "lu.proportion_change"
   },
   {
     "kn_id": "kn_0124",
-    "title_en": "Graphs in practical situations",
-    "title_zh": "实际问题图像",
+    "title_en": "Speed-Time",
+    "title_zh": "速度-时间",
     "domain": "algebra",
     "subdomain": "s2.9",
     "primaryBoard": "cie",
@@ -6808,12 +7475,17 @@
       "hhk-y11"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Speed-Time",
+    "topics": [
+      "speed-time"
+    ],
+    "lu_id": "lu.speed_time"
   },
   {
     "kn_id": "kn_0125",
-    "title_en": "Graphs in practical situations",
-    "title_zh": "实际问题图像",
+    "title_en": "Average Speed",
+    "title_zh": "平均速度",
     "domain": "algebra",
     "subdomain": "s2.9",
     "primaryBoard": "cie",
@@ -6882,12 +7554,18 @@
       "hhk-y11"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Average Speed",
+    "topics": [
+      "average",
+      "speed"
+    ],
+    "lu_id": "lu.average_speed"
   },
   {
     "kn_id": "kn_0126",
-    "title_en": "Graphs in practical situations",
-    "title_zh": "实际问题图像",
+    "title_en": "Speed Unit Conversion",
+    "title_zh": "速度单位转换",
     "domain": "algebra",
     "subdomain": "s2.9",
     "primaryBoard": "cie",
@@ -6954,12 +7632,19 @@
       "hhk-y11"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Speed Unit Conversion",
+    "topics": [
+      "speed",
+      "unit",
+      "conversion"
+    ],
+    "lu_id": "lu.speed_unit_conversion"
   },
   {
     "kn_id": "kn_0127",
-    "title_en": "Graphs of functions",
-    "title_zh": "函数图像",
+    "title_en": "Complete Table of Values",
+    "title_zh": "完成数值表",
     "domain": "algebra",
     "subdomain": "s2.10",
     "primaryBoard": "cie",
@@ -7034,12 +7719,19 @@
       "hhk-y11"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Complete Table of Values",
+    "topics": [
+      "complete",
+      "table",
+      "values"
+    ],
+    "lu_id": "lu.complete_table_of_values"
   },
   {
     "kn_id": "kn_0129",
-    "title_en": "Graphs of functions",
-    "title_zh": "函数图像",
+    "title_en": "Equation of a Line",
+    "title_zh": "直线方程",
     "domain": "algebra",
     "subdomain": "s2.10",
     "primaryBoard": "cie",
@@ -7105,12 +7797,18 @@
       "cie-extended-algebra"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Equation of a Line",
+    "topics": [
+      "equation",
+      "line"
+    ],
+    "lu_id": "lu.equation_of_a_line"
   },
   {
     "kn_id": "kn_0130",
-    "title_en": "Graphs of functions",
-    "title_zh": "函数图像",
+    "title_en": "Identify Function Type",
+    "title_zh": "识别函数类型",
     "domain": "algebra",
     "subdomain": "s2.10",
     "primaryBoard": "cie",
@@ -7178,12 +7876,19 @@
       "hhk-y10"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Identify Function Type",
+    "topics": [
+      "identify",
+      "function",
+      "type"
+    ],
+    "lu_id": "lu.identify_function_type"
   },
   {
     "kn_id": "kn_0131",
-    "title_en": "Sketching curves",
-    "title_zh": "曲线草图",
+    "title_en": "Solve Trigonometric Equations",
+    "title_zh": "解三角方程",
     "domain": "algebra",
     "subdomain": "s2.11",
     "primaryBoard": "cie",
@@ -7248,12 +7953,19 @@
       "hhk-y11"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Solve Trigonometric Equations",
+    "topics": [
+      "solve",
+      "trigonometric",
+      "equations"
+    ],
+    "lu_id": "lu.solve_trigonometric_equations"
   },
   {
     "kn_id": "kn_0132",
-    "title_en": "Sketching curves",
-    "title_zh": "曲线草图",
+    "title_en": "Find Turning Points",
+    "title_zh": "求转折点",
     "domain": "algebra",
     "subdomain": "s2.11",
     "primaryBoard": "cie",
@@ -7314,12 +8026,19 @@
       "hhk-y11"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Find Turning Points",
+    "topics": [
+      "find",
+      "turning",
+      "points"
+    ],
+    "lu_id": "lu.find_turning_points"
   },
   {
     "kn_id": "kn_0133",
-    "title_en": "Sketching curves",
-    "title_zh": "曲线草图",
+    "title_en": "Trig — Find Reflex Angle",
+    "title_zh": "三角——求优角",
     "domain": "algebra",
     "subdomain": "s2.11",
     "primaryBoard": "cie",
@@ -7374,12 +8093,20 @@
       "hhk-y11"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Trig — Find Reflex Angle",
+    "topics": [
+      "trig",
+      "find",
+      "reflex",
+      "angle"
+    ],
+    "lu_id": "lu.trig_find_reflex_angle"
   },
   {
     "kn_id": "kn_0134",
-    "title_en": "Functions",
-    "title_zh": "函数",
+    "title_en": "Evaluate f(x)",
+    "title_zh": "求f(x)的值",
     "domain": "algebra",
     "subdomain": "s2.13",
     "primaryBoard": "cie",
@@ -7454,12 +8181,18 @@
       "hhk-y9"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Evaluate f(x)",
+    "topics": [
+      "evaluate",
+      "f(x)"
+    ],
+    "lu_id": "lu.evaluate_f_x"
   },
   {
     "kn_id": "kn_0135",
-    "title_en": "Functions",
-    "title_zh": "函数",
+    "title_en": "Composite fg(x)",
+    "title_zh": "复合函数",
     "domain": "algebra",
     "subdomain": "s2.13",
     "primaryBoard": "cie",
@@ -7519,12 +8252,18 @@
       "cie-recovery-algebra"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Composite fg(x)",
+    "topics": [
+      "composite",
+      "fg(x)"
+    ],
+    "lu_id": "lu.composite_fg_x"
   },
   {
     "kn_id": "kn_0136",
-    "title_en": "Functions",
-    "title_zh": "函数",
+    "title_en": "Inverse f^-1(x)",
+    "title_zh": "反函数",
     "domain": "algebra",
     "subdomain": "s2.13",
     "primaryBoard": "cie",
@@ -7589,12 +8328,18 @@
       "hhk-y9"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Inverse f^-1(x)",
+    "topics": [
+      "inverse",
+      "f^-1(x)"
+    ],
+    "lu_id": "lu.inverse_f_1_x"
   },
   {
     "kn_id": "kn_0137",
-    "title_en": "Coordinates",
-    "title_zh": "坐标",
+    "title_en": "Plot and read coordinates",
+    "title_zh": "标点与读坐标",
     "domain": "geometry",
     "subdomain": "s3.1",
     "primaryBoard": "both",
@@ -7675,12 +8420,21 @@
       "hhk-y8"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Plot and read coordinates",
+    "topics": [
+      "coordinate",
+      "plot",
+      "x",
+      "y",
+      "axis"
+    ],
+    "lu_id": "lu.plot_coordinates"
   },
   {
     "kn_id": "kn_0138",
-    "title_en": "Length and midpoint",
-    "title_zh": "长度与中点",
+    "title_en": "Find midpoint",
+    "title_zh": "求中点",
     "domain": "geometry",
     "subdomain": "s3.4",
     "primaryBoard": "both",
@@ -7746,12 +8500,19 @@
       "hhk-y11"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Find midpoint",
+    "topics": [
+      "midpoint",
+      "average",
+      "formula"
+    ],
+    "lu_id": "lu.midpoint"
   },
   {
     "kn_id": "kn_0139",
-    "title_en": "Length and midpoint",
-    "title_zh": "长度与中点",
+    "title_en": "Distance between points",
+    "title_zh": "两点间距离",
     "domain": "geometry",
     "subdomain": "s3.4",
     "primaryBoard": "both",
@@ -7810,12 +8571,19 @@
       "cie-extended-algebra"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Distance between points",
+    "topics": [
+      "distance",
+      "Pythagoras",
+      "formula"
+    ],
+    "lu_id": "lu.distance"
   },
   {
     "kn_id": "kn_0140",
-    "title_en": "Gradient of linear graphs",
-    "title_zh": "线性图像斜率",
+    "title_en": "Gradient (rate of change)",
+    "title_zh": "梯度（变化率）",
     "domain": "geometry",
     "subdomain": "s3.3",
     "primaryBoard": "both",
@@ -7882,12 +8650,19 @@
       "hhk-y8"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Gradient (rate of change)",
+    "topics": [
+      "gradient",
+      "slope",
+      "rise over run"
+    ],
+    "lu_id": "lu.gradient"
   },
   {
     "kn_id": "kn_0141",
-    "title_en": "Drawing linear graphs",
-    "title_zh": "画线性图像",
+    "title_en": "Equation of a line",
+    "title_zh": "直线方程",
     "domain": "geometry",
     "subdomain": "s3.2",
     "primaryBoard": "both",
@@ -7968,12 +8743,19 @@
       "hhk-y8"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Equation of a line",
+    "topics": [
+      "y=mx+c",
+      "equation",
+      "intercept"
+    ],
+    "lu_id": "lu.line_equation"
   },
   {
     "kn_id": "kn_0142",
-    "title_en": "Perpendicular lines",
-    "title_zh": "垂直线",
+    "title_en": "Find the Perpendicular Gradient",
+    "title_zh": "求垂直斜率",
     "domain": "geometry",
     "subdomain": "s3.7",
     "primaryBoard": "cie",
@@ -8031,12 +8813,20 @@
       "cie-extended-algebra"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Find the Perpendicular Gradient",
+    "topics": [
+      "find",
+      "the",
+      "perpendicular",
+      "gradient"
+    ],
+    "lu_id": "lu.find_the_perpendicular_gradient"
   },
   {
     "kn_id": "kn_0145",
-    "title_en": "Angles",
-    "title_zh": "角",
+    "title_en": "Angles in a triangle",
+    "title_zh": "三角形内角",
     "domain": "geometry",
     "subdomain": "s4.6",
     "primaryBoard": "both",
@@ -8109,12 +8899,19 @@
       "hhk-y8"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Angles in a triangle",
+    "topics": [
+      "triangle",
+      "180",
+      "sum"
+    ],
+    "lu_id": "lu.triangle_angles"
   },
   {
     "kn_id": "kn_0146",
-    "title_en": "Angles",
-    "title_zh": "角",
+    "title_en": "Angles on a straight line",
+    "title_zh": "直线上的角",
     "domain": "geometry",
     "subdomain": "s4.6",
     "primaryBoard": "both",
@@ -8186,12 +8983,19 @@
       "cie-core-geometry"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Angles on a straight line",
+    "topics": [
+      "straight line",
+      "180",
+      "supplementary"
+    ],
+    "lu_id": "lu.angles_on_line"
   },
   {
     "kn_id": "kn_0148",
-    "title_en": "Angles",
-    "title_zh": "角",
+    "title_en": "Angles with parallel lines",
+    "title_zh": "平行线间的角",
     "domain": "geometry",
     "subdomain": "s4.6",
     "primaryBoard": "both",
@@ -8263,12 +9067,20 @@
       "cie-core-geometry"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Angles with parallel lines",
+    "topics": [
+      "parallel",
+      "alternate",
+      "corresponding",
+      "co-interior"
+    ],
+    "lu_id": "lu.parallel_angles"
   },
   {
     "kn_id": "kn_0149",
-    "title_en": "Angles",
-    "title_zh": "角",
+    "title_en": "Polygon angles",
+    "title_zh": "多边形角",
     "domain": "geometry",
     "subdomain": "s4.6",
     "primaryBoard": "both",
@@ -8347,12 +9159,20 @@
       "hhk-y9"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Polygon angles",
+    "topics": [
+      "polygon",
+      "interior",
+      "exterior",
+      "regular"
+    ],
+    "lu_id": "lu.polygon_angles"
   },
   {
     "kn_id": "kn_0150",
-    "title_en": "Circles, arcs and sectors",
-    "title_zh": "圆、弧与扇形",
+    "title_en": "Arc length",
+    "title_zh": "弧长",
     "domain": "geometry",
     "subdomain": "s5.3",
     "primaryBoard": "cie",
@@ -8420,12 +9240,20 @@
       "cie-core-geometry"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Arc length",
+    "topics": [
+      "arc",
+      "length",
+      "fraction",
+      "circumference"
+    ],
+    "lu_id": "lu.arc_length"
   },
   {
     "kn_id": "kn_0151",
-    "title_en": "Circles, arcs and sectors",
-    "title_zh": "圆、弧与扇形",
+    "title_en": "Sector area",
+    "title_zh": "扇形面积",
     "domain": "geometry",
     "subdomain": "s5.3",
     "primaryBoard": "cie",
@@ -8492,12 +9320,20 @@
       "hhk-y7"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Sector area",
+    "topics": [
+      "sector",
+      "area",
+      "fraction",
+      "circle"
+    ],
+    "lu_id": "lu.sector_area"
   },
   {
     "kn_id": "kn_0153",
-    "title_en": "Trigonometric functions",
-    "title_zh": "三角函数",
+    "title_en": "Solve Trig Equation",
+    "title_zh": "解三角方程",
     "domain": "geometry",
     "subdomain": "s6.4",
     "primaryBoard": "cie",
@@ -8566,12 +9402,19 @@
       "hhk-y11"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Solve Trig Equation",
+    "topics": [
+      "solve",
+      "trig",
+      "equation"
+    ],
+    "lu_id": "lu.solve_trig_equation"
   },
   {
     "kn_id": "kn_0154",
-    "title_en": "Trigonometric functions",
-    "title_zh": "三角函数",
+    "title_en": "Linear Trig Equation",
+    "title_zh": "线性三角方程",
     "domain": "geometry",
     "subdomain": "s6.4",
     "primaryBoard": "cie",
@@ -8632,12 +9475,19 @@
       "cie-extended-algebra"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Linear Trig Equation",
+    "topics": [
+      "linear",
+      "trig",
+      "equation"
+    ],
+    "lu_id": "lu.linear_trig_equation"
   },
   {
     "kn_id": "kn_0155",
-    "title_en": "Introduction to probability",
-    "title_zh": "概率入门",
+    "title_en": "Simple Probability",
+    "title_zh": "简单概率",
     "domain": "probability",
     "subdomain": "s8.1",
     "primaryBoard": "cie",
@@ -8707,12 +9557,18 @@
       "hhk-y11"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Simple Probability",
+    "topics": [
+      "simple",
+      "probability"
+    ],
+    "lu_id": "lu.simple_probability"
   },
   {
     "kn_id": "kn_0156",
-    "title_en": "Introduction to probability",
-    "title_zh": "概率入门",
+    "title_en": "Complementary Probability",
+    "title_zh": "互补概率",
     "domain": "probability",
     "subdomain": "s8.1",
     "primaryBoard": "cie",
@@ -8782,12 +9638,18 @@
       "cie-core-number"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Complementary Probability",
+    "topics": [
+      "complementary",
+      "probability"
+    ],
+    "lu_id": "lu.complementary_probability"
   },
   {
     "kn_id": "kn_0157",
-    "title_en": "Relative and expected frequencies",
-    "title_zh": "相对频率与期望频率",
+    "title_en": "Expected Frequency",
+    "title_zh": "期望频率",
     "domain": "probability",
     "subdomain": "s8.2",
     "primaryBoard": "cie",
@@ -8845,12 +9707,18 @@
       "cie-core-number"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Expected Frequency",
+    "topics": [
+      "expected",
+      "frequency"
+    ],
+    "lu_id": "lu.expected_frequency"
   },
   {
     "kn_id": "kn_0158",
-    "title_en": "Combined events",
-    "title_zh": "组合事件",
+    "title_en": "Independent Events",
+    "title_zh": "独立事件",
     "domain": "probability",
     "subdomain": "s8.3",
     "primaryBoard": "cie",
@@ -8919,12 +9787,18 @@
       "hhk-y7"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Independent Events",
+    "topics": [
+      "independent",
+      "events"
+    ],
+    "lu_id": "lu.independent_events"
   },
   {
     "kn_id": "kn_0160",
-    "title_en": "Conditional probability",
-    "title_zh": "条件概率",
+    "title_en": "Two Without Replacement",
+    "title_zh": "不放回抽两个",
     "domain": "probability",
     "subdomain": "s8.4",
     "primaryBoard": "cie",
@@ -8986,11 +9860,18 @@
       "hhk-y10"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Two Without Replacement",
+    "topics": [
+      "two",
+      "without",
+      "replacement"
+    ],
+    "lu_id": "lu.two_without_replacement"
   },
   {
     "kn_id": "kn_0161",
-    "title_en": "Conditional probability",
+    "title_en": "Conditional Given",
     "title_zh": "条件概率",
     "domain": "probability",
     "subdomain": "s8.4",
@@ -9052,12 +9933,18 @@
       "hhk-y10"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Conditional Given",
+    "topics": [
+      "conditional",
+      "given"
+    ],
+    "lu_id": "lu.conditional_given"
   },
   {
     "kn_id": "kn_0162",
-    "title_en": "Classifying and tabulating data",
-    "title_zh": "数据分类与列表",
+    "title_en": "Calculate the mean",
+    "title_zh": "求平均数",
     "domain": "statistics",
     "subdomain": "s9.1",
     "primaryBoard": "cie",
@@ -9129,12 +10016,20 @@
       "hhk-y9"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Calculate the mean",
+    "topics": [
+      "mean",
+      "average",
+      "sum",
+      "divide"
+    ],
+    "lu_id": "lu.mean"
   },
   {
     "kn_id": "kn_0163",
-    "title_en": "Averages and measures of spread",
-    "title_zh": "平均数与离散度",
+    "title_en": "Find the median",
+    "title_zh": "求中位数",
     "domain": "statistics",
     "subdomain": "s9.3",
     "primaryBoard": "cie",
@@ -9201,12 +10096,19 @@
       "cie-core-number"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Find the median",
+    "topics": [
+      "median",
+      "middle",
+      "order"
+    ],
+    "lu_id": "lu.median"
   },
   {
     "kn_id": "kn_0164",
-    "title_en": "Averages and measures of spread",
-    "title_zh": "平均数与离散度",
+    "title_en": "Find the mode",
+    "title_zh": "求众数",
     "domain": "statistics",
     "subdomain": "s9.3",
     "primaryBoard": "cie",
@@ -9279,12 +10181,19 @@
       "hhk-y9"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Find the mode",
+    "topics": [
+      "mode",
+      "frequency",
+      "most common"
+    ],
+    "lu_id": "lu.mode"
   },
   {
     "kn_id": "kn_0165",
-    "title_en": "Averages and measures of spread",
-    "title_zh": "平均数与离散度",
+    "title_en": "Find the range",
+    "title_zh": "求全距",
     "domain": "statistics",
     "subdomain": "s9.3",
     "primaryBoard": "cie",
@@ -9351,12 +10260,20 @@
       "cie-core-number"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Find the range",
+    "topics": [
+      "range",
+      "spread",
+      "max",
+      "min"
+    ],
+    "lu_id": "lu.range"
   },
   {
     "kn_id": "kn_0166",
-    "title_en": "Averages and measures of spread",
-    "title_zh": "平均数与离散度",
+    "title_en": "Mean from frequency table",
+    "title_zh": "频率表求平均",
     "domain": "statistics",
     "subdomain": "s9.3",
     "primaryBoard": "cie",
@@ -9421,12 +10338,20 @@
     },
     "routes": [],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Mean from frequency table",
+    "topics": [
+      "frequency",
+      "table",
+      "estimated",
+      "grouped"
+    ],
+    "lu_id": "lu.mean_from_table"
   },
   {
     "kn_id": "kn_0167",
-    "title_en": "Averages and measures of spread",
-    "title_zh": "平均数与离散度",
+    "title_en": "Missing value / combined mean",
+    "title_zh": "缺失值/合并平均",
     "domain": "statistics",
     "subdomain": "s9.3",
     "primaryBoard": "cie",
@@ -9491,12 +10416,20 @@
     },
     "routes": [],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Missing value / combined mean",
+    "topics": [
+      "missing",
+      "combined",
+      "reverse",
+      "algebra"
+    ],
+    "lu_id": "lu.mean_advanced"
   },
   {
     "kn_id": "kn_0168",
-    "title_en": "Scatter diagrams and correlation",
-    "title_zh": "散点图与相关性",
+    "title_en": "Identify Correlation Type",
+    "title_zh": "判断相关性类型",
     "domain": "statistics",
     "subdomain": "s9.5",
     "primaryBoard": "cie",
@@ -9566,12 +10499,19 @@
       "cie-core-number"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Identify Correlation Type",
+    "topics": [
+      "identify",
+      "correlation",
+      "type"
+    ],
+    "lu_id": "lu.identify_correlation_type"
   },
   {
     "kn_id": "kn_0169",
-    "title_en": "Scatter diagrams and correlation",
-    "title_zh": "散点图与相关性",
+    "title_en": "Use Line of Best Fit Equation",
+    "title_zh": "使用最佳拟合直线方程",
     "domain": "statistics",
     "subdomain": "s9.5",
     "primaryBoard": "cie",
@@ -9635,11 +10575,20 @@
       "cie-core-number"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Use Line of Best Fit Equation",
+    "topics": [
+      "use",
+      "line",
+      "best",
+      "fit",
+      "equation"
+    ],
+    "lu_id": "lu.use_line_of_best_fit_equation"
   },
   {
     "kn_id": "kn_0289",
-    "title_en": "Sum of Arithmetic Series",
+    "title_en": "Prob At Least One E1",
     "title_zh": "等差数列求和",
     "domain": "algebra",
     "subdomain": "edx-3.1",
@@ -9688,11 +10637,20 @@
       "edx-foundation"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Prob At Least One E1",
+    "topics": [
+      "prob",
+      "at",
+      "least",
+      "one",
+      "e1"
+    ],
+    "lu_id": "err.prob_at_least_one_e1"
   },
   {
     "kn_id": "kn_0290",
-    "title_en": "Calculus Kinematics",
+    "title_en": "Prob Combined Expected E1",
     "title_zh": "微积分运动学",
     "domain": "algebra",
     "subdomain": "edx-3.4",
@@ -9741,11 +10699,19 @@
       "edx-foundation"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Prob Combined Expected E1",
+    "topics": [
+      "prob",
+      "combined",
+      "expected",
+      "e1"
+    ],
+    "lu_id": "err.prob_combined_expected_e1"
   },
   {
     "kn_id": "kn_0291",
-    "title_en": "Imperial Unit Conversions",
+    "title_en": "Prob Two Without Replace E1",
     "title_zh": "英制单位换算",
     "domain": "number",
     "subdomain": "edx-4.4",
@@ -9789,11 +10755,20 @@
       "edx-foundation"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Prob Two Without Replace E1",
+    "topics": [
+      "prob",
+      "two",
+      "without",
+      "replace",
+      "e1"
+    ],
+    "lu_id": "err.prob_two_without_replace_e1"
   },
   {
     "kn_id": "kn_0292",
-    "title_en": "Plans and Elevations",
+    "title_en": "Prob Exactly One E1",
     "title_zh": "三视图",
     "domain": "geometry",
     "subdomain": "edx-4.10",
@@ -9842,11 +10817,19 @@
       "edx-foundation"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Prob Exactly One E1",
+    "topics": [
+      "prob",
+      "exactly",
+      "one",
+      "e1"
+    ],
+    "lu_id": "err.prob_exactly_one_e1"
   },
   {
     "kn_id": "kn_0293",
-    "title_en": "Frustum Volume",
+    "title_en": "Prob Given E1",
     "title_zh": "锥台体积",
     "domain": "geometry",
     "subdomain": "edx-4.10",
@@ -9895,11 +10878,18 @@
       "edx-foundation"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Prob Given E1",
+    "topics": [
+      "prob",
+      "given",
+      "e1"
+    ],
+    "lu_id": "err.prob_given_e1"
   },
   {
     "kn_id": "kn_0294",
-    "title_en": "Negative Scale Factor Enlargement",
+    "title_en": "Mean Not Divided",
     "title_zh": "负缩放因子放大",
     "domain": "geometry",
     "subdomain": "edx-5.2",
@@ -9948,11 +10938,18 @@
       "edx-foundation"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Mean Not Divided",
+    "topics": [
+      "mean",
+      "not",
+      "divided"
+    ],
+    "lu_id": "err.mean_not_divided"
   },
   {
     "kn_id": "kn_0295",
-    "title_en": "Box Plots",
+    "title_en": "Grouped Midpoint",
     "title_zh": "箱线图",
     "domain": "statistics",
     "subdomain": "edx-6.1",
@@ -10001,11 +10998,17 @@
       "edx-foundation"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Grouped Midpoint",
+    "topics": [
+      "grouped",
+      "midpoint"
+    ],
+    "lu_id": "err.grouped_midpoint"
   },
   {
     "kn_id": "kn_0296",
-    "title_en": "Geometrical Reasoning",
+    "title_en": "Correlation Type E1",
     "title_zh": "几何推理",
     "domain": "geometry",
     "subdomain": "edx-4.7",
@@ -10054,11 +11057,18 @@
       "edx-foundation"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Correlation Type E1",
+    "topics": [
+      "correlation",
+      "type",
+      "e1"
+    ],
+    "lu_id": "err.correlation_type_e1"
   },
   {
     "kn_id": "kn_0297",
-    "title_en": "Change Subject (appears twice)",
+    "title_en": "Correlation Type E2",
     "title_zh": "主元出现两次的变形",
     "domain": "algebra",
     "subdomain": "edx-2.3",
@@ -10107,11 +11117,18 @@
       "edx-foundation"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Correlation Type E2",
+    "topics": [
+      "correlation",
+      "type",
+      "e2"
+    ],
+    "lu_id": "err.correlation_type_e2"
   },
   {
     "kn_id": "kn_0298",
-    "title_en": "Applied Number Operations",
+    "title_en": "Line Of Best Fit E1",
     "title_zh": "综合数字应用",
     "domain": "number",
     "subdomain": "edx-1.10",
@@ -10160,12 +11177,21 @@
       "edx-foundation"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Line Of Best Fit E1",
+    "topics": [
+      "line",
+      "of",
+      "best",
+      "fit",
+      "e1"
+    ],
+    "lu_id": "err.line_of_best_fit_e1"
   },
   {
     "kn_id": "kn_0303",
-    "title_en": "Equations",
-    "title_zh": "方程",
+    "title_en": "Solve simultaneous equations by elimination",
+    "title_zh": "用消元法解联立方程",
     "domain": "algebra",
     "subdomain": "s2.5",
     "primaryBoard": "cie",
@@ -10227,12 +11253,20 @@
     },
     "routes": [],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Solve simultaneous equations by elimination",
+    "topics": [
+      "simultaneous",
+      "elimination",
+      "add",
+      "subtract"
+    ],
+    "lu_id": "lu.simultaneous_elimination"
   },
   {
     "kn_id": "kn_0307",
-    "title_en": "Algebraic fractions",
-    "title_zh": "代数分式",
+    "title_en": "Simplify algebraic fractions by factorising",
+    "title_zh": "通过因式分解化简代数分式",
     "domain": "algebra",
     "subdomain": "s2.3",
     "primaryBoard": "both",
@@ -10311,12 +11345,20 @@
       "hhk-y9"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Simplify algebraic fractions by factorising",
+    "topics": [
+      "algebraic fraction",
+      "simplify",
+      "factorise",
+      "cancel"
+    ],
+    "lu_id": "lu.simplify_algebraic_fraction_by_factorising"
   },
   {
     "kn_id": "kn_0309",
-    "title_en": "Algebraic fractions",
-    "title_zh": "代数分式",
+    "title_en": "Multiply and divide algebraic fractions",
+    "title_zh": "代数分式的乘除",
     "domain": "algebra",
     "subdomain": "s2.3",
     "primaryBoard": "both",
@@ -10383,12 +11425,20 @@
       "cie-recovery-fractions"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Multiply and divide algebraic fractions",
+    "topics": [
+      "algebraic fraction",
+      "multiply",
+      "divide",
+      "reciprocal"
+    ],
+    "lu_id": "lu.multiply_divide_algebraic_fractions"
   },
   {
     "kn_id": "kn_0311",
-    "title_en": "The four operations",
-    "title_zh": "四则运算",
+    "title_en": "Add and subtract with negative numbers",
+    "title_zh": "负数的加减运算",
     "domain": "number",
     "subdomain": "s1.6",
     "primaryBoard": "both",
@@ -10459,12 +11509,20 @@
     },
     "routes": [],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Add and subtract with negative numbers",
+    "topics": [
+      "negative",
+      "add",
+      "subtract",
+      "directed numbers"
+    ],
+    "lu_id": "lu.add_subtract_negatives"
   },
   {
     "kn_id": "kn_0313",
-    "title_en": "Knowledge node from topic 6.1",
-    "title_zh": "知识节点 6.1",
+    "title_en": "Pythagoras' theorem",
+    "title_zh": "勾股定理",
     "domain": "geometry",
     "subdomain": "s6.1",
     "primaryBoard": "both",
@@ -10546,12 +11604,20 @@
       "hhk-y9"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Pythagoras' theorem",
+    "topics": [
+      "pythagoras",
+      "right triangle",
+      "hypotenuse",
+      "a2+b2=c2"
+    ],
+    "lu_id": "lu.pythagoras_theorem"
   },
   {
     "kn_id": "kn_0314",
-    "title_en": "Knowledge node from topic 6.1",
-    "title_zh": "知识节点 6.1",
+    "title_en": "Find hypotenuse using Pythagoras",
+    "title_zh": "用勾股定理求斜边",
     "domain": "geometry",
     "subdomain": "s6.1",
     "primaryBoard": "both",
@@ -10627,12 +11693,19 @@
       "hhk-y9"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Find hypotenuse using Pythagoras",
+    "topics": [
+      "pythagoras",
+      "hypotenuse",
+      "longest side"
+    ],
+    "lu_id": "lu.pythagoras_hypotenuse"
   },
   {
     "kn_id": "kn_0317",
-    "title_en": "Circle theorems",
-    "title_zh": "圆定理",
+    "title_en": "Angle at centre = 2 * angle at circumference",
+    "title_zh": "圆心角等于圆周角的两倍",
     "domain": "geometry",
     "subdomain": "s4.7",
     "primaryBoard": "both",
@@ -10700,12 +11773,20 @@
       "cie-core-geometry"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Angle at centre = 2 * angle at circumference",
+    "topics": [
+      "circle theorem",
+      "centre",
+      "circumference",
+      "double angle"
+    ],
+    "lu_id": "lu.circle_theorem_centre_angle"
   },
   {
     "kn_id": "kn_0318",
-    "title_en": "Circle theorems",
-    "title_zh": "圆定理",
+    "title_en": "Angle in semicircle = 90 degrees",
+    "title_zh": "半圆上的圆周角为90度",
     "domain": "geometry",
     "subdomain": "s4.7",
     "primaryBoard": "both",
@@ -10776,12 +11857,20 @@
       "hhk-y9"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Angle in semicircle = 90 degrees",
+    "topics": [
+      "circle theorem",
+      "semicircle",
+      "right angle",
+      "diameter"
+    ],
+    "lu_id": "lu.circle_theorem_semicircle"
   },
   {
     "kn_id": "kn_0319",
-    "title_en": "Circle theorems",
-    "title_zh": "圆定理",
+    "title_en": "Tangent perpendicular to radius",
+    "title_zh": "切线垂直于半径",
     "domain": "geometry",
     "subdomain": "s4.7",
     "primaryBoard": "both",
@@ -10847,12 +11936,20 @@
       "cie-core-geometry"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Tangent perpendicular to radius",
+    "topics": [
+      "circle theorem",
+      "tangent",
+      "radius",
+      "perpendicular"
+    ],
+    "lu_id": "lu.circle_theorem_tangent_radius"
   },
   {
     "kn_id": "kn_0320",
-    "title_en": "Circle theorems",
-    "title_zh": "圆定理",
+    "title_en": "Apply circle theorem to find angle",
+    "title_zh": "运用圆定理求角",
     "domain": "geometry",
     "subdomain": "s4.7",
     "primaryBoard": "both",
@@ -10925,12 +12022,19 @@
       "cie-core-geometry"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Apply circle theorem to find angle",
+    "topics": [
+      "circle theorem",
+      "find angle",
+      "application"
+    ],
+    "lu_id": "lu.apply_circle_theorem"
   },
   {
     "kn_id": "kn_0322",
-    "title_en": "Vectors in 2D",
-    "title_zh": "二维向量",
+    "title_en": "Add and subtract vectors",
+    "title_zh": "向量加减",
     "domain": "geometry",
     "subdomain": "s7.2",
     "primaryBoard": "cie",
@@ -11008,12 +12112,20 @@
       "hhk-y11"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Add and subtract vectors",
+    "topics": [
+      "vector",
+      "add",
+      "subtract",
+      "resultant"
+    ],
+    "lu_id": "lu.vector_add_subtract"
   },
   {
     "kn_id": "kn_0323",
-    "title_en": "Vectors in 2D",
-    "title_zh": "二维向量",
+    "title_en": "Multiply vector by scalar",
+    "title_zh": "向量的数乘",
     "domain": "geometry",
     "subdomain": "s7.2",
     "primaryBoard": "cie",
@@ -11075,12 +12187,20 @@
       "hhk-y11"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Multiply vector by scalar",
+    "topics": [
+      "vector",
+      "scalar",
+      "multiply",
+      "parallel"
+    ],
+    "lu_id": "lu.vector_scalar_multiply"
   },
   {
     "kn_id": "kn_0324",
-    "title_en": "Vector geometry",
-    "title_zh": "向量几何",
+    "title_en": "Position vectors",
+    "title_zh": "位置向量",
     "domain": "geometry",
     "subdomain": "s7.4",
     "primaryBoard": "cie",
@@ -11136,12 +12256,20 @@
       "cie-extended-algebra"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Position vectors",
+    "topics": [
+      "vector",
+      "position",
+      "origin",
+      "point"
+    ],
+    "lu_id": "lu.position_vector"
   },
   {
     "kn_id": "kn_0325",
-    "title_en": "Vectors in 2D",
-    "title_zh": "二维向量",
+    "title_en": "Use position vectors to find resultant",
+    "title_zh": "用位置向量求合向量",
     "domain": "geometry",
     "subdomain": "s7.2",
     "primaryBoard": "cie",
@@ -11211,12 +12339,20 @@
       "cie-extended-algebra"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Use position vectors to find resultant",
+    "topics": [
+      "vector",
+      "position",
+      "resultant",
+      "path"
+    ],
+    "lu_id": "lu.position_vector_resultant"
   },
   {
     "kn_id": "kn_0326",
-    "title_en": "Right-angled triangles",
-    "title_zh": "直角三角形",
+    "title_en": "Sine, cosine, tangent ratios",
+    "title_zh": "正弦、余弦、正切比",
     "domain": "geometry",
     "subdomain": "s6.2",
     "primaryBoard": "both",
@@ -11293,12 +12429,21 @@
       "edx-foundation"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Sine, cosine, tangent ratios",
+    "topics": [
+      "SOH CAH TOA",
+      "sine",
+      "cosine",
+      "tangent",
+      "ratio"
+    ],
+    "lu_id": "lu.trig_ratios"
   },
   {
     "kn_id": "kn_0327",
-    "title_en": "Right-angled triangles",
-    "title_zh": "直角三角形",
+    "title_en": "Find side using trig ratio",
+    "title_zh": "用三角比求边",
     "domain": "geometry",
     "subdomain": "s6.2",
     "primaryBoard": "both",
@@ -11371,12 +12516,19 @@
       "edx-foundation"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Find side using trig ratio",
+    "topics": [
+      "trigonometry",
+      "find side",
+      "SOH CAH TOA"
+    ],
+    "lu_id": "lu.trig_find_side"
   },
   {
     "kn_id": "kn_0328",
-    "title_en": "Right-angled triangles",
-    "title_zh": "直角三角形",
+    "title_en": "Find angle using inverse trig",
+    "title_zh": "用反三角函数求角",
     "domain": "geometry",
     "subdomain": "s6.2",
     "primaryBoard": "both",
@@ -11455,12 +12607,22 @@
       "hhk-y11"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Find angle using inverse trig",
+    "topics": [
+      "trigonometry",
+      "find angle",
+      "inverse",
+      "arcsin",
+      "arccos",
+      "arctan"
+    ],
+    "lu_id": "lu.trig_find_angle"
   },
   {
     "kn_id": "kn_0329",
-    "title_en": "Area and perimeter",
-    "title_zh": "面积与周长",
+    "title_en": "Area of 2D shapes (triangle, parallelogram, trapezium)",
+    "title_zh": "二维图形面积（三角形、平行四边形、梯形）",
     "domain": "geometry",
     "subdomain": "s5.2",
     "primaryBoard": "both",
@@ -11541,12 +12703,21 @@
       "hhk-y9"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Area of 2D shapes (triangle, parallelogram, trapezium)",
+    "topics": [
+      "area",
+      "triangle",
+      "parallelogram",
+      "trapezium",
+      "formula"
+    ],
+    "lu_id": "lu.area_2d_shapes"
   },
   {
     "kn_id": "kn_0330",
-    "title_en": "Circles, arcs and sectors",
-    "title_zh": "圆、弧与扇形",
+    "title_en": "Circumference and area of circle",
+    "title_zh": "圆的周长与面积",
     "domain": "geometry",
     "subdomain": "s5.3",
     "primaryBoard": "cie",
@@ -11623,12 +12794,22 @@
       "hhk-y9"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Circumference and area of circle",
+    "topics": [
+      "circle",
+      "circumference",
+      "area",
+      "pi",
+      "radius",
+      "diameter"
+    ],
+    "lu_id": "lu.circle_area_circumference"
   },
   {
     "kn_id": "kn_0343",
-    "title_en": "Ordering",
-    "title_zh": "排序",
+    "title_en": "Order integers on a number line",
+    "title_zh": "在数轴上排列整数",
     "domain": "number",
     "subdomain": "s1.5",
     "primaryBoard": "both",
@@ -11688,12 +12869,21 @@
       "cie-core-number"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Order integers on a number line",
+    "topics": [
+      "order",
+      "ascending",
+      "descending",
+      "number line",
+      "integer"
+    ],
+    "lu_id": "lu.order_integers"
   },
   {
     "kn_id": "kn_0344",
-    "title_en": "Ordering",
-    "title_zh": "排序",
+    "title_en": "Order fractions, decimals and percentages",
+    "title_zh": "排列分数、小数和百分数",
     "domain": "number",
     "subdomain": "s1.5",
     "primaryBoard": "both",
@@ -11756,12 +12946,22 @@
       "cie-core-number"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Order fractions, decimals and percentages",
+    "topics": [
+      "order",
+      "compare",
+      "fraction",
+      "decimal",
+      "percentage",
+      "inequality"
+    ],
+    "lu_id": "lu.order_fractions_decimals"
   },
   {
     "kn_id": "kn_0345",
-    "title_en": "Using a calculator",
-    "title_zh": "计算器使用",
+    "title_en": "Efficient calculator use",
+    "title_zh": "计算器的高效使用",
     "domain": "number",
     "subdomain": "s1.14",
     "primaryBoard": "cie",
@@ -11808,12 +13008,20 @@
     },
     "routes": [],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Efficient calculator use",
+    "topics": [
+      "calculator",
+      "brackets",
+      "memory",
+      "ANS"
+    ],
+    "lu_id": "lu.calculator_operations"
   },
   {
     "kn_id": "kn_0346",
-    "title_en": "Surds",
-    "title_zh": "根式",
+    "title_en": "Simplify surds",
+    "title_zh": "化简根式",
     "domain": "number",
     "subdomain": "s1.18",
     "primaryBoard": "cie",
@@ -11877,12 +13085,20 @@
       "cie-extended-algebra"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Simplify surds",
+    "topics": [
+      "surd",
+      "simplify",
+      "square root",
+      "rationalise"
+    ],
+    "lu_id": "lu.simplify_surds"
   },
   {
     "kn_id": "kn_0347",
-    "title_en": "Differentiation",
-    "title_zh": "微分",
+    "title_en": "Differentiate using the power rule",
+    "title_zh": "幂法则求导",
     "domain": "algebra",
     "subdomain": "s2.12",
     "primaryBoard": "cie",
@@ -11951,12 +13167,21 @@
       "hhk-y11"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Differentiate using the power rule",
+    "topics": [
+      "differentiation",
+      "derivative",
+      "power rule",
+      "dy/dx",
+      "nx^(n-1)"
+    ],
+    "lu_id": "lu.differentiation_power_rule"
   },
   {
     "kn_id": "kn_0348",
-    "title_en": "Differentiation",
-    "title_zh": "微分",
+    "title_en": "Find gradient and turning points by differentiation",
+    "title_zh": "用微分求梯度和极值点",
     "domain": "algebra",
     "subdomain": "s2.12",
     "primaryBoard": "cie",
@@ -12017,12 +13242,21 @@
       "hhk-y11"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Find gradient and turning points by differentiation",
+    "topics": [
+      "turning point",
+      "gradient",
+      "maximum",
+      "minimum",
+      "stationary"
+    ],
+    "lu_id": "lu.differentiation_applications"
   },
   {
     "kn_id": "kn_0349",
-    "title_en": "Geometrical terms",
-    "title_zh": "几何术语",
+    "title_en": "Names and properties of 2D shapes",
+    "title_zh": "二维图形的名称与性质",
     "domain": "geometry",
     "subdomain": "s4.1",
     "primaryBoard": "both",
@@ -12095,12 +13329,23 @@
       "hhk-y9"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Names and properties of 2D shapes",
+    "topics": [
+      "polygon",
+      "triangle",
+      "quadrilateral",
+      "pentagon",
+      "hexagon",
+      "parallel",
+      "perpendicular"
+    ],
+    "lu_id": "lu.shape_vocabulary"
   },
   {
     "kn_id": "kn_0350",
-    "title_en": "Geometrical terms",
-    "title_zh": "几何术语",
+    "title_en": "Identify nets and 3D shapes",
+    "title_zh": "识别展开图与三维图形",
     "domain": "geometry",
     "subdomain": "s4.1",
     "primaryBoard": "both",
@@ -12177,12 +13422,22 @@
       "hhk-y9"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Identify nets and 3D shapes",
+    "topics": [
+      "net",
+      "cube",
+      "prism",
+      "pyramid",
+      "cylinder",
+      "3D"
+    ],
+    "lu_id": "lu.nets_3d_shapes"
   },
   {
     "kn_id": "kn_0351",
-    "title_en": "Geometrical constructions",
-    "title_zh": "几何作图",
+    "title_en": "Construct perpendicular and angle bisectors",
+    "title_zh": "尺规作垂直平分线与角平分线",
     "domain": "geometry",
     "subdomain": "s4.2",
     "primaryBoard": "both",
@@ -12255,12 +13510,22 @@
       "edx-foundation"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Construct perpendicular and angle bisectors",
+    "topics": [
+      "bisector",
+      "perpendicular",
+      "angle",
+      "compass",
+      "ruler",
+      "construction"
+    ],
+    "lu_id": "lu.construct_bisector"
   },
   {
     "kn_id": "kn_0352",
-    "title_en": "Geometrical constructions",
-    "title_zh": "几何作图",
+    "title_en": "Construct triangles and other shapes accurately",
+    "title_zh": "精确尺规作三角形及其他图形",
     "domain": "geometry",
     "subdomain": "s4.2",
     "primaryBoard": "both",
@@ -12328,12 +13593,21 @@
       "edx-foundation"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Construct triangles and other shapes accurately",
+    "topics": [
+      "equilateral",
+      "triangle",
+      "construction",
+      "compass",
+      "protractor"
+    ],
+    "lu_id": "lu.construct_shapes"
   },
   {
     "kn_id": "kn_0353",
-    "title_en": "Scale drawings and bearings",
-    "title_zh": "比例图与方位角",
+    "title_en": "Read and make scale drawings",
+    "title_zh": "比例图的读取与绘制",
     "domain": "geometry",
     "subdomain": "s4.3",
     "primaryBoard": "both",
@@ -12406,12 +13680,21 @@
       "hhk-y7"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Read and make scale drawings",
+    "topics": [
+      "scale",
+      "drawing",
+      "ratio",
+      "map",
+      "plan"
+    ],
+    "lu_id": "lu.scale_drawing"
   },
   {
     "kn_id": "kn_0354",
-    "title_en": "Scale drawings and bearings",
-    "title_zh": "比例图与方位角",
+    "title_en": "Measure and calculate three-figure bearings",
+    "title_zh": "三位方位角的测量与计算",
     "domain": "geometry",
     "subdomain": "s4.3",
     "primaryBoard": "both",
@@ -12481,12 +13764,21 @@
       "edx-foundation"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Measure and calculate three-figure bearings",
+    "topics": [
+      "bearing",
+      "three-figure",
+      "north",
+      "clockwise",
+      "angle"
+    ],
+    "lu_id": "lu.bearings"
   },
   {
     "kn_id": "kn_0355",
-    "title_en": "Symmetry",
-    "title_zh": "对称",
+    "title_en": "Line symmetry and reflection symmetry",
+    "title_zh": "轴对称",
     "domain": "geometry",
     "subdomain": "s4.5",
     "primaryBoard": "both",
@@ -12546,12 +13838,20 @@
       "cie-core-geometry"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Line symmetry and reflection symmetry",
+    "topics": [
+      "line of symmetry",
+      "mirror line",
+      "reflection",
+      "fold"
+    ],
+    "lu_id": "lu.line_symmetry"
   },
   {
     "kn_id": "kn_0356",
-    "title_en": "Symmetry",
-    "title_zh": "对称",
+    "title_en": "Rotational symmetry and order",
+    "title_zh": "旋转对称与对称阶",
     "domain": "geometry",
     "subdomain": "s4.5",
     "primaryBoard": "both",
@@ -12614,12 +13914,20 @@
       "cie-core-geometry"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Rotational symmetry and order",
+    "topics": [
+      "rotational",
+      "order",
+      "rotation",
+      "centre"
+    ],
+    "lu_id": "lu.rotational_symmetry"
   },
   {
     "kn_id": "kn_0357",
-    "title_en": "Constructions and loci",
-    "title_zh": "作图与轨迹",
+    "title_en": "Locus of points satisfying a condition",
+    "title_zh": "满足条件的点的轨迹",
     "domain": "geometry",
     "subdomain": "s4.8",
     "primaryBoard": "both",
@@ -12684,12 +13992,21 @@
       "cie-core-geometry"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Locus of points satisfying a condition",
+    "topics": [
+      "locus",
+      "loci",
+      "equidistant",
+      "region",
+      "boundary"
+    ],
+    "lu_id": "lu.locus_concept"
   },
   {
     "kn_id": "kn_0358",
-    "title_en": "Constructions and loci",
-    "title_zh": "作图与轨迹",
+    "title_en": "Find intersection of loci",
+    "title_zh": "求轨迹的交集",
     "domain": "geometry",
     "subdomain": "s4.8",
     "primaryBoard": "both",
@@ -12748,12 +14065,20 @@
       "cie-core-geometry"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Find intersection of loci",
+    "topics": [
+      "locus",
+      "intersection",
+      "region",
+      "shading"
+    ],
+    "lu_id": "lu.locus_intersection"
   },
   {
     "kn_id": "kn_0359",
-    "title_en": "Units of measure",
-    "title_zh": "计量单位",
+    "title_en": "Convert between metric units (length, mass, capacity)",
+    "title_zh": "公制单位换算（长度、质量、容量）",
     "domain": "geometry",
     "subdomain": "s5.1",
     "primaryBoard": "both",
@@ -12818,12 +14143,26 @@
       "cie-core-geometry"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Convert between metric units (length, mass, capacity)",
+    "topics": [
+      "convert",
+      "metric",
+      "mm",
+      "cm",
+      "m",
+      "km",
+      "g",
+      "kg",
+      "ml",
+      "l"
+    ],
+    "lu_id": "lu.unit_conversion"
   },
   {
     "kn_id": "kn_0360",
-    "title_en": "Units of measure",
-    "title_zh": "计量单位",
+    "title_en": "Convert area and volume units",
+    "title_zh": "面积和体积单位换算",
     "domain": "geometry",
     "subdomain": "s5.1",
     "primaryBoard": "both",
@@ -12886,12 +14225,23 @@
       "cie-core-geometry"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Convert area and volume units",
+    "topics": [
+      "area",
+      "volume",
+      "cm^2",
+      "m^2",
+      "cm^3",
+      "m^3",
+      "convert"
+    ],
+    "lu_id": "lu.area_volume_unit_conversion"
   },
   {
     "kn_id": "kn_0361",
-    "title_en": "Surface area and volume",
-    "title_zh": "表面积与体积",
+    "title_en": "Volume of prisms and cylinders",
+    "title_zh": "棱柱与圆柱的体积",
     "domain": "geometry",
     "subdomain": "s5.4",
     "primaryBoard": "cie",
@@ -12962,12 +14312,21 @@
       "cie-core-geometry"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Volume of prisms and cylinders",
+    "topics": [
+      "volume",
+      "prism",
+      "cylinder",
+      "cross-section",
+      "height"
+    ],
+    "lu_id": "lu.volume_prism"
   },
   {
     "kn_id": "kn_0362",
-    "title_en": "Surface area and volume",
-    "title_zh": "表面积与体积",
+    "title_en": "Surface area of 3D shapes",
+    "title_zh": "三维图形的表面积",
     "domain": "geometry",
     "subdomain": "s5.4",
     "primaryBoard": "cie",
@@ -13037,12 +14396,21 @@
       "hhk-y7"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Surface area of 3D shapes",
+    "topics": [
+      "surface area",
+      "net",
+      "cuboid",
+      "cylinder",
+      "prism"
+    ],
+    "lu_id": "lu.surface_area_3d"
   },
   {
     "kn_id": "kn_0363",
-    "title_en": "Surface area and volume",
-    "title_zh": "表面积与体积",
+    "title_en": "Volume of cone, sphere and pyramid",
+    "title_zh": "圆锥、球和棱锥的体积",
     "domain": "geometry",
     "subdomain": "s5.4",
     "primaryBoard": "cie",
@@ -13113,12 +14481,21 @@
       "hhk-y7"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Volume of cone, sphere and pyramid",
+    "topics": [
+      "volume",
+      "cone",
+      "sphere",
+      "pyramid",
+      "formula"
+    ],
+    "lu_id": "lu.volume_cone_sphere_pyramid"
   },
   {
     "kn_id": "kn_0364",
-    "title_en": "Surface area and volume",
-    "title_zh": "表面积与体积",
+    "title_en": "Surface area of cone and sphere",
+    "title_zh": "圆锥与球的表面积",
     "domain": "geometry",
     "subdomain": "s5.4",
     "primaryBoard": "cie",
@@ -13183,12 +14560,21 @@
       "cie-core-geometry"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Surface area of cone and sphere",
+    "topics": [
+      "surface area",
+      "cone",
+      "sphere",
+      "curved",
+      "slant height"
+    ],
+    "lu_id": "lu.sa_cone_sphere"
   },
   {
     "kn_id": "kn_0365",
-    "title_en": "Compound shapes",
-    "title_zh": "组合图形",
+    "title_en": "Area and perimeter of compound shapes",
+    "title_zh": "组合图形的面积与周长",
     "domain": "geometry",
     "subdomain": "s5.5",
     "primaryBoard": "cie",
@@ -13256,12 +14642,22 @@
       "cie-core-geometry"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Area and perimeter of compound shapes",
+    "topics": [
+      "compound",
+      "L-shape",
+      "T-shape",
+      "composite",
+      "add",
+      "subtract"
+    ],
+    "lu_id": "lu.compound_area"
   },
   {
     "kn_id": "kn_0366",
-    "title_en": "Exact trigonometric values",
-    "title_zh": "三角精确值",
+    "title_en": "Exact values of sin, cos, tan for 0/30/45/60/90 degrees",
+    "title_zh": "特殊角三角函数精确值",
     "domain": "geometry",
     "subdomain": "s6.3",
     "primaryBoard": "both",
@@ -13330,12 +14726,22 @@
       "cie-extended-algebra"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Exact values of sin, cos, tan for 0/30/45/60/90 degrees",
+    "topics": [
+      "exact",
+      "sin 30",
+      "cos 45",
+      "tan 60",
+      "special angles",
+      "surd form"
+    ],
+    "lu_id": "lu.exact_trig_values"
   },
   {
     "kn_id": "kn_0367",
-    "title_en": "Non-right-angled triangles",
-    "title_zh": "非直角三角形",
+    "title_en": "Sine rule (find side or angle)",
+    "title_zh": "正弦定理（求边或角）",
     "domain": "geometry",
     "subdomain": "s6.5",
     "primaryBoard": "cie",
@@ -13401,12 +14807,20 @@
       "cie-extended-algebra"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Sine rule (find side or angle)",
+    "topics": [
+      "sine rule",
+      "a/sinA",
+      "ambiguous case",
+      "non-right"
+    ],
+    "lu_id": "lu.sine_rule"
   },
   {
     "kn_id": "kn_0368",
-    "title_en": "Non-right-angled triangles",
-    "title_zh": "非直角三角形",
+    "title_en": "Cosine rule (find side or angle)",
+    "title_zh": "余弦定理（求边或角）",
     "domain": "geometry",
     "subdomain": "s6.5",
     "primaryBoard": "cie",
@@ -13472,12 +14886,19 @@
       "cie-extended-algebra"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Cosine rule (find side or angle)",
+    "topics": [
+      "cosine rule",
+      "a^2=b^2+c^2-2bc cosA",
+      "non-right"
+    ],
+    "lu_id": "lu.cosine_rule"
   },
   {
     "kn_id": "kn_0369",
-    "title_en": "Non-right-angled triangles",
-    "title_zh": "非直角三角形",
+    "title_en": "Area of triangle using 1/2 ab sin C",
+    "title_zh": "用½absinC求三角形面积",
     "domain": "geometry",
     "subdomain": "s6.5",
     "primaryBoard": "cie",
@@ -13537,12 +14958,20 @@
       "cie-extended-algebra"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Area of triangle using 1/2 ab sin C",
+    "topics": [
+      "area",
+      "triangle",
+      "sine",
+      "half ab sinC"
+    ],
+    "lu_id": "lu.area_half_ab_sinC"
   },
   {
     "kn_id": "kn_0370",
-    "title_en": "3D trigonometry",
-    "title_zh": "三维三角",
+    "title_en": "Pythagoras' theorem in 3D",
+    "title_zh": "三维勾股定理",
     "domain": "geometry",
     "subdomain": "s6.6",
     "primaryBoard": "cie",
@@ -13606,12 +15035,21 @@
       "cie-extended-algebra"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Pythagoras' theorem in 3D",
+    "topics": [
+      "3D",
+      "diagonal",
+      "space diagonal",
+      "cuboid",
+      "Pythagoras"
+    ],
+    "lu_id": "lu.pythagoras_3d"
   },
   {
     "kn_id": "kn_0371",
-    "title_en": "3D trigonometry",
-    "title_zh": "三维三角",
+    "title_en": "Trigonometry in 3D (angle of elevation/depression)",
+    "title_zh": "三维三角学（仰角/俯角）",
     "domain": "geometry",
     "subdomain": "s6.6",
     "primaryBoard": "cie",
@@ -13665,12 +15103,20 @@
       "cie-extended-algebra"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Trigonometry in 3D (angle of elevation/depression)",
+    "topics": [
+      "3D",
+      "angle of elevation",
+      "depression",
+      "trig"
+    ],
+    "lu_id": "lu.trig_3d_angle"
   },
   {
     "kn_id": "kn_0372",
-    "title_en": "Transformations",
-    "title_zh": "变换",
+    "title_en": "Reflect a shape in a given line",
+    "title_zh": "沿给定直线做轴对称变换",
     "domain": "geometry",
     "subdomain": "s7.1",
     "primaryBoard": "cie",
@@ -13743,12 +15189,22 @@
       "hhk-y10"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Reflect a shape in a given line",
+    "topics": [
+      "reflection",
+      "mirror",
+      "line",
+      "x-axis",
+      "y-axis",
+      "y=x"
+    ],
+    "lu_id": "lu.reflection"
   },
   {
     "kn_id": "kn_0373",
-    "title_en": "Transformations",
-    "title_zh": "变换",
+    "title_en": "Rotate a shape about a point",
+    "title_zh": "绕定点旋转图形",
     "domain": "geometry",
     "subdomain": "s7.1",
     "primaryBoard": "cie",
@@ -13816,12 +15272,21 @@
       "cie-extended-algebra"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Rotate a shape about a point",
+    "topics": [
+      "rotation",
+      "centre",
+      "angle",
+      "clockwise",
+      "anticlockwise"
+    ],
+    "lu_id": "lu.rotation"
   },
   {
     "kn_id": "kn_0374",
-    "title_en": "Transformations",
-    "title_zh": "变换",
+    "title_en": "Translate a shape by a vector",
+    "title_zh": "按向量平移图形",
     "domain": "geometry",
     "subdomain": "s7.1",
     "primaryBoard": "cie",
@@ -13885,12 +15350,20 @@
       "cie-core-geometry"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Translate a shape by a vector",
+    "topics": [
+      "translation",
+      "column vector",
+      "slide",
+      "shift"
+    ],
+    "lu_id": "lu.translation"
   },
   {
     "kn_id": "kn_0375",
-    "title_en": "Transformations",
-    "title_zh": "变换",
+    "title_en": "Enlarge a shape by a scale factor",
+    "title_zh": "按比例因子放缩图形",
     "domain": "geometry",
     "subdomain": "s7.1",
     "primaryBoard": "cie",
@@ -13960,12 +15433,20 @@
       "hhk-y10"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Enlarge a shape by a scale factor",
+    "topics": [
+      "enlargement",
+      "scale factor",
+      "centre of enlargement",
+      "similar"
+    ],
+    "lu_id": "lu.enlargement"
   },
   {
     "kn_id": "kn_0377",
-    "title_en": "Transformations",
-    "title_zh": "变换",
+    "title_en": "Combined transformations",
+    "title_zh": "组合变换",
     "domain": "geometry",
     "subdomain": "s7.1",
     "primaryBoard": "cie",
@@ -14029,12 +15510,20 @@
       "cie-core-geometry"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Combined transformations",
+    "topics": [
+      "combined",
+      "successive",
+      "transformation",
+      "equivalent"
+    ],
+    "lu_id": "lu.combined_transformations"
   },
   {
     "kn_id": "kn_0380",
-    "title_en": "Interpreting statistical data",
-    "title_zh": "数据解读",
+    "title_en": "Interpret information from tables and charts",
+    "title_zh": "从表格和图表中提取信息",
     "domain": "statistics",
     "subdomain": "s9.2",
     "primaryBoard": "cie",
@@ -14099,12 +15588,21 @@
       "cie-core-number"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Interpret information from tables and charts",
+    "topics": [
+      "interpret",
+      "table",
+      "chart",
+      "read",
+      "compare"
+    ],
+    "lu_id": "lu.interpret_tables_charts"
   },
   {
     "kn_id": "kn_0381",
-    "title_en": "Interpreting statistical data",
-    "title_zh": "数据解读",
+    "title_en": "Read and complete two-way tables",
+    "title_zh": "读取并完成双向表",
     "domain": "statistics",
     "subdomain": "s9.2",
     "primaryBoard": "cie",
@@ -14166,12 +15664,20 @@
       "cie-core-number"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Read and complete two-way tables",
+    "topics": [
+      "two-way table",
+      "cross-tabulation",
+      "row",
+      "column"
+    ],
+    "lu_id": "lu.two_way_table"
   },
   {
     "kn_id": "kn_0382",
-    "title_en": "Statistical charts and diagrams",
-    "title_zh": "统计图表",
+    "title_en": "Draw and interpret pie charts",
+    "title_zh": "绘制与读取饼图",
     "domain": "statistics",
     "subdomain": "s9.4",
     "primaryBoard": "cie",
@@ -14243,12 +15749,20 @@
       "hhk-y11"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Draw and interpret pie charts",
+    "topics": [
+      "pie chart",
+      "sector",
+      "angle",
+      "proportion"
+    ],
+    "lu_id": "lu.pie_chart"
   },
   {
     "kn_id": "kn_0383",
-    "title_en": "Statistical charts and diagrams",
-    "title_zh": "统计图表",
+    "title_en": "Draw and interpret bar charts and pictograms",
+    "title_zh": "绘制与读取柱状图和象形图",
     "domain": "statistics",
     "subdomain": "s9.4",
     "primaryBoard": "cie",
@@ -14319,12 +15833,20 @@
       "hhk-y9"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Draw and interpret bar charts and pictograms",
+    "topics": [
+      "bar chart",
+      "pictogram",
+      "frequency",
+      "dual bar"
+    ],
+    "lu_id": "lu.bar_chart_pictogram"
   },
   {
     "kn_id": "kn_0384",
-    "title_en": "Statistical charts and diagrams",
-    "title_zh": "统计图表",
+    "title_en": "Draw and interpret frequency polygons",
+    "title_zh": "绘制与读取频率多边形",
     "domain": "statistics",
     "subdomain": "s9.4",
     "primaryBoard": "cie",
@@ -14389,12 +15911,19 @@
       "cie-core-number"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Draw and interpret frequency polygons",
+    "topics": [
+      "frequency polygon",
+      "midpoint",
+      "line graph"
+    ],
+    "lu_id": "lu.frequency_polygon"
   },
   {
     "kn_id": "kn_0385",
-    "title_en": "Cumulative frequency",
-    "title_zh": "累积频率",
+    "title_en": "Draw and read cumulative frequency diagrams",
+    "title_zh": "绘制与读取累积频率图",
     "domain": "statistics",
     "subdomain": "s9.6",
     "primaryBoard": "cie",
@@ -14454,12 +15983,20 @@
       "cie-core-number"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Draw and read cumulative frequency diagrams",
+    "topics": [
+      "cumulative frequency",
+      "ogive",
+      "upper boundary",
+      "S-curve"
+    ],
+    "lu_id": "lu.cumulative_frequency_diagram"
   },
   {
     "kn_id": "kn_0386",
-    "title_en": "Cumulative frequency",
-    "title_zh": "累积频率",
+    "title_en": "Estimate median and quartiles from cumulative frequency",
+    "title_zh": "从累积频率图估计中位数与四分位数",
     "domain": "statistics",
     "subdomain": "s9.6",
     "primaryBoard": "cie",
@@ -14515,12 +16052,21 @@
       "cie-core-number"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Estimate median and quartiles from cumulative frequency",
+    "topics": [
+      "median",
+      "lower quartile",
+      "upper quartile",
+      "IQR",
+      "cumulative"
+    ],
+    "lu_id": "lu.median_quartiles_from_cf"
   },
   {
     "kn_id": "kn_0388",
-    "title_en": "Histograms",
-    "title_zh": "频率直方图",
+    "title_en": "Draw and read histograms with frequency density",
+    "title_zh": "绘制与读取频率密度直方图",
     "domain": "statistics",
     "subdomain": "s9.7",
     "primaryBoard": "cie",
@@ -14578,12 +16124,20 @@
       "cie-core-number"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Draw and read histograms with frequency density",
+    "topics": [
+      "histogram",
+      "frequency density",
+      "class width",
+      "unequal intervals"
+    ],
+    "lu_id": "lu.histogram_frequency_density"
   },
   {
     "kn_id": "kn_0390",
-    "title_en": "Similarity and congruence",
-    "title_zh": "相似与全等",
+    "title_en": "Similar shapes and scale factor",
+    "title_zh": "相似图形与比例因子",
     "domain": "geometry",
     "subdomain": "s4.4",
     "primaryBoard": "both",
@@ -14658,12 +16212,21 @@
       "hhk-y9"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Similar shapes and scale factor",
+    "topics": [
+      "similar",
+      "scale factor",
+      "same shape",
+      "different size",
+      "corresponding sides"
+    ],
+    "lu_id": "lu.similar_shapes"
   },
   {
     "kn_id": "kn_0391",
-    "title_en": "Similarity and congruence",
-    "title_zh": "相似与全等",
+    "title_en": "Find missing lengths using similarity",
+    "title_zh": "用相似求缺失边长",
     "domain": "geometry",
     "subdomain": "s4.4",
     "primaryBoard": "both",
@@ -14737,12 +16300,20 @@
       "edx-foundation"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Find missing lengths using similarity",
+    "topics": [
+      "similar triangles",
+      "corresponding sides",
+      "scale factor",
+      "missing length"
+    ],
+    "lu_id": "lu.similar_missing_length"
   },
   {
     "kn_id": "kn_0392",
-    "title_en": "Similarity and congruence",
-    "title_zh": "相似与全等",
+    "title_en": "Find areas and volumes using similarity ratios",
+    "title_zh": "用相似比求面积与体积",
     "domain": "geometry",
     "subdomain": "s4.4",
     "primaryBoard": "both",
@@ -14815,12 +16386,20 @@
       "hhk-y9"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Find areas and volumes using similarity ratios",
+    "topics": [
+      "area ratio",
+      "volume ratio",
+      "scale factor squared",
+      "scale factor cubed"
+    ],
+    "lu_id": "lu.similar_area_volume_ratio"
   },
   {
     "kn_id": "kn_0393",
-    "title_en": "Similarity and congruence",
-    "title_zh": "相似与全等",
+    "title_en": "Congruent shapes and conditions for congruence",
+    "title_zh": "全等图形与全等条件",
     "domain": "geometry",
     "subdomain": "s4.4",
     "primaryBoard": "both",
@@ -14891,6 +16470,16 @@
       "edx-foundation"
     ],
     "version": 1,
-    "createdAt": "2026-04-07T00:00:00Z"
+    "createdAt": "2026-04-07T00:00:00Z",
+    "description": "Congruent shapes and conditions for congruence",
+    "topics": [
+      "congruent",
+      "SSS",
+      "SAS",
+      "ASA",
+      "RHS",
+      "AAA not sufficient"
+    ],
+    "lu_id": "lu.congruent_shapes"
   }
 ]

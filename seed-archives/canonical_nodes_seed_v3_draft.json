@@ -1,0 +1,8755 @@
+{
+  "version": "0.2.2-v2.2-plus-draft",
+  "generated_at": "2026-04-01",
+  "description": "Phase 2C + 2C.1 — v2.2 + 4 new nodes for s4.4 Similarity & Congruence",
+  "stats": {
+    "total_nodes": 398,
+    "by_type": {
+      "concept": 55,
+      "method": 9,
+      "skill": 200,
+      "error": 134
+    }
+  },
+  "decisions_applied": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "nodes": [
+    {
+      "kn_id": "kn_0001",
+      "lu_id": "lu.place_value",
+      "node_type": "concept",
+      "title": {
+        "en": "Place value",
+        "zh": "位值"
+      },
+      "domain": "number",
+      "subdomain": "integers",
+      "source_sections": [
+        "1.1"
+      ],
+      "aliases": [],
+      "tags": [
+        "place value",
+        "digits",
+        "ones",
+        "tens"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0002",
+      "lu_id": "lu.prime_number",
+      "node_type": "concept",
+      "title": {
+        "en": "Prime numbers",
+        "zh": "质数"
+      },
+      "domain": "number",
+      "subdomain": "integers",
+      "source_sections": [
+        "1.1"
+      ],
+      "aliases": [],
+      "tags": [
+        "prime",
+        "divisible",
+        "only 1 and itself"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0003",
+      "lu_id": "lu.factor",
+      "node_type": "concept",
+      "title": {
+        "en": "Factors of a number",
+        "zh": "因数"
+      },
+      "domain": "number",
+      "subdomain": "integers",
+      "source_sections": [
+        "1.1"
+      ],
+      "aliases": [],
+      "tags": [
+        "factor",
+        "divisor",
+        "divides exactly"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0004",
+      "lu_id": "lu.multiple",
+      "node_type": "concept",
+      "title": {
+        "en": "Multiples of a number",
+        "zh": "倍数"
+      },
+      "domain": "number",
+      "subdomain": "integers",
+      "source_sections": [
+        "1.1"
+      ],
+      "aliases": [],
+      "tags": [
+        "multiple",
+        "times table",
+        "divisible by"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0005",
+      "lu_id": "lu.prime_factorisation",
+      "node_type": "method",
+      "title": {
+        "en": "Prime factorisation",
+        "zh": "质因数分解"
+      },
+      "domain": "number",
+      "subdomain": "integers",
+      "source_sections": [
+        "1.1"
+      ],
+      "aliases": [],
+      "tags": [
+        "prime factor",
+        "factor tree",
+        "index form"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0006",
+      "lu_id": "lu.hcf",
+      "node_type": "skill",
+      "title": {
+        "en": "Highest Common Factor (HCF)",
+        "zh": "最大公因数"
+      },
+      "domain": "number",
+      "subdomain": "integers",
+      "source_sections": [
+        "1.1",
+        "1.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "hcf",
+        "gcd",
+        "common factor",
+        "shared"
+      ],
+      "merge_note": "Merged from sections 1.1, 1.4 (appeared 2x in raw extraction)"
+    },
+    {
+      "kn_id": "kn_0007",
+      "lu_id": "lu.lcm",
+      "node_type": "skill",
+      "title": {
+        "en": "Lowest Common Multiple (LCM)",
+        "zh": "最小公倍数"
+      },
+      "domain": "number",
+      "subdomain": "integers",
+      "source_sections": [
+        "1.1",
+        "1.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "lcm",
+        "common multiple",
+        "schedule"
+      ],
+      "merge_note": "Merged from sections 1.1, 1.4 (appeared 2x in raw extraction)"
+    },
+    {
+      "kn_id": "kn_0008",
+      "lu_id": "lu.hcf_lcm_word",
+      "node_type": "skill",
+      "title": {
+        "en": "HCF/LCM in context",
+        "zh": "HCF/LCM 应用题"
+      },
+      "domain": "number",
+      "subdomain": "integers",
+      "source_sections": [
+        "1.1"
+      ],
+      "aliases": [],
+      "tags": [
+        "word problem",
+        "buses",
+        "tiles",
+        "groups",
+        "application_context"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0009",
+      "lu_id": "lu.square_number",
+      "node_type": "concept",
+      "title": {
+        "en": "Square numbers and roots",
+        "zh": "平方数与平方根"
+      },
+      "domain": "number",
+      "subdomain": "integers",
+      "source_sections": [
+        "1.1"
+      ],
+      "aliases": [],
+      "tags": [
+        "square",
+        "root",
+        "perfect square"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0010",
+      "lu_id": "lu.cube_number",
+      "node_type": "concept",
+      "title": {
+        "en": "Cube numbers and roots",
+        "zh": "立方数与立方根"
+      },
+      "domain": "number",
+      "subdomain": "integers",
+      "source_sections": [
+        "1.1"
+      ],
+      "aliases": [],
+      "tags": [
+        "cube",
+        "cube root",
+        "perfect cube"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0011",
+      "lu_id": "lu.reciprocal",
+      "node_type": "concept",
+      "title": {
+        "en": "What is a reciprocal",
+        "zh": "什么是倒数"
+      },
+      "domain": "number",
+      "subdomain": "integers",
+      "source_sections": [
+        "1.1",
+        "1.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "reciprocal",
+        "flip",
+        "1 over n"
+      ],
+      "merge_note": "Merged from sections 1.1, 1.4 (appeared 2x in raw extraction)"
+    },
+    {
+      "kn_id": "kn_0012",
+      "lu_id": "lu.list_set_elements",
+      "node_type": "concept",
+      "title": {
+        "en": "List Set Elements",
+        "zh": "列出集合元素"
+      },
+      "domain": "number",
+      "subdomain": "s1.2",
+      "source_sections": [
+        "1.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "list",
+        "set",
+        "elements"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0013",
+      "lu_id": "lu.set_cardinality",
+      "node_type": "concept",
+      "title": {
+        "en": "Set Cardinality",
+        "zh": "集合基数"
+      },
+      "domain": "number",
+      "subdomain": "s1.2",
+      "source_sections": [
+        "1.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "set",
+        "cardinality"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0014",
+      "lu_id": "lu.evaluate_power",
+      "node_type": "skill",
+      "title": {
+        "en": "Evaluate powers",
+        "zh": "计算幂"
+      },
+      "domain": "number",
+      "subdomain": "powers",
+      "source_sections": [
+        "1.3"
+      ],
+      "aliases": [],
+      "tags": [
+        "power",
+        "exponent",
+        "base",
+        "evaluate"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0015",
+      "lu_id": "lu.evaluate_root",
+      "node_type": "skill",
+      "title": {
+        "en": "Evaluate roots",
+        "zh": "计算根"
+      },
+      "domain": "number",
+      "subdomain": "powers",
+      "source_sections": [
+        "1.3"
+      ],
+      "aliases": [],
+      "tags": [
+        "root",
+        "square root",
+        "cube root"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0016",
+      "lu_id": "lu.zero_index",
+      "node_type": "skill",
+      "title": {
+        "en": "Zero index (a⁰ = 1)",
+        "zh": "零指数"
+      },
+      "domain": "number",
+      "subdomain": "powers",
+      "source_sections": [
+        "1.3",
+        "1.7"
+      ],
+      "aliases": [],
+      "tags": [
+        "zero",
+        "index",
+        "rule"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0017",
+      "lu_id": "lu.negative_index",
+      "node_type": "skill",
+      "title": {
+        "en": "Negative index (a⁻ⁿ = 1/aⁿ)",
+        "zh": "负指数"
+      },
+      "domain": "number",
+      "subdomain": "powers",
+      "source_sections": [
+        "1.3",
+        "1.7"
+      ],
+      "aliases": [],
+      "tags": [
+        "negative",
+        "index",
+        "reciprocal"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0018",
+      "lu_id": "lu.fractional_index",
+      "node_type": "skill",
+      "title": {
+        "en": "Fractional index (a^(1/n) = ⁿ√a)",
+        "zh": "分数指数"
+      },
+      "domain": "number",
+      "subdomain": "powers",
+      "source_sections": [
+        "1.3",
+        "1.7"
+      ],
+      "aliases": [],
+      "tags": [
+        "fractional",
+        "index",
+        "root",
+        "power"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0019",
+      "lu_id": "lu.index_laws",
+      "node_type": "skill",
+      "title": {
+        "en": "Index laws (multiply/divide/power)",
+        "zh": "指数运算法则"
+      },
+      "domain": "number",
+      "subdomain": "powers",
+      "source_sections": [
+        "1.3",
+        "2.2",
+        "1.7"
+      ],
+      "aliases": [],
+      "tags": [
+        "law",
+        "multiply",
+        "divide",
+        "add exponents"
+      ],
+      "merge_note": "Merged from sections 1.3, 2.2 (appeared 2x in raw extraction)",
+      "domain_tags": [
+        "number",
+        "algebra"
+      ]
+    },
+    {
+      "kn_id": "kn_0020",
+      "lu_id": "lu.fraction_concept",
+      "node_type": "concept",
+      "title": {
+        "en": "What is a fraction",
+        "zh": "分数的概念"
+      },
+      "domain": "number",
+      "subdomain": "fractions",
+      "source_sections": [
+        "1.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "fraction",
+        "numerator",
+        "denominator"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0021",
+      "lu_id": "lu.equivalent_fraction",
+      "node_type": "skill",
+      "title": {
+        "en": "Equivalent fractions",
+        "zh": "等值分数"
+      },
+      "domain": "number",
+      "subdomain": "fractions",
+      "source_sections": [
+        "1.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "fraction",
+        "equivalent",
+        "multiply",
+        "divide"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0022",
+      "lu_id": "lu.simplest_form",
+      "node_type": "skill",
+      "title": {
+        "en": "Simplify to lowest terms",
+        "zh": "约分到最简"
+      },
+      "domain": "number",
+      "subdomain": "fractions",
+      "source_sections": [
+        "1.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "simplify",
+        "cancel",
+        "lowest terms",
+        "hcf"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0023",
+      "lu_id": "lu.decimal_places",
+      "node_type": "concept",
+      "title": {
+        "en": "Decimal place value",
+        "zh": "小数位值"
+      },
+      "domain": "number",
+      "subdomain": "decimals",
+      "source_sections": [
+        "1.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "decimal",
+        "place value",
+        "tenths",
+        "hundredths"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0024",
+      "lu_id": "lu.decimal_to_fraction",
+      "node_type": "skill",
+      "title": {
+        "en": "Decimal to fraction",
+        "zh": "小数化分数"
+      },
+      "domain": "number",
+      "subdomain": "fdp",
+      "source_sections": [
+        "1.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "decimal",
+        "fraction",
+        "convert",
+        "simplify"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0025",
+      "lu_id": "lu.fraction_to_decimal",
+      "node_type": "skill",
+      "title": {
+        "en": "Fraction to decimal",
+        "zh": "分数化小数"
+      },
+      "domain": "number",
+      "subdomain": "fdp",
+      "source_sections": [
+        "1.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "fraction",
+        "decimal",
+        "division",
+        "convert"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0026",
+      "lu_id": "lu.percent_concept",
+      "node_type": "concept",
+      "title": {
+        "en": "Percentage as parts per 100",
+        "zh": "百分数 = 每百份中"
+      },
+      "domain": "number",
+      "subdomain": "fdp",
+      "source_sections": [
+        "1.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "percent",
+        "hundred",
+        "proportion"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0027",
+      "lu_id": "lu.fdp_conversion",
+      "node_type": "skill",
+      "title": {
+        "en": "Convert between F/D/P",
+        "zh": "分数/小数/百分数互转"
+      },
+      "domain": "number",
+      "subdomain": "fdp",
+      "source_sections": [
+        "1.4",
+        "1.13"
+      ],
+      "aliases": [],
+      "tags": [
+        "fraction",
+        "decimal",
+        "percent",
+        "convert"
+      ],
+      "merge_note": "Merged from sections 1.4, 1.13 (appeared 2x in raw extraction)"
+    },
+    {
+      "kn_id": "kn_0028",
+      "lu_id": "lu.fraction_addition",
+      "node_type": "skill",
+      "title": {
+        "en": "Add fractions (unlike denominators)",
+        "zh": "异分母分数加法"
+      },
+      "domain": "number",
+      "subdomain": "fractions",
+      "source_sections": [
+        "1.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "fraction",
+        "add",
+        "lcm",
+        "common denominator"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0029",
+      "lu_id": "lu.fraction_subtraction",
+      "node_type": "skill",
+      "title": {
+        "en": "Subtract fractions",
+        "zh": "分数减法"
+      },
+      "domain": "number",
+      "subdomain": "fractions",
+      "source_sections": [
+        "1.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "fraction",
+        "subtract",
+        "borrow"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0030",
+      "lu_id": "lu.fraction_multiplication",
+      "node_type": "skill",
+      "title": {
+        "en": "Multiply fractions",
+        "zh": "分数乘法"
+      },
+      "domain": "number",
+      "subdomain": "fractions",
+      "source_sections": [
+        "1.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "fraction",
+        "multiply",
+        "cross-cancel",
+        "of"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0031",
+      "lu_id": "lu.fraction_of_amount",
+      "node_type": "skill",
+      "title": {
+        "en": "Fraction of an amount",
+        "zh": "求一个数的几分之几"
+      },
+      "domain": "number",
+      "subdomain": "fractions",
+      "source_sections": [
+        "1.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "fraction",
+        "of",
+        "multiply",
+        "word problem"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0032",
+      "lu_id": "lu.order_of_operations",
+      "node_type": "concept",
+      "title": {
+        "en": "Order of operations (BODMAS)",
+        "zh": "运算顺序"
+      },
+      "domain": "number",
+      "subdomain": "operations",
+      "source_sections": [
+        "1.6"
+      ],
+      "aliases": [],
+      "tags": [
+        "BODMAS",
+        "BIDMAS",
+        "order",
+        "brackets"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0033",
+      "lu_id": "lu.negative_numbers",
+      "node_type": "concept",
+      "title": {
+        "en": "Negative numbers (concept)",
+        "zh": "负数（概念）"
+      },
+      "domain": "number",
+      "subdomain": "operations",
+      "source_sections": [
+        "1.6"
+      ],
+      "aliases": [],
+      "tags": [
+        "negative",
+        "minus",
+        "sign rules"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0034",
+      "lu_id": "lu.decimal_arithmetic",
+      "node_type": "concept",
+      "title": {
+        "en": "Decimal arithmetic",
+        "zh": "小数运算"
+      },
+      "domain": "number",
+      "subdomain": "operations",
+      "source_sections": [
+        "1.6"
+      ],
+      "aliases": [],
+      "tags": [
+        "decimal",
+        "add",
+        "subtract",
+        "multiply",
+        "divide"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0035",
+      "lu_id": "lu.word_problem_arithmetic",
+      "node_type": "skill",
+      "title": {
+        "en": "Multi-step word problems",
+        "zh": "多步应用题"
+      },
+      "domain": "number",
+      "subdomain": "operations",
+      "source_sections": [
+        "1.6"
+      ],
+      "aliases": [],
+      "tags": [
+        "word problem",
+        "money",
+        "wages",
+        "context",
+        "application_context"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0036",
+      "lu_id": "lu.sf_concept",
+      "node_type": "concept",
+      "title": {
+        "en": "Standard form concept (A × 10ⁿ)",
+        "zh": "标准式的概念"
+      },
+      "domain": "number",
+      "subdomain": "standard-form",
+      "source_sections": [
+        "1.8"
+      ],
+      "aliases": [],
+      "tags": [
+        "standard form",
+        "scientific notation",
+        "power of 10"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0037",
+      "lu_id": "lu.convert_to_sf",
+      "node_type": "skill",
+      "title": {
+        "en": "Convert to standard form",
+        "zh": "转化为标准式"
+      },
+      "domain": "number",
+      "subdomain": "standard-form",
+      "source_sections": [
+        "1.8"
+      ],
+      "aliases": [],
+      "tags": [
+        "convert",
+        "large",
+        "small",
+        "decimal point"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0038",
+      "lu_id": "lu.convert_from_sf",
+      "node_type": "skill",
+      "title": {
+        "en": "Convert from standard form",
+        "zh": "标准式转普通数"
+      },
+      "domain": "number",
+      "subdomain": "standard-form",
+      "source_sections": [
+        "1.8"
+      ],
+      "aliases": [],
+      "tags": [
+        "ordinary",
+        "expand",
+        "place value"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0039",
+      "lu_id": "lu.sf_arithmetic",
+      "node_type": "skill",
+      "title": {
+        "en": "Arithmetic in standard form",
+        "zh": "标准式运算"
+      },
+      "domain": "number",
+      "subdomain": "standard-form",
+      "source_sections": [
+        "1.8"
+      ],
+      "aliases": [],
+      "tags": [
+        "add",
+        "subtract",
+        "multiply",
+        "divide",
+        "index laws"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0040",
+      "lu_id": "lu.sf_ordering",
+      "node_type": "skill",
+      "title": {
+        "en": "Order standard form values",
+        "zh": "标准式比大小"
+      },
+      "domain": "number",
+      "subdomain": "standard-form",
+      "source_sections": [
+        "1.8"
+      ],
+      "aliases": [],
+      "tags": [
+        "order",
+        "compare",
+        "exponent first"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0041",
+      "lu_id": "lu.sf_context",
+      "node_type": "skill",
+      "title": {
+        "en": "Standard form in context",
+        "zh": "标准式应用题"
+      },
+      "domain": "number",
+      "subdomain": "standard-form",
+      "source_sections": [
+        "1.8"
+      ],
+      "aliases": [],
+      "tags": [
+        "science",
+        "distance",
+        "mass",
+        "context",
+        "application_context"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0042",
+      "lu_id": "lu.round_dp",
+      "node_type": "skill",
+      "title": {
+        "en": "Round to decimal places",
+        "zh": "四舍五入到小数位"
+      },
+      "domain": "number",
+      "subdomain": "estimation",
+      "source_sections": [
+        "1.9"
+      ],
+      "aliases": [],
+      "tags": [
+        "round",
+        "decimal places",
+        "dp"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0043",
+      "lu_id": "lu.round_sf",
+      "node_type": "skill",
+      "title": {
+        "en": "Round to significant figures",
+        "zh": "四舍五入到有效数字"
+      },
+      "domain": "number",
+      "subdomain": "estimation",
+      "source_sections": [
+        "1.9"
+      ],
+      "aliases": [],
+      "tags": [
+        "round",
+        "significant figures",
+        "sf"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0044",
+      "lu_id": "lu.round_nearest",
+      "node_type": "skill",
+      "title": {
+        "en": "Round to nearest 10/100/1000",
+        "zh": "四舍五入到整十/百/千"
+      },
+      "domain": "number",
+      "subdomain": "estimation",
+      "source_sections": [
+        "1.9"
+      ],
+      "aliases": [],
+      "tags": [
+        "round",
+        "nearest",
+        "10",
+        "100"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0045",
+      "lu_id": "lu.estimation",
+      "node_type": "method",
+      "title": {
+        "en": "Estimate by rounding to 1 s.f.",
+        "zh": "用1位有效数字估算"
+      },
+      "domain": "number",
+      "subdomain": "estimation",
+      "source_sections": [
+        "1.9"
+      ],
+      "aliases": [],
+      "tags": [
+        "estimate",
+        "1 sf",
+        "approximate"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0046",
+      "lu_id": "lu.upper_lower_bound",
+      "node_type": "concept",
+      "title": {
+        "en": "Upper and lower bounds",
+        "zh": "上界与下界"
+      },
+      "domain": "number",
+      "subdomain": "accuracy",
+      "source_sections": [
+        "1.10"
+      ],
+      "aliases": [],
+      "tags": [
+        "bound",
+        "rounding",
+        "half unit",
+        "accuracy"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0047",
+      "lu_id": "lu.bound_addition",
+      "node_type": "skill",
+      "title": {
+        "en": "Bounds of sums and differences",
+        "zh": "和与差的界"
+      },
+      "domain": "number",
+      "subdomain": "accuracy",
+      "source_sections": [
+        "1.10"
+      ],
+      "aliases": [],
+      "tags": [
+        "add",
+        "subtract",
+        "upper",
+        "lower",
+        "max",
+        "min"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0048",
+      "lu_id": "lu.bound_product",
+      "node_type": "skill",
+      "title": {
+        "en": "Bounds of products",
+        "zh": "积的界"
+      },
+      "domain": "number",
+      "subdomain": "accuracy",
+      "source_sections": [
+        "1.10"
+      ],
+      "aliases": [],
+      "tags": [
+        "multiply",
+        "area",
+        "max product",
+        "min product"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0049",
+      "lu_id": "lu.bound_quotient",
+      "node_type": "skill",
+      "title": {
+        "en": "Bounds of quotients",
+        "zh": "商的界"
+      },
+      "domain": "number",
+      "subdomain": "accuracy",
+      "source_sections": [
+        "1.10"
+      ],
+      "aliases": [],
+      "tags": [
+        "divide",
+        "speed",
+        "density",
+        "max over min"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0050",
+      "lu_id": "lu.bound_interval",
+      "node_type": "skill",
+      "title": {
+        "en": "Error interval notation",
+        "zh": "误差区间表示"
+      },
+      "domain": "number",
+      "subdomain": "accuracy",
+      "source_sections": [
+        "1.10"
+      ],
+      "aliases": [],
+      "tags": [
+        "interval",
+        "inequality",
+        "notation"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0051",
+      "lu_id": "lu.bound_application",
+      "node_type": "skill",
+      "title": {
+        "en": "Bounds in context (formulas)",
+        "zh": "界的应用（公式）"
+      },
+      "domain": "number",
+      "subdomain": "accuracy",
+      "source_sections": [
+        "1.10"
+      ],
+      "aliases": [],
+      "tags": [
+        "formula",
+        "application",
+        "context",
+        "significant",
+        "application_context"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0052",
+      "lu_id": "lu.simplify_ratio",
+      "node_type": "skill",
+      "title": {
+        "en": "Simplify ratios",
+        "zh": "化简比"
+      },
+      "domain": "number",
+      "subdomain": "ratio",
+      "source_sections": [
+        "1.11"
+      ],
+      "aliases": [],
+      "tags": [
+        "ratio",
+        "simplify",
+        "HCF",
+        "equivalent"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0053",
+      "lu_id": "lu.write_ratio",
+      "node_type": "skill",
+      "title": {
+        "en": "Write as a ratio",
+        "zh": "写成比"
+      },
+      "domain": "number",
+      "subdomain": "ratio",
+      "source_sections": [
+        "1.11"
+      ],
+      "aliases": [],
+      "tags": [
+        "ratio",
+        "express",
+        "units",
+        "convert"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0054",
+      "lu_id": "lu.share_in_ratio",
+      "node_type": "skill",
+      "title": {
+        "en": "Share in a given ratio",
+        "zh": "按比分配"
+      },
+      "domain": "number",
+      "subdomain": "ratio",
+      "source_sections": [
+        "1.11"
+      ],
+      "aliases": [],
+      "tags": [
+        "share",
+        "divide",
+        "parts",
+        "total"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0055",
+      "lu_id": "lu.ratio_problem",
+      "node_type": "skill",
+      "title": {
+        "en": "Ratio word problems",
+        "zh": "比的应用题"
+      },
+      "domain": "number",
+      "subdomain": "ratio",
+      "source_sections": [
+        "1.11"
+      ],
+      "aliases": [],
+      "tags": [
+        "word problem",
+        "context",
+        "increase",
+        "decrease",
+        "application_context"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0056",
+      "lu_id": "lu.sdt_triangle",
+      "node_type": "skill",
+      "title": {
+        "en": "Speed-Distance-Time relationship",
+        "zh": "速度-距离-时间关系"
+      },
+      "domain": "number",
+      "subdomain": "rates",
+      "source_sections": [
+        "1.12"
+      ],
+      "aliases": [],
+      "tags": [
+        "speed",
+        "distance",
+        "time",
+        "formula"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0057",
+      "lu_id": "lu.unit_conversion_speed",
+      "node_type": "skill",
+      "title": {
+        "en": "Convert speed units (km/h ↔ m/s)",
+        "zh": "速度单位换算"
+      },
+      "domain": "number",
+      "subdomain": "rates",
+      "source_sections": [
+        "1.12"
+      ],
+      "aliases": [],
+      "tags": [
+        "km/h",
+        "m/s",
+        "convert",
+        "×3.6"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0058",
+      "lu_id": "lu.length_conversion",
+      "node_type": "skill",
+      "title": {
+        "en": "Convert length units",
+        "zh": "长度单位换算"
+      },
+      "domain": "number",
+      "subdomain": "rates",
+      "source_sections": [
+        "1.12"
+      ],
+      "aliases": [],
+      "tags": [
+        "mm",
+        "cm",
+        "m",
+        "km",
+        "convert"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0059",
+      "lu_id": "lu.area_conversion",
+      "node_type": "skill",
+      "title": {
+        "en": "Convert area units",
+        "zh": "面积单位换算"
+      },
+      "domain": "number",
+      "subdomain": "rates",
+      "source_sections": [
+        "1.12"
+      ],
+      "aliases": [],
+      "tags": [
+        "cm²",
+        "m²",
+        "square",
+        "×10000"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0060",
+      "lu_id": "lu.volume_conversion",
+      "node_type": "skill",
+      "title": {
+        "en": "Convert volume units",
+        "zh": "体积单位换算"
+      },
+      "domain": "number",
+      "subdomain": "rates",
+      "source_sections": [
+        "1.12"
+      ],
+      "aliases": [],
+      "tags": [
+        "cm³",
+        "m³",
+        "litres",
+        "cube"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0061",
+      "lu_id": "lu.multi_part_journey",
+      "node_type": "skill",
+      "title": {
+        "en": "Multi-part journeys",
+        "zh": "多段路程"
+      },
+      "domain": "number",
+      "subdomain": "rates",
+      "source_sections": [
+        "1.12"
+      ],
+      "aliases": [],
+      "tags": [
+        "journey",
+        "average",
+        "total",
+        "two parts",
+        "application_context"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0062",
+      "lu_id": "lu.percent_of_amount",
+      "node_type": "skill",
+      "title": {
+        "en": "Percentage of an amount",
+        "zh": "求百分比对应的量"
+      },
+      "domain": "number",
+      "subdomain": "percentages",
+      "source_sections": [
+        "1.13"
+      ],
+      "aliases": [],
+      "tags": [
+        "percent",
+        "of",
+        "multiply",
+        "amount"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0063",
+      "lu_id": "lu.multiplier_concept",
+      "node_type": "concept",
+      "title": {
+        "en": "Percentage as a multiplier",
+        "zh": "百分数作为乘数"
+      },
+      "domain": "number",
+      "subdomain": "percentages",
+      "source_sections": [
+        "1.13"
+      ],
+      "aliases": [],
+      "tags": [
+        "multiplier",
+        "1.05",
+        "0.95",
+        "increase",
+        "decrease"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0064",
+      "lu_id": "lu.percent_increase",
+      "node_type": "skill",
+      "title": {
+        "en": "Percentage increase",
+        "zh": "百分数增加"
+      },
+      "domain": "number",
+      "subdomain": "percentages",
+      "source_sections": [
+        "1.13"
+      ],
+      "aliases": [],
+      "tags": [
+        "increase",
+        "profit",
+        "markup",
+        "multiplier"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0065",
+      "lu_id": "lu.percent_decrease",
+      "node_type": "skill",
+      "title": {
+        "en": "Percentage decrease",
+        "zh": "百分数减少"
+      },
+      "domain": "number",
+      "subdomain": "percentages",
+      "source_sections": [
+        "1.13"
+      ],
+      "aliases": [],
+      "tags": [
+        "decrease",
+        "discount",
+        "loss",
+        "sale"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0066",
+      "lu_id": "lu.percent_change",
+      "node_type": "skill",
+      "title": {
+        "en": "Calculate percentage change",
+        "zh": "计算百分比变化"
+      },
+      "domain": "number",
+      "subdomain": "percentages",
+      "source_sections": [
+        "1.13"
+      ],
+      "aliases": [],
+      "tags": [
+        "change",
+        "profit",
+        "loss",
+        "formula"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0067",
+      "lu_id": "lu.reverse_percent",
+      "node_type": "skill",
+      "title": {
+        "en": "Reverse percentage (find original)",
+        "zh": "逆向百分数（求原值）"
+      },
+      "domain": "number",
+      "subdomain": "percentages",
+      "source_sections": [
+        "1.13"
+      ],
+      "aliases": [],
+      "tags": [
+        "reverse",
+        "original",
+        "before",
+        "divide multiplier"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0068",
+      "lu_id": "lu.simple_interest",
+      "node_type": "skill",
+      "title": {
+        "en": "Simple interest (PRT/100)",
+        "zh": "单利"
+      },
+      "domain": "number",
+      "subdomain": "percentages",
+      "source_sections": [
+        "1.13"
+      ],
+      "aliases": [],
+      "tags": [
+        "interest",
+        "simple",
+        "PRT",
+        "annual"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0069",
+      "lu_id": "lu.compound_interest",
+      "node_type": "skill",
+      "title": {
+        "en": "Compound interest",
+        "zh": "复利"
+      },
+      "domain": "number",
+      "subdomain": "percentages",
+      "source_sections": [
+        "1.13"
+      ],
+      "aliases": [],
+      "tags": [
+        "compound",
+        "power",
+        "annual",
+        "exponential"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0070",
+      "lu_id": "lu.exponential_growth",
+      "node_type": "concept",
+      "title": {
+        "en": "Exponential growth and decay",
+        "zh": "指数增长与衰减"
+      },
+      "domain": "number",
+      "subdomain": "growth_decay",
+      "source_sections": [
+        "1.13",
+        "1.17"
+      ],
+      "aliases": [],
+      "tags": [
+        "exponential",
+        "decay",
+        "growth",
+        "formula",
+        "time"
+      ],
+      "merge_note": "Merged from sections 1.13, 1.17 (appeared 2x in raw extraction)"
+    },
+    {
+      "kn_id": "kn_0071",
+      "lu_id": "lu.successive_change",
+      "node_type": "skill",
+      "title": {
+        "en": "Successive percentage changes",
+        "zh": "连续百分比变化"
+      },
+      "domain": "number",
+      "subdomain": "percentages",
+      "source_sections": [
+        "1.13"
+      ],
+      "aliases": [],
+      "tags": [
+        "successive",
+        "chain",
+        "overall",
+        "not additive",
+        "application_context"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0072",
+      "lu_id": "lu.profit_loss",
+      "node_type": "skill",
+      "title": {
+        "en": "Profit and loss calculations",
+        "zh": "利润与亏损计算"
+      },
+      "domain": "number",
+      "subdomain": "percentages",
+      "source_sections": [
+        "1.13"
+      ],
+      "aliases": [],
+      "tags": [
+        "profit",
+        "loss",
+        "cost",
+        "selling",
+        "revenue",
+        "application_context"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0073",
+      "lu_id": "lu.time_format",
+      "node_type": "concept",
+      "title": {
+        "en": "12-hour and 24-hour time",
+        "zh": "12小时制与24小时制"
+      },
+      "domain": "number",
+      "subdomain": "time",
+      "source_sections": [
+        "1.15"
+      ],
+      "aliases": [],
+      "tags": [
+        "12 hour",
+        "24 hour",
+        "am",
+        "pm",
+        "convert"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0074",
+      "lu_id": "lu.time_units",
+      "node_type": "concept",
+      "title": {
+        "en": "Convert time units",
+        "zh": "时间单位换算"
+      },
+      "domain": "number",
+      "subdomain": "time",
+      "source_sections": [
+        "1.15"
+      ],
+      "aliases": [],
+      "tags": [
+        "hours",
+        "minutes",
+        "seconds",
+        "convert"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0075",
+      "lu_id": "lu.duration",
+      "node_type": "skill",
+      "title": {
+        "en": "Calculate duration",
+        "zh": "计算时长"
+      },
+      "domain": "number",
+      "subdomain": "time",
+      "source_sections": [
+        "1.15"
+      ],
+      "aliases": [],
+      "tags": [
+        "duration",
+        "elapsed",
+        "subtract",
+        "between"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0076",
+      "lu_id": "lu.end_time",
+      "node_type": "skill",
+      "title": {
+        "en": "Find start/end time",
+        "zh": "求起止时间"
+      },
+      "domain": "number",
+      "subdomain": "time",
+      "source_sections": [
+        "1.15"
+      ],
+      "aliases": [],
+      "tags": [
+        "start",
+        "end",
+        "add",
+        "timetable"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0077",
+      "lu_id": "lu.time_zones",
+      "node_type": "skill",
+      "title": {
+        "en": "Time zones",
+        "zh": "时区"
+      },
+      "domain": "number",
+      "subdomain": "time",
+      "source_sections": [
+        "1.15"
+      ],
+      "aliases": [],
+      "tags": [
+        "time zone",
+        "GMT",
+        "offset",
+        "international"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0078",
+      "lu_id": "lu.currency_exchange",
+      "node_type": "skill",
+      "title": {
+        "en": "Currency exchange",
+        "zh": "货币兑换"
+      },
+      "domain": "number",
+      "subdomain": "money",
+      "source_sections": [
+        "1.16"
+      ],
+      "aliases": [],
+      "tags": [
+        "exchange",
+        "currency",
+        "rate",
+        "multiply"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0079",
+      "lu_id": "lu.reverse_exchange",
+      "node_type": "skill",
+      "title": {
+        "en": "Reverse exchange",
+        "zh": "逆向兑换"
+      },
+      "domain": "number",
+      "subdomain": "money",
+      "source_sections": [
+        "1.16"
+      ],
+      "aliases": [],
+      "tags": [
+        "reverse",
+        "divide",
+        "back to original"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0080",
+      "lu_id": "lu.unit_price",
+      "node_type": "concept",
+      "title": {
+        "en": "Unit price / best buy",
+        "zh": "单价/性价比"
+      },
+      "domain": "number",
+      "subdomain": "money",
+      "source_sections": [
+        "1.16"
+      ],
+      "aliases": [],
+      "tags": [
+        "unit",
+        "price",
+        "compare",
+        "value"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0081",
+      "lu_id": "lu.exchange_commission",
+      "node_type": "skill",
+      "title": {
+        "en": "Exchange with commission",
+        "zh": "含手续费的兑换"
+      },
+      "domain": "number",
+      "subdomain": "money",
+      "source_sections": [
+        "1.16"
+      ],
+      "aliases": [],
+      "tags": [
+        "commission",
+        "fee",
+        "percentage",
+        "application_context"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0082",
+      "lu_id": "lu.find_time_period",
+      "node_type": "skill",
+      "title": {
+        "en": "Find Time Period",
+        "zh": "求时间段数"
+      },
+      "domain": "number",
+      "subdomain": "s1.17",
+      "source_sections": [
+        "1.17"
+      ],
+      "aliases": [],
+      "tags": [
+        "find",
+        "time",
+        "period"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0083",
+      "lu_id": "lu.substitution",
+      "node_type": "skill",
+      "title": {
+        "en": "Substitution",
+        "zh": "代入求值"
+      },
+      "domain": "algebra",
+      "subdomain": "s2.1",
+      "source_sections": [
+        "2.1"
+      ],
+      "aliases": [],
+      "tags": [
+        "substitution"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0084",
+      "lu_id": "lu.formula_substitution",
+      "node_type": "skill",
+      "title": {
+        "en": "Formula Substitution",
+        "zh": "代入公式"
+      },
+      "domain": "algebra",
+      "subdomain": "s2.1",
+      "source_sections": [
+        "2.1"
+      ],
+      "aliases": [],
+      "tags": [
+        "formula",
+        "substitution"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0085",
+      "lu_id": "lu.collect_like_terms",
+      "node_type": "skill",
+      "title": {
+        "en": "Collect like terms",
+        "zh": "合并同类项"
+      },
+      "domain": "algebra",
+      "subdomain": "manipulation",
+      "source_sections": [
+        "2.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "simplify",
+        "like terms",
+        "combine"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0086",
+      "lu_id": "lu.expand_single",
+      "node_type": "skill",
+      "title": {
+        "en": "Expand a single bracket",
+        "zh": "展开单括号"
+      },
+      "domain": "algebra",
+      "subdomain": "manipulation",
+      "source_sections": [
+        "2.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "expand",
+        "distribute",
+        "bracket"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0087",
+      "lu_id": "lu.expand_double",
+      "node_type": "skill",
+      "title": {
+        "en": "Expand two brackets (FOIL)",
+        "zh": "展开双括号"
+      },
+      "domain": "algebra",
+      "subdomain": "manipulation",
+      "source_sections": [
+        "2.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "expand",
+        "FOIL",
+        "double bracket",
+        "quadratic"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0088",
+      "lu_id": "lu.expand_triple",
+      "node_type": "skill",
+      "title": {
+        "en": "Expand three brackets",
+        "zh": "展开三括号"
+      },
+      "domain": "algebra",
+      "subdomain": "manipulation",
+      "source_sections": [
+        "2.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "expand",
+        "triple",
+        "cubic"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0089",
+      "lu_id": "lu.factorise_common",
+      "node_type": "skill",
+      "title": {
+        "en": "Factorise by common factor",
+        "zh": "提取公因式"
+      },
+      "domain": "algebra",
+      "subdomain": "manipulation",
+      "source_sections": [
+        "2.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "factorise",
+        "common factor",
+        "HCF"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0090",
+      "lu_id": "lu.factorise_quadratic",
+      "node_type": "skill",
+      "title": {
+        "en": "Factorise a quadratic expression",
+        "zh": "因式分解二次表达式"
+      },
+      "domain": "algebra",
+      "subdomain": "manipulation",
+      "source_sections": [
+        "2.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "factorise",
+        "quadratic",
+        "trinomial",
+        "product-sum"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0091",
+      "lu_id": "lu.difference_of_squares",
+      "node_type": "skill",
+      "title": {
+        "en": "Difference of two squares",
+        "zh": "平方差公式"
+      },
+      "domain": "algebra",
+      "subdomain": "manipulation",
+      "source_sections": [
+        "2.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "factorise",
+        "difference",
+        "squares",
+        "identity"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0092",
+      "lu_id": "lu.factorise_grouping",
+      "node_type": "skill",
+      "title": {
+        "en": "Factorise by grouping",
+        "zh": "分组因式分解"
+      },
+      "domain": "algebra",
+      "subdomain": "manipulation",
+      "source_sections": [
+        "2.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "factorise",
+        "grouping",
+        "four terms"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0093",
+      "lu_id": "lu.algebraic_fractions",
+      "node_type": "skill",
+      "title": {
+        "en": "Algebraic fractions",
+        "zh": "代数分式"
+      },
+      "domain": "algebra",
+      "subdomain": "manipulation",
+      "source_sections": [
+        "2.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "fraction",
+        "simplify",
+        "combine",
+        "cancel"
+      ],
+      "merge_note": null,
+      "status": "split_replaced",
+      "replaced_by": [
+        "kn_0307",
+        "kn_0308",
+        "kn_0309"
+      ]
+    },
+    {
+      "kn_id": "kn_0094",
+      "lu_id": "lu.form_expression",
+      "node_type": "skill",
+      "title": {
+        "en": "Form algebraic expressions",
+        "zh": "建立代数式"
+      },
+      "domain": "algebra",
+      "subdomain": "manipulation",
+      "source_sections": [
+        "2.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "form",
+        "expression",
+        "translate",
+        "word problem",
+        "application_context"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0095",
+      "lu_id": "lu.rearrange_formula",
+      "node_type": "skill",
+      "title": {
+        "en": "Rearrange formulae",
+        "zh": "变换公式"
+      },
+      "domain": "algebra",
+      "subdomain": "manipulation",
+      "source_sections": [
+        "2.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "rearrange",
+        "subject",
+        "formula",
+        "inverse"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0096",
+      "lu_id": "lu.algebraic_proof",
+      "node_type": "method",
+      "title": {
+        "en": "Show that / algebraic proof",
+        "zh": "证明题"
+      },
+      "domain": "algebra",
+      "subdomain": "manipulation",
+      "source_sections": [
+        "2.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "proof",
+        "show that",
+        "hence",
+        "verify"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0097",
+      "lu_id": "lu.simplify_algebraic_fraction",
+      "node_type": "skill",
+      "title": {
+        "en": "Simplify Algebraic Fraction",
+        "zh": "化简代数分式"
+      },
+      "domain": "algebra",
+      "subdomain": "s2.3",
+      "source_sections": [
+        "2.3"
+      ],
+      "aliases": [],
+      "tags": [
+        "simplify",
+        "algebraic",
+        "fraction"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0098",
+      "lu_id": "lu.add_algebraic_fractions",
+      "node_type": "skill",
+      "title": {
+        "en": "Add Algebraic Fractions",
+        "zh": "代数分式加法"
+      },
+      "domain": "algebra",
+      "subdomain": "s2.3",
+      "source_sections": [
+        "2.3"
+      ],
+      "aliases": [],
+      "tags": [
+        "add",
+        "algebraic",
+        "fractions"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0099",
+      "lu_id": "lu.index_multiply_divide",
+      "node_type": "skill",
+      "title": {
+        "en": "Multiply/divide index laws",
+        "zh": "指数乘除法则"
+      },
+      "domain": "algebra",
+      "subdomain": "indices",
+      "source_sections": [
+        "2.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "index",
+        "multiply",
+        "divide",
+        "add",
+        "subtract exponents"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0100",
+      "lu_id": "lu.power_of_power",
+      "node_type": "skill",
+      "title": {
+        "en": "Power of a power",
+        "zh": "幂的幂"
+      },
+      "domain": "algebra",
+      "subdomain": "indices",
+      "source_sections": [
+        "2.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "power",
+        "multiply exponents"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0101",
+      "lu_id": "lu.negative_fractional_index",
+      "node_type": "skill",
+      "title": {
+        "en": "Negative and fractional indices",
+        "zh": "负指数与分数指数"
+      },
+      "domain": "algebra",
+      "subdomain": "indices",
+      "source_sections": [
+        "2.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "negative",
+        "fractional",
+        "reciprocal",
+        "root"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0102",
+      "lu_id": "lu.index_equation",
+      "node_type": "skill",
+      "title": {
+        "en": "Solve index equations",
+        "zh": "解指数方程"
+      },
+      "domain": "algebra",
+      "subdomain": "indices",
+      "source_sections": [
+        "2.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "solve",
+        "equation",
+        "base",
+        "compare"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0103",
+      "lu_id": "lu.linear_one_step",
+      "node_type": "skill",
+      "title": {
+        "en": "One-step equations",
+        "zh": "一步方程"
+      },
+      "domain": "algebra",
+      "subdomain": "equations",
+      "source_sections": [
+        "2.5"
+      ],
+      "aliases": [],
+      "tags": [
+        "equation",
+        "solve",
+        "one step",
+        "inverse"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0104",
+      "lu_id": "lu.linear_two_step",
+      "node_type": "skill",
+      "title": {
+        "en": "Two-step equations",
+        "zh": "两步方程"
+      },
+      "domain": "algebra",
+      "subdomain": "equations",
+      "source_sections": [
+        "2.5"
+      ],
+      "aliases": [],
+      "tags": [
+        "equation",
+        "two step",
+        "order of operations"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0105",
+      "lu_id": "lu.linear_both_sides",
+      "node_type": "skill",
+      "title": {
+        "en": "Equations with x on both sides",
+        "zh": "两边含未知数的方程"
+      },
+      "domain": "algebra",
+      "subdomain": "equations",
+      "source_sections": [
+        "2.5"
+      ],
+      "aliases": [],
+      "tags": [
+        "both sides",
+        "collect",
+        "rearrange"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0106",
+      "lu_id": "lu.linear_fractions",
+      "node_type": "skill",
+      "title": {
+        "en": "Equations with fractions",
+        "zh": "含分数的方程"
+      },
+      "domain": "algebra",
+      "subdomain": "equations",
+      "source_sections": [
+        "2.5"
+      ],
+      "aliases": [],
+      "tags": [
+        "fraction",
+        "multiply through",
+        "LCM",
+        "clear"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0107",
+      "lu_id": "lu.simultaneous",
+      "node_type": "skill",
+      "title": {
+        "en": "Simultaneous equations",
+        "zh": "联立方程"
+      },
+      "domain": "algebra",
+      "subdomain": "equations",
+      "source_sections": [
+        "2.5"
+      ],
+      "aliases": [],
+      "tags": [
+        "simultaneous",
+        "elimination",
+        "substitution",
+        "two unknowns"
+      ],
+      "merge_note": null,
+      "status": "split_replaced",
+      "replaced_by": [
+        "kn_0303",
+        "kn_0304",
+        "kn_0305",
+        "kn_0306"
+      ]
+    },
+    {
+      "kn_id": "kn_0108",
+      "lu_id": "lu.solve_quadratic_by_factorising",
+      "node_type": "method",
+      "title": {
+        "en": "Solve quadratic by factorising",
+        "zh": "用因式分解法解二次方程"
+      },
+      "domain": "algebra",
+      "subdomain": "equations",
+      "source_sections": [
+        "2.5"
+      ],
+      "aliases": [],
+      "tags": [
+        "quadratic",
+        "factorise",
+        "zero product"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0109",
+      "lu_id": "lu.quadratic_formula",
+      "node_type": "skill",
+      "title": {
+        "en": "Quadratic formula",
+        "zh": "求根公式"
+      },
+      "domain": "algebra",
+      "subdomain": "equations",
+      "source_sections": [
+        "2.5"
+      ],
+      "aliases": [],
+      "tags": [
+        "quadratic",
+        "formula",
+        "discriminant"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0110",
+      "lu_id": "lu.form_and_solve",
+      "node_type": "skill",
+      "title": {
+        "en": "Form and solve equations",
+        "zh": "列方程并求解"
+      },
+      "domain": "algebra",
+      "subdomain": "equations",
+      "source_sections": [
+        "2.5"
+      ],
+      "aliases": [],
+      "tags": [
+        "form",
+        "word problem",
+        "translate",
+        "solve",
+        "application_context"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0111",
+      "lu_id": "lu.solve_linear_inequality",
+      "node_type": "skill",
+      "title": {
+        "en": "Solve Linear Inequality",
+        "zh": "解一次不等式"
+      },
+      "domain": "algebra",
+      "subdomain": "s2.6",
+      "source_sections": [
+        "2.6"
+      ],
+      "aliases": [],
+      "tags": [
+        "solve",
+        "linear",
+        "inequality"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0112",
+      "lu_id": "lu.solve_compound_inequality",
+      "node_type": "skill",
+      "title": {
+        "en": "Solve Compound Inequality",
+        "zh": "解复合不等式"
+      },
+      "domain": "algebra",
+      "subdomain": "s2.6",
+      "source_sections": [
+        "2.6"
+      ],
+      "aliases": [],
+      "tags": [
+        "solve",
+        "compound",
+        "inequality"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0113",
+      "lu_id": "lu.pattern_recognition",
+      "node_type": "concept",
+      "title": {
+        "en": "Recognise and continue a pattern",
+        "zh": "识别并延续规律"
+      },
+      "domain": "algebra",
+      "subdomain": "sequences",
+      "source_sections": [
+        "2.7"
+      ],
+      "aliases": [],
+      "tags": [
+        "pattern",
+        "next term",
+        "sequence"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0114",
+      "lu_id": "lu.term_to_term_rule",
+      "node_type": "skill",
+      "title": {
+        "en": "Term-to-term rule",
+        "zh": "逐项规则"
+      },
+      "domain": "algebra",
+      "subdomain": "sequences",
+      "source_sections": [
+        "2.7"
+      ],
+      "aliases": [],
+      "tags": [
+        "rule",
+        "difference",
+        "add",
+        "subtract"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0115",
+      "lu_id": "lu.nth_term_linear",
+      "node_type": "skill",
+      "title": {
+        "en": "nth term of a linear sequence",
+        "zh": "线性数列的通项公式"
+      },
+      "domain": "algebra",
+      "subdomain": "sequences",
+      "source_sections": [
+        "2.7"
+      ],
+      "aliases": [],
+      "tags": [
+        "nth term",
+        "linear",
+        "formula",
+        "an+b"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0116",
+      "lu_id": "lu.use_nth_term",
+      "node_type": "skill",
+      "title": {
+        "en": "Use nth term formula",
+        "zh": "使用通项公式"
+      },
+      "domain": "algebra",
+      "subdomain": "sequences",
+      "source_sections": [
+        "2.7"
+      ],
+      "aliases": [],
+      "tags": [
+        "substitute",
+        "term",
+        "position",
+        "solve"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0117",
+      "lu_id": "lu.nth_term_quadratic",
+      "node_type": "skill",
+      "title": {
+        "en": "nth term of a quadratic sequence",
+        "zh": "二次数列的通项公式"
+      },
+      "domain": "algebra",
+      "subdomain": "sequences",
+      "source_sections": [
+        "2.7"
+      ],
+      "aliases": [],
+      "tags": [
+        "quadratic",
+        "second difference",
+        "an2+bn+c"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0118",
+      "lu_id": "lu.sequence_proof",
+      "node_type": "method",
+      "title": {
+        "en": "Sequence proof / show that",
+        "zh": "数列证明题"
+      },
+      "domain": "algebra",
+      "subdomain": "sequences",
+      "source_sections": [
+        "2.7"
+      ],
+      "aliases": [],
+      "tags": [
+        "proof",
+        "show",
+        "algebraic",
+        "sum"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0119",
+      "lu_id": "lu.visual_pattern",
+      "node_type": "skill",
+      "title": {
+        "en": "Visual / spatial patterns",
+        "zh": "图形/空间规律"
+      },
+      "domain": "algebra",
+      "subdomain": "sequences",
+      "source_sections": [
+        "2.7"
+      ],
+      "aliases": [],
+      "tags": [
+        "visual",
+        "dots",
+        "sticks",
+        "spatial"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0120",
+      "lu_id": "lu.direct_proportion",
+      "node_type": "concept",
+      "title": {
+        "en": "Direct proportion (y ∝ x)",
+        "zh": "正比例"
+      },
+      "domain": "algebra",
+      "subdomain": "proportion",
+      "source_sections": [
+        "2.8"
+      ],
+      "aliases": [],
+      "tags": [
+        "direct",
+        "proportion",
+        "constant",
+        "ratio"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0121",
+      "lu_id": "lu.inverse_proportion",
+      "node_type": "concept",
+      "title": {
+        "en": "Inverse proportion (y ∝ 1/x)",
+        "zh": "反比例"
+      },
+      "domain": "algebra",
+      "subdomain": "proportion",
+      "source_sections": [
+        "2.8"
+      ],
+      "aliases": [],
+      "tags": [
+        "inverse",
+        "proportion",
+        "reciprocal"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0122",
+      "lu_id": "lu.proportion_formula",
+      "node_type": "skill",
+      "title": {
+        "en": "Write proportion formula",
+        "zh": "写比例公式"
+      },
+      "domain": "algebra",
+      "subdomain": "proportion",
+      "source_sections": [
+        "2.8"
+      ],
+      "aliases": [],
+      "tags": [
+        "formula",
+        "constant",
+        "k",
+        "equation"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0123",
+      "lu_id": "lu.proportion_change",
+      "node_type": "skill",
+      "title": {
+        "en": "Proportional change problems",
+        "zh": "比例变化问题"
+      },
+      "domain": "algebra",
+      "subdomain": "proportion",
+      "source_sections": [
+        "2.8"
+      ],
+      "aliases": [],
+      "tags": [
+        "change",
+        "effect",
+        "double",
+        "halve",
+        "application_context"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0124",
+      "lu_id": "lu.speed_time",
+      "node_type": "skill",
+      "title": {
+        "en": "Speed-Time",
+        "zh": "速度-时间"
+      },
+      "domain": "algebra",
+      "subdomain": "s2.9",
+      "source_sections": [
+        "2.9"
+      ],
+      "aliases": [],
+      "tags": [
+        "speed-time"
+      ],
+      "merge_note": "Deduplicated within section 2.9 (appeared 2x in same section)"
+    },
+    {
+      "kn_id": "kn_0125",
+      "lu_id": "lu.average_speed",
+      "node_type": "skill",
+      "title": {
+        "en": "Average Speed",
+        "zh": "平均速度"
+      },
+      "domain": "algebra",
+      "subdomain": "s2.9",
+      "source_sections": [
+        "2.9"
+      ],
+      "aliases": [],
+      "tags": [
+        "average",
+        "speed"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0126",
+      "lu_id": "lu.speed_unit_conversion",
+      "node_type": "skill",
+      "title": {
+        "en": "Speed Unit Conversion",
+        "zh": "速度单位转换"
+      },
+      "domain": "algebra",
+      "subdomain": "s2.9",
+      "source_sections": [
+        "2.9"
+      ],
+      "aliases": [],
+      "tags": [
+        "speed",
+        "unit",
+        "conversion"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0127",
+      "lu_id": "lu.complete_table_of_values",
+      "node_type": "skill",
+      "title": {
+        "en": "Complete Table of Values",
+        "zh": "完成数值表"
+      },
+      "domain": "algebra",
+      "subdomain": "s2.10",
+      "source_sections": [
+        "2.10"
+      ],
+      "aliases": [],
+      "tags": [
+        "complete",
+        "table",
+        "values"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0128",
+      "lu_id": "lu.find_gradient",
+      "node_type": "skill",
+      "title": {
+        "en": "Find gradient from two coordinates",
+        "zh": "由两点坐标求梯度"
+      },
+      "domain": "algebra",
+      "subdomain": "s2.10",
+      "source_sections": [
+        "2.10"
+      ],
+      "aliases": [],
+      "tags": [
+        "find",
+        "gradient"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0129",
+      "lu_id": "lu.equation_of_a_line",
+      "node_type": "skill",
+      "title": {
+        "en": "Equation of a Line",
+        "zh": "直线方程"
+      },
+      "domain": "algebra",
+      "subdomain": "s2.10",
+      "source_sections": [
+        "2.10"
+      ],
+      "aliases": [],
+      "tags": [
+        "equation",
+        "line"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0130",
+      "lu_id": "lu.identify_function_type",
+      "node_type": "skill",
+      "title": {
+        "en": "Identify Function Type",
+        "zh": "识别函数类型"
+      },
+      "domain": "algebra",
+      "subdomain": "s2.10",
+      "source_sections": [
+        "2.10"
+      ],
+      "aliases": [],
+      "tags": [
+        "identify",
+        "function",
+        "type"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0131",
+      "lu_id": "lu.solve_trigonometric_equations",
+      "node_type": "skill",
+      "title": {
+        "en": "Solve Trigonometric Equations",
+        "zh": "解三角方程"
+      },
+      "domain": "algebra",
+      "subdomain": "s2.11",
+      "source_sections": [
+        "2.11"
+      ],
+      "aliases": [],
+      "tags": [
+        "solve",
+        "trigonometric",
+        "equations"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0132",
+      "lu_id": "lu.find_turning_points",
+      "node_type": "skill",
+      "title": {
+        "en": "Find Turning Points",
+        "zh": "求转折点"
+      },
+      "domain": "algebra",
+      "subdomain": "s2.11",
+      "source_sections": [
+        "2.11"
+      ],
+      "aliases": [],
+      "tags": [
+        "find",
+        "turning",
+        "points"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0133",
+      "lu_id": "lu.trig_find_reflex_angle",
+      "node_type": "skill",
+      "title": {
+        "en": "Trig — Find Reflex Angle",
+        "zh": "三角——求优角"
+      },
+      "domain": "algebra",
+      "subdomain": "s2.11",
+      "source_sections": [
+        "2.11"
+      ],
+      "aliases": [],
+      "tags": [
+        "trig",
+        "find",
+        "reflex",
+        "angle"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0134",
+      "lu_id": "lu.evaluate_f_x",
+      "node_type": "skill",
+      "title": {
+        "en": "Evaluate f(x)",
+        "zh": "求f(x)的值"
+      },
+      "domain": "algebra",
+      "subdomain": "s2.13",
+      "source_sections": [
+        "2.13"
+      ],
+      "aliases": [],
+      "tags": [
+        "evaluate",
+        "f(x)"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0135",
+      "lu_id": "lu.composite_fg_x",
+      "node_type": "skill",
+      "title": {
+        "en": "Composite fg(x)",
+        "zh": "复合函数"
+      },
+      "domain": "algebra",
+      "subdomain": "s2.13",
+      "source_sections": [
+        "2.13"
+      ],
+      "aliases": [],
+      "tags": [
+        "composite",
+        "fg(x)"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0136",
+      "lu_id": "lu.inverse_f_1_x",
+      "node_type": "skill",
+      "title": {
+        "en": "Inverse f^-1(x)",
+        "zh": "反函数"
+      },
+      "domain": "algebra",
+      "subdomain": "s2.13",
+      "source_sections": [
+        "2.13"
+      ],
+      "aliases": [],
+      "tags": [
+        "inverse",
+        "f^-1(x)"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0137",
+      "lu_id": "lu.plot_coordinates",
+      "node_type": "concept",
+      "title": {
+        "en": "Plot and read coordinates",
+        "zh": "标点与读坐标"
+      },
+      "domain": "geometry",
+      "subdomain": "coordinates",
+      "source_sections": [
+        "3.1",
+        "3.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "coordinate",
+        "plot",
+        "x",
+        "y",
+        "axis"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0138",
+      "lu_id": "lu.midpoint",
+      "node_type": "skill",
+      "title": {
+        "en": "Find midpoint",
+        "zh": "求中点"
+      },
+      "domain": "geometry",
+      "subdomain": "coordinates",
+      "source_sections": [
+        "3.1",
+        "3.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "midpoint",
+        "average",
+        "formula"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0139",
+      "lu_id": "lu.distance",
+      "node_type": "skill",
+      "title": {
+        "en": "Distance between points",
+        "zh": "两点间距离"
+      },
+      "domain": "geometry",
+      "subdomain": "coordinates",
+      "source_sections": [
+        "3.1",
+        "3.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "distance",
+        "Pythagoras",
+        "formula"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0140",
+      "lu_id": "lu.gradient",
+      "node_type": "concept",
+      "title": {
+        "en": "Gradient (rate of change)",
+        "zh": "梯度（变化率）"
+      },
+      "domain": "geometry",
+      "subdomain": "coordinates",
+      "source_sections": [
+        "3.1",
+        "3.5",
+        "3.3"
+      ],
+      "aliases": [],
+      "tags": [
+        "gradient",
+        "slope",
+        "rise over run"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0141",
+      "lu_id": "lu.line_equation",
+      "node_type": "skill",
+      "title": {
+        "en": "Equation of a line",
+        "zh": "直线方程"
+      },
+      "domain": "geometry",
+      "subdomain": "coordinates",
+      "source_sections": [
+        "3.1",
+        "3.5"
+      ],
+      "aliases": [],
+      "tags": [
+        "y=mx+c",
+        "equation",
+        "intercept"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0142",
+      "lu_id": "lu.find_the_perpendicular_gradient",
+      "node_type": "skill",
+      "title": {
+        "en": "Find the Perpendicular Gradient",
+        "zh": "求垂直斜率"
+      },
+      "domain": "geometry",
+      "subdomain": "s3.7",
+      "source_sections": [
+        "3.7"
+      ],
+      "aliases": [],
+      "tags": [
+        "find",
+        "the",
+        "perpendicular",
+        "gradient"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0143",
+      "lu_id": "lu.find_the_equation_of_a_perpendicular_line",
+      "node_type": "skill",
+      "title": {
+        "en": "Find the Equation of a Perpendicular Line",
+        "zh": "求垂直直线方程"
+      },
+      "domain": "geometry",
+      "subdomain": "s3.7",
+      "source_sections": [
+        "3.7"
+      ],
+      "aliases": [],
+      "tags": [
+        "find",
+        "the",
+        "equation",
+        "perpendicular",
+        "line"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0144",
+      "lu_id": "lu.find_the_perpendicular_bisector",
+      "node_type": "skill",
+      "title": {
+        "en": "Find the Perpendicular Bisector",
+        "zh": "求垂直平分线"
+      },
+      "domain": "geometry",
+      "subdomain": "s3.7",
+      "source_sections": [
+        "3.7"
+      ],
+      "aliases": [],
+      "tags": [
+        "find",
+        "the",
+        "perpendicular",
+        "bisector"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0145",
+      "lu_id": "lu.triangle_angles",
+      "node_type": "concept",
+      "title": {
+        "en": "Angles in a triangle",
+        "zh": "三角形内角"
+      },
+      "domain": "geometry",
+      "subdomain": "angles",
+      "source_sections": [
+        "4.6"
+      ],
+      "aliases": [],
+      "tags": [
+        "triangle",
+        "180",
+        "sum"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0146",
+      "lu_id": "lu.angles_on_line",
+      "node_type": "concept",
+      "title": {
+        "en": "Angles on a straight line",
+        "zh": "直线上的角"
+      },
+      "domain": "geometry",
+      "subdomain": "angles",
+      "source_sections": [
+        "4.6"
+      ],
+      "aliases": [],
+      "tags": [
+        "straight line",
+        "180",
+        "supplementary"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0147",
+      "lu_id": "lu.angles_around_point",
+      "node_type": "skill",
+      "title": {
+        "en": "Angles around a point",
+        "zh": "周角"
+      },
+      "domain": "geometry",
+      "subdomain": "angles",
+      "source_sections": [
+        "4.6"
+      ],
+      "aliases": [],
+      "tags": [
+        "full turn",
+        "360"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0148",
+      "lu_id": "lu.parallel_angles",
+      "node_type": "skill",
+      "title": {
+        "en": "Angles with parallel lines",
+        "zh": "平行线间的角"
+      },
+      "domain": "geometry",
+      "subdomain": "angles",
+      "source_sections": [
+        "4.6"
+      ],
+      "aliases": [],
+      "tags": [
+        "parallel",
+        "alternate",
+        "corresponding",
+        "co-interior"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0149",
+      "lu_id": "lu.polygon_angles",
+      "node_type": "skill",
+      "title": {
+        "en": "Polygon angles",
+        "zh": "多边形角"
+      },
+      "domain": "geometry",
+      "subdomain": "angles",
+      "source_sections": [
+        "4.6"
+      ],
+      "aliases": [],
+      "tags": [
+        "polygon",
+        "interior",
+        "exterior",
+        "regular"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0150",
+      "lu_id": "lu.arc_length",
+      "node_type": "skill",
+      "title": {
+        "en": "Arc length",
+        "zh": "弧长"
+      },
+      "domain": "geometry",
+      "subdomain": "circles",
+      "source_sections": [
+        "5.3"
+      ],
+      "aliases": [],
+      "tags": [
+        "arc",
+        "length",
+        "fraction",
+        "circumference"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0151",
+      "lu_id": "lu.sector_area",
+      "node_type": "skill",
+      "title": {
+        "en": "Sector area",
+        "zh": "扇形面积"
+      },
+      "domain": "geometry",
+      "subdomain": "circles",
+      "source_sections": [
+        "5.3"
+      ],
+      "aliases": [],
+      "tags": [
+        "sector",
+        "area",
+        "fraction",
+        "circle"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0152",
+      "lu_id": "lu.find_angle_from_arc",
+      "node_type": "skill",
+      "title": {
+        "en": "Find angle from arc/sector",
+        "zh": "由弧/扇形求角"
+      },
+      "domain": "geometry",
+      "subdomain": "circles",
+      "source_sections": [
+        "5.3"
+      ],
+      "aliases": [],
+      "tags": [
+        "angle",
+        "reverse",
+        "rearrange"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0153",
+      "lu_id": "lu.solve_trig_equation",
+      "node_type": "skill",
+      "title": {
+        "en": "Solve Trig Equation",
+        "zh": "解三角方程"
+      },
+      "domain": "geometry",
+      "subdomain": "s6.4",
+      "source_sections": [
+        "6.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "solve",
+        "trig",
+        "equation"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0154",
+      "lu_id": "lu.linear_trig_equation",
+      "node_type": "skill",
+      "title": {
+        "en": "Linear Trig Equation",
+        "zh": "线性三角方程"
+      },
+      "domain": "geometry",
+      "subdomain": "s6.4",
+      "source_sections": [
+        "6.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "linear",
+        "trig",
+        "equation"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0155",
+      "lu_id": "lu.simple_probability",
+      "node_type": "concept",
+      "title": {
+        "en": "Simple Probability",
+        "zh": "简单概率"
+      },
+      "domain": "statistics",
+      "subdomain": "s8.1",
+      "source_sections": [
+        "8.1"
+      ],
+      "aliases": [],
+      "tags": [
+        "simple",
+        "probability"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0156",
+      "lu_id": "lu.complementary_probability",
+      "node_type": "concept",
+      "title": {
+        "en": "Complementary Probability",
+        "zh": "互补概率"
+      },
+      "domain": "statistics",
+      "subdomain": "s8.1",
+      "source_sections": [
+        "8.1"
+      ],
+      "aliases": [],
+      "tags": [
+        "complementary",
+        "probability"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0157",
+      "lu_id": "lu.expected_frequency",
+      "node_type": "concept",
+      "title": {
+        "en": "Expected Frequency",
+        "zh": "期望频率"
+      },
+      "domain": "statistics",
+      "subdomain": "s8.1",
+      "source_sections": [
+        "8.1"
+      ],
+      "aliases": [],
+      "tags": [
+        "expected",
+        "frequency"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0158",
+      "lu_id": "lu.independent_events",
+      "node_type": "concept",
+      "title": {
+        "en": "Independent Events",
+        "zh": "独立事件"
+      },
+      "domain": "statistics",
+      "subdomain": "s8.3",
+      "source_sections": [
+        "8.3"
+      ],
+      "aliases": [],
+      "tags": [
+        "independent",
+        "events"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0159",
+      "lu_id": "lu.without_replacement",
+      "node_type": "concept",
+      "title": {
+        "en": "Without Replacement",
+        "zh": "不放回抽样"
+      },
+      "domain": "statistics",
+      "subdomain": "s8.3",
+      "source_sections": [
+        "8.3"
+      ],
+      "aliases": [],
+      "tags": [
+        "without",
+        "replacement"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0160",
+      "lu_id": "lu.two_without_replacement",
+      "node_type": "concept",
+      "title": {
+        "en": "Two Without Replacement",
+        "zh": "不放回抽两个"
+      },
+      "domain": "statistics",
+      "subdomain": "s8.4",
+      "source_sections": [
+        "8.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "two",
+        "without",
+        "replacement"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0161",
+      "lu_id": "lu.conditional_given",
+      "node_type": "concept",
+      "title": {
+        "en": "Conditional Given",
+        "zh": "条件概率"
+      },
+      "domain": "statistics",
+      "subdomain": "s8.4",
+      "source_sections": [
+        "8.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "conditional",
+        "given"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0162",
+      "lu_id": "lu.mean",
+      "node_type": "skill",
+      "title": {
+        "en": "Calculate the mean",
+        "zh": "求平均数"
+      },
+      "domain": "statistics",
+      "subdomain": "averages",
+      "source_sections": [
+        "9.3"
+      ],
+      "aliases": [],
+      "tags": [
+        "mean",
+        "average",
+        "sum",
+        "divide"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0163",
+      "lu_id": "lu.median",
+      "node_type": "skill",
+      "title": {
+        "en": "Find the median",
+        "zh": "求中位数"
+      },
+      "domain": "statistics",
+      "subdomain": "averages",
+      "source_sections": [
+        "9.3"
+      ],
+      "aliases": [],
+      "tags": [
+        "median",
+        "middle",
+        "order"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0164",
+      "lu_id": "lu.mode",
+      "node_type": "skill",
+      "title": {
+        "en": "Find the mode",
+        "zh": "求众数"
+      },
+      "domain": "statistics",
+      "subdomain": "averages",
+      "source_sections": [
+        "9.3"
+      ],
+      "aliases": [],
+      "tags": [
+        "mode",
+        "frequency",
+        "most common"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0165",
+      "lu_id": "lu.range",
+      "node_type": "skill",
+      "title": {
+        "en": "Find the range",
+        "zh": "求全距"
+      },
+      "domain": "statistics",
+      "subdomain": "averages",
+      "source_sections": [
+        "9.3"
+      ],
+      "aliases": [],
+      "tags": [
+        "range",
+        "spread",
+        "max",
+        "min"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0166",
+      "lu_id": "lu.mean_from_table",
+      "node_type": "skill",
+      "title": {
+        "en": "Mean from frequency table",
+        "zh": "频率表求平均"
+      },
+      "domain": "statistics",
+      "subdomain": "averages",
+      "source_sections": [
+        "9.3"
+      ],
+      "aliases": [],
+      "tags": [
+        "frequency",
+        "table",
+        "estimated",
+        "grouped"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0167",
+      "lu_id": "lu.mean_advanced",
+      "node_type": "skill",
+      "title": {
+        "en": "Missing value / combined mean",
+        "zh": "缺失值/合并平均"
+      },
+      "domain": "statistics",
+      "subdomain": "averages",
+      "source_sections": [
+        "9.3"
+      ],
+      "aliases": [],
+      "tags": [
+        "missing",
+        "combined",
+        "reverse",
+        "algebra"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0168",
+      "lu_id": "lu.identify_correlation_type",
+      "node_type": "concept",
+      "title": {
+        "en": "Identify Correlation Type",
+        "zh": "判断相关性类型"
+      },
+      "domain": "statistics",
+      "subdomain": "s9.5",
+      "source_sections": [
+        "9.5"
+      ],
+      "aliases": [],
+      "tags": [
+        "identify",
+        "correlation",
+        "type"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0169",
+      "lu_id": "lu.use_line_of_best_fit_equation",
+      "node_type": "skill",
+      "title": {
+        "en": "Use Line of Best Fit Equation",
+        "zh": "使用最佳拟合直线方程"
+      },
+      "domain": "statistics",
+      "subdomain": "s9.5",
+      "source_sections": [
+        "9.5"
+      ],
+      "aliases": [],
+      "tags": [
+        "use",
+        "line",
+        "best",
+        "fit",
+        "equation"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0170",
+      "lu_id": "err.hcf_lcm_swap",
+      "node_type": "error",
+      "title": {
+        "en": "Hcf Lcm Swap",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "1.1"
+      ],
+      "aliases": [],
+      "tags": [
+        "hcf",
+        "lcm",
+        "swap"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0171",
+      "lu_id": "err.one_is_prime",
+      "node_type": "error",
+      "title": {
+        "en": "One Is Prime",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "1.1"
+      ],
+      "aliases": [],
+      "tags": [
+        "one",
+        "is",
+        "prime"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0172",
+      "lu_id": "err.square_cube_confused",
+      "node_type": "error",
+      "title": {
+        "en": "Square Cube Confused",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "1.1"
+      ],
+      "aliases": [],
+      "tags": [
+        "square",
+        "cube",
+        "confused"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0173",
+      "lu_id": "err.reciprocal_negative",
+      "node_type": "error",
+      "title": {
+        "en": "Reciprocal Negative",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "1.1"
+      ],
+      "aliases": [],
+      "tags": [
+        "reciprocal",
+        "negative"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0174",
+      "lu_id": "err.set_list_elements_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Set List Elements E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "1.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "set",
+        "list",
+        "elements",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0175",
+      "lu_id": "err.set_cardinality_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Set Cardinality E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "1.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "set",
+        "cardinality",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0176",
+      "lu_id": "err.set_complement_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Set Complement E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "1.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "set",
+        "complement",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0177",
+      "lu_id": "err.set_notation_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Set Notation E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "1.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "set",
+        "notation",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0178",
+      "lu_id": "err.zero_index_is_zero",
+      "node_type": "error",
+      "title": {
+        "en": "Zero Index Is Zero",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "1.3"
+      ],
+      "aliases": [],
+      "tags": [
+        "zero",
+        "index",
+        "is",
+        "zero"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0179",
+      "lu_id": "err.negative_index_negative",
+      "node_type": "error",
+      "title": {
+        "en": "Negative Index Negative",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "1.3"
+      ],
+      "aliases": [],
+      "tags": [
+        "negative",
+        "index",
+        "negative"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0180",
+      "lu_id": "err.add_denominators",
+      "node_type": "error",
+      "title": {
+        "en": "Add Denominators",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "1.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "add",
+        "denominators"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0181",
+      "lu_id": "err.incomplete_simplify",
+      "node_type": "error",
+      "title": {
+        "en": "Incomplete Simplify",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "1.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "incomplete",
+        "simplify"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0182",
+      "lu_id": "err.dp_count_wrong",
+      "node_type": "error",
+      "title": {
+        "en": "Dp Count Wrong",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "1.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "dp",
+        "count",
+        "wrong"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0183",
+      "lu_id": "err.percent_shift_wrong",
+      "node_type": "error",
+      "title": {
+        "en": "Percent Shift Wrong",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "1.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "percent",
+        "shift",
+        "wrong"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0184",
+      "lu_id": "err.reciprocal_is_negative",
+      "node_type": "error",
+      "title": {
+        "en": "Reciprocal Is Negative",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "1.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "reciprocal",
+        "is",
+        "negative"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0185",
+      "lu_id": "err.of_means_multiply",
+      "node_type": "error",
+      "title": {
+        "en": "Of Means Multiply",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "1.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "of",
+        "means",
+        "multiply"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0186",
+      "lu_id": "err.bodmas_left_to_right",
+      "node_type": "error",
+      "title": {
+        "en": "Bodmas Left To Right",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "1.6"
+      ],
+      "aliases": [],
+      "tags": [
+        "bodmas",
+        "left",
+        "to",
+        "right"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0187",
+      "lu_id": "err.negative_times_negative",
+      "node_type": "error",
+      "title": {
+        "en": "Negative Times Negative",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "1.6"
+      ],
+      "aliases": [],
+      "tags": [
+        "negative",
+        "times",
+        "negative"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0188",
+      "lu_id": "err.a_not_1_to_10",
+      "node_type": "error",
+      "title": {
+        "en": "A Not 1 To 10",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "1.8"
+      ],
+      "aliases": [],
+      "tags": [
+        "a",
+        "not",
+        "1",
+        "to",
+        "10"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0189",
+      "lu_id": "err.exponent_add_vs_multiply",
+      "node_type": "error",
+      "title": {
+        "en": "Exponent Add Vs Multiply",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "1.8"
+      ],
+      "aliases": [],
+      "tags": [
+        "exponent",
+        "add",
+        "vs",
+        "multiply"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0190",
+      "lu_id": "err.sf_leading_zeros",
+      "node_type": "error",
+      "title": {
+        "en": "Sf Leading Zeros",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "1.9"
+      ],
+      "aliases": [],
+      "tags": [
+        "sf",
+        "leading",
+        "zeros"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0191",
+      "lu_id": "err.estimate_not_1sf",
+      "node_type": "error",
+      "title": {
+        "en": "Estimate Not 1Sf",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "1.9"
+      ],
+      "aliases": [],
+      "tags": [
+        "estimate",
+        "not",
+        "1sf"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0192",
+      "lu_id": "err.half_unit_wrong",
+      "node_type": "error",
+      "title": {
+        "en": "Half Unit Wrong",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "1.10"
+      ],
+      "aliases": [],
+      "tags": [
+        "half",
+        "unit",
+        "wrong"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0193",
+      "lu_id": "err.max_min_swap",
+      "node_type": "error",
+      "title": {
+        "en": "Max Min Swap",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "1.10"
+      ],
+      "aliases": [],
+      "tags": [
+        "max",
+        "min",
+        "swap"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0194",
+      "lu_id": "err.interval_inequality",
+      "node_type": "error",
+      "title": {
+        "en": "Interval Inequality",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "1.10"
+      ],
+      "aliases": [],
+      "tags": [
+        "interval",
+        "inequality"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0195",
+      "lu_id": "err.ratio_total_parts",
+      "node_type": "error",
+      "title": {
+        "en": "Ratio Total Parts",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "1.11"
+      ],
+      "aliases": [],
+      "tags": [
+        "ratio",
+        "total",
+        "parts"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0196",
+      "lu_id": "err.average_speed_trap",
+      "node_type": "error",
+      "title": {
+        "en": "Average Speed Trap",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "1.12"
+      ],
+      "aliases": [],
+      "tags": [
+        "average",
+        "speed",
+        "trap"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0197",
+      "lu_id": "err.area_×100_not_×10000",
+      "node_type": "error",
+      "title": {
+        "en": "Area ×100 Not ×10000",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "1.12"
+      ],
+      "aliases": [],
+      "tags": [
+        "area",
+        "×100",
+        "not",
+        "×10000"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0198",
+      "lu_id": "err.additive_percent",
+      "node_type": "error",
+      "title": {
+        "en": "Additive Percent",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "1.13"
+      ],
+      "aliases": [],
+      "tags": [
+        "additive",
+        "percent"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0199",
+      "lu_id": "err.reverse_multiply",
+      "node_type": "error",
+      "title": {
+        "en": "Reverse Multiply",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "1.13"
+      ],
+      "aliases": [],
+      "tags": [
+        "reverse",
+        "multiply"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0200",
+      "lu_id": "err.si_ci_confusion",
+      "node_type": "error",
+      "title": {
+        "en": "Si Ci Confusion",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "1.13"
+      ],
+      "aliases": [],
+      "tags": [
+        "si",
+        "ci",
+        "confusion"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0201",
+      "lu_id": "err.wrong_multiplier_dir",
+      "node_type": "error",
+      "title": {
+        "en": "Wrong Multiplier Dir",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "1.13"
+      ],
+      "aliases": [],
+      "tags": [
+        "wrong",
+        "multiplier",
+        "dir"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0202",
+      "lu_id": "err.pct_change_wrong_base",
+      "node_type": "error",
+      "title": {
+        "en": "Pct Change Wrong Base",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "1.13"
+      ],
+      "aliases": [],
+      "tags": [
+        "pct",
+        "change",
+        "wrong",
+        "base"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0203",
+      "lu_id": "err.60_not_100",
+      "node_type": "error",
+      "title": {
+        "en": "60 Not 100",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "1.15"
+      ],
+      "aliases": [],
+      "tags": [
+        "60",
+        "not",
+        "100"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0204",
+      "lu_id": "err.timezone_direction",
+      "node_type": "error",
+      "title": {
+        "en": "Timezone Direction",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "1.15"
+      ],
+      "aliases": [],
+      "tags": [
+        "timezone",
+        "direction"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0205",
+      "lu_id": "err.multiply_vs_divide_exchange",
+      "node_type": "error",
+      "title": {
+        "en": "Multiply Vs Divide Exchange",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "1.16"
+      ],
+      "aliases": [],
+      "tags": [
+        "multiply",
+        "vs",
+        "divide",
+        "exchange"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0206",
+      "lu_id": "err.exp_growth_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Exp Growth E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "1.17"
+      ],
+      "aliases": [],
+      "tags": [
+        "exp",
+        "growth",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0207",
+      "lu_id": "err.exp_decay_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Exp Decay E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "1.17"
+      ],
+      "aliases": [],
+      "tags": [
+        "exp",
+        "decay",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0208",
+      "lu_id": "err.exp_find_time_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Exp Find Time E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "1.17"
+      ],
+      "aliases": [],
+      "tags": [
+        "exp",
+        "find",
+        "time",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0209",
+      "lu_id": "err.substitute_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Substitute E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.1"
+      ],
+      "aliases": [],
+      "tags": [
+        "substitute",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0210",
+      "lu_id": "err.form_expression_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Form Expression E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.1"
+      ],
+      "aliases": [],
+      "tags": [
+        "form",
+        "expression",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0211",
+      "lu_id": "err.substitute_formula_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Substitute Formula E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.1"
+      ],
+      "aliases": [],
+      "tags": [
+        "substitute",
+        "formula",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0212",
+      "lu_id": "err.sign_distribution",
+      "node_type": "error",
+      "title": {
+        "en": "Sign Distribution",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "sign",
+        "distribution"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0213",
+      "lu_id": "err.forget_second_term",
+      "node_type": "error",
+      "title": {
+        "en": "Forget Second Term",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "forget",
+        "second",
+        "term"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0214",
+      "lu_id": "err.foil_middle_term",
+      "node_type": "error",
+      "title": {
+        "en": "Foil Middle Term",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "foil",
+        "middle",
+        "term"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0215",
+      "lu_id": "err.incomplete_factorise",
+      "node_type": "error",
+      "title": {
+        "en": "Incomplete Factorise",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "incomplete",
+        "factorise"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0216",
+      "lu_id": "err.wrong_factor_pair",
+      "node_type": "error",
+      "title": {
+        "en": "Wrong Factor Pair",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "wrong",
+        "factor",
+        "pair"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0217",
+      "lu_id": "err.diff_sq_sign",
+      "node_type": "error",
+      "title": {
+        "en": "Diff Sq Sign",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "diff",
+        "sq",
+        "sign"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0218",
+      "lu_id": "err.simplify_alg_frac_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Simplify Alg Frac E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.3"
+      ],
+      "aliases": [],
+      "tags": [
+        "simplify",
+        "alg",
+        "frac",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0219",
+      "lu_id": "err.add_alg_frac_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Add Alg Frac E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.3"
+      ],
+      "aliases": [],
+      "tags": [
+        "add",
+        "alg",
+        "frac",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0220",
+      "lu_id": "err.subtract_alg_frac_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Subtract Alg Frac E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.3"
+      ],
+      "aliases": [],
+      "tags": [
+        "subtract",
+        "alg",
+        "frac",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0221",
+      "lu_id": "err.add_not_multiply_exponents",
+      "node_type": "error",
+      "title": {
+        "en": "Add Not Multiply Exponents",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "add",
+        "not",
+        "multiply",
+        "exponents"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0222",
+      "lu_id": "err.inverse_order_wrong",
+      "node_type": "error",
+      "title": {
+        "en": "Inverse Order Wrong",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.5"
+      ],
+      "aliases": [],
+      "tags": [
+        "inverse",
+        "order",
+        "wrong"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0223",
+      "lu_id": "err.sign_when_moving",
+      "node_type": "error",
+      "title": {
+        "en": "Sign When Moving",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.5"
+      ],
+      "aliases": [],
+      "tags": [
+        "sign",
+        "when",
+        "moving"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0224",
+      "lu_id": "err.forget_multiply_all",
+      "node_type": "error",
+      "title": {
+        "en": "Forget Multiply All",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.5"
+      ],
+      "aliases": [],
+      "tags": [
+        "forget",
+        "multiply",
+        "all"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0225",
+      "lu_id": "err.elimination_sign",
+      "node_type": "error",
+      "title": {
+        "en": "Elimination Sign",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.5"
+      ],
+      "aliases": [],
+      "tags": [
+        "elimination",
+        "sign"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0226",
+      "lu_id": "err.zero_product_missed",
+      "node_type": "error",
+      "title": {
+        "en": "Zero Product Missed",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.5"
+      ],
+      "aliases": [],
+      "tags": [
+        "zero",
+        "product",
+        "missed"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0227",
+      "lu_id": "err.formula_substitution",
+      "node_type": "error",
+      "title": {
+        "en": "Formula Substitution",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.5"
+      ],
+      "aliases": [],
+      "tags": [
+        "formula",
+        "substitution"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0228",
+      "lu_id": "err.ineq_linear_solve_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Ineq Linear Solve E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.6"
+      ],
+      "aliases": [],
+      "tags": [
+        "ineq",
+        "linear",
+        "solve",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0229",
+      "lu_id": "err.ineq_integer_list_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Ineq Integer List E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.6"
+      ],
+      "aliases": [],
+      "tags": [
+        "ineq",
+        "integer",
+        "list",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0230",
+      "lu_id": "err.ineq_double_solve_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Ineq Double Solve E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.6"
+      ],
+      "aliases": [],
+      "tags": [
+        "ineq",
+        "double",
+        "solve",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0231",
+      "lu_id": "err.ineq_write_context_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Ineq Write Context E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.6"
+      ],
+      "aliases": [],
+      "tags": [
+        "ineq",
+        "write",
+        "context",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0232",
+      "lu_id": "err.common_diff_not_coeff",
+      "node_type": "error",
+      "title": {
+        "en": "Common Diff Not Coeff",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.7"
+      ],
+      "aliases": [],
+      "tags": [
+        "common",
+        "diff",
+        "not",
+        "coeff"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0233",
+      "lu_id": "err.second_diff_confusion",
+      "node_type": "error",
+      "title": {
+        "en": "Second Diff Confusion",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.7"
+      ],
+      "aliases": [],
+      "tags": [
+        "second",
+        "diff",
+        "confusion"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0234",
+      "lu_id": "err.n_vs_term_confusion",
+      "node_type": "error",
+      "title": {
+        "en": "N Vs Term Confusion",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.7"
+      ],
+      "aliases": [],
+      "tags": [
+        "n",
+        "vs",
+        "term",
+        "confusion"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0235",
+      "lu_id": "err.direct_inverse_swap",
+      "node_type": "error",
+      "title": {
+        "en": "Direct Inverse Swap",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.8"
+      ],
+      "aliases": [],
+      "tags": [
+        "direct",
+        "inverse",
+        "swap"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0236",
+      "lu_id": "err.speed_time_accel_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Speed Time Accel E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.9"
+      ],
+      "aliases": [],
+      "tags": [
+        "speed",
+        "time",
+        "accel",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0237",
+      "lu_id": "err.speed_time_accel_e2",
+      "node_type": "error",
+      "title": {
+        "en": "Speed Time Accel E2",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.9"
+      ],
+      "aliases": [],
+      "tags": [
+        "speed",
+        "time",
+        "accel",
+        "e2"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0238",
+      "lu_id": "err.speed_time_distance_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Speed Time Distance E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.9"
+      ],
+      "aliases": [],
+      "tags": [
+        "speed",
+        "time",
+        "distance",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0239",
+      "lu_id": "err.speed_time_distance_e2",
+      "node_type": "error",
+      "title": {
+        "en": "Speed Time Distance E2",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.9"
+      ],
+      "aliases": [],
+      "tags": [
+        "speed",
+        "time",
+        "distance",
+        "e2"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0240",
+      "lu_id": "err.average_speed_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Average Speed E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.9"
+      ],
+      "aliases": [],
+      "tags": [
+        "average",
+        "speed",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0241",
+      "lu_id": "err.average_speed_e2",
+      "node_type": "error",
+      "title": {
+        "en": "Average Speed E2",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.9"
+      ],
+      "aliases": [],
+      "tags": [
+        "average",
+        "speed",
+        "e2"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0242",
+      "lu_id": "err.unit_conversion_speed_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Unit Conversion Speed E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.9"
+      ],
+      "aliases": [],
+      "tags": [
+        "unit",
+        "conversion",
+        "speed",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0243",
+      "lu_id": "err.unit_conversion_speed_e2",
+      "node_type": "error",
+      "title": {
+        "en": "Unit Conversion Speed E2",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.9"
+      ],
+      "aliases": [],
+      "tags": [
+        "unit",
+        "conversion",
+        "speed",
+        "e2"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0244",
+      "lu_id": "err.complete_table_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Complete Table E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.10"
+      ],
+      "aliases": [],
+      "tags": [
+        "complete",
+        "table",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0245",
+      "lu_id": "err.complete_table_e2",
+      "node_type": "error",
+      "title": {
+        "en": "Complete Table E2",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.10"
+      ],
+      "aliases": [],
+      "tags": [
+        "complete",
+        "table",
+        "e2"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0246",
+      "lu_id": "err.find_gradient_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Find Gradient E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.10"
+      ],
+      "aliases": [],
+      "tags": [
+        "find",
+        "gradient",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0247",
+      "lu_id": "err.find_gradient_e2",
+      "node_type": "error",
+      "title": {
+        "en": "Find Gradient E2",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.10"
+      ],
+      "aliases": [],
+      "tags": [
+        "find",
+        "gradient",
+        "e2"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0248",
+      "lu_id": "err.line_equation_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Line Equation E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.10"
+      ],
+      "aliases": [],
+      "tags": [
+        "line",
+        "equation",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0249",
+      "lu_id": "err.line_equation_e2",
+      "node_type": "error",
+      "title": {
+        "en": "Line Equation E2",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.10"
+      ],
+      "aliases": [],
+      "tags": [
+        "line",
+        "equation",
+        "e2"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0250",
+      "lu_id": "err.identify_function_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Identify Function E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.10"
+      ],
+      "aliases": [],
+      "tags": [
+        "identify",
+        "function",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0251",
+      "lu_id": "err.identify_function_e2",
+      "node_type": "error",
+      "title": {
+        "en": "Identify Function E2",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.10"
+      ],
+      "aliases": [],
+      "tags": [
+        "identify",
+        "function",
+        "e2"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0252",
+      "lu_id": "err.trig_equation_solve_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Trig Equation Solve E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.11"
+      ],
+      "aliases": [],
+      "tags": [
+        "trig",
+        "equation",
+        "solve",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0253",
+      "lu_id": "err.trig_equation_solve_e2",
+      "node_type": "error",
+      "title": {
+        "en": "Trig Equation Solve E2",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.11"
+      ],
+      "aliases": [],
+      "tags": [
+        "trig",
+        "equation",
+        "solve",
+        "e2"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0254",
+      "lu_id": "err.trig_equation_solve_e3",
+      "node_type": "error",
+      "title": {
+        "en": "Trig Equation Solve E3",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.11"
+      ],
+      "aliases": [],
+      "tags": [
+        "trig",
+        "equation",
+        "solve",
+        "e3"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0255",
+      "lu_id": "err.find_turning_points_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Find Turning Points E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.11"
+      ],
+      "aliases": [],
+      "tags": [
+        "find",
+        "turning",
+        "points",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0256",
+      "lu_id": "err.find_turning_points_e2",
+      "node_type": "error",
+      "title": {
+        "en": "Find Turning Points E2",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.11"
+      ],
+      "aliases": [],
+      "tags": [
+        "find",
+        "turning",
+        "points",
+        "e2"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0257",
+      "lu_id": "err.trig_reflex_angle_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Trig Reflex Angle E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.11"
+      ],
+      "aliases": [],
+      "tags": [
+        "trig",
+        "reflex",
+        "angle",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0258",
+      "lu_id": "err.trig_reflex_angle_e2",
+      "node_type": "error",
+      "title": {
+        "en": "Trig Reflex Angle E2",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.11"
+      ],
+      "aliases": [],
+      "tags": [
+        "trig",
+        "reflex",
+        "angle",
+        "e2"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0259",
+      "lu_id": "err.func_evaluate_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Func Evaluate E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.13"
+      ],
+      "aliases": [],
+      "tags": [
+        "func",
+        "evaluate",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0260",
+      "lu_id": "err.func_composite_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Func Composite E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.13"
+      ],
+      "aliases": [],
+      "tags": [
+        "func",
+        "composite",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0261",
+      "lu_id": "err.func_inverse_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Func Inverse E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.13"
+      ],
+      "aliases": [],
+      "tags": [
+        "func",
+        "inverse",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0262",
+      "lu_id": "err.func_solve_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Func Solve E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "2.13"
+      ],
+      "aliases": [],
+      "tags": [
+        "func",
+        "solve",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0263",
+      "lu_id": "err.gradient_rise_run_swap",
+      "node_type": "error",
+      "title": {
+        "en": "Gradient Rise Run Swap",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "3.1"
+      ],
+      "aliases": [],
+      "tags": [
+        "gradient",
+        "rise",
+        "run",
+        "swap"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0264",
+      "lu_id": "err.midpoint_subtract",
+      "node_type": "error",
+      "title": {
+        "en": "Midpoint Subtract",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "3.1"
+      ],
+      "aliases": [],
+      "tags": [
+        "midpoint",
+        "subtract"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0265",
+      "lu_id": "err.perp_gradient_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Perp Gradient E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "3.7"
+      ],
+      "aliases": [],
+      "tags": [
+        "perp",
+        "gradient",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0266",
+      "lu_id": "err.perp_gradient_e2",
+      "node_type": "error",
+      "title": {
+        "en": "Perp Gradient E2",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "3.7"
+      ],
+      "aliases": [],
+      "tags": [
+        "perp",
+        "gradient",
+        "e2"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0267",
+      "lu_id": "err.perp_gradient_e3",
+      "node_type": "error",
+      "title": {
+        "en": "Perp Gradient E3",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "3.7"
+      ],
+      "aliases": [],
+      "tags": [
+        "perp",
+        "gradient",
+        "e3"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0268",
+      "lu_id": "err.perp_equation_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Perp Equation E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "3.7"
+      ],
+      "aliases": [],
+      "tags": [
+        "perp",
+        "equation",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0269",
+      "lu_id": "err.perp_equation_e2",
+      "node_type": "error",
+      "title": {
+        "en": "Perp Equation E2",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "3.7"
+      ],
+      "aliases": [],
+      "tags": [
+        "perp",
+        "equation",
+        "e2"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0270",
+      "lu_id": "err.perp_equation_e3",
+      "node_type": "error",
+      "title": {
+        "en": "Perp Equation E3",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "3.7"
+      ],
+      "aliases": [],
+      "tags": [
+        "perp",
+        "equation",
+        "e3"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0271",
+      "lu_id": "err.midpoint_perp_bisector_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Midpoint Perp Bisector E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "3.7"
+      ],
+      "aliases": [],
+      "tags": [
+        "midpoint",
+        "perp",
+        "bisector",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0272",
+      "lu_id": "err.midpoint_perp_bisector_e2",
+      "node_type": "error",
+      "title": {
+        "en": "Midpoint Perp Bisector E2",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "3.7"
+      ],
+      "aliases": [],
+      "tags": [
+        "midpoint",
+        "perp",
+        "bisector",
+        "e2"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0273",
+      "lu_id": "err.midpoint_perp_bisector_e3",
+      "node_type": "error",
+      "title": {
+        "en": "Midpoint Perp Bisector E3",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "3.7"
+      ],
+      "aliases": [],
+      "tags": [
+        "midpoint",
+        "perp",
+        "bisector",
+        "e3"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0274",
+      "lu_id": "err.exterior_interior_swap",
+      "node_type": "error",
+      "title": {
+        "en": "Exterior Interior Swap",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "4.6"
+      ],
+      "aliases": [],
+      "tags": [
+        "exterior",
+        "interior",
+        "swap"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0275",
+      "lu_id": "err.alternate_corresponding_swap",
+      "node_type": "error",
+      "title": {
+        "en": "Alternate Corresponding Swap",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "4.6"
+      ],
+      "aliases": [],
+      "tags": [
+        "alternate",
+        "corresponding",
+        "swap"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0276",
+      "lu_id": "err.fraction_of_circle",
+      "node_type": "error",
+      "title": {
+        "en": "Fraction Of Circle",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "5.3"
+      ],
+      "aliases": [],
+      "tags": [
+        "fraction",
+        "of",
+        "circle"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0277",
+      "lu_id": "err.trig_solve_basic_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Trig Solve Basic E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "6.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "trig",
+        "solve",
+        "basic",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0278",
+      "lu_id": "err.trig_solve_basic_e2",
+      "node_type": "error",
+      "title": {
+        "en": "Trig Solve Basic E2",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "6.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "trig",
+        "solve",
+        "basic",
+        "e2"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0279",
+      "lu_id": "err.trig_solve_linear_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Trig Solve Linear E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "6.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "trig",
+        "solve",
+        "linear",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0280",
+      "lu_id": "err.trig_solve_linear_e2",
+      "node_type": "error",
+      "title": {
+        "en": "Trig Solve Linear E2",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "6.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "trig",
+        "solve",
+        "linear",
+        "e2"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0281",
+      "lu_id": "err.trig_solve_quadratic_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Trig Solve Quadratic E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "6.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "trig",
+        "solve",
+        "quadratic",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0282",
+      "lu_id": "err.trig_solve_quadratic_e2",
+      "node_type": "error",
+      "title": {
+        "en": "Trig Solve Quadratic E2",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "6.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "trig",
+        "solve",
+        "quadratic",
+        "e2"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0283",
+      "lu_id": "err.prob_simple_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Prob Simple E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "8.1"
+      ],
+      "aliases": [],
+      "tags": [
+        "prob",
+        "simple",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0284",
+      "lu_id": "err.prob_complement_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Prob Complement E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "8.1"
+      ],
+      "aliases": [],
+      "tags": [
+        "prob",
+        "complement",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0285",
+      "lu_id": "err.prob_expected_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Prob Expected E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "8.1"
+      ],
+      "aliases": [],
+      "tags": [
+        "prob",
+        "expected",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0286",
+      "lu_id": "err.prob_freq_table_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Prob Freq Table E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "8.1"
+      ],
+      "aliases": [],
+      "tags": [
+        "prob",
+        "freq",
+        "table",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0287",
+      "lu_id": "err.prob_independent_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Prob Independent E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "8.3"
+      ],
+      "aliases": [],
+      "tags": [
+        "prob",
+        "independent",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0288",
+      "lu_id": "err.prob_without_replace_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Prob Without Replace E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "8.3"
+      ],
+      "aliases": [],
+      "tags": [
+        "prob",
+        "without",
+        "replace",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0289",
+      "lu_id": "err.prob_at_least_one_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Prob At Least One E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "8.3"
+      ],
+      "aliases": [],
+      "tags": [
+        "prob",
+        "at",
+        "least",
+        "one",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0290",
+      "lu_id": "err.prob_combined_expected_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Prob Combined Expected E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "8.3"
+      ],
+      "aliases": [],
+      "tags": [
+        "prob",
+        "combined",
+        "expected",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0291",
+      "lu_id": "err.prob_two_without_replace_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Prob Two Without Replace E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "8.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "prob",
+        "two",
+        "without",
+        "replace",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0292",
+      "lu_id": "err.prob_exactly_one_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Prob Exactly One E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "8.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "prob",
+        "exactly",
+        "one",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0293",
+      "lu_id": "err.prob_given_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Prob Given E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "8.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "prob",
+        "given",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0294",
+      "lu_id": "err.mean_not_divided",
+      "node_type": "error",
+      "title": {
+        "en": "Mean Not Divided",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "9.3"
+      ],
+      "aliases": [],
+      "tags": [
+        "mean",
+        "not",
+        "divided"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0295",
+      "lu_id": "err.grouped_midpoint",
+      "node_type": "error",
+      "title": {
+        "en": "Grouped Midpoint",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "9.3"
+      ],
+      "aliases": [],
+      "tags": [
+        "grouped",
+        "midpoint"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0296",
+      "lu_id": "err.correlation_type_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Correlation Type E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "9.5"
+      ],
+      "aliases": [],
+      "tags": [
+        "correlation",
+        "type",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0297",
+      "lu_id": "err.correlation_type_e2",
+      "node_type": "error",
+      "title": {
+        "en": "Correlation Type E2",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "9.5"
+      ],
+      "aliases": [],
+      "tags": [
+        "correlation",
+        "type",
+        "e2"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0298",
+      "lu_id": "err.line_of_best_fit_e1",
+      "node_type": "error",
+      "title": {
+        "en": "Line Of Best Fit E1",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "9.5"
+      ],
+      "aliases": [],
+      "tags": [
+        "line",
+        "of",
+        "best",
+        "fit",
+        "e1"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0299",
+      "lu_id": "err.line_of_best_fit_e2",
+      "node_type": "error",
+      "title": {
+        "en": "Line Of Best Fit E2",
+        "zh": ""
+      },
+      "domain": "error",
+      "subdomain": "common_trap",
+      "source_sections": [
+        "9.5"
+      ],
+      "aliases": [],
+      "tags": [
+        "line",
+        "of",
+        "best",
+        "fit",
+        "e2"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0300",
+      "lu_id": "lu.multiplier_growth_decay",
+      "node_type": "skill",
+      "title": {
+        "en": "Use multiplier for growth/decay calculations",
+        "zh": "用乘数进行增长/衰减计算"
+      },
+      "domain": "number",
+      "subdomain": "growth_decay",
+      "source_sections": [
+        "1.13",
+        "1.17"
+      ],
+      "aliases": [],
+      "tags": [
+        "multiplier",
+        "growth",
+        "decay",
+        "compound"
+      ],
+      "merge_note": "Split from kn_0070 (Decision 2)"
+    },
+    {
+      "kn_id": "kn_0301",
+      "lu_id": "lu.compound_growth_application",
+      "node_type": "skill",
+      "title": {
+        "en": "Compound growth application problems",
+        "zh": "复合增长应用题"
+      },
+      "domain": "number",
+      "subdomain": "growth_decay",
+      "source_sections": [
+        "1.13",
+        "1.17"
+      ],
+      "aliases": [],
+      "tags": [
+        "application_context",
+        "finance",
+        "depreciation",
+        "population"
+      ],
+      "merge_note": "Split from kn_0070 (Decision 2)"
+    },
+    {
+      "kn_id": "kn_0302",
+      "lu_id": "lu.find_reciprocal",
+      "node_type": "skill",
+      "title": {
+        "en": "Find the reciprocal of a number/fraction",
+        "zh": "求数或分数的倒数"
+      },
+      "domain": "number",
+      "subdomain": "integers",
+      "source_sections": [
+        "1.1",
+        "1.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "reciprocal",
+        "flip",
+        "fraction"
+      ],
+      "merge_note": "Split from kn_0011 (Decision 6)"
+    },
+    {
+      "kn_id": "kn_0303",
+      "lu_id": "lu.simultaneous_elimination",
+      "node_type": "method",
+      "title": {
+        "en": "Solve simultaneous equations by elimination",
+        "zh": "用消元法解联立方程"
+      },
+      "domain": "algebra",
+      "subdomain": "equations",
+      "source_sections": [
+        "2.5"
+      ],
+      "aliases": [],
+      "tags": [
+        "simultaneous",
+        "elimination",
+        "add",
+        "subtract"
+      ],
+      "merge_note": "Split from kn_0107 (Decision 7)"
+    },
+    {
+      "kn_id": "kn_0304",
+      "lu_id": "lu.simultaneous_substitution",
+      "node_type": "method",
+      "title": {
+        "en": "Solve simultaneous equations by substitution",
+        "zh": "用代入法解联立方程"
+      },
+      "domain": "algebra",
+      "subdomain": "equations",
+      "source_sections": [
+        "2.5"
+      ],
+      "aliases": [],
+      "tags": [
+        "simultaneous",
+        "substitution",
+        "rearrange"
+      ],
+      "merge_note": "Split from kn_0107 (Decision 7)"
+    },
+    {
+      "kn_id": "kn_0305",
+      "lu_id": "lu.simultaneous_graphical",
+      "node_type": "method",
+      "title": {
+        "en": "Solve simultaneous equations graphically",
+        "zh": "用图解法解联立方程"
+      },
+      "domain": "algebra",
+      "subdomain": "equations",
+      "source_sections": [
+        "2.5"
+      ],
+      "aliases": [],
+      "tags": [
+        "simultaneous",
+        "graphical",
+        "intersection"
+      ],
+      "merge_note": "Split from kn_0107 (Decision 7)"
+    },
+    {
+      "kn_id": "kn_0306",
+      "lu_id": "lu.simultaneous_choose_method",
+      "node_type": "method",
+      "title": {
+        "en": "Choose method for simultaneous equations",
+        "zh": "选择联立方程的解法"
+      },
+      "domain": "algebra",
+      "subdomain": "equations",
+      "source_sections": [
+        "2.5"
+      ],
+      "aliases": [],
+      "tags": [
+        "simultaneous",
+        "strategy",
+        "method selection"
+      ],
+      "merge_note": "Split from kn_0107 (Decision 7)"
+    },
+    {
+      "kn_id": "kn_0307",
+      "lu_id": "lu.simplify_algebraic_fraction_by_factorising",
+      "node_type": "skill",
+      "title": {
+        "en": "Simplify algebraic fractions by factorising",
+        "zh": "通过因式分解化简代数分式"
+      },
+      "domain": "algebra",
+      "subdomain": "manipulation",
+      "source_sections": [
+        "2.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "algebraic fraction",
+        "simplify",
+        "factorise",
+        "cancel"
+      ],
+      "merge_note": "Split from kn_0093 (Decision 8)"
+    },
+    {
+      "kn_id": "kn_0308",
+      "lu_id": "lu.add_subtract_algebraic_fractions",
+      "node_type": "skill",
+      "title": {
+        "en": "Add and subtract algebraic fractions",
+        "zh": "代数分式的加减"
+      },
+      "domain": "algebra",
+      "subdomain": "manipulation",
+      "source_sections": [
+        "2.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "algebraic fraction",
+        "add",
+        "subtract",
+        "common denominator"
+      ],
+      "merge_note": "Split from kn_0093 (Decision 8)"
+    },
+    {
+      "kn_id": "kn_0309",
+      "lu_id": "lu.multiply_divide_algebraic_fractions",
+      "node_type": "skill",
+      "title": {
+        "en": "Multiply and divide algebraic fractions",
+        "zh": "代数分式的乘除"
+      },
+      "domain": "algebra",
+      "subdomain": "manipulation",
+      "source_sections": [
+        "2.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "algebraic fraction",
+        "multiply",
+        "divide",
+        "reciprocal"
+      ],
+      "merge_note": "Split from kn_0093 (Decision 8)"
+    },
+    {
+      "kn_id": "kn_0310",
+      "lu_id": "lu.order_negatives",
+      "node_type": "skill",
+      "title": {
+        "en": "Order negative numbers on a number line",
+        "zh": "在数轴上排列负数"
+      },
+      "domain": "number",
+      "subdomain": "operations",
+      "source_sections": [
+        "1.6"
+      ],
+      "aliases": [],
+      "tags": [
+        "negative",
+        "order",
+        "number line",
+        "compare"
+      ],
+      "merge_note": "Split from kn_0033 (Decision 9)"
+    },
+    {
+      "kn_id": "kn_0311",
+      "lu_id": "lu.add_subtract_negatives",
+      "node_type": "skill",
+      "title": {
+        "en": "Add and subtract with negative numbers",
+        "zh": "负数的加减运算"
+      },
+      "domain": "number",
+      "subdomain": "operations",
+      "source_sections": [
+        "1.6"
+      ],
+      "aliases": [],
+      "tags": [
+        "negative",
+        "add",
+        "subtract",
+        "directed numbers"
+      ],
+      "merge_note": "Split from kn_0033 (Decision 9)"
+    },
+    {
+      "kn_id": "kn_0312",
+      "lu_id": "lu.multiply_divide_negatives",
+      "node_type": "skill",
+      "title": {
+        "en": "Multiply and divide negative numbers",
+        "zh": "负数的乘除运算"
+      },
+      "domain": "number",
+      "subdomain": "operations",
+      "source_sections": [
+        "1.6"
+      ],
+      "aliases": [],
+      "tags": [
+        "negative",
+        "multiply",
+        "divide",
+        "sign rules"
+      ],
+      "merge_note": "Split from kn_0033 (Decision 9)"
+    },
+    {
+      "kn_id": "kn_0313",
+      "lu_id": "lu.pythagoras_theorem",
+      "node_type": "concept",
+      "title": {
+        "en": "Pythagoras' theorem",
+        "zh": "勾股定理"
+      },
+      "domain": "geometry",
+      "subdomain": "triangles",
+      "source_sections": [
+        "4.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "pythagoras",
+        "right triangle",
+        "hypotenuse",
+        "a2+b2=c2"
+      ],
+      "merge_note": "P0 addition (Decision 10)"
+    },
+    {
+      "kn_id": "kn_0314",
+      "lu_id": "lu.pythagoras_hypotenuse",
+      "node_type": "skill",
+      "title": {
+        "en": "Find hypotenuse using Pythagoras",
+        "zh": "用勾股定理求斜边"
+      },
+      "domain": "geometry",
+      "subdomain": "triangles",
+      "source_sections": [
+        "4.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "pythagoras",
+        "hypotenuse",
+        "longest side"
+      ],
+      "merge_note": "P0 addition (Decision 10)"
+    },
+    {
+      "kn_id": "kn_0315",
+      "lu_id": "lu.pythagoras_shorter_side",
+      "node_type": "skill",
+      "title": {
+        "en": "Find shorter side using Pythagoras",
+        "zh": "用勾股定理求短边"
+      },
+      "domain": "geometry",
+      "subdomain": "triangles",
+      "source_sections": [
+        "4.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "pythagoras",
+        "shorter side",
+        "rearrange"
+      ],
+      "merge_note": "P0 addition (Decision 10)"
+    },
+    {
+      "kn_id": "kn_0316",
+      "lu_id": "err.misidentify_hypotenuse",
+      "node_type": "error",
+      "title": {
+        "en": "Misidentify hypotenuse",
+        "zh": "误判斜边"
+      },
+      "domain": "geometry",
+      "subdomain": "triangles",
+      "source_sections": [
+        "4.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "pythagoras",
+        "hypotenuse",
+        "error",
+        "longest side"
+      ],
+      "merge_note": "P0 addition (Decision 10)"
+    },
+    {
+      "kn_id": "kn_0317",
+      "lu_id": "lu.circle_theorem_centre_angle",
+      "node_type": "concept",
+      "title": {
+        "en": "Angle at centre = 2 * angle at circumference",
+        "zh": "圆心角等于圆周角的两倍"
+      },
+      "domain": "geometry",
+      "subdomain": "circle_theorems",
+      "source_sections": [
+        "4.7"
+      ],
+      "aliases": [],
+      "tags": [
+        "circle theorem",
+        "centre",
+        "circumference",
+        "double angle"
+      ],
+      "merge_note": "P0 addition (Decision 11)"
+    },
+    {
+      "kn_id": "kn_0318",
+      "lu_id": "lu.circle_theorem_semicircle",
+      "node_type": "concept",
+      "title": {
+        "en": "Angle in semicircle = 90 degrees",
+        "zh": "半圆上的圆周角为90度"
+      },
+      "domain": "geometry",
+      "subdomain": "circle_theorems",
+      "source_sections": [
+        "4.7"
+      ],
+      "aliases": [],
+      "tags": [
+        "circle theorem",
+        "semicircle",
+        "right angle",
+        "diameter"
+      ],
+      "merge_note": "P0 addition (Decision 11)"
+    },
+    {
+      "kn_id": "kn_0319",
+      "lu_id": "lu.circle_theorem_tangent_radius",
+      "node_type": "concept",
+      "title": {
+        "en": "Tangent perpendicular to radius",
+        "zh": "切线垂直于半径"
+      },
+      "domain": "geometry",
+      "subdomain": "circle_theorems",
+      "source_sections": [
+        "4.7"
+      ],
+      "aliases": [],
+      "tags": [
+        "circle theorem",
+        "tangent",
+        "radius",
+        "perpendicular"
+      ],
+      "merge_note": "P0 addition (Decision 11)"
+    },
+    {
+      "kn_id": "kn_0320",
+      "lu_id": "lu.apply_circle_theorem",
+      "node_type": "skill",
+      "title": {
+        "en": "Apply circle theorem to find angle",
+        "zh": "运用圆定理求角"
+      },
+      "domain": "geometry",
+      "subdomain": "circle_theorems",
+      "source_sections": [
+        "4.7"
+      ],
+      "aliases": [],
+      "tags": [
+        "circle theorem",
+        "find angle",
+        "application"
+      ],
+      "merge_note": "P0 addition (Decision 11)"
+    },
+    {
+      "kn_id": "kn_0321",
+      "lu_id": "lu.vector_concept",
+      "node_type": "concept",
+      "title": {
+        "en": "What is a vector",
+        "zh": "什么是向量"
+      },
+      "domain": "geometry",
+      "subdomain": "vectors",
+      "source_sections": [
+        "7.1",
+        "7.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "vector",
+        "magnitude",
+        "direction",
+        "column vector"
+      ],
+      "merge_note": "P0 addition (Decision 12)"
+    },
+    {
+      "kn_id": "kn_0322",
+      "lu_id": "lu.vector_add_subtract",
+      "node_type": "skill",
+      "title": {
+        "en": "Add and subtract vectors",
+        "zh": "向量加减"
+      },
+      "domain": "geometry",
+      "subdomain": "vectors",
+      "source_sections": [
+        "7.1",
+        "7.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "vector",
+        "add",
+        "subtract",
+        "resultant"
+      ],
+      "merge_note": "P0 addition (Decision 12)"
+    },
+    {
+      "kn_id": "kn_0323",
+      "lu_id": "lu.vector_scalar_multiply",
+      "node_type": "skill",
+      "title": {
+        "en": "Multiply vector by scalar",
+        "zh": "向量的数乘"
+      },
+      "domain": "geometry",
+      "subdomain": "vectors",
+      "source_sections": [
+        "7.1",
+        "7.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "vector",
+        "scalar",
+        "multiply",
+        "parallel"
+      ],
+      "merge_note": "P0 addition (Decision 12)"
+    },
+    {
+      "kn_id": "kn_0324",
+      "lu_id": "lu.position_vector",
+      "node_type": "concept",
+      "title": {
+        "en": "Position vectors",
+        "zh": "位置向量"
+      },
+      "domain": "geometry",
+      "subdomain": "vectors",
+      "source_sections": [
+        "7.1",
+        "7.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "vector",
+        "position",
+        "origin",
+        "point"
+      ],
+      "merge_note": "P0 addition (Decision 12)"
+    },
+    {
+      "kn_id": "kn_0325",
+      "lu_id": "lu.position_vector_resultant",
+      "node_type": "skill",
+      "title": {
+        "en": "Use position vectors to find resultant",
+        "zh": "用位置向量求合向量"
+      },
+      "domain": "geometry",
+      "subdomain": "vectors",
+      "source_sections": [
+        "7.1",
+        "7.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "vector",
+        "position",
+        "resultant",
+        "path"
+      ],
+      "merge_note": "P0 addition (Decision 12)"
+    },
+    {
+      "kn_id": "kn_0326",
+      "lu_id": "lu.trig_ratios",
+      "node_type": "concept",
+      "title": {
+        "en": "Sine, cosine, tangent ratios",
+        "zh": "正弦、余弦、正切比"
+      },
+      "domain": "geometry",
+      "subdomain": "trigonometry",
+      "source_sections": [
+        "6.1",
+        "6.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "SOH CAH TOA",
+        "sine",
+        "cosine",
+        "tangent",
+        "ratio"
+      ],
+      "merge_note": "P0 addition (Decision 13)"
+    },
+    {
+      "kn_id": "kn_0327",
+      "lu_id": "lu.trig_find_side",
+      "node_type": "skill",
+      "title": {
+        "en": "Find side using trig ratio",
+        "zh": "用三角比求边"
+      },
+      "domain": "geometry",
+      "subdomain": "trigonometry",
+      "source_sections": [
+        "6.1",
+        "6.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "trigonometry",
+        "find side",
+        "SOH CAH TOA"
+      ],
+      "merge_note": "P0 addition (Decision 13)"
+    },
+    {
+      "kn_id": "kn_0328",
+      "lu_id": "lu.trig_find_angle",
+      "node_type": "skill",
+      "title": {
+        "en": "Find angle using inverse trig",
+        "zh": "用反三角函数求角"
+      },
+      "domain": "geometry",
+      "subdomain": "trigonometry",
+      "source_sections": [
+        "6.1",
+        "6.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "trigonometry",
+        "find angle",
+        "inverse",
+        "arcsin",
+        "arccos",
+        "arctan"
+      ],
+      "merge_note": "P0 addition (Decision 13)"
+    },
+    {
+      "kn_id": "kn_0329",
+      "lu_id": "lu.area_2d_shapes",
+      "node_type": "skill",
+      "title": {
+        "en": "Area of 2D shapes (triangle, parallelogram, trapezium)",
+        "zh": "二维图形面积（三角形、平行四边形、梯形）"
+      },
+      "domain": "geometry",
+      "subdomain": "mensuration",
+      "source_sections": [
+        "5.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "area",
+        "triangle",
+        "parallelogram",
+        "trapezium",
+        "formula"
+      ],
+      "merge_note": "P0 addition (Decision 13)"
+    },
+    {
+      "kn_id": "kn_0330",
+      "lu_id": "lu.circle_area_circumference",
+      "node_type": "skill",
+      "title": {
+        "en": "Circumference and area of circle",
+        "zh": "圆的周长与面积"
+      },
+      "domain": "geometry",
+      "subdomain": "mensuration",
+      "source_sections": [
+        "5.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "circle",
+        "circumference",
+        "area",
+        "pi",
+        "radius",
+        "diameter"
+      ],
+      "merge_note": "P0 addition (Decision 13)"
+    },
+    {
+      "kn_id": "kn_0331",
+      "lu_id": "lu.frac_to_recurring_decimal",
+      "node_type": "skill",
+      "title": {
+        "en": "Fraction to recurring decimal",
+        "zh": "分数化循环小数"
+      },
+      "domain": "number",
+      "subdomain": "fdp",
+      "source_sections": [
+        "1.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "fraction",
+        "recurring",
+        "repeating",
+        "decimal",
+        "long division"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0332",
+      "lu_id": "lu.recurring_decimal_to_fraction",
+      "node_type": "skill",
+      "title": {
+        "en": "Recurring decimal to fraction",
+        "zh": "循环小数化分数"
+      },
+      "domain": "number",
+      "subdomain": "fdp",
+      "source_sections": [
+        "1.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "recurring",
+        "decimal",
+        "fraction",
+        "algebra",
+        "10x method"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0333",
+      "lu_id": "lu.mixed_number_concept",
+      "node_type": "concept",
+      "title": {
+        "en": "Mixed numbers and improper fractions",
+        "zh": "带分数与假分数"
+      },
+      "domain": "number",
+      "subdomain": "fractions",
+      "source_sections": [
+        "1.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "mixed number",
+        "improper",
+        "convert",
+        "whole part",
+        "fraction part"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0334",
+      "lu_id": "lu.mixed_number_addition",
+      "node_type": "skill",
+      "title": {
+        "en": "Add mixed numbers",
+        "zh": "带分数加法"
+      },
+      "domain": "number",
+      "subdomain": "fractions",
+      "source_sections": [
+        "1.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "mixed number",
+        "add",
+        "improper",
+        "carry",
+        "regroup"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0335",
+      "lu_id": "lu.mixed_number_subtraction",
+      "node_type": "skill",
+      "title": {
+        "en": "Subtract mixed numbers",
+        "zh": "带分数减法"
+      },
+      "domain": "number",
+      "subdomain": "fractions",
+      "source_sections": [
+        "1.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "mixed number",
+        "subtract",
+        "borrow",
+        "regroup"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0336",
+      "lu_id": "lu.fraction_division",
+      "node_type": "skill",
+      "title": {
+        "en": "Divide fractions",
+        "zh": "分数除法"
+      },
+      "domain": "number",
+      "subdomain": "fractions",
+      "source_sections": [
+        "1.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "fraction",
+        "divide",
+        "reciprocal",
+        "invert",
+        "multiply"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0337",
+      "lu_id": "lu.reverse_fraction_of",
+      "node_type": "skill",
+      "title": {
+        "en": "Reverse: find the whole from a fraction",
+        "zh": "逆向：已知部分求整体"
+      },
+      "domain": "number",
+      "subdomain": "fractions",
+      "source_sections": [
+        "1.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "reverse",
+        "fraction of",
+        "find whole",
+        "divide",
+        "word problem"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0338",
+      "lu_id": "lu.fdp_word_problem",
+      "node_type": "skill",
+      "title": {
+        "en": "FDP word problems in context",
+        "zh": "分小百应用题"
+      },
+      "domain": "number",
+      "subdomain": "fdp",
+      "source_sections": [
+        "1.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "word problem",
+        "context",
+        "money",
+        "distance",
+        "time",
+        "recipe",
+        "multi-step"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0339",
+      "lu_id": "lu.speed_distance_time",
+      "node_type": "skill",
+      "title": {
+        "en": "Speed, distance and time calculations",
+        "zh": "速度、路程与时间计算"
+      },
+      "domain": "number",
+      "subdomain": "time",
+      "source_sections": [
+        "1.15",
+        "1.12"
+      ],
+      "aliases": [],
+      "tags": [
+        "speed",
+        "distance",
+        "time",
+        "formula",
+        "s=d/t"
+      ],
+      "merge_note": "Bridges s1.15 (time context) and s1.12 (rates context)"
+    },
+    {
+      "kn_id": "kn_0340",
+      "lu_id": "err.recurring_pattern_wrong",
+      "node_type": "error",
+      "title": {
+        "en": "Incorrect repeating pattern identification",
+        "zh": "循环节识别错误"
+      },
+      "domain": "number",
+      "subdomain": "fdp",
+      "source_sections": [
+        "1.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "recurring",
+        "pattern",
+        "repeat",
+        "dot notation"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0341",
+      "lu_id": "err.mixed_number_regroup",
+      "node_type": "error",
+      "title": {
+        "en": "Forgot to regroup when adding/subtracting mixed numbers",
+        "zh": "带分数运算忘记进位/借位"
+      },
+      "domain": "number",
+      "subdomain": "fractions",
+      "source_sections": [
+        "1.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "mixed number",
+        "carry",
+        "borrow",
+        "regroup"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0342",
+      "lu_id": "err.divide_flip_wrong",
+      "node_type": "error",
+      "title": {
+        "en": "Flipped the wrong fraction when dividing",
+        "zh": "分数除法翻错了分数"
+      },
+      "domain": "number",
+      "subdomain": "fractions",
+      "source_sections": [
+        "1.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "divide",
+        "reciprocal",
+        "flip",
+        "invert",
+        "KFC method"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0343",
+      "lu_id": "lu.order_integers",
+      "node_type": "skill",
+      "title": {
+        "en": "Order integers on a number line",
+        "zh": "在数轴上排列整数"
+      },
+      "domain": "number",
+      "subdomain": "ordering",
+      "source_sections": [
+        "1.5"
+      ],
+      "aliases": [],
+      "tags": [
+        "order",
+        "ascending",
+        "descending",
+        "number line",
+        "integer"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0344",
+      "lu_id": "lu.order_fractions_decimals",
+      "node_type": "skill",
+      "title": {
+        "en": "Order fractions, decimals and percentages",
+        "zh": "排列分数、小数和百分数"
+      },
+      "domain": "number",
+      "subdomain": "ordering",
+      "source_sections": [
+        "1.5"
+      ],
+      "aliases": [],
+      "tags": [
+        "order",
+        "compare",
+        "fraction",
+        "decimal",
+        "percentage",
+        "inequality"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0345",
+      "lu_id": "lu.calculator_operations",
+      "node_type": "skill",
+      "title": {
+        "en": "Efficient calculator use",
+        "zh": "计算器的高效使用"
+      },
+      "domain": "number",
+      "subdomain": "arithmetic",
+      "source_sections": [
+        "1.14"
+      ],
+      "aliases": [],
+      "tags": [
+        "calculator",
+        "brackets",
+        "memory",
+        "ANS"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0346",
+      "lu_id": "lu.simplify_surds",
+      "node_type": "skill",
+      "title": {
+        "en": "Simplify surds",
+        "zh": "化简根式"
+      },
+      "domain": "number",
+      "subdomain": "surds",
+      "source_sections": [
+        "1.18"
+      ],
+      "aliases": [],
+      "tags": [
+        "surd",
+        "simplify",
+        "square root",
+        "rationalise"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0347",
+      "lu_id": "lu.differentiation_power_rule",
+      "node_type": "skill",
+      "title": {
+        "en": "Differentiate using the power rule",
+        "zh": "幂法则求导"
+      },
+      "domain": "algebra",
+      "subdomain": "calculus",
+      "source_sections": [
+        "2.12"
+      ],
+      "aliases": [],
+      "tags": [
+        "differentiation",
+        "derivative",
+        "power rule",
+        "dy/dx",
+        "nx^(n-1)"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0348",
+      "lu_id": "lu.differentiation_applications",
+      "node_type": "skill",
+      "title": {
+        "en": "Find gradient and turning points by differentiation",
+        "zh": "用微分求梯度和极值点"
+      },
+      "domain": "algebra",
+      "subdomain": "calculus",
+      "source_sections": [
+        "2.12"
+      ],
+      "aliases": [],
+      "tags": [
+        "turning point",
+        "gradient",
+        "maximum",
+        "minimum",
+        "stationary"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0349",
+      "lu_id": "lu.shape_vocabulary",
+      "node_type": "concept",
+      "title": {
+        "en": "Names and properties of 2D shapes",
+        "zh": "二维图形的名称与性质"
+      },
+      "domain": "geometry",
+      "subdomain": "shape_properties",
+      "source_sections": [
+        "4.1"
+      ],
+      "aliases": [],
+      "tags": [
+        "polygon",
+        "triangle",
+        "quadrilateral",
+        "pentagon",
+        "hexagon",
+        "parallel",
+        "perpendicular"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0350",
+      "lu_id": "lu.nets_3d_shapes",
+      "node_type": "skill",
+      "title": {
+        "en": "Identify nets and 3D shapes",
+        "zh": "识别展开图与三维图形"
+      },
+      "domain": "geometry",
+      "subdomain": "shape_properties",
+      "source_sections": [
+        "4.1"
+      ],
+      "aliases": [],
+      "tags": [
+        "net",
+        "cube",
+        "prism",
+        "pyramid",
+        "cylinder",
+        "3D"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0351",
+      "lu_id": "lu.construct_bisector",
+      "node_type": "skill",
+      "title": {
+        "en": "Construct perpendicular and angle bisectors",
+        "zh": "尺规作垂直平分线与角平分线"
+      },
+      "domain": "geometry",
+      "subdomain": "constructions",
+      "source_sections": [
+        "4.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "bisector",
+        "perpendicular",
+        "angle",
+        "compass",
+        "ruler",
+        "construction"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0352",
+      "lu_id": "lu.construct_shapes",
+      "node_type": "skill",
+      "title": {
+        "en": "Construct triangles and other shapes accurately",
+        "zh": "精确尺规作三角形及其他图形"
+      },
+      "domain": "geometry",
+      "subdomain": "constructions",
+      "source_sections": [
+        "4.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "equilateral",
+        "triangle",
+        "construction",
+        "compass",
+        "protractor"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0353",
+      "lu_id": "lu.scale_drawing",
+      "node_type": "skill",
+      "title": {
+        "en": "Read and make scale drawings",
+        "zh": "比例图的读取与绘制"
+      },
+      "domain": "geometry",
+      "subdomain": "scale",
+      "source_sections": [
+        "4.3"
+      ],
+      "aliases": [],
+      "tags": [
+        "scale",
+        "drawing",
+        "ratio",
+        "map",
+        "plan"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0354",
+      "lu_id": "lu.bearings",
+      "node_type": "skill",
+      "title": {
+        "en": "Measure and calculate three-figure bearings",
+        "zh": "三位方位角的测量与计算"
+      },
+      "domain": "geometry",
+      "subdomain": "bearings",
+      "source_sections": [
+        "4.3"
+      ],
+      "aliases": [],
+      "tags": [
+        "bearing",
+        "three-figure",
+        "north",
+        "clockwise",
+        "angle"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0355",
+      "lu_id": "lu.line_symmetry",
+      "node_type": "concept",
+      "title": {
+        "en": "Line symmetry and reflection symmetry",
+        "zh": "轴对称"
+      },
+      "domain": "geometry",
+      "subdomain": "symmetry",
+      "source_sections": [
+        "4.5"
+      ],
+      "aliases": [],
+      "tags": [
+        "line of symmetry",
+        "mirror line",
+        "reflection",
+        "fold"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0356",
+      "lu_id": "lu.rotational_symmetry",
+      "node_type": "concept",
+      "title": {
+        "en": "Rotational symmetry and order",
+        "zh": "旋转对称与对称阶"
+      },
+      "domain": "geometry",
+      "subdomain": "symmetry",
+      "source_sections": [
+        "4.5"
+      ],
+      "aliases": [],
+      "tags": [
+        "rotational",
+        "order",
+        "rotation",
+        "centre"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0357",
+      "lu_id": "lu.locus_concept",
+      "node_type": "concept",
+      "title": {
+        "en": "Locus of points satisfying a condition",
+        "zh": "满足条件的点的轨迹"
+      },
+      "domain": "geometry",
+      "subdomain": "loci",
+      "source_sections": [
+        "4.8"
+      ],
+      "aliases": [],
+      "tags": [
+        "locus",
+        "loci",
+        "equidistant",
+        "region",
+        "boundary"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0358",
+      "lu_id": "lu.locus_intersection",
+      "node_type": "skill",
+      "title": {
+        "en": "Find intersection of loci",
+        "zh": "求轨迹的交集"
+      },
+      "domain": "geometry",
+      "subdomain": "loci",
+      "source_sections": [
+        "4.8"
+      ],
+      "aliases": [],
+      "tags": [
+        "locus",
+        "intersection",
+        "region",
+        "shading"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0359",
+      "lu_id": "lu.unit_conversion",
+      "node_type": "skill",
+      "title": {
+        "en": "Convert between metric units (length, mass, capacity)",
+        "zh": "公制单位换算（长度、质量、容量）"
+      },
+      "domain": "mensuration",
+      "subdomain": "units",
+      "source_sections": [
+        "5.1"
+      ],
+      "aliases": [],
+      "tags": [
+        "convert",
+        "metric",
+        "mm",
+        "cm",
+        "m",
+        "km",
+        "g",
+        "kg",
+        "ml",
+        "l"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0360",
+      "lu_id": "lu.area_volume_unit_conversion",
+      "node_type": "skill",
+      "title": {
+        "en": "Convert area and volume units",
+        "zh": "面积和体积单位换算"
+      },
+      "domain": "mensuration",
+      "subdomain": "units",
+      "source_sections": [
+        "5.1"
+      ],
+      "aliases": [],
+      "tags": [
+        "area",
+        "volume",
+        "cm^2",
+        "m^2",
+        "cm^3",
+        "m^3",
+        "convert"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0361",
+      "lu_id": "lu.volume_prism",
+      "node_type": "skill",
+      "title": {
+        "en": "Volume of prisms and cylinders",
+        "zh": "棱柱与圆柱的体积"
+      },
+      "domain": "mensuration",
+      "subdomain": "volume",
+      "source_sections": [
+        "5.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "volume",
+        "prism",
+        "cylinder",
+        "cross-section",
+        "height"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0362",
+      "lu_id": "lu.surface_area_3d",
+      "node_type": "skill",
+      "title": {
+        "en": "Surface area of 3D shapes",
+        "zh": "三维图形的表面积"
+      },
+      "domain": "mensuration",
+      "subdomain": "volume",
+      "source_sections": [
+        "5.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "surface area",
+        "net",
+        "cuboid",
+        "cylinder",
+        "prism"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0363",
+      "lu_id": "lu.volume_cone_sphere_pyramid",
+      "node_type": "skill",
+      "title": {
+        "en": "Volume of cone, sphere and pyramid",
+        "zh": "圆锥、球和棱锥的体积"
+      },
+      "domain": "mensuration",
+      "subdomain": "volume",
+      "source_sections": [
+        "5.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "volume",
+        "cone",
+        "sphere",
+        "pyramid",
+        "formula"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0364",
+      "lu_id": "lu.sa_cone_sphere",
+      "node_type": "skill",
+      "title": {
+        "en": "Surface area of cone and sphere",
+        "zh": "圆锥与球的表面积"
+      },
+      "domain": "mensuration",
+      "subdomain": "volume",
+      "source_sections": [
+        "5.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "surface area",
+        "cone",
+        "sphere",
+        "curved",
+        "slant height"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0365",
+      "lu_id": "lu.compound_area",
+      "node_type": "skill",
+      "title": {
+        "en": "Area and perimeter of compound shapes",
+        "zh": "组合图形的面积与周长"
+      },
+      "domain": "mensuration",
+      "subdomain": "compound",
+      "source_sections": [
+        "5.5"
+      ],
+      "aliases": [],
+      "tags": [
+        "compound",
+        "L-shape",
+        "T-shape",
+        "composite",
+        "add",
+        "subtract"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0366",
+      "lu_id": "lu.exact_trig_values",
+      "node_type": "concept",
+      "title": {
+        "en": "Exact values of sin, cos, tan for 0/30/45/60/90 degrees",
+        "zh": "特殊角三角函数精确值"
+      },
+      "domain": "trigonometry",
+      "subdomain": "exact_values",
+      "source_sections": [
+        "6.3"
+      ],
+      "aliases": [],
+      "tags": [
+        "exact",
+        "sin 30",
+        "cos 45",
+        "tan 60",
+        "special angles",
+        "surd form"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0367",
+      "lu_id": "lu.sine_rule",
+      "node_type": "skill",
+      "title": {
+        "en": "Sine rule (find side or angle)",
+        "zh": "正弦定理（求边或角）"
+      },
+      "domain": "trigonometry",
+      "subdomain": "non_right",
+      "source_sections": [
+        "6.5"
+      ],
+      "aliases": [],
+      "tags": [
+        "sine rule",
+        "a/sinA",
+        "ambiguous case",
+        "non-right"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0368",
+      "lu_id": "lu.cosine_rule",
+      "node_type": "skill",
+      "title": {
+        "en": "Cosine rule (find side or angle)",
+        "zh": "余弦定理（求边或角）"
+      },
+      "domain": "trigonometry",
+      "subdomain": "non_right",
+      "source_sections": [
+        "6.5"
+      ],
+      "aliases": [],
+      "tags": [
+        "cosine rule",
+        "a^2=b^2+c^2-2bc cosA",
+        "non-right"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0369",
+      "lu_id": "lu.area_half_ab_sinC",
+      "node_type": "skill",
+      "title": {
+        "en": "Area of triangle using 1/2 ab sin C",
+        "zh": "用½absinC求三角形面积"
+      },
+      "domain": "trigonometry",
+      "subdomain": "non_right",
+      "source_sections": [
+        "6.5"
+      ],
+      "aliases": [],
+      "tags": [
+        "area",
+        "triangle",
+        "sine",
+        "half ab sinC"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0370",
+      "lu_id": "lu.pythagoras_3d",
+      "node_type": "skill",
+      "title": {
+        "en": "Pythagoras' theorem in 3D",
+        "zh": "三维勾股定理"
+      },
+      "domain": "trigonometry",
+      "subdomain": "3d_trig",
+      "source_sections": [
+        "6.6"
+      ],
+      "aliases": [],
+      "tags": [
+        "3D",
+        "diagonal",
+        "space diagonal",
+        "cuboid",
+        "Pythagoras"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0371",
+      "lu_id": "lu.trig_3d_angle",
+      "node_type": "skill",
+      "title": {
+        "en": "Trigonometry in 3D (angle of elevation/depression)",
+        "zh": "三维三角学（仰角/俯角）"
+      },
+      "domain": "trigonometry",
+      "subdomain": "3d_trig",
+      "source_sections": [
+        "6.6"
+      ],
+      "aliases": [],
+      "tags": [
+        "3D",
+        "angle of elevation",
+        "depression",
+        "trig"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0372",
+      "lu_id": "lu.reflection",
+      "node_type": "skill",
+      "title": {
+        "en": "Reflect a shape in a given line",
+        "zh": "沿给定直线做轴对称变换"
+      },
+      "domain": "geometry",
+      "subdomain": "transformations",
+      "source_sections": [
+        "7.1"
+      ],
+      "aliases": [],
+      "tags": [
+        "reflection",
+        "mirror",
+        "line",
+        "x-axis",
+        "y-axis",
+        "y=x"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0373",
+      "lu_id": "lu.rotation",
+      "node_type": "skill",
+      "title": {
+        "en": "Rotate a shape about a point",
+        "zh": "绕定点旋转图形"
+      },
+      "domain": "geometry",
+      "subdomain": "transformations",
+      "source_sections": [
+        "7.1"
+      ],
+      "aliases": [],
+      "tags": [
+        "rotation",
+        "centre",
+        "angle",
+        "clockwise",
+        "anticlockwise"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0374",
+      "lu_id": "lu.translation",
+      "node_type": "skill",
+      "title": {
+        "en": "Translate a shape by a vector",
+        "zh": "按向量平移图形"
+      },
+      "domain": "geometry",
+      "subdomain": "transformations",
+      "source_sections": [
+        "7.1"
+      ],
+      "aliases": [],
+      "tags": [
+        "translation",
+        "column vector",
+        "slide",
+        "shift"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0375",
+      "lu_id": "lu.enlargement",
+      "node_type": "skill",
+      "title": {
+        "en": "Enlarge a shape by a scale factor",
+        "zh": "按比例因子放缩图形"
+      },
+      "domain": "geometry",
+      "subdomain": "transformations",
+      "source_sections": [
+        "7.1"
+      ],
+      "aliases": [],
+      "tags": [
+        "enlargement",
+        "scale factor",
+        "centre of enlargement",
+        "similar"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0376",
+      "lu_id": "lu.describe_transformation",
+      "node_type": "skill",
+      "title": {
+        "en": "Describe a single transformation fully",
+        "zh": "完整描述单一变换"
+      },
+      "domain": "geometry",
+      "subdomain": "transformations",
+      "source_sections": [
+        "7.1"
+      ],
+      "aliases": [],
+      "tags": [
+        "describe",
+        "transformation",
+        "fully",
+        "mirror line",
+        "centre",
+        "angle",
+        "vector",
+        "scale factor"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0377",
+      "lu_id": "lu.combined_transformations",
+      "node_type": "skill",
+      "title": {
+        "en": "Combined transformations",
+        "zh": "组合变换"
+      },
+      "domain": "geometry",
+      "subdomain": "transformations",
+      "source_sections": [
+        "7.1"
+      ],
+      "aliases": [],
+      "tags": [
+        "combined",
+        "successive",
+        "transformation",
+        "equivalent"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0378",
+      "lu_id": "lu.classify_data",
+      "node_type": "concept",
+      "title": {
+        "en": "Classify data (discrete, continuous, categorical)",
+        "zh": "数据分类（离散、连续、分类）"
+      },
+      "domain": "statistics",
+      "subdomain": "data_handling",
+      "source_sections": [
+        "9.1"
+      ],
+      "aliases": [],
+      "tags": [
+        "discrete",
+        "continuous",
+        "categorical",
+        "qualitative",
+        "quantitative"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0379",
+      "lu_id": "lu.frequency_table",
+      "node_type": "skill",
+      "title": {
+        "en": "Construct and read frequency tables",
+        "zh": "编制与读取频率表"
+      },
+      "domain": "statistics",
+      "subdomain": "data_handling",
+      "source_sections": [
+        "9.1"
+      ],
+      "aliases": [],
+      "tags": [
+        "frequency",
+        "table",
+        "tally",
+        "grouped"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0380",
+      "lu_id": "lu.interpret_tables_charts",
+      "node_type": "skill",
+      "title": {
+        "en": "Interpret information from tables and charts",
+        "zh": "从表格和图表中提取信息"
+      },
+      "domain": "statistics",
+      "subdomain": "data_handling",
+      "source_sections": [
+        "9.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "interpret",
+        "table",
+        "chart",
+        "read",
+        "compare"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0381",
+      "lu_id": "lu.two_way_table",
+      "node_type": "skill",
+      "title": {
+        "en": "Read and complete two-way tables",
+        "zh": "读取并完成双向表"
+      },
+      "domain": "statistics",
+      "subdomain": "data_handling",
+      "source_sections": [
+        "9.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "two-way table",
+        "cross-tabulation",
+        "row",
+        "column"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0382",
+      "lu_id": "lu.pie_chart",
+      "node_type": "skill",
+      "title": {
+        "en": "Draw and interpret pie charts",
+        "zh": "绘制与读取饼图"
+      },
+      "domain": "statistics",
+      "subdomain": "data_representation",
+      "source_sections": [
+        "9.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "pie chart",
+        "sector",
+        "angle",
+        "proportion"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0383",
+      "lu_id": "lu.bar_chart_pictogram",
+      "node_type": "skill",
+      "title": {
+        "en": "Draw and interpret bar charts and pictograms",
+        "zh": "绘制与读取柱状图和象形图"
+      },
+      "domain": "statistics",
+      "subdomain": "data_representation",
+      "source_sections": [
+        "9.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "bar chart",
+        "pictogram",
+        "frequency",
+        "dual bar"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0384",
+      "lu_id": "lu.frequency_polygon",
+      "node_type": "skill",
+      "title": {
+        "en": "Draw and interpret frequency polygons",
+        "zh": "绘制与读取频率多边形"
+      },
+      "domain": "statistics",
+      "subdomain": "data_representation",
+      "source_sections": [
+        "9.4"
+      ],
+      "aliases": [],
+      "tags": [
+        "frequency polygon",
+        "midpoint",
+        "line graph"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0385",
+      "lu_id": "lu.cumulative_frequency_diagram",
+      "node_type": "skill",
+      "title": {
+        "en": "Draw and read cumulative frequency diagrams",
+        "zh": "绘制与读取累积频率图"
+      },
+      "domain": "statistics",
+      "subdomain": "cumulative_frequency",
+      "source_sections": [
+        "9.6"
+      ],
+      "aliases": [],
+      "tags": [
+        "cumulative frequency",
+        "ogive",
+        "upper boundary",
+        "S-curve"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0386",
+      "lu_id": "lu.median_quartiles_from_cf",
+      "node_type": "skill",
+      "title": {
+        "en": "Estimate median and quartiles from cumulative frequency",
+        "zh": "从累积频率图估计中位数与四分位数"
+      },
+      "domain": "statistics",
+      "subdomain": "cumulative_frequency",
+      "source_sections": [
+        "9.6"
+      ],
+      "aliases": [],
+      "tags": [
+        "median",
+        "lower quartile",
+        "upper quartile",
+        "IQR",
+        "cumulative"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0387",
+      "lu_id": "lu.box_plot",
+      "node_type": "skill",
+      "title": {
+        "en": "Draw and interpret box-and-whisker plots",
+        "zh": "绘制与读取箱线图"
+      },
+      "domain": "statistics",
+      "subdomain": "cumulative_frequency",
+      "source_sections": [
+        "9.6"
+      ],
+      "aliases": [],
+      "tags": [
+        "box plot",
+        "box-and-whisker",
+        "median",
+        "quartile",
+        "outlier"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0388",
+      "lu_id": "lu.histogram_frequency_density",
+      "node_type": "skill",
+      "title": {
+        "en": "Draw and read histograms with frequency density",
+        "zh": "绘制与读取频率密度直方图"
+      },
+      "domain": "statistics",
+      "subdomain": "histograms",
+      "source_sections": [
+        "9.7"
+      ],
+      "aliases": [],
+      "tags": [
+        "histogram",
+        "frequency density",
+        "class width",
+        "unequal intervals"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0389",
+      "lu_id": "lu.vector_magnitude",
+      "node_type": "skill",
+      "title": {
+        "en": "Calculate the magnitude of a vector",
+        "zh": "求向量的模"
+      },
+      "domain": "geometry",
+      "subdomain": "vectors",
+      "source_sections": [
+        "7.3"
+      ],
+      "aliases": [],
+      "tags": [
+        "magnitude",
+        "modulus",
+        "length",
+        "vector",
+        "Pythagoras"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0390",
+      "lu_id": "lu.similar_shapes",
+      "node_type": "concept",
+      "title": {
+        "en": "Similar shapes and scale factor",
+        "zh": "相似图形与比例因子"
+      },
+      "domain": "geometry",
+      "subdomain": "similarity",
+      "source_sections": [
+        "4.4"
+      ],
+      "aliases": [
+        "similar figures",
+        "enlargement ratio"
+      ],
+      "tags": [
+        "similar",
+        "scale factor",
+        "same shape",
+        "different size",
+        "corresponding sides"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0391",
+      "lu_id": "lu.similar_missing_length",
+      "node_type": "skill",
+      "title": {
+        "en": "Find missing lengths using similarity",
+        "zh": "用相似求缺失边长"
+      },
+      "domain": "geometry",
+      "subdomain": "similarity",
+      "source_sections": [
+        "4.4"
+      ],
+      "aliases": [
+        "similar triangles find side"
+      ],
+      "tags": [
+        "similar triangles",
+        "corresponding sides",
+        "scale factor",
+        "missing length"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0392",
+      "lu_id": "lu.similar_area_volume_ratio",
+      "node_type": "skill",
+      "title": {
+        "en": "Find areas and volumes using similarity ratios",
+        "zh": "用相似比求面积与体积"
+      },
+      "domain": "geometry",
+      "subdomain": "similarity",
+      "source_sections": [
+        "4.4"
+      ],
+      "aliases": [
+        "area ratio",
+        "volume ratio",
+        "k-squared",
+        "k-cubed"
+      ],
+      "tags": [
+        "area ratio",
+        "volume ratio",
+        "scale factor squared",
+        "scale factor cubed"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0393",
+      "lu_id": "lu.congruent_shapes",
+      "node_type": "concept",
+      "title": {
+        "en": "Congruent shapes and conditions for congruence",
+        "zh": "全等图形与全等条件"
+      },
+      "domain": "geometry",
+      "subdomain": "congruence",
+      "source_sections": [
+        "4.4"
+      ],
+      "aliases": [
+        "congruence criteria",
+        "SSS",
+        "SAS",
+        "ASA",
+        "RHS"
+      ],
+      "tags": [
+        "congruent",
+        "SSS",
+        "SAS",
+        "ASA",
+        "RHS",
+        "AAA not sufficient"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0394",
+      "lu_id": "lu.parallel_lines_same_gradient",
+      "node_type": "concept",
+      "title": {
+        "en": "Parallel lines have equal gradients",
+        "zh": "平行线斜率相等"
+      },
+      "domain": "geometry",
+      "subdomain": "coordinate_geometry",
+      "source_sections": [
+        "3.6"
+      ],
+      "aliases": [
+        "same gradient",
+        "parallel gradient"
+      ],
+      "tags": [
+        "parallel",
+        "gradient",
+        "equal",
+        "m1 = m2"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0395",
+      "lu_id": "lu.find_parallel_line_equation",
+      "node_type": "skill",
+      "title": {
+        "en": "Find equation of a parallel line",
+        "zh": "求平行线方程"
+      },
+      "domain": "geometry",
+      "subdomain": "coordinate_geometry",
+      "source_sections": [
+        "3.6"
+      ],
+      "aliases": [],
+      "tags": [
+        "parallel",
+        "equation",
+        "y=mx+c",
+        "same gradient"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0396",
+      "lu_id": "lu.vector_geometry_proof",
+      "node_type": "skill",
+      "title": {
+        "en": "Use vectors to prove geometric properties",
+        "zh": "用向量证明几何性质"
+      },
+      "domain": "geometry",
+      "subdomain": "vectors",
+      "source_sections": [
+        "7.4"
+      ],
+      "aliases": [
+        "vector proof",
+        "parallel vectors",
+        "midpoint vector"
+      ],
+      "tags": [
+        "vector",
+        "proof",
+        "parallel",
+        "midpoint",
+        "ratio"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0397",
+      "lu_id": "lu.relative_frequency",
+      "node_type": "concept",
+      "title": {
+        "en": "Relative frequency as estimate of probability",
+        "zh": "相对频率作为概率估计"
+      },
+      "domain": "statistics",
+      "subdomain": "probability",
+      "source_sections": [
+        "8.2"
+      ],
+      "aliases": [
+        "experimental probability"
+      ],
+      "tags": [
+        "relative frequency",
+        "experimental",
+        "estimate",
+        "probability"
+      ],
+      "merge_note": null
+    },
+    {
+      "kn_id": "kn_0398",
+      "lu_id": "lu.expected_frequency",
+      "node_type": "skill",
+      "title": {
+        "en": "Calculate expected frequency",
+        "zh": "计算期望频率"
+      },
+      "domain": "statistics",
+      "subdomain": "probability",
+      "source_sections": [
+        "8.2"
+      ],
+      "aliases": [],
+      "tags": [
+        "expected",
+        "frequency",
+        "probability",
+        "trials"
+      ],
+      "merge_note": null
+    }
+  ]
+}
