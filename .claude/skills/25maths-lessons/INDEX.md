@@ -4,7 +4,7 @@
 
 ---
 
-## Active Lessons(自动 load 到所有 Claude session · 22 条)
+## Active Lessons(自动 load 到所有 Claude session · 24 条)
 
 ### 🔴 Red-line · 红线类(违即触灵魂宪章 / 信任红线)
 
@@ -27,6 +27,8 @@
 | [LESSON-020](LESSON-020-paper-ui-cleanup-2026-05-01.md) | 🔴 真题 UI 净化 5 类违规 + 多渲染路径纪律 + 数据 shape 双形态 + 全栈 audit SOP · Practice v2.98.0 | 2026-05-01 |
 | [LESSON-021](LESSON-021-paper-data-hygiene-and-multi-claude-coordination.md) | 🔴 真题 KaTeX-fatal 数据卫生 + 多账号协作 11 类坑 · Practice 9 PR 沉淀 | 2026-05-01 |
 | [LESSON-022](LESSON-022-lesson-distribution-pipeline-discipline.md) | 🔴 lesson distribution 5 步 pipeline · 文件存在 ≠ 跨账号 active · audit-lessons-pipeline.sh 自动化防线 · LESSON-013 协作层对偶 | 2026-05-01 |
+| [LESSON-023](LESSON-023-multi-round-audit-discipline.md) | 🔴 多轮审计纪律 R1/R2/R3 · 每轮加 1 维 · 整改 sealed 前必经 ≥ 3 轮 | 2026-05-01 |
+| [LESSON-024](LESSON-024-audit-protocol-vs-intuition-blind-spots.md) | 🔴 协议化 vs 直觉化 5 类盲区 · 三层 TodoList · 收尾强制 5 问 · LESSON-023 元教训层 | 2026-05-01 |
 
 ### 🟡 Workflow · 工作流类(防具体动作出错)
 
@@ -99,4 +101,4 @@
 
 ---
 
-*Last updated: 2026-05-01 · 22 active lessons · 0 archived · LESSON-021 真题数据卫生 + LESSON-022 lesson 分发 pipeline 自检(round 2 audit 补)*
+*Last updated: 2026-05-01 · 24 active lessons · 0 archived · LESSON-022/023/024 R2-R3 audit 补(distribution pipeline + 多轮纪律 + 协议化盲区 三联立法)*
