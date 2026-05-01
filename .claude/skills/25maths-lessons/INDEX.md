@@ -4,7 +4,7 @@
 
 ---
 
-## Active Lessons(自动 load 到所有 Claude session · 20 条)
+## Active Lessons(自动 load 到所有 Claude session · 22 条)
 
 ### 🔴 Red-line · 红线类(违即触灵魂宪章 / 信任红线)
 
@@ -25,6 +25,8 @@
 | [LESSON-018](LESSON-018-atomicity-7-step-method.md) | 元单位拆解 7 步法 · 心法 24-31 · audit→plan→MEU→close→META→query→invariants · 大工程 SOP | 2026-04-29 |
 | [LESSON-019](LESSON-019-ui-consistency-migration-gold-standard.md) | 🔴 UI 一致性 7 条金标准 · DashboardLayoutV2 单一 wrapper + PageGuardState 守门 + flex-wrap 移动端 + 路由限教师红线 · AUDIT § 2 UI 一致性域强化 | 2026-05-01 |
 | [LESSON-020](LESSON-020-paper-ui-cleanup-2026-05-01.md) | 🔴 真题 UI 净化 5 类违规 + 多渲染路径纪律 + 数据 shape 双形态 + 全栈 audit SOP · Practice v2.98.0 | 2026-05-01 |
+| [LESSON-021](LESSON-021-paper-data-hygiene-and-multi-claude-coordination.md) | 🔴 真题 KaTeX-fatal 数据卫生 + 多账号协作 11 类坑 · Practice 9 PR 沉淀 | 2026-05-01 |
+| [LESSON-022](LESSON-022-lesson-distribution-pipeline-discipline.md) | 🔴 lesson distribution 5 步 pipeline · 文件存在 ≠ 跨账号 active · audit-lessons-pipeline.sh 自动化防线 · LESSON-013 协作层对偶 | 2026-05-01 |
 
 ### 🟡 Workflow · 工作流类(防具体动作出错)
 
@@ -97,4 +99,4 @@
 
 ---
 
-*Last updated: 2026-05-01 · 20 active lessons · 0 archived · LESSON-019 UI 一致性 + LESSON-020 真题 UI 净化(姊妹 lesson · 同 2026-05-01 立)*
+*Last updated: 2026-05-01 · 22 active lessons · 0 archived · LESSON-021 真题数据卫生 + LESSON-022 lesson 分发 pipeline 自检(round 2 audit 补)*
