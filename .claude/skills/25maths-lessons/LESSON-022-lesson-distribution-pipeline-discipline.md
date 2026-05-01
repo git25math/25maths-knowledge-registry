@@ -230,3 +230,38 @@ Found 22 in INDEX.md             ← 必相等
 - ADR-0067 跨仓 sync 协议
 - AUDIT_FRAMEWORK § 8 DRY 强约束
 - 同 session 案例:LESSON-019(round 1 漏)+ LESSON-021(round 2 漏)
+
+---
+
+## 七、并行 session 推 import 漏 implementation(2026-05-01 案例)
+
+**症状**:并行 session 在 `ui/year-picker-polish` 分支立 `useCrossBoardTotals` hook + 改 2 页 import · 但只把 2 页改动推 main · `src/lib/papers/totals.ts` 实现留在分支 → main `npx vite build` 报 "Cannot resolve @/lib/papers/totals" → 全站 build broken。
+
+**和本 lesson 主题(lesson distribution)的关联**:
+本质是同类错 — **"我以为已经全栈交付了" 但实际只交付了一半**。lesson 主题是"frontmatter / INDEX / sync / 8 仓 commit 任一步漏 = silent fail";本案例是"分支 import 推 main 但 implementation 留分支 = build fail"。
+
+**修复**:
+- 当场 cherry-pick `ui/year-picker-polish` 的 totals.ts 到 main(commit `6aa03bbe3`)
+
+**新增防线**(本 lesson § 五 8 步流程之外的并行 session 协作纪律):
+
+```bash
+# 任何分支推 main 之前 · 必跑:
+git checkout main
+git pull
+npx vite build       # 必 0 错误
+# 或 check-only(更快):
+git fetch origin main && git diff origin/main --name-only | grep -E '\.(ts|tsx)$' | \
+  while read f; do
+    grep -h "^import.*from '@/" "$f" 2>/dev/null
+  done | sort -u | while read line; do
+    # 验证每个 @/path 真存在
+    p=$(echo "$line" | sed -E "s|.*from '@/([^']+)'.*|src/\1|")
+    [ -f "$p.ts" ] || [ -f "$p.tsx" ] || [ -f "$p/index.ts" ] || echo "MISSING: $p"
+  done
+```
+
+**根因**:并行多 Claude session 各自 push 到不同分支,人工合并时容易漏文件。
+**长期对策**:CI 加 `audit-missing-imports.sh`(已有 · 2026-04-27 立)+ 每个分支 push 前自跑。
+
+事故 commit 链:`f95bfdf5e`(import 推 main 漏 file)→ `6aa03bbe3`(救火补 file)。
