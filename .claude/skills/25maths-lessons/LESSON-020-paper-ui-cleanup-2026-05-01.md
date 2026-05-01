@@ -1,5 +1,5 @@
 ---
-id: LESSON-019
+id: LESSON-020
 title: 真题 UI 净化 5 类 + 多渲染路径纪律 + 全栈数据 shape 一致性
 date: 2026-05-01
 category: workflow + red-line
