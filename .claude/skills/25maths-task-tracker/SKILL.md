@@ -52,6 +52,19 @@ python3 scripts/task-tracker.py release TASK-NNN
 # Marks as stale · allows takeover
 ```
 
+## Cross-repo task model(2026-05-01 更新)
+
+planning v3 主 task 表(TASK-001..148)= 战略级 task。
+L4 仓内 sprint(如 25maths-practice DEV-PLAN steps 1-96+)= **战术 step** · 不在 v3 主表登记 · 但在 SUBPLAN-YYYY-MM-DD-*.md 里成串引用。
+
+最近 SUBPLAN:
+- `SUBPLAN-2026-05-01-NEXT.md` · 8 sprint S-1..S-8(衍生自 Practice v2.98.0 ship)
+
+cross-ref 规则:
+- L4 sprint ≠ v3 TASK · 不要在 v3 TASK 表为每个 step 立行
+- L4 sprint 完成时 · 更新对应 SUBPLAN 状态(✅ / ⏳)
+- L4 sprint 联动 v3 TASK 时 · SUBPLAN 注明 "解锁 TASK-NNN"
+
 ## Cache hit 验证(每 task claim 前自动)
 
 invoke 时:

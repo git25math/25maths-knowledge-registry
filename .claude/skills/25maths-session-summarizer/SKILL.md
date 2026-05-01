@@ -88,6 +88,29 @@ NZH 30 sec review:
 skill 文件提交 git · 任何账号 clone 即得。
 模板 / 触发条件 不依赖 user-specific memory。
 
+## Cache-warm checklist(账号 B 接手必走 · 2026-05-01 加)
+
+账号 A 限额 / 切换前 · 账号 B 接手时 · 让 B 不用从 0 重建心智模型:
+
+```
+1. git pull · git log --oneline -20      → 看最近 commit 主题
+2. cat lessons/INDEX.md                  → 14 active lessons (≤ 100 行)
+3. cat V3_FINAL_CHEATSHEET.md            → 60 秒战略全景
+4. ls SUBPLAN-*.md | tail -1 | xargs cat → 当前活跃 subplan(本次 = SUBPLAN-2026-05-01-NEXT)
+5. cat 最新 SESSION_SUMMARY_*.md          → 上 session 决策点
+6. python3 scripts/task-tracker.py status → 锁状态 + 在跑 task
+7. (跨仓时)读对应 L4 仓 CLAUDE.md + DEV-PLAN.md head 60 行
+```
+
+**铁律**:不要默认 read PROJECT_FUSION_PLAN_V3.md(763 行)· 仅 grep 关键词。Cache 友好顺序 = 短文件先 · 大文件按需。
+
+每个 SESSION_SUMMARY 必含的 hand-off 字段:
+- **Last good commit**: `<sha>` on branch `<name>`
+- **Active subplan**: `SUBPLAN-YYYY-MM-DD-*.md`
+- **Active lesson**: `LESSON-NNN-*` (本 session 衍生)
+- **Cross-repo state**: practice@v?.??.0 / examhub@v?.?? / play@v?.?
+- **Open ports**: 几个 sprint pending · 谁 blocking 谁
+
 ## 与 ADR-0064 escape hatch 配合
 
 NZH 任何时候说"暂停 · 重新审视" → 此 skill 自动调用 + 写完整 PLAN_REALITY_CHECK style 文档(类 5.18 模式)。

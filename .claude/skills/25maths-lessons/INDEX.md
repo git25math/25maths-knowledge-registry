@@ -4,7 +4,7 @@
 
 ---
 
-## Active Lessons(自动 load 到所有 Claude session · 9 条)
+## Active Lessons(自动 load 到所有 Claude session · 20 条)
 
 ### 🔴 Red-line · 红线类(违即触灵魂宪章 / 信任红线)
 
@@ -19,6 +19,12 @@
 | [LESSON-012](LESSON-012-grep-prod-rpc-names-before-deploy.md) | deploy 前必 grep prod RPC 名 · 同名 overload + default 参数 = ambiguity 错 · 默认重命名 v1 | 2026-04-26 |
 | [LESSON-013](LESSON-013-backend-deploy-is-not-user-experience-ship.md) | 🔴 backend deploy ≠ user experience ship · 前端 0 wire = 学生 0 感知 · DoD 6 步 + 第 6 灵魂问"可见性" | 2026-04-26 |
 | [LESSON-014](LESSON-014-wrong-answer-moment-only-three-things.md) | 🔴 错题瞬间 = 3 件事(看答案/为什么错/再来一题)· 教学瞬间 + 推荐 留 session 总结 · 克制原则 | 2026-04-26 |
+| [LESSON-015](LESSON-015-no-overload-five-rules.md) | 🔴 整站不过载 5 铁律 · 情境界面/分角色/push 白名单/纯继续语/双层数据 · 014 整站升级 | 2026-04-26 |
+| [LESSON-016](LESSON-016-hhk-8-module-content-standard.md) | 哈罗课纲 8 模块内容标准(词/学/例/手把手/配套/专题/真题/延伸)· NZH 创作必查 | 2026-04-26 |
+| [LESSON-017](LESSON-017-pre-ship-7-bug-categories.md) | 链路重构 ship 前 7 类 bug 探针 · 数据假设/列写入/返回链/UI重复/HTML/路由/nav覆盖 | 2026-04-27 |
+| [LESSON-018](LESSON-018-atomicity-7-step-method.md) | 元单位拆解 7 步法 · 心法 24-31 · audit→plan→MEU→close→META→query→invariants · 大工程 SOP | 2026-04-29 |
+| [LESSON-019](LESSON-019-ui-consistency-migration-gold-standard.md) | 🔴 UI 一致性 7 条金标准 · DashboardLayoutV2 单一 wrapper + PageGuardState 守门 + flex-wrap 移动端 + 路由限教师红线 · AUDIT § 2 UI 一致性域强化 | 2026-05-01 |
+| [LESSON-020](LESSON-020-paper-ui-cleanup-2026-05-01.md) | 🔴 真题 UI 净化 5 类违规 + 多渲染路径纪律 + 数据 shape 双形态 + 全栈 audit SOP · Practice v2.98.0 | 2026-05-01 |
 
 ### 🟡 Workflow · 工作流类(防具体动作出错)
 
@@ -91,4 +97,4 @@
 
 ---
 
-*Last updated: 2026-04-26 · 9 active lessons · 0 archived · 防重复治理铁三角立成(007/008/009)*
+*Last updated: 2026-05-01 · 20 active lessons · 0 archived · LESSON-019 UI 一致性 + LESSON-020 真题 UI 净化(姊妹 lesson · 同 2026-05-01 立)*
