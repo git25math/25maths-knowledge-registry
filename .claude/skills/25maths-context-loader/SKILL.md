@@ -1,6 +1,6 @@
 ---
 name: 25maths-context-loader
-description: Auto-load 25Maths essential context (V3_FINAL_CHEATSHEET + 13 red lines + 5 soul questions + 5 lessons) in cache-friendly order on session start. Cross-account portable (repo-committed). Invoke `/25maths-context-loader` to refresh manually.
+description: Auto-load 25Maths essential context (V3_FINAL_CHEATSHEET + 13 red lines + 5 soul questions + 24 lessons index + SUBPLAN truth source) in cache-friendly order on session start. Cross-account portable (repo-committed). Invoke `/25maths-context-loader` to refresh manually.
 ---
 
 # 25Maths Context Loader
@@ -40,7 +40,7 @@ Exit-Beta 后:**独立教师工作台 SaaS** 商业化(ADR-0060 · 学生家长�
 - `V3_FINAL_CHEATSHEET.md` · 60 秒可读
 - `PROJECT_FUSION_PLAN_V3.md` · 66 ADR + 130 TASK 全表
 - `lessons/INDEX.md` · 14 active lessons(同步在 `.claude/skills/25maths-lessons/`)
-- **2026-05-01 最新**:`SUBPLAN-2026-05-01-NEXT.md` + `lessons/LESSON-2026-05-01-paper-ui-cleanup.md`(Practice v2.98.0 后 8 sprint + UI 净化金标准)
+- **2026-05-01 最新**:`SUBPLAN-2026-05-01-NEXT.md`(8 sprint S-1~S-8)+ `lessons/INDEX.md`(24 lessons · LESSON-020 真题 UI 净化金标准 · LESSON-023 多轮审计纪律)· Practice v3.0.0
 
 ### Plan 真相源(skill §14-§16 · 3 层 cache 优化)
 
