@@ -29,6 +29,10 @@
 | [LESSON-022](LESSON-022-lesson-distribution-pipeline-discipline.md) | 🔴 lesson distribution 5 步 pipeline · 文件存在 ≠ 跨账号 active · audit-lessons-pipeline.sh 自动化防线 · LESSON-013 协作层对偶 | 2026-05-01 |
 | [LESSON-023](LESSON-023-multi-round-audit-discipline.md) | 🔴 多轮审计纪律 R1/R2/R3 · 每轮加 1 维 · 整改 sealed 前必经 ≥ 3 轮 | 2026-05-01 |
 | [LESSON-024](LESSON-024-audit-protocol-vs-intuition-blind-spots.md) | 🔴 协议化 vs 直觉化 5 类盲区 · 三层 TodoList · 收尾强制 5 问 · LESSON-023 元教训层 | 2026-05-01 |
+| [LESSON-025](LESSON-025-latex-rendering-acceptance-standard.md) | 🔴 LaTeX 渲染 5 类盲区 + 7 步全栈验收 SOP · 用户报 1 处 → grep 自查清同类 · latex.ts 5 commits 沉淀 | 2026-05-02 |
+| [LESSON-026](LESSON-026-atomic-exam-database-doctrine.md) | 🔴 真题数据库原子化 5 教义 · 真题驱动 + 原生编号 + part-level + 灵魂 + 启发式 backfill · v35 6 天 ship 沉淀 | 2026-05-03 |
+| [LESSON-027](LESSON-027-supabase-column-name-verification.md) | 🔴 Supabase 列名以 prod migration 为准 · 错列 → 400 + 11s click hang + auth lock steal · LESSON-010 前端域 | 2026-05-03 |
+| [LESSON-028](LESSON-028-runtime-override-architecture.md) | 🔴 运行时覆盖层 + 单源派生架构 · HNZK 云端编辑闭环 + local/supabase/realtime 三层同步 | 2026-05-03 |
 
 ### 🟡 Workflow · 工作流类(防具体动作出错)
 
@@ -101,4 +105,4 @@
 
 ---
 
-*Last updated: 2026-05-01 · 24 active lessons · 0 archived · LESSON-022/023/024 R2-R3 audit 补(distribution pipeline + 多轮纪律 + 协议化盲区 三联立法)*
+*Last updated: 2026-05-03 · 28 active lessons · 0 archived · LESSON-027/028 编号冲突修复。*
